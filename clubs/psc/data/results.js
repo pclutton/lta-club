@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-01T10:01:33.173Z",
+  "generatedAt": "2026-07-02T09:24:13.438Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -20,19 +20,19 @@ window.__RESULTS__ = {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-07-01"
+        "asOf": "2026-07-02"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-07-01"
+        "asOf": "2026-07-02"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-07-01"
+        "asOf": "2026-07-02"
       }
     ]
   },
@@ -41,8 +41,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-07-01",
-      "asOf": "2026-07-01",
+      "lastSeen": "2026-07-02",
+      "asOf": "2026-07-02",
       "stale": false,
       "teams": [
         {
@@ -1061,8 +1061,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-07-01",
-      "asOf": "2026-07-01",
+      "lastSeen": "2026-07-02",
+      "asOf": "2026-07-02",
       "stale": false,
       "teams": [
         {
@@ -2859,6 +2859,22 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Pinner Lawn Tennis Club 1",
+              "played": 5,
+              "won": 3,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "72-48",
+              "points": 72,
+              "form": [
+                "W",
+                "W",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "The Hurlingham Club 1",
               "played": 4,
               "won": 3,
@@ -2874,22 +2890,24 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
-              "name": "Pinner Lawn Tennis Club 1",
-              "played": 4,
+              "rank": 3,
+              "name": "Teddington Lawn Tennis Club 2",
+              "played": 5,
               "won": 2,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "56-40",
-              "points": 56,
+              "drawn": 0,
+              "lost": 3,
+              "rubbers": "62-58",
+              "points": 62,
               "form": [
+                "L",
                 "W",
                 "W",
+                "L",
                 "L"
               ]
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "Wayfarers LTC 1",
               "played": 4,
               "won": 2,
@@ -2905,7 +2923,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
               "name": "Virgin Active Chiswick Riverside 1",
               "played": 4,
               "won": 2,
@@ -2917,22 +2935,6 @@ window.__RESULTS__ = {
                 "L",
                 "W",
                 "W"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "Teddington Lawn Tennis Club 2",
-              "played": 4,
-              "won": 2,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "54-42",
-              "points": 54,
-              "form": [
-                "L",
-                "W",
-                "W",
-                "L"
               ]
             },
             {
@@ -3100,8 +3102,8 @@ window.__RESULTS__ = {
             {
               "home": "Teddington Lawn Tennis Club 2",
               "away": "Pinner Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 16,
               "date": "Mon 29/06/2026"
             },
             {
@@ -4424,8 +4426,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-07-01",
-      "asOf": "2026-07-01",
+      "lastSeen": "2026-07-02",
+      "asOf": "2026-07-02",
       "stale": false,
       "teams": [],
       "knockouts": [

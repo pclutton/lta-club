@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-01T10:00:06.844Z",
+  "generatedAt": "2026-07-02T09:22:44.338Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -20,25 +20,25 @@ window.__RESULTS__ = {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-07-01"
+        "asOf": "2026-07-02"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-07-01"
+        "asOf": "2026-07-02"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-07-01"
+        "asOf": "2026-07-02"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-07-01"
+        "asOf": "2026-07-02"
       }
     ]
   },
@@ -47,8 +47,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-07-01",
-      "asOf": "2026-07-01",
+      "lastSeen": "2026-07-02",
+      "asOf": "2026-07-02",
       "stale": false,
       "teams": [
         {
@@ -783,13 +783,14 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "The Queens Club Limited 2",
-              "played": 4,
-              "won": 4,
+              "played": 5,
+              "won": 5,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "36-12",
-              "points": 8,
+              "rubbers": "46-14",
+              "points": 10,
               "form": [
+                "W",
                 "W",
                 "W",
                 "W",
@@ -863,13 +864,14 @@ window.__RESULTS__ = {
             {
               "rank": 6,
               "name": "Hackney Tennis 2",
-              "played": 4,
+              "played": 5,
               "won": 0,
               "drawn": 0,
-              "lost": 4,
-              "rubbers": "0-48",
+              "lost": 5,
+              "rubbers": "2-58",
               "points": 0,
               "form": [
+                "L",
                 "L",
                 "L",
                 "L",
@@ -979,8 +981,8 @@ window.__RESULTS__ = {
             {
               "home": "Hackney Tennis 2",
               "away": "The Queens Club Limited 2",
-              "hs": null,
-              "as": null,
+              "hs": 2,
+              "as": 10,
               "date": "Sun 28/06/2026"
             }
           ],
@@ -2653,8 +2655,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-07-01",
-      "asOf": "2026-07-01",
+      "lastSeen": "2026-07-02",
+      "asOf": "2026-07-02",
       "stale": false,
       "teams": [
         {
@@ -2698,8 +2700,8 @@ window.__RESULTS__ = {
               "won": 2,
               "drawn": 1,
               "lost": 2,
-              "rubbers": "56-60",
-              "points": 56,
+              "rubbers": "60-60",
+              "points": 60,
               "form": [
                 "L",
                 "L",
@@ -2709,6 +2711,21 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Vicars Moor 1",
+              "played": 4,
+              "won": 2,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "56-40",
+              "points": 56,
+              "form": [
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Chandos 1",
               "played": 4,
               "won": 2,
@@ -2721,21 +2738,6 @@ window.__RESULTS__ = {
                 "W",
                 "L",
                 "L"
-              ]
-            },
-            {
-              "rank": 4,
-              "name": "Vicars Moor 1",
-              "played": 3,
-              "won": 2,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "44-28",
-              "points": 44,
-              "form": [
-                "L",
-                "W",
-                "W"
               ]
             },
             {
@@ -2756,12 +2758,12 @@ window.__RESULTS__ = {
             {
               "rank": 6,
               "name": "Hazelwood 1",
-              "played": 3,
+              "played": 4,
               "won": 2,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 1,
-              "rubbers": "32-40",
-              "points": 32,
+              "rubbers": "44-52",
+              "points": 44,
               "form": [
                 "W",
                 "L",
@@ -2791,7 +2793,7 @@ window.__RESULTS__ = {
               "won": 1,
               "drawn": 0,
               "lost": 2,
-              "rubbers": "25-43",
+              "rubbers": "25-47",
               "points": 25,
               "form": [
                 "W",
@@ -2916,14 +2918,14 @@ window.__RESULTS__ = {
             {
               "home": "Vicars Moor 1",
               "away": "Hazelwood 1",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 12,
               "date": "Fri 26/06/2026"
             },
             {
               "home": "Cumberland 2",
               "away": "Coles Green 1",
-              "hs": 16,
+              "hs": 20,
               "as": 4,
               "date": "Tue 30/06/2026"
             },
@@ -3073,7 +3075,7 @@ window.__RESULTS__ = {
           "played": 5,
           "won": 2,
           "lost": 2,
-          "points": 56,
+          "points": 60,
           "form": [
             "L",
             "L",
@@ -3104,8 +3106,8 @@ window.__RESULTS__ = {
               "won": 2,
               "drawn": 1,
               "lost": 2,
-              "rubbers": "56-60",
-              "points": 56,
+              "rubbers": "60-60",
+              "points": 60,
               "form": [
                 "L",
                 "L",
@@ -3115,6 +3117,21 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Vicars Moor 1",
+              "played": 4,
+              "won": 2,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "56-40",
+              "points": 56,
+              "form": [
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Chandos 1",
               "played": 4,
               "won": 2,
@@ -3127,21 +3144,6 @@ window.__RESULTS__ = {
                 "W",
                 "L",
                 "L"
-              ]
-            },
-            {
-              "rank": 4,
-              "name": "Vicars Moor 1",
-              "played": 3,
-              "won": 2,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "44-28",
-              "points": 44,
-              "form": [
-                "L",
-                "W",
-                "W"
               ]
             },
             {
@@ -3162,12 +3164,12 @@ window.__RESULTS__ = {
             {
               "rank": 6,
               "name": "Hazelwood 1",
-              "played": 3,
+              "played": 4,
               "won": 2,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 1,
-              "rubbers": "32-40",
-              "points": 32,
+              "rubbers": "44-52",
+              "points": 44,
               "form": [
                 "W",
                 "L",
@@ -3197,7 +3199,7 @@ window.__RESULTS__ = {
               "won": 1,
               "drawn": 0,
               "lost": 2,
-              "rubbers": "25-43",
+              "rubbers": "25-47",
               "points": 25,
               "form": [
                 "W",
@@ -3322,14 +3324,14 @@ window.__RESULTS__ = {
             {
               "home": "Vicars Moor 1",
               "away": "Hazelwood 1",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 12,
               "date": "Fri 26/06/2026"
             },
             {
               "home": "Cumberland 2",
               "away": "Coles Green 1",
-              "hs": 16,
+              "hs": 20,
               "as": 4,
               "date": "Tue 30/06/2026"
             },
@@ -5984,8 +5986,8 @@ window.__RESULTS__ = {
               "won": 3,
               "drawn": 0,
               "lost": 2,
-              "rubbers": "69-47",
-              "points": 69,
+              "rubbers": "72-48",
+              "points": 72,
               "form": [
                 "W",
                 "L",
@@ -6075,8 +6077,8 @@ window.__RESULTS__ = {
               "won": 0,
               "drawn": 0,
               "lost": 4,
-              "rubbers": "16-76",
-              "points": 16,
+              "rubbers": "17-79",
+              "points": 17,
               "form": [
                 "L",
                 "L",
@@ -6195,8 +6197,8 @@ window.__RESULTS__ = {
             {
               "home": "Finchley 1",
               "away": "Temple Fortune 2",
-              "hs": 16,
-              "as": 4,
+              "hs": 19,
+              "as": 5,
               "date": "Thu 25/06/2026"
             },
             {
@@ -6381,8 +6383,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "current",
-      "lastSeen": "2026-07-01",
-      "asOf": "2026-07-01",
+      "lastSeen": "2026-07-02",
+      "asOf": "2026-07-02",
       "stale": false,
       "teams": [
         {
@@ -6823,8 +6825,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-07-01",
-      "asOf": "2026-07-01",
+      "lastSeen": "2026-07-02",
+      "asOf": "2026-07-02",
       "stale": false,
       "teams": [],
       "knockouts": [
