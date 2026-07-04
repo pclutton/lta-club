@@ -2,31 +2,31 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-03T09:29:58.179Z",
+  "generatedAt": "2026-07-04T07:58:10.595Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "matches": 275,
-      "players": 104,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-07-03"
+        "asOf": "2026-07-04"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-07-03"
+        "asOf": "2026-07-04"
       },
       {
         "id": "knockouts",
@@ -41,8 +41,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-07-03",
-      "asOf": "2026-07-03",
+      "lastSeen": "2026-07-04",
+      "asOf": "2026-07-04",
       "stale": false,
       "teams": [
         {
@@ -1061,8 +1061,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-07-03",
-      "asOf": "2026-07-03",
+      "lastSeen": "2026-07-04",
+      "asOf": "2026-07-04",
       "stale": false,
       "teams": [
         {
@@ -1072,17 +1072,33 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/8",
           "position": 8,
           "of": 8,
-          "played": 3,
+          "played": 4,
           "won": 0,
-          "lost": 2,
-          "points": 26,
+          "lost": 3,
+          "points": 30,
           "form": [
+            "L",
             "L",
             "L"
           ],
           "standings": [
             {
               "rank": 1,
+              "name": "David Lloyd Club Acton Park 1",
+              "played": 5,
+              "won": 2,
+              "drawn": 2,
+              "lost": 1,
+              "rubbers": "66-50",
+              "points": 66,
+              "form": [
+                "W",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Campden Hill Lawn Tennis Club 4",
               "played": 4,
               "won": 3,
@@ -1098,7 +1114,23 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
+              "rank": 3,
+              "name": "Eastcote Lawn Tennis Club 1",
+              "played": 5,
+              "won": 1,
+              "drawn": 1,
+              "lost": 3,
+              "rubbers": "58-62",
+              "points": 58,
+              "form": [
+                "W",
+                "L",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Ealing Lawn Tennis Club 2",
               "played": 5,
               "won": 0,
@@ -1112,7 +1144,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
+              "rank": 5,
               "name": "Campden Hill Lawn Tennis Club 3",
               "played": 4,
               "won": 3,
@@ -1128,7 +1160,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 6,
               "name": "West Middlesex Lawn Tennis Club Ltd 1",
               "played": 4,
               "won": 3,
@@ -1143,60 +1175,33 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
-              "name": "David Lloyd Club Acton Park 1",
-              "played": 4,
-              "won": 1,
-              "drawn": 2,
-              "lost": 1,
-              "rubbers": "50-42",
-              "points": 50,
-              "form": [
-                "W",
-                "L"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "Eastcote Lawn Tennis Club 1",
-              "played": 4,
-              "won": 1,
-              "drawn": 1,
-              "lost": 2,
-              "rubbers": "50-46",
-              "points": 50,
-              "form": [
-                "W",
-                "L",
-                "L"
-              ]
-            },
-            {
               "rank": 7,
               "name": "Teddington Lawn Tennis Club 2",
-              "played": 4,
-              "won": 1,
+              "played": 5,
+              "won": 2,
               "drawn": 0,
               "lost": 3,
-              "rubbers": "30-66",
-              "points": 30,
+              "rubbers": "50-70",
+              "points": 50,
               "form": [
                 "L",
                 "L",
                 "L",
+                "W",
                 "W"
               ]
             },
             {
               "rank": 8,
               "name": "Paddington Sports Club 1",
-              "played": 3,
+              "played": 4,
               "won": 0,
               "drawn": 1,
-              "lost": 2,
-              "rubbers": "26-46",
-              "points": 26,
+              "lost": 3,
+              "rubbers": "30-66",
+              "points": 30,
               "form": [
+                "L",
                 "L",
                 "L"
               ]
@@ -1325,15 +1330,15 @@ window.__RESULTS__ = {
             {
               "home": "Teddington Lawn Tennis Club 2",
               "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 20,
+              "as": 4,
               "date": "Fri 03/07/2026"
             },
             {
               "home": "David Lloyd Club Acton Park 1",
               "away": "Eastcote Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 8,
               "date": "Fri 03/07/2026"
             },
             {
@@ -4107,6 +4112,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Ealing Lawn Tennis Club 4",
+              "played": 5,
+              "won": 3,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "56-64",
+              "points": 56,
+              "form": [
+                "W",
+                "L",
+                "W",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Old Actonians Association Tennis Club 1",
               "played": 4,
               "won": 2,
@@ -4121,7 +4143,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
               "name": "The Lensbury Club 2",
               "played": 4,
               "won": 2,
@@ -4137,7 +4159,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Hartswood Lawn Tennis Club Ltd 2",
               "played": 4,
               "won": 2,
@@ -4153,23 +4175,23 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 6,
-              "name": "Ealing Lawn Tennis Club 4",
+              "rank": 7,
+              "name": "The Hurlingham Club 3",
               "played": 4,
-              "won": 2,
+              "won": 0,
               "drawn": 0,
-              "lost": 2,
-              "rubbers": "40-56",
-              "points": 40,
+              "lost": 4,
+              "rubbers": "30-66",
+              "points": 30,
               "form": [
-                "W",
                 "L",
-                "W",
+                "L",
+                "L",
                 "L"
               ]
             },
             {
-              "rank": 7,
+              "rank": 8,
               "name": "David Lloyd Club Hampton 1",
               "played": 3,
               "won": 0,
@@ -4178,21 +4200,6 @@ window.__RESULTS__ = {
               "rubbers": "24-48",
               "points": 24,
               "form": [
-                "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 8,
-              "name": "The Hurlingham Club 3",
-              "played": 3,
-              "won": 0,
-              "drawn": 0,
-              "lost": 3,
-              "rubbers": "22-50",
-              "points": 22,
-              "form": [
-                "L",
                 "L",
                 "L"
               ]
@@ -4314,8 +4321,8 @@ window.__RESULTS__ = {
             {
               "home": "Ealing Lawn Tennis Club 4",
               "away": "The Hurlingham Club 3",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 8,
               "date": "Fri 03/07/2026"
             },
             {
