@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-04T07:57:37.525Z",
+  "generatedAt": "2026-07-04T08:46:10.746Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 20,
-      "refreshed": 20,
-      "failed": 0
+      "matches": 418,
+      "players": 152,
+      "stale": 0
     },
     "competitions": [
       {
@@ -38,7 +38,7 @@ window.__RESULTS__ = {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-07-03"
+        "asOf": "2026-07-04"
       }
     ]
   },
@@ -3913,6 +3913,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
+              "name": "West Heath Lawn Tennis Club Limited 1",
+              "played": 4,
+              "won": 3,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "66-30",
+              "points": 66,
+              "form": [
+                "W",
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Chandos Lawn Tennis Club 2",
               "played": 4,
               "won": 4,
@@ -3928,7 +3944,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Elmwood Lawn Tennis Club 1",
               "played": 6,
               "won": 1,
@@ -3945,32 +3961,18 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 6,
-              "name": "West Heath Lawn Tennis Club Limited 1",
-              "played": 3,
-              "won": 2,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "48-24",
-              "points": 48,
-              "form": [
-                "W",
-                "L",
-                "W"
-              ]
-            },
-            {
               "rank": 7,
               "name": "Totteridge Tennis Club 1",
-              "played": 4,
+              "played": 5,
               "won": 1,
               "drawn": 1,
-              "lost": 2,
-              "rubbers": "40-56",
-              "points": 40,
+              "lost": 3,
+              "rubbers": "46-74",
+              "points": 46,
               "form": [
                 "L",
                 "W",
+                "L",
                 "L"
               ]
             },
@@ -4179,8 +4181,8 @@ window.__RESULTS__ = {
             {
               "home": "West Heath Lawn Tennis Club Limited 1",
               "away": "Totteridge Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 18,
+              "as": 6,
               "date": "Fri 03/07/2026"
             },
             {
@@ -4428,6 +4430,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
+              "name": "West Heath Lawn Tennis Club Limited 1",
+              "played": 4,
+              "won": 3,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "66-30",
+              "points": 66,
+              "form": [
+                "W",
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Chandos Lawn Tennis Club 2",
               "played": 4,
               "won": 4,
@@ -4443,7 +4461,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Elmwood Lawn Tennis Club 1",
               "played": 6,
               "won": 1,
@@ -4460,32 +4478,18 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 6,
-              "name": "West Heath Lawn Tennis Club Limited 1",
-              "played": 3,
-              "won": 2,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "48-24",
-              "points": 48,
-              "form": [
-                "W",
-                "L",
-                "W"
-              ]
-            },
-            {
               "rank": 7,
               "name": "Totteridge Tennis Club 1",
-              "played": 4,
+              "played": 5,
               "won": 1,
               "drawn": 1,
-              "lost": 2,
-              "rubbers": "40-56",
-              "points": 40,
+              "lost": 3,
+              "rubbers": "46-74",
+              "points": 46,
               "form": [
                 "L",
                 "W",
+                "L",
                 "L"
               ]
             },
@@ -4694,8 +4698,8 @@ window.__RESULTS__ = {
             {
               "home": "West Heath Lawn Tennis Club Limited 1",
               "away": "Totteridge Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 18,
+              "as": 6,
               "date": "Fri 03/07/2026"
             },
             {
@@ -5551,9 +5555,21 @@ window.__RESULTS__ = {
           "players": [
             {
               "name": "Yasmin Knowles",
-              "won": 4,
+              "won": 7,
               "lost": 3,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1900"
+            },
+            {
+              "name": "Megan Wilson",
+              "won": 5,
+              "lost": 1,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1512"
+            },
+            {
+              "name": "Natalie Bell",
+              "won": 3,
+              "lost": 6,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2446"
             },
             {
               "name": "Celine Ricaud",
@@ -5562,28 +5578,28 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5475"
             },
             {
-              "name": "Megan Wilson",
+              "name": "Yahvi Khimasia",
               "won": 2,
               "lost": 1,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1512"
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5699"
             },
             {
-              "name": "Natalie Bell",
+              "name": "Eléonore Wauthier",
               "won": 2,
               "lost": 4,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2446"
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5476"
+            },
+            {
+              "name": "Andra Marinescu",
+              "won": 2,
+              "lost": 6,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5207"
             },
             {
               "name": "Susannah Dart",
               "won": 1,
               "lost": 2,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1899"
-            },
-            {
-              "name": "Andra Marinescu",
-              "won": 1,
-              "lost": 4,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5207"
             },
             {
               "name": "Romilly Smith",
@@ -5596,12 +5612,6 @@ window.__RESULTS__ = {
               "won": 1,
               "lost": 7,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4430"
-            },
-            {
-              "name": "Eléonore Wauthier",
-              "won": 0,
-              "lost": 3,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5476"
             }
           ]
         },
@@ -6853,8 +6863,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-07-03",
-      "asOf": "2026-07-03",
+      "lastSeen": "2026-07-04",
+      "asOf": "2026-07-04",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -6918,6 +6928,20 @@ window.__RESULTS__ = {
       "played": 12
     },
     {
+      "name": "Yasmin Knowles",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1900",
+      "won": 11,
+      "lost": 4,
+      "played": 15
+    },
+    {
+      "name": "Natalie Bell",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2446",
+      "won": 11,
+      "lost": 8,
+      "played": 19
+    },
+    {
       "name": "Bill Jennings",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2088",
       "won": 11,
@@ -6930,13 +6954,6 @@ window.__RESULTS__ = {
       "won": 10,
       "lost": 4,
       "played": 14
-    },
-    {
-      "name": "Natalie Bell",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2446",
-      "won": 10,
-      "lost": 6,
-      "played": 16
     },
     {
       "name": "Tom Winters",
@@ -6988,13 +7005,6 @@ window.__RESULTS__ = {
       "played": 9
     },
     {
-      "name": "Yasmin Knowles",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1900",
-      "won": 8,
-      "lost": 4,
-      "played": 12
-    },
-    {
       "name": "Romain Tourenne",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1839",
       "won": 7,
@@ -7011,6 +7021,13 @@ window.__RESULTS__ = {
     {
       "name": "Logan Boyd",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/515",
+      "won": 7,
+      "lost": 4,
+      "played": 11
+    },
+    {
+      "name": "Megan Wilson",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1512",
       "won": 7,
       "lost": 4,
       "played": 11
@@ -7107,6 +7124,13 @@ window.__RESULTS__ = {
       "played": 10
     },
     {
+      "name": "Andra Marinescu",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5207",
+      "won": 6,
+      "lost": 6,
+      "played": 12
+    },
+    {
       "name": "Jack Long-Martinez",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3548",
       "won": 6,
@@ -7189,13 +7213,6 @@ window.__RESULTS__ = {
       "won": 5,
       "lost": 3,
       "played": 8
-    },
-    {
-      "name": "Andra Marinescu",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5207",
-      "won": 5,
-      "lost": 4,
-      "played": 9
     },
     {
       "name": "Mariya Kononenko",
@@ -7294,13 +7311,6 @@ window.__RESULTS__ = {
       "won": 4,
       "lost": 2,
       "played": 6
-    },
-    {
-      "name": "Megan Wilson",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1512",
-      "won": 4,
-      "lost": 4,
-      "played": 8
     },
     {
       "name": "Sara Nabi",
@@ -7457,6 +7467,13 @@ window.__RESULTS__ = {
       "played": 9
     },
     {
+      "name": "Eléonore Wauthier",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5476",
+      "won": 3,
+      "lost": 7,
+      "played": 10
+    },
+    {
       "name": "Amelie Wijkander",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1666",
       "won": 2,
@@ -7604,6 +7621,13 @@ window.__RESULTS__ = {
       "played": 6
     },
     {
+      "name": "Yahvi Khimasia",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5699",
+      "won": 2,
+      "lost": 4,
+      "played": 6
+    },
+    {
       "name": "Cybele Cortina",
       "url": "https://competitions.lta.org.uk/league/3057a6b7-c664-4833-a537-3321aadcba44/player/375",
       "won": 2,
@@ -7735,13 +7759,6 @@ window.__RESULTS__ = {
       "won": 1,
       "lost": 5,
       "played": 6
-    },
-    {
-      "name": "Eléonore Wauthier",
-      "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/769",
-      "won": 1,
-      "lost": 6,
-      "played": 7
     },
     {
       "name": "Christopher Cole",
@@ -7900,13 +7917,6 @@ window.__RESULTS__ = {
     {
       "name": "Thibaut Meunier",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3542",
-      "won": 0,
-      "lost": 3,
-      "played": 3
-    },
-    {
-      "name": "Yahvi Khimasia",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5699",
       "won": 0,
       "lost": 3,
       "played": 3

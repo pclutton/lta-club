@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-04T07:58:10.595Z",
+  "generatedAt": "2026-07-04T08:47:38.209Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 275,
+      "players": 105,
+      "stale": 0
     },
     "competitions": [
       {
@@ -32,7 +32,7 @@ window.__RESULTS__ = {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-07-03"
+        "asOf": "2026-07-04"
       }
     ]
   },
@@ -1409,22 +1409,28 @@ window.__RESULTS__ = {
           "fixtures": [],
           "players": [
             {
+              "name": "Isaac Havu",
+              "won": 6,
+              "lost": 6,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2406"
+            },
+            {
               "name": "Yannick Tandy",
               "won": 4,
               "lost": 4,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/616"
             },
             {
-              "name": "Isaac Havu",
-              "won": 4,
-              "lost": 5,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2406"
-            },
-            {
               "name": "Arun Ranganathan",
               "won": 3,
               "lost": 3,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2418"
+            },
+            {
+              "name": "David Kane",
+              "won": 3,
+              "lost": 3,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2405"
             },
             {
               "name": "Vasileios Ventouris",
@@ -1437,12 +1443,6 @@ window.__RESULTS__ = {
               "won": 1,
               "lost": 2,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4702"
-            },
-            {
-              "name": "David Kane",
-              "won": 1,
-              "lost": 2,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2405"
             },
             {
               "name": "Paul Kassar",
@@ -1459,7 +1459,7 @@ window.__RESULTS__ = {
             {
               "name": "Ben Wareing",
               "won": 1,
-              "lost": 5,
+              "lost": 8,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2407"
             },
             {
@@ -1475,10 +1475,22 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4358"
             },
             {
+              "name": "Harry Naden-Caldwell",
+              "won": 0,
+              "lost": 3,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5771"
+            },
+            {
               "name": "Murat Varol",
               "won": 0,
               "lost": 3,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4701"
+            },
+            {
+              "name": "Niall Paterson",
+              "won": 0,
+              "lost": 3,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/614"
             }
           ],
           "displayName": "Mens Team 1",
@@ -4464,8 +4476,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-07-03",
-      "asOf": "2026-07-03",
+      "lastSeen": "2026-07-04",
+      "asOf": "2026-07-04",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -4520,6 +4532,13 @@ window.__RESULTS__ = {
       "won": 9,
       "lost": 5,
       "played": 14
+    },
+    {
+      "name": "Isaac Havu",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2406",
+      "won": 9,
+      "lost": 6,
+      "played": 15
     },
     {
       "name": "Julie Zysman",
@@ -4578,13 +4597,6 @@ window.__RESULTS__ = {
       "played": 12
     },
     {
-      "name": "Isaac Havu",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2406",
-      "won": 7,
-      "lost": 5,
-      "played": 12
-    },
-    {
       "name": "Sushant Mehta",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/612",
       "won": 7,
@@ -4625,6 +4637,13 @@ window.__RESULTS__ = {
       "won": 6,
       "lost": 2,
       "played": 8
+    },
+    {
+      "name": "David Kane",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2405",
+      "won": 6,
+      "lost": 3,
+      "played": 9
     },
     {
       "name": "Benjamin Carreau",
@@ -4669,13 +4688,6 @@ window.__RESULTS__ = {
       "played": 9
     },
     {
-      "name": "Niall Paterson",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/614",
-      "won": 5,
-      "lost": 4,
-      "played": 9
-    },
-    {
       "name": "James Notaras",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/982",
       "won": 5,
@@ -4685,6 +4697,13 @@ window.__RESULTS__ = {
     {
       "name": "Adam Chidell",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3742",
+      "won": 5,
+      "lost": 7,
+      "played": 12
+    },
+    {
+      "name": "Niall Paterson",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/614",
       "won": 5,
       "lost": 7,
       "played": 12
@@ -4713,13 +4732,6 @@ window.__RESULTS__ = {
     {
       "name": "Charlie Jenshoj",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1566",
-      "won": 4,
-      "lost": 2,
-      "played": 6
-    },
-    {
-      "name": "David Kane",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2405",
       "won": 4,
       "lost": 2,
       "played": 6
@@ -5110,13 +5122,6 @@ window.__RESULTS__ = {
       "played": 5
     },
     {
-      "name": "Ben Wareing",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2407",
-      "won": 1,
-      "lost": 5,
-      "played": 6
-    },
-    {
       "name": "Flora King",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1850",
       "won": 1,
@@ -5136,6 +5141,13 @@ window.__RESULTS__ = {
       "won": 1,
       "lost": 6,
       "played": 7
+    },
+    {
+      "name": "Ben Wareing",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2407",
+      "won": 1,
+      "lost": 8,
+      "played": 9
     },
     {
       "name": "Zoe de Beco",
@@ -5175,6 +5187,13 @@ window.__RESULTS__ = {
     {
       "name": "Guillaume Jammes",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4358",
+      "won": 0,
+      "lost": 3,
+      "played": 3
+    },
+    {
+      "name": "Harry Naden-Caldwell",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5771",
       "won": 0,
       "lost": 3,
       "played": 3
