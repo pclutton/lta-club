@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-04T08:47:38.209Z",
+  "generatedAt": "2026-07-04T13:42:07.291Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "matches": 275,
-      "players": 105,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
@@ -3758,12 +3758,12 @@ window.__RESULTS__ = {
           "division": "North West Division 2",
           "pscName": "Paddington Sports Club 4",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/34",
-          "position": 7,
+          "position": 6,
           "of": 7,
-          "played": 2,
+          "played": 3,
           "won": 0,
           "lost": 1,
-          "points": 20,
+          "points": 32,
           "form": [
             "L"
           ],
@@ -3799,6 +3799,21 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "David Lloyd Club Sudbury Hill 1",
+              "played": 4,
+              "won": 1,
+              "drawn": 1,
+              "lost": 2,
+              "rubbers": "42-54",
+              "points": 42,
+              "form": [
+                "W",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Kenton Lawn Tennis Club 1",
               "played": 3,
               "won": 2,
@@ -3813,7 +3828,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
               "name": "Eastcote Lawn Tennis Club 2",
               "played": 4,
               "won": 1,
@@ -3829,22 +3844,20 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
-              "name": "David Lloyd Club Sudbury Hill 1",
+              "rank": 6,
+              "name": "Paddington Sports Club 4",
               "played": 3,
-              "won": 1,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "30-42",
-              "points": 30,
+              "won": 0,
+              "drawn": 2,
+              "lost": 1,
+              "rubbers": "32-40",
+              "points": 32,
               "form": [
-                "W",
-                "L",
                 "L"
               ]
             },
             {
-              "rank": 6,
+              "rank": 7,
               "name": "Lowlands Club 2",
               "played": 2,
               "won": 1,
@@ -3855,19 +3868,6 @@ window.__RESULTS__ = {
               "form": [
                 "L",
                 "W"
-              ]
-            },
-            {
-              "rank": 7,
-              "name": "Paddington Sports Club 4",
-              "played": 2,
-              "won": 0,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "20-28",
-              "points": 20,
-              "form": [
-                "L"
               ]
             }
           ],
@@ -3973,8 +3973,8 @@ window.__RESULTS__ = {
             {
               "home": "David Lloyd Club Sudbury Hill 1",
               "away": "Paddington Sports Club 4",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 12,
               "date": "Fri 17/07/2026"
             },
             {
@@ -4109,6 +4109,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Hartswood Lawn Tennis Club Ltd 2",
+              "played": 5,
+              "won": 3,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "61-59",
+              "points": 61,
+              "form": [
+                "L",
+                "L",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "Thistleworth LTC 1",
               "played": 4,
               "won": 2,
@@ -4123,7 +4140,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "Ealing Lawn Tennis Club 4",
               "played": 5,
               "won": 3,
@@ -4140,7 +4157,24 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
+              "name": "The Lensbury Club 2",
+              "played": 5,
+              "won": 2,
+              "drawn": 0,
+              "lost": 3,
+              "rubbers": "55-65",
+              "points": 55,
+              "form": [
+                "L",
+                "W",
+                "L",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 6,
               "name": "Old Actonians Association Tennis Club 1",
               "played": 4,
               "won": 2,
@@ -4152,38 +4186,6 @@ window.__RESULTS__ = {
                 "W",
                 "W",
                 "L"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "The Lensbury Club 2",
-              "played": 4,
-              "won": 2,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "47-49",
-              "points": 47,
-              "form": [
-                "L",
-                "W",
-                "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "Hartswood Lawn Tennis Club Ltd 2",
-              "played": 4,
-              "won": 2,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "45-51",
-              "points": 45,
-              "form": [
-                "L",
-                "L",
-                "W",
-                "W"
               ]
             },
             {
@@ -4326,8 +4328,8 @@ window.__RESULTS__ = {
             {
               "home": "Hartswood Lawn Tennis Club Ltd 2",
               "away": "The Lensbury Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 8,
               "date": "Fri 03/07/2026"
             },
             {

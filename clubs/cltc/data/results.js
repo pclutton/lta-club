@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-04T08:46:10.746Z",
+  "generatedAt": "2026-07-04T13:41:33.819Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 20,
-      "matches": 418,
-      "players": 152,
-      "stale": 0
+      "refreshed": 20,
+      "failed": 0
     },
     "competitions": [
       {
@@ -5620,7 +5620,7 @@ window.__RESULTS__ = {
           "division": "East Intermediate",
           "pscName": "Cumberland 3",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/64",
-          "position": 7,
+          "position": 8,
           "of": 8,
           "played": 2,
           "won": 1,
@@ -5697,6 +5697,21 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
+              "name": "Muswell Hill Methodist 1",
+              "played": 4,
+              "won": 1,
+              "drawn": 1,
+              "lost": 2,
+              "rubbers": "38-58",
+              "points": 38,
+              "form": [
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 6,
               "name": "Finchley Manor 1",
               "played": 2,
               "won": 2,
@@ -5710,22 +5725,22 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 6,
-              "name": "Muswell Hill Methodist 1",
-              "played": 3,
-              "won": 1,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "26-46",
+              "rank": 7,
+              "name": "Conway 1",
+              "played": 4,
+              "won": 0,
+              "drawn": 1,
+              "lost": 3,
+              "rubbers": "26-70",
               "points": 26,
               "form": [
                 "L",
                 "L",
-                "W"
+                "L"
               ]
             },
             {
-              "rank": 7,
+              "rank": 8,
               "name": "Cumberland 3",
               "played": 2,
               "won": 1,
@@ -5735,21 +5750,6 @@ window.__RESULTS__ = {
               "points": 24,
               "form": [
                 "W",
-                "L"
-              ]
-            },
-            {
-              "rank": 8,
-              "name": "Conway 1",
-              "played": 3,
-              "won": 0,
-              "drawn": 0,
-              "lost": 3,
-              "rubbers": "14-58",
-              "points": 14,
-              "form": [
-                "L",
-                "L",
                 "L"
               ]
             }
@@ -5849,8 +5849,8 @@ window.__RESULTS__ = {
             {
               "home": "Conway 1",
               "away": "Muswell Hill Methodist 1",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 12,
               "date": "Fri 03/07/2026"
             },
             {
