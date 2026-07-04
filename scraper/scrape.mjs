@@ -33,6 +33,9 @@ const DEBUG_DIR = resolve(__dirname, "debug");
 const DEBUG = process.env.DEBUG === "1";
 const TODAY = new Date().toISOString().slice(0, 10); // YYYY-MM-DD, for lastSeen stamps
 const RETAIN_DAYS = 14; // how long a missing competition is kept before it's allowed to retire
+// "full" = discovery + rosters + everything (the daily run). "results" = light refresh of
+// live league standings/matches only, reusing last-good's draw URLs (frequent runs).
+const MODE = process.env.SCRAPE_MODE === "results" ? "results" : "full";
 
 // Per-club state, (re)set at the start of each club in scrapeClub(). The helper
 // functions below read these, so generalising to many clubs needed no signature churn.
@@ -833,12 +836,89 @@ async function scrapeClub(page, club) {
     return { slug: club.slug, ok: true, degraded: health.degraded, warnings };
 }
 
+// Update a team's live figures from a freshly-scraped draw, keeping its identity
+// (name / displayName / division / pscName / players). False if our row isn't found.
+function refreshTeam(t, draw) {
+  const norm = (x) => (x || "").toLowerCase().replace(/\s+/g, " ").trim();
+  const rows = (draw.standings || []).filter((r) => r.name);
+  const me = rows.find((r) => norm(r.name) === norm(t.pscName)) || rows.find((r) => isPsc(r.name));
+  if (!rows.length || !me) return false;
+  t.standings = rows;
+  t.matches = (draw.matches || []).filter((m) => m.home && m.away);
+  t.position = me.rank; t.of = rows.length;
+  t.played = me.played ?? 0; t.won = me.won ?? 0; t.lost = me.lost ?? 0; t.points = me.points ?? 0;
+  t.form = (me.form || []).slice(-5);
+  return true;
+}
+
+// Results-only refresh: no discovery, no player pages, no finished/cup competitions.
+// Re-fetches each live league's draw (from the URLs baked into last-good data) to update
+// standings + matches — a fraction of a full scrape's load. Never alerts: the daily full
+// run is the canonical health check, and data here is only ever refreshed, never worsened.
+async function scrapeClubIncremental(page, club) {
+  const s = club.scrape;
+  cfg = { baseUrl: s.baseUrl, clubName: club.name, discovery: { year: s.year, clubSearch: s.clubSearch, sources: s.sources } };
+  OUT = resolve(CLUBS_DIR, club.slug, "data", "results.js");
+  homeMatch = new RegExp(club.matcher || escapeReg(club.name), "i");
+
+  const prev = await loadPrevious();
+  if (!prev || !(prev.competitions?.length)) {
+    log("  no previous data — results-only skipped (a full scrape must run first)");
+    return { slug: club.slug, ok: true, degraded: false, warnings: [] };
+  }
+  await maybeLogin(page);
+
+  const competitions = prev.competitions;
+  let refreshed = 0, failed = 0, draws = 0;
+  for (const c of competitions) {
+    if (c.link || c.knockouts || c.status === "completed" || !(c.teams?.length)) continue; // live leagues only
+    const drawCache = new Map();
+    let compRefreshed = 0;
+    for (const t of c.teams) {
+      if (!t.leagueUrl) continue;
+      try {
+        let draw = drawCache.get(t.leagueUrl);
+        if (!draw) { draw = await scrapeDraw(page, { href: t.leagueUrl, text: "" }); drawCache.set(t.leagueUrl, draw); draws++; }
+        if (refreshTeam(t, draw)) { refreshed++; compRefreshed++; } else failed++;
+      } catch (e) { failed++; log(`  refresh failed: ${t.leagueUrl} — ${e.message}`); }
+    }
+    if (compRefreshed > 0) { c.asOf = TODAY; c.lastSeen = TODAY; c.stale = false; }
+    log(`  ${c.name}: refreshed ${compRefreshed}/${c.teams.length} teams`);
+  }
+
+  if (refreshed === 0) {
+    log("  results-only: nothing refreshed (LTA unresponsive) — keeping existing data");
+    return { slug: club.slug, ok: true, degraded: false, warnings: [] };
+  }
+
+  const players = prev.players || buildLeaderboard(competitions);
+  const totalTeams = competitions.reduce((n, c) => n + (c.teams?.length || 0), 0);
+  const health = {
+    ok: true, degraded: false, mode: "results", warnings: [],
+    totals: { comps: competitions.length, teams: totalTeams, refreshed, failed },
+    competitions: competitions.map((c) => ({ id: c.id, name: c.name, stale: !!c.stale, asOf: c.asOf || null })),
+  };
+  const groupSrc = (s.sources || []).find((x) => x.type === "group" && x.url);
+  const out = {
+    clubName: club.name,
+    season: prev.season || String(new Date().getFullYear()),
+    sourceUrl: groupSrc ? groupSrc.url : s.baseUrl,
+    generatedAt: new Date().toISOString(),
+    sample: false, health, competitions, players,
+  };
+  await mkdir(dirname(OUT), { recursive: true });
+  await writeFile(OUT, "window.__RESULTS__ = " + JSON.stringify(out, null, 2) + ";\n", "utf8");
+  log(`wrote ${OUT} — results-only: refreshed ${refreshed} teams across ${draws} draws (${failed} failed)`);
+  return { slug: club.slug, ok: true, degraded: false, warnings: [] };
+}
+
 // Loop every configured club. One club's failure keeps its existing data and does not
 // abort the others; the whole run only fails if every club fails.
 async function main() {
   const clubs = await loadClubs();
   if (!clubs.length) throw new Error(`No clubs found under ${CLUBS_DIR}`);
-  log(`clubs: ${clubs.map((c) => c.slug).join(", ")}`);
+  log(`clubs: ${clubs.map((c) => c.slug).join(", ")} · mode: ${MODE}`);
+  const runClub = MODE === "results" ? scrapeClubIncremental : scrapeClub;
   const browser = await chromium.launch();
   const page = await browser.newPage({ userAgent: "Mozilla/5.0 (compatible; tennis-results-bot/1.0)" });
   const clubHealth = [];
@@ -846,7 +926,7 @@ async function main() {
   try {
     for (const club of clubs) {
       log(`\n===== ${club.name} (${club.slug}) =====`);
-      try { clubHealth.push(await scrapeClub(page, club)); }
+      try { clubHealth.push(await runClub(page, club)); }
       catch (e) {
         failures++;
         log(`club ${club.slug} failed (keeping its existing data): ${e.message}`);

@@ -275,7 +275,9 @@
   .is-phone .hero h1{font-size:20px;margin:0}
   .is-phone .hero-full{display:none}
   .is-phone .hero-short{display:inline}
-  .is-phone .hero .meta{display:none}
+  /* Phone: keep just the "Updated …" line visible (drop the season + source pills). */
+  .is-phone .hero .meta{display:flex;margin-top:8px;font-size:11px;gap:8px}
+  .is-phone .hero .meta .pill-light:first-child,.is-phone #sourceWrap{display:none}
   /* Slightly tighter tables */
   .is-phone thead th{padding:7px 6px}
   .is-phone tbody td{padding:8px 6px}
@@ -920,7 +922,7 @@ function applyBranding(c){
 function boot(data){
   DATA = data;
   $("#seasonLabel").textContent = data.season || "Current season";
-  $("#updated").textContent = data.generatedAt ? new Date(data.generatedAt).toLocaleDateString("en-GB",{day:"numeric",month:"short",year:"numeric"}) : "—";
+  $("#updated").textContent = data.generatedAt ? new Date(data.generatedAt).toLocaleString("en-GB",{day:"numeric",month:"short",year:"numeric",hour:"2-digit",minute:"2-digit"}) : "—";
   if(data.sourceUrl){ $("#sourceLink").href = data.sourceUrl; $("#sourceWrap").hidden = false; }
   $("#sampleBanner").hidden = !data.sample;
   // Staleness notice: if the feed hasn't refreshed in a couple of days, tell visitors.
