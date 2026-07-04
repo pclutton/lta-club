@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-04T17:10:32.555Z",
+  "generatedAt": "2026-07-04T20:12:30.986Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -817,15 +817,16 @@ window.__RESULTS__ = {
             {
               "rank": 3,
               "name": "West Middlesex Lawn Tennis Club Ltd 1",
-              "played": 3,
+              "played": 4,
               "won": 2,
               "drawn": 0,
-              "lost": 1,
-              "rubbers": "26-10",
+              "lost": 2,
+              "rubbers": "32-16",
               "points": 4,
               "form": [
                 "W",
                 "W",
+                "L",
                 "L"
               ]
             },
@@ -848,17 +849,18 @@ window.__RESULTS__ = {
             {
               "rank": 5,
               "name": "Coolhurst LTC 1",
-              "played": 4,
-              "won": 1,
+              "played": 5,
+              "won": 2,
               "drawn": 0,
               "lost": 3,
-              "rubbers": "20-28",
-              "points": 2,
+              "rubbers": "26-34",
+              "points": 4,
               "form": [
                 "L",
                 "L",
                 "W",
-                "L"
+                "L",
+                "W"
               ]
             },
             {
@@ -974,8 +976,8 @@ window.__RESULTS__ = {
             {
               "home": "West Middlesex Lawn Tennis Club Ltd 1",
               "away": "Coolhurst LTC 1",
-              "hs": null,
-              "as": null,
+              "hs": 6,
+              "as": 6,
               "date": "Sun 28/06/2026"
             },
             {
@@ -1775,34 +1777,35 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "Ealing Lawn Tennis Club 1",
-              "played": 3,
-              "won": 3,
+              "played": 5,
+              "won": 4,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "36-0",
-              "points": 6,
+              "lost": 1,
+              "rubbers": "54-6",
+              "points": 8,
               "form": [
                 "W",
                 "W",
                 "W",
+                "L",
                 "W"
               ]
             },
             {
               "rank": 2,
               "name": "Hackney Tennis 1",
-              "played": 4,
-              "won": 3,
+              "played": 5,
+              "won": 4,
               "drawn": 0,
               "lost": 1,
-              "rubbers": "38-10",
-              "points": 6,
+              "rubbers": "44-16",
+              "points": 8,
               "form": [
                 "W",
                 "W",
                 "W",
-                "W",
-                "L"
+                "L",
+                "W"
               ]
             },
             {
@@ -1823,21 +1826,6 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
-              "name": "Broomfield Park 1",
-              "played": 3,
-              "won": 1,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "14-22",
-              "points": 2,
-              "form": [
-                "L",
-                "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 5,
               "name": "Highgate Cricket and Lawn Tennis Club 1",
               "played": 3,
               "won": 1,
@@ -1846,6 +1834,22 @@ window.__RESULTS__ = {
               "rubbers": "12-24",
               "points": 2,
               "form": [
+                "L",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 5,
+              "name": "Broomfield Park 1",
+              "played": 4,
+              "won": 1,
+              "drawn": 0,
+              "lost": 3,
+              "rubbers": "14-34",
+              "points": 2,
+              "form": [
+                "L",
                 "L",
                 "W",
                 "L"
@@ -2013,15 +2017,15 @@ window.__RESULTS__ = {
             {
               "home": "Hackney Tennis 1",
               "away": "Ealing Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 6,
+              "as": 6,
               "date": "Sat 04/07/2026"
             },
             {
               "home": "Ealing Lawn Tennis Club 1",
               "away": "Broomfield Park 1",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 0,
               "date": "Sun 05/07/2026"
             },
             {
