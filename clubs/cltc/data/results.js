@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-04T20:12:30.986Z",
+  "generatedAt": "2026-07-04T22:02:40.752Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -2126,15 +2126,15 @@ window.__RESULTS__ = {
             {
               "rank": 2,
               "name": "Hackney Tennis 1",
-              "played": 5,
-              "won": 2,
+              "played": 6,
+              "won": 3,
               "drawn": 1,
               "lost": 2,
-              "rubbers": "98-58",
-              "points": 5,
+              "rubbers": "116-72",
+              "points": 7,
               "form": [
                 "L",
-                "L",
+                "W",
                 "W",
                 "W"
               ]
@@ -2142,15 +2142,16 @@ window.__RESULTS__ = {
             {
               "rank": 3,
               "name": "Temple Fortune Club 1",
-              "played": 3,
+              "played": 4,
               "won": 2,
               "drawn": 0,
-              "lost": 1,
-              "rubbers": "44-48",
+              "lost": 2,
+              "rubbers": "58-66",
               "points": 4,
               "form": [
                 "W",
                 "W",
+                "L",
                 "L"
               ]
             },
@@ -2253,8 +2254,8 @@ window.__RESULTS__ = {
             {
               "home": "Temple Fortune Club 1",
               "away": "Hackney Tennis 1",
-              "hs": null,
-              "as": null,
+              "hs": 14,
+              "as": 18,
               "date": "Sat 04/07/2026"
             }
           ],
