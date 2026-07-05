@@ -2,43 +2,43 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-04T22:02:40.752Z",
+  "generatedAt": "2026-07-05T09:14:47.697Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 20,
-      "refreshed": 20,
-      "failed": 0
+      "matches": 418,
+      "players": 152,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-07-04"
+        "asOf": "2026-07-05"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-07-04"
+        "asOf": "2026-07-05"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-07-04"
+        "asOf": "2026-07-05"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-07-04"
+        "asOf": "2026-07-05"
       }
     ]
   },
@@ -47,8 +47,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-07-04",
-      "asOf": "2026-07-04",
+      "lastSeen": "2026-07-05",
+      "asOf": "2026-07-05",
       "stale": false,
       "teams": [
         {
@@ -1086,13 +1086,14 @@ window.__RESULTS__ = {
             {
               "rank": 2,
               "name": "Conway Lawn Tennis Club 1",
-              "played": 1,
-              "won": 1,
+              "played": 2,
+              "won": 2,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "8-4",
-              "points": 2,
+              "rubbers": "20-4",
+              "points": 4,
               "form": [
+                "W",
                 "W"
               ]
             },
@@ -1113,13 +1114,15 @@ window.__RESULTS__ = {
             {
               "rank": 4,
               "name": "Coolhurst LTC 1",
-              "played": 0,
+              "played": 1,
               "won": 0,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
+              "lost": 1,
+              "rubbers": "0-12",
               "points": 0,
-              "form": []
+              "form": [
+                "L"
+              ]
             },
             {
               "rank": 5,
@@ -1162,8 +1165,8 @@ window.__RESULTS__ = {
             {
               "home": "Conway Lawn Tennis Club 1",
               "away": "Coolhurst LTC 1",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 0,
               "date": "Sat 06/06/2026"
             },
             {
@@ -1718,7 +1721,7 @@ window.__RESULTS__ = {
               "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "hs": null,
               "as": null,
-              "date": "Sun 28/06/2026"
+              "date": "Sun 05/07/2026"
             }
           ],
           "results": [],
@@ -2660,8 +2663,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-07-04",
-      "asOf": "2026-07-04",
+      "lastSeen": "2026-07-05",
+      "asOf": "2026-07-05",
       "stale": false,
       "teams": [
         {
@@ -6426,8 +6429,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "current",
-      "lastSeen": "2026-07-04",
-      "asOf": "2026-07-04",
+      "lastSeen": "2026-07-05",
+      "asOf": "2026-07-05",
       "stale": false,
       "teams": [
         {
@@ -6868,8 +6871,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-07-04",
-      "asOf": "2026-07-04",
+      "lastSeen": "2026-07-05",
+      "asOf": "2026-07-05",
       "stale": false,
       "teams": [],
       "knockouts": [
