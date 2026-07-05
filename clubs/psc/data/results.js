@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-05T17:17:30.295Z",
+  "generatedAt": "2026-07-05T20:18:32.074Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -282,13 +282,14 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "Lowlands Club 1",
-              "played": 3,
-              "won": 3,
+              "played": 4,
+              "won": 4,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "28-8",
-              "points": 6,
+              "rubbers": "40-8",
+              "points": 8,
               "form": [
+                "W",
                 "W",
                 "W",
                 "W"
@@ -329,14 +330,15 @@ window.__RESULTS__ = {
             {
               "rank": 4,
               "name": "Harbour Club Chelsea 1",
-              "played": 3,
+              "played": 4,
               "won": 1,
               "drawn": 0,
-              "lost": 2,
-              "rubbers": "16-20",
+              "lost": 3,
+              "rubbers": "16-32",
               "points": 2,
               "form": [
                 "W",
+                "L",
                 "L",
                 "L"
               ]
@@ -425,8 +427,8 @@ window.__RESULTS__ = {
             {
               "home": "Harbour Club Chelsea 1",
               "away": "Lowlands Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 0,
+              "as": 12,
               "date": "Sun 05/07/2026"
             }
           ],
@@ -783,13 +785,14 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "The Queens Club 2",
-              "played": 4,
-              "won": 4,
+              "played": 5,
+              "won": 5,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "30-18",
-              "points": 8,
+              "rubbers": "38-22",
+              "points": 10,
               "form": [
+                "W",
                 "W",
                 "W",
                 "W",
@@ -848,15 +851,16 @@ window.__RESULTS__ = {
             {
               "rank": 5,
               "name": "The Hurlingham Club 1",
-              "played": 4,
+              "played": 5,
               "won": 1,
               "drawn": 0,
-              "lost": 3,
-              "rubbers": "10-38",
+              "lost": 4,
+              "rubbers": "14-46",
               "points": 2,
               "form": [
                 "L",
                 "W",
+                "L",
                 "L",
                 "L"
               ]
@@ -937,8 +941,8 @@ window.__RESULTS__ = {
             {
               "home": "The Queens Club 2",
               "away": "The Hurlingham Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 4,
               "date": "Sun 31/05/2026"
             },
             {

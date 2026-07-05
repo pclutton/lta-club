@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-05T17:16:55.555Z",
+  "generatedAt": "2026-07-05T20:17:58.616Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -508,13 +508,14 @@ window.__RESULTS__ = {
           "division": "",
           "pscName": "Cumberland Lawn Tennis Club 2",
           "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/9",
-          "position": 5,
+          "position": 6,
           "of": 6,
-          "played": 3,
+          "played": 4,
           "won": 0,
-          "lost": 3,
+          "lost": 4,
           "points": 0,
           "form": [
+            "L",
             "L",
             "L",
             "L"
@@ -589,27 +590,29 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
-              "name": "Cumberland Lawn Tennis Club 2",
-              "played": 3,
-              "won": 0,
+              "name": "Hackney Tennis 1",
+              "played": 5,
+              "won": 1,
               "drawn": 0,
-              "lost": 3,
-              "rubbers": "8-28",
-              "points": 0,
+              "lost": 4,
+              "rubbers": "26-34",
+              "points": 2,
               "form": [
                 "L",
                 "L",
-                "L"
+                "L",
+                "L",
+                "W"
               ]
             },
             {
               "rank": 6,
-              "name": "Hackney Tennis 1",
+              "name": "Cumberland Lawn Tennis Club 2",
               "played": 4,
               "won": 0,
               "drawn": 0,
               "lost": 4,
-              "rubbers": "20-28",
+              "rubbers": "14-34",
               "points": 0,
               "form": [
                 "L",
@@ -721,8 +724,8 @@ window.__RESULTS__ = {
             {
               "home": "Hackney Tennis 1",
               "away": "Cumberland Lawn Tennis Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 6,
+              "as": 6,
               "date": "Sun 28/06/2026"
             }
           ],
@@ -1274,13 +1277,14 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "The Queens Club 2",
-              "played": 4,
-              "won": 4,
+              "played": 5,
+              "won": 5,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "30-18",
-              "points": 8,
+              "rubbers": "38-22",
+              "points": 10,
               "form": [
+                "W",
                 "W",
                 "W",
                 "W",
@@ -1339,15 +1343,16 @@ window.__RESULTS__ = {
             {
               "rank": 5,
               "name": "The Hurlingham Club 1",
-              "played": 4,
+              "played": 5,
               "won": 1,
               "drawn": 0,
-              "lost": 3,
-              "rubbers": "10-38",
+              "lost": 4,
+              "rubbers": "14-46",
               "points": 2,
               "form": [
                 "L",
                 "W",
+                "L",
                 "L",
                 "L"
               ]
@@ -1428,8 +1433,8 @@ window.__RESULTS__ = {
             {
               "home": "The Queens Club 2",
               "away": "The Hurlingham Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 4,
               "date": "Sun 31/05/2026"
             },
             {
