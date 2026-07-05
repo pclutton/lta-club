@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-05T20:18:32.074Z",
+  "generatedAt": "2026-07-05T22:06:20.253Z",
   "sample": false,
   "health": {
     "ok": true,

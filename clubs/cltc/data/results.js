@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-05T20:17:58.616Z",
+  "generatedAt": "2026-07-05T22:05:47.496Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -1075,13 +1075,14 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "David Lloyd Club Finchley 1",
-              "played": 2,
-              "won": 2,
+              "played": 3,
+              "won": 3,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "22-2",
-              "points": 4,
+              "rubbers": "34-2",
+              "points": 6,
               "form": [
+                "W",
                 "W",
                 "W"
               ]
@@ -1117,13 +1118,14 @@ window.__RESULTS__ = {
             {
               "rank": 4,
               "name": "Coolhurst LTC 1",
-              "played": 1,
+              "played": 2,
               "won": 0,
               "drawn": 0,
-              "lost": 1,
-              "rubbers": "0-12",
+              "lost": 2,
+              "rubbers": "0-24",
               "points": 0,
               "form": [
+                "L",
                 "L"
               ]
             },
@@ -1144,13 +1146,6 @@ window.__RESULTS__ = {
             }
           ],
           "matches": [
-            {
-              "home": "Coolhurst LTC 1",
-              "away": "David Lloyd Club Finchley 1",
-              "hs": null,
-              "as": null,
-              "date": "Sat 09/05/2026"
-            },
             {
               "home": "David Lloyd Club Finchley 1",
               "away": "Finchley Manor Tennis Squash and Health Club 1",
@@ -1192,6 +1187,13 @@ window.__RESULTS__ = {
               "hs": 2,
               "as": 10,
               "date": "Sat 20/06/2026"
+            },
+            {
+              "home": "Coolhurst LTC 1",
+              "away": "David Lloyd Club Finchley 1",
+              "hs": 0,
+              "as": 12,
+              "date": "Sun 05/07/2026"
             },
             {
               "home": "Conway Lawn Tennis Club 1",
