@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-05T13:48:54.604Z",
+  "generatedAt": "2026-07-05T17:17:30.295Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -2908,6 +2908,21 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Virgin Active Chiswick Riverside 1",
+              "played": 5,
+              "won": 2,
+              "drawn": 2,
+              "lost": 1,
+              "rubbers": "66-54",
+              "points": 66,
+              "form": [
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "The Hurlingham Club 1",
               "played": 4,
               "won": 3,
@@ -2923,7 +2938,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "Teddington Lawn Tennis Club 2",
               "played": 5,
               "won": 2,
@@ -2940,7 +2955,23 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
+              "name": "David Lloyd Club Acton Park 1",
+              "played": 5,
+              "won": 2,
+              "drawn": 1,
+              "lost": 2,
+              "rubbers": "58-62",
+              "points": 58,
+              "form": [
+                "W",
+                "L",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 6,
               "name": "Wayfarers LTC 1",
               "played": 4,
               "won": 2,
@@ -2953,37 +2984,6 @@ window.__RESULTS__ = {
                 "L",
                 "L",
                 "W"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "Virgin Active Chiswick Riverside 1",
-              "played": 4,
-              "won": 2,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "54-42",
-              "points": 54,
-              "form": [
-                "L",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "David Lloyd Club Acton Park 1",
-              "played": 4,
-              "won": 2,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "46-50",
-              "points": 46,
-              "form": [
-                "W",
-                "L",
-                "W",
-                "L"
               ]
             },
             {
@@ -3142,8 +3142,8 @@ window.__RESULTS__ = {
             {
               "home": "David Lloyd Club Acton Park 1",
               "away": "Virgin Active Chiswick Riverside 1",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 12,
               "date": "Thu 02/07/2026"
             },
             {
