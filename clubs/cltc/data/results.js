@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-06T20:54:44.249Z",
+  "generatedAt": "2026-07-06T22:17:19.563Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -3563,32 +3563,34 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
-              "name": "Highgate 1",
+              "name": "Globe 1",
               "played": 4,
-              "won": 1,
-              "drawn": 1,
-              "lost": 2,
-              "rubbers": "47-49",
-              "points": 47,
+              "won": 3,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "62-34",
+              "points": 62,
               "form": [
+                "W",
                 "L",
                 "W",
-                "L"
+                "W"
               ]
             },
             {
               "rank": 2,
-              "name": "Globe 1",
-              "played": 3,
-              "won": 2,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "46-26",
-              "points": 46,
+              "name": "Highgate 1",
+              "played": 5,
+              "won": 1,
+              "drawn": 1,
+              "lost": 3,
+              "rubbers": "55-65",
+              "points": 55,
               "form": [
+                "L",
                 "W",
                 "L",
-                "W"
+                "L"
               ]
             },
             {
@@ -3608,6 +3610,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
+              "name": "Hazelwood 2",
+              "played": 4,
+              "won": 2,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "44-52",
+              "points": 44,
+              "form": [
+                "L",
+                "W",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Hackney 1",
               "played": 2,
               "won": 2,
@@ -3621,22 +3639,21 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
-              "name": "Hazelwood 2",
+              "rank": 6,
+              "name": "Barnet 1",
               "played": 3,
-              "won": 1,
-              "drawn": 0,
+              "won": 0,
+              "drawn": 1,
               "lost": 2,
               "rubbers": "30-42",
               "points": 30,
               "form": [
                 "L",
-                "W",
                 "L"
               ]
             },
             {
-              "rank": 6,
+              "rank": 7,
               "name": "Brondesbury 1",
               "played": 3,
               "won": 1,
@@ -3647,19 +3664,6 @@ window.__RESULTS__ = {
               "form": [
                 "W",
                 "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 7,
-              "name": "Barnet 1",
-              "played": 2,
-              "won": 0,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "20-28",
-              "points": 20,
-              "form": [
                 "L"
               ]
             }
@@ -3738,15 +3742,15 @@ window.__RESULTS__ = {
             {
               "home": "Barnet 1",
               "away": "Hazelwood 2",
-              "hs": null,
-              "as": null,
+              "hs": 10,
+              "as": 14,
               "date": "Thu 25/06/2026"
             },
             {
               "home": "Highgate 1",
               "away": "Globe 1",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 16,
               "date": "Mon 06/07/2026"
             },
             {
@@ -5677,6 +5681,22 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Finchley Manor 1",
+              "played": 4,
+              "won": 4,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "75-21",
+              "points": 75,
+              "form": [
+                "W",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Brondesbury 1",
               "played": 4,
               "won": 3,
@@ -5692,7 +5712,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
+              "rank": 3,
               "name": "Hackney 1",
               "played": 5,
               "won": 3,
@@ -5709,7 +5729,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "South Hampstead 1",
               "played": 5,
               "won": 2,
@@ -5723,21 +5743,6 @@ window.__RESULTS__ = {
                 "W",
                 "L",
                 "L"
-              ]
-            },
-            {
-              "rank": 4,
-              "name": "Finchley Manor 1",
-              "played": 3,
-              "won": 3,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "53-19",
-              "points": 53,
-              "form": [
-                "W",
-                "W",
-                "W"
               ]
             },
             {
@@ -5759,16 +5764,17 @@ window.__RESULTS__ = {
             {
               "rank": 6,
               "name": "Muswell Hill Methodist 1",
-              "played": 4,
+              "played": 5,
               "won": 1,
               "drawn": 1,
-              "lost": 2,
-              "rubbers": "38-58",
-              "points": 38,
+              "lost": 3,
+              "rubbers": "40-80",
+              "points": 40,
               "form": [
                 "L",
                 "L",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -5911,8 +5917,8 @@ window.__RESULTS__ = {
             {
               "home": "Finchley Manor 1",
               "away": "Muswell Hill Methodist 1",
-              "hs": null,
-              "as": null,
+              "hs": 22,
+              "as": 2,
               "date": "Mon 06/07/2026"
             },
             {
