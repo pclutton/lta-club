@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-06T15:41:19.307Z",
+  "generatedAt": "2026-07-06T18:13:54.770Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -1081,12 +1081,13 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/25",
           "position": 3,
           "of": 5,
-          "played": 2,
+          "played": 3,
           "won": 1,
-          "lost": 1,
+          "lost": 2,
           "points": 2,
           "form": [
             "W",
+            "L",
             "L"
           ],
           "standings": [
@@ -1108,13 +1109,14 @@ window.__RESULTS__ = {
             {
               "rank": 2,
               "name": "Conway Lawn Tennis Club 1",
-              "played": 2,
-              "won": 2,
+              "played": 3,
+              "won": 3,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "20-4",
-              "points": 4,
+              "rubbers": "26-10",
+              "points": 6,
               "form": [
+                "W",
                 "W",
                 "W"
               ]
@@ -1122,14 +1124,15 @@ window.__RESULTS__ = {
             {
               "rank": 3,
               "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "played": 2,
+              "played": 3,
               "won": 1,
               "drawn": 0,
-              "lost": 1,
-              "rubbers": "14-10",
+              "lost": 2,
+              "rubbers": "20-16",
               "points": 2,
               "form": [
                 "W",
+                "L",
                 "L"
               ]
             },
@@ -1216,8 +1219,8 @@ window.__RESULTS__ = {
             {
               "home": "Conway Lawn Tennis Club 1",
               "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "hs": null,
-              "as": null,
+              "hs": 6,
+              "as": 6,
               "date": "Sun 05/07/2026"
             },
             {
@@ -1584,12 +1587,13 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/65",
           "position": 1,
           "of": 4,
-          "played": 4,
-          "won": 3,
+          "played": 5,
+          "won": 4,
           "lost": 1,
-          "points": 6,
+          "points": 8,
           "form": [
             "L",
+            "W",
             "W",
             "W",
             "W"
@@ -1598,14 +1602,15 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "played": 4,
-              "won": 3,
+              "played": 5,
+              "won": 4,
               "drawn": 0,
               "lost": 1,
-              "rubbers": "16-8",
-              "points": 6,
+              "rubbers": "20-10",
+              "points": 8,
               "form": [
                 "L",
+                "W",
                 "W",
                 "W",
                 "W"
@@ -1614,18 +1619,18 @@ window.__RESULTS__ = {
             {
               "rank": 2,
               "name": "Conway Lawn Tennis Club 1",
-              "played": 5,
+              "played": 6,
               "won": 3,
               "drawn": 0,
-              "lost": 2,
-              "rubbers": "22-8",
+              "lost": 3,
+              "rubbers": "24-12",
               "points": 6,
               "form": [
-                "W",
                 "L",
                 "W",
                 "L",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -1744,8 +1749,8 @@ window.__RESULTS__ = {
             {
               "home": "Conway Lawn Tennis Club 1",
               "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "hs": null,
-              "as": null,
+              "hs": 2,
+              "as": 4,
               "date": "Sun 05/07/2026"
             }
           ],
@@ -2702,7 +2707,7 @@ window.__RESULTS__ = {
           "played": 5,
           "won": 5,
           "lost": 0,
-          "points": 96,
+          "points": 97,
           "form": [
             "W",
             "W",
@@ -2718,8 +2723,8 @@ window.__RESULTS__ = {
               "won": 5,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "96-20",
-              "points": 96,
+              "rubbers": "97-23",
+              "points": 97,
               "form": [
                 "W",
                 "W",
@@ -2761,6 +2766,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
+              "name": "Coolhurst 1",
+              "played": 5,
+              "won": 1,
+              "drawn": 1,
+              "lost": 3,
+              "rubbers": "51-69",
+              "points": 51,
+              "form": [
+                "L",
+                "W",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Chandos 1",
               "played": 4,
               "won": 2,
@@ -2770,22 +2791,6 @@ window.__RESULTS__ = {
               "points": 48,
               "form": [
                 "W",
-                "W",
-                "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "Coolhurst 1",
-              "played": 5,
-              "won": 1,
-              "drawn": 1,
-              "lost": 3,
-              "rubbers": "48-68",
-              "points": 48,
-              "form": [
-                "L",
                 "W",
                 "L",
                 "L"
@@ -2968,8 +2973,8 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland 1",
               "away": "Coolhurst 1",
-              "hs": 16,
-              "as": 4,
+              "hs": 17,
+              "as": 7,
               "date": "Thu 02/07/2026"
             },
             {
@@ -3126,8 +3131,8 @@ window.__RESULTS__ = {
               "won": 5,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "96-20",
-              "points": 96,
+              "rubbers": "97-23",
+              "points": 97,
               "form": [
                 "W",
                 "W",
@@ -3169,6 +3174,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
+              "name": "Coolhurst 1",
+              "played": 5,
+              "won": 1,
+              "drawn": 1,
+              "lost": 3,
+              "rubbers": "51-69",
+              "points": 51,
+              "form": [
+                "L",
+                "W",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Chandos 1",
               "played": 4,
               "won": 2,
@@ -3178,22 +3199,6 @@ window.__RESULTS__ = {
               "points": 48,
               "form": [
                 "W",
-                "W",
-                "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "Coolhurst 1",
-              "played": 5,
-              "won": 1,
-              "drawn": 1,
-              "lost": 3,
-              "rubbers": "48-68",
-              "points": 48,
-              "form": [
-                "L",
                 "W",
                 "L",
                 "L"
@@ -3376,8 +3381,8 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland 1",
               "away": "Coolhurst 1",
-              "hs": 16,
-              "as": 4,
+              "hs": 17,
+              "as": 7,
               "date": "Thu 02/07/2026"
             },
             {
