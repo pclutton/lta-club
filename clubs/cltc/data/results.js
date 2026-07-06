@@ -2,43 +2,43 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-05T22:05:47.496Z",
+  "generatedAt": "2026-07-06T10:48:51.121Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 20,
-      "refreshed": 20,
-      "failed": 0
+      "matches": 418,
+      "players": 152,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-07-05"
+        "asOf": "2026-07-06"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-07-05"
+        "asOf": "2026-07-06"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-07-05"
+        "asOf": "2026-07-06"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-07-05"
+        "asOf": "2026-07-06"
       }
     ]
   },
@@ -47,8 +47,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-07-05",
-      "asOf": "2026-07-05",
+      "lastSeen": "2026-07-06",
+      "asOf": "2026-07-06",
       "stale": false,
       "teams": [
         {
@@ -733,6 +733,18 @@ window.__RESULTS__ = {
           "fixtures": [],
           "players": [
             {
+              "name": "Gerardo De la Concha",
+              "won": 2,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1960"
+            },
+            {
+              "name": "Tom Winters",
+              "won": 2,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1961"
+            },
+            {
               "name": "Peter Whight",
               "won": 2,
               "lost": 2,
@@ -751,16 +763,22 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1150"
             },
             {
-              "name": "Jack Long-Martinez",
-              "won": 1,
-              "lost": 3,
-              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1153"
-            },
-            {
               "name": "Neel Khimasia",
               "won": 1,
               "lost": 3,
               "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1154"
+            },
+            {
+              "name": "Jack Long-Martinez",
+              "won": 1,
+              "lost": 5,
+              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1153"
+            },
+            {
+              "name": "Max Fanals",
+              "won": 0,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1870"
             }
           ]
         },
@@ -2670,8 +2688,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-07-05",
-      "asOf": "2026-07-05",
+      "lastSeen": "2026-07-06",
+      "asOf": "2026-07-06",
       "stale": false,
       "teams": [
         {
@@ -6436,8 +6454,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "current",
-      "lastSeen": "2026-07-05",
-      "asOf": "2026-07-05",
+      "lastSeen": "2026-07-06",
+      "asOf": "2026-07-06",
       "stale": false,
       "teams": [
         {
@@ -6878,8 +6896,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-07-05",
-      "asOf": "2026-07-05",
+      "lastSeen": "2026-07-06",
+      "asOf": "2026-07-06",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -6929,6 +6947,13 @@ window.__RESULTS__ = {
       "played": 20
     },
     {
+      "name": "Tom Winters",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3393",
+      "won": 12,
+      "lost": 7,
+      "played": 19
+    },
+    {
       "name": "Neel Khimasia",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2089",
       "won": 12,
@@ -6971,18 +6996,18 @@ window.__RESULTS__ = {
       "played": 14
     },
     {
-      "name": "Tom Winters",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3393",
-      "won": 10,
-      "lost": 7,
-      "played": 17
-    },
-    {
       "name": "Martha Rushbrooke",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2443",
       "won": 9,
       "lost": 0,
       "played": 9
+    },
+    {
+      "name": "Gerardo De la Concha",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1381",
+      "won": 9,
+      "lost": 5,
+      "played": 14
     },
     {
       "name": "Javier Gonzalez Lastra",
@@ -7046,13 +7071,6 @@ window.__RESULTS__ = {
       "won": 7,
       "lost": 4,
       "played": 11
-    },
-    {
-      "name": "Gerardo De la Concha",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1381",
-      "won": 7,
-      "lost": 5,
-      "played": 12
     },
     {
       "name": "Joshua Imber",
@@ -7146,18 +7164,18 @@ window.__RESULTS__ = {
       "played": 12
     },
     {
-      "name": "Jack Long-Martinez",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3548",
-      "won": 6,
-      "lost": 7,
-      "played": 13
-    },
-    {
       "name": "Peter Whight",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4852",
       "won": 6,
       "lost": 7,
       "played": 13
+    },
+    {
+      "name": "Jack Long-Martinez",
+      "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1153",
+      "won": 6,
+      "lost": 9,
+      "played": 15
     },
     {
       "name": "Celine Ricaud",
@@ -7433,13 +7451,6 @@ window.__RESULTS__ = {
       "played": 4
     },
     {
-      "name": "Max Fanals",
-      "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1870",
-      "won": 3,
-      "lost": 1,
-      "played": 4
-    },
-    {
       "name": "Sam Mayeur Lam",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1523",
       "won": 3,
@@ -7449,6 +7460,13 @@ window.__RESULTS__ = {
     {
       "name": "Anastasia Argent",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2445",
+      "won": 3,
+      "lost": 3,
+      "played": 6
+    },
+    {
+      "name": "Max Fanals",
+      "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1870",
       "won": 3,
       "lost": 3,
       "played": 6
