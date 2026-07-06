@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-06T18:13:54.770Z",
+  "generatedAt": "2026-07-06T20:54:44.249Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -3715,13 +3715,6 @@ window.__RESULTS__ = {
               "date": "Mon 01/06/2026"
             },
             {
-              "home": "Brondesbury 1",
-              "away": "Hackney 1",
-              "hs": null,
-              "as": null,
-              "date": "Tue 02/06/2026"
-            },
-            {
               "home": "Highgate 1",
               "away": "Hazelwood 2",
               "hs": 14,
@@ -3769,6 +3762,13 @@ window.__RESULTS__ = {
               "hs": null,
               "as": null,
               "date": "Thu 09/07/2026"
+            },
+            {
+              "home": "Brondesbury 1",
+              "away": "Hackney 1",
+              "hs": null,
+              "as": null,
+              "date": "Mon 13/07/2026"
             },
             {
               "home": "Globe 1",
@@ -5668,7 +5668,7 @@ window.__RESULTS__ = {
           "played": 3,
           "won": 1,
           "lost": 2,
-          "points": 34,
+          "points": 28,
           "form": [
             "W",
             "L",
@@ -5693,33 +5693,35 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
-              "name": "South Hampstead 1",
-              "played": 4,
-              "won": 2,
+              "name": "Hackney 1",
+              "played": 5,
+              "won": 3,
               "drawn": 0,
               "lost": 2,
-              "rubbers": "51-45",
-              "points": 51,
+              "rubbers": "63-57",
+              "points": 63,
               "form": [
-                "W",
                 "L",
                 "W",
-                "L"
+                "W",
+                "L",
+                "W"
               ]
             },
             {
               "rank": 3,
-              "name": "Hackney 1",
-              "played": 4,
+              "name": "South Hampstead 1",
+              "played": 5,
               "won": 2,
               "drawn": 0,
-              "lost": 2,
-              "rubbers": "49-47",
-              "points": 49,
+              "lost": 3,
+              "rubbers": "61-59",
+              "points": 61,
               "form": [
+                "W",
                 "L",
                 "W",
-                "W",
+                "L",
                 "L"
               ]
             },
@@ -5730,8 +5732,8 @@ window.__RESULTS__ = {
               "won": 3,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "47-25",
-              "points": 47,
+              "rubbers": "53-19",
+              "points": 53,
               "form": [
                 "W",
                 "W",
@@ -5776,8 +5778,8 @@ window.__RESULTS__ = {
               "won": 1,
               "drawn": 0,
               "lost": 2,
-              "rubbers": "34-38",
-              "points": 34,
+              "rubbers": "28-44",
+              "points": 28,
               "form": [
                 "W",
                 "L",
@@ -5902,8 +5904,8 @@ window.__RESULTS__ = {
             {
               "home": "Finchley Manor 1",
               "away": "Cumberland 3",
-              "hs": 14,
-              "as": 10,
+              "hs": 20,
+              "as": 4,
               "date": "Fri 03/07/2026"
             },
             {
@@ -5916,8 +5918,8 @@ window.__RESULTS__ = {
             {
               "home": "South Hampstead 1",
               "away": "Hackney 1",
-              "hs": null,
-              "as": null,
+              "hs": 10,
+              "as": 14,
               "date": "Mon 06/07/2026"
             },
             {
