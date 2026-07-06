@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-06T10:48:51.121Z",
+  "generatedAt": "2026-07-06T15:41:19.307Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 20,
-      "matches": 418,
-      "players": 152,
-      "stale": 0
+      "refreshed": 20,
+      "failed": 0
     },
     "competitions": [
       {
@@ -2699,11 +2699,12 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/55",
           "position": 1,
           "of": 8,
-          "played": 4,
-          "won": 4,
+          "played": 5,
+          "won": 5,
           "lost": 0,
-          "points": 80,
+          "points": 96,
           "form": [
+            "W",
             "W",
             "W",
             "W",
@@ -2713,13 +2714,14 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "Cumberland 1",
-              "played": 4,
-              "won": 4,
+              "played": 5,
+              "won": 5,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "80-16",
-              "points": 80,
+              "rubbers": "96-20",
+              "points": 96,
               "form": [
+                "W",
                 "W",
                 "W",
                 "W",
@@ -2776,15 +2778,16 @@ window.__RESULTS__ = {
             {
               "rank": 5,
               "name": "Coolhurst 1",
-              "played": 4,
+              "played": 5,
               "won": 1,
               "drawn": 1,
-              "lost": 2,
-              "rubbers": "44-52",
-              "points": 44,
+              "lost": 3,
+              "rubbers": "48-68",
+              "points": 48,
               "form": [
                 "L",
                 "W",
+                "L",
                 "L"
               ]
             },
@@ -2965,8 +2968,8 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland 1",
               "away": "Coolhurst 1",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 4,
               "date": "Thu 02/07/2026"
             },
             {
@@ -3119,13 +3122,14 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "Cumberland 1",
-              "played": 4,
-              "won": 4,
+              "played": 5,
+              "won": 5,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "80-16",
-              "points": 80,
+              "rubbers": "96-20",
+              "points": 96,
               "form": [
+                "W",
                 "W",
                 "W",
                 "W",
@@ -3182,15 +3186,16 @@ window.__RESULTS__ = {
             {
               "rank": 5,
               "name": "Coolhurst 1",
-              "played": 4,
+              "played": 5,
               "won": 1,
               "drawn": 1,
-              "lost": 2,
-              "rubbers": "44-52",
-              "points": 44,
+              "lost": 3,
+              "rubbers": "48-68",
+              "points": 48,
               "form": [
                 "L",
                 "W",
+                "L",
                 "L"
               ]
             },
@@ -3371,8 +3376,8 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland 1",
               "away": "Coolhurst 1",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 4,
               "date": "Thu 02/07/2026"
             },
             {
@@ -5653,14 +5658,15 @@ window.__RESULTS__ = {
           "division": "East Intermediate",
           "pscName": "Cumberland 3",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/64",
-          "position": 8,
+          "position": 7,
           "of": 8,
-          "played": 2,
+          "played": 3,
           "won": 1,
-          "lost": 1,
-          "points": 24,
+          "lost": 2,
+          "points": 34,
           "form": [
             "W",
+            "L",
             "L"
           ],
           "standings": [
@@ -5714,6 +5720,21 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
+              "name": "Finchley Manor 1",
+              "played": 3,
+              "won": 3,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "47-25",
+              "points": 47,
+              "form": [
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Coolhurst 2",
               "played": 4,
               "won": 2,
@@ -5729,7 +5750,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Muswell Hill Methodist 1",
               "played": 4,
               "won": 1,
@@ -5744,21 +5765,22 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 6,
-              "name": "Finchley Manor 1",
-              "played": 2,
-              "won": 2,
+              "rank": 7,
+              "name": "Cumberland 3",
+              "played": 3,
+              "won": 1,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "33-15",
-              "points": 33,
+              "lost": 2,
+              "rubbers": "34-38",
+              "points": 34,
               "form": [
                 "W",
-                "W"
+                "L",
+                "L"
               ]
             },
             {
-              "rank": 7,
+              "rank": 8,
               "name": "Conway 1",
               "played": 4,
               "won": 0,
@@ -5769,20 +5791,6 @@ window.__RESULTS__ = {
               "form": [
                 "L",
                 "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 8,
-              "name": "Cumberland 3",
-              "played": 2,
-              "won": 1,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "24-24",
-              "points": 24,
-              "form": [
-                "W",
                 "L"
               ]
             }
@@ -5889,8 +5897,8 @@ window.__RESULTS__ = {
             {
               "home": "Finchley Manor 1",
               "away": "Cumberland 3",
-              "hs": null,
-              "as": null,
+              "hs": 14,
+              "as": 10,
               "date": "Fri 03/07/2026"
             },
             {
