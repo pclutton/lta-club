@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-07T18:04:45.985Z",
+  "generatedAt": "2026-07-07T20:52:29.923Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -1090,6 +1090,39 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Campden Hill Lawn Tennis Club 4",
+              "played": 5,
+              "won": 3,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "71-49",
+              "points": 71,
+              "form": [
+                "L",
+                "W",
+                "W",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 2,
+              "name": "West Middlesex Lawn Tennis Club Ltd 1",
+              "played": 5,
+              "won": 4,
+              "drawn": 1,
+              "lost": 0,
+              "rubbers": "70-46",
+              "points": 70,
+              "form": [
+                "W",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "David Lloyd Club Acton Park 1",
               "played": 5,
               "won": 2,
@@ -1104,23 +1137,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
-              "name": "Campden Hill Lawn Tennis Club 4",
-              "played": 4,
-              "won": 3,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "65-31",
-              "points": 65,
-              "form": [
-                "L",
-                "W",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 3,
+              "rank": 4,
               "name": "Eastcote Lawn Tennis Club 1",
               "played": 5,
               "won": 1,
@@ -1136,7 +1153,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
               "name": "Ealing Lawn Tennis Club 2",
               "played": 5,
               "won": 0,
@@ -1150,7 +1167,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Campden Hill Lawn Tennis Club 3",
               "played": 4,
               "won": 3,
@@ -1161,21 +1178,6 @@ window.__RESULTS__ = {
               "form": [
                 "W",
                 "L",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "West Middlesex Lawn Tennis Club Ltd 1",
-              "played": 4,
-              "won": 3,
-              "drawn": 1,
-              "lost": 0,
-              "rubbers": "52-40",
-              "points": 52,
-              "form": [
-                "W",
                 "W",
                 "W"
               ]
@@ -1350,8 +1352,8 @@ window.__RESULTS__ = {
             {
               "home": "Campden Hill Lawn Tennis Club 4",
               "away": "West Middlesex Lawn Tennis Club Ltd 1",
-              "hs": null,
-              "as": null,
+              "hs": 6,
+              "as": 18,
               "date": "Mon 06/07/2026"
             },
             {
