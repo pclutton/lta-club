@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-07T14:45:05.409Z",
+  "generatedAt": "2026-07-07T18:04:13.856Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -1298,14 +1298,15 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/2",
           "position": 3,
           "of": 6,
-          "played": 4,
-          "won": 2,
+          "played": 5,
+          "won": 3,
           "lost": 2,
-          "points": 4,
+          "points": 6,
           "form": [
             "W",
             "L",
             "L",
+            "W",
             "W"
           ],
           "standings": [
@@ -1346,16 +1347,17 @@ window.__RESULTS__ = {
             {
               "rank": 3,
               "name": "Cumberland Lawn Tennis Club 2",
-              "played": 4,
-              "won": 2,
+              "played": 5,
+              "won": 3,
               "drawn": 0,
               "lost": 2,
-              "rubbers": "32-16",
-              "points": 4,
+              "rubbers": "44-16",
+              "points": 6,
               "form": [
                 "W",
                 "L",
                 "L",
+                "W",
                 "W"
               ]
             },
@@ -1395,13 +1397,14 @@ window.__RESULTS__ = {
             {
               "rank": 6,
               "name": "David Lloyd Club Northwood 1",
-              "played": 3,
+              "played": 4,
               "won": 0,
               "drawn": 0,
-              "lost": 3,
-              "rubbers": "12-24",
+              "lost": 4,
+              "rubbers": "12-36",
               "points": 0,
               "form": [
+                "L",
                 "L",
                 "L",
                 "L"
@@ -1503,8 +1506,8 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland Lawn Tennis Club 2",
               "away": "David Lloyd Club Northwood 1",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 0,
               "date": "Sun 05/07/2026"
             },
             {
