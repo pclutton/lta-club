@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-07T20:51:58.188Z",
+  "generatedAt": "2026-07-07T22:13:35.817Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -4003,6 +4003,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
+              "name": "Totteridge Tennis Club 1",
+              "played": 6,
+              "won": 2,
+              "drawn": 1,
+              "lost": 3,
+              "rubbers": "66-78",
+              "points": 66,
+              "form": [
+                "L",
+                "W",
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 6,
               "name": "Chandos Lawn Tennis Club 2",
               "played": 4,
               "won": 4,
@@ -4018,7 +4035,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 6,
+              "rank": 7,
               "name": "Elmwood Lawn Tennis Club 1",
               "played": 6,
               "won": 1,
@@ -4035,30 +4052,14 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 7,
-              "name": "Totteridge Tennis Club 1",
-              "played": 5,
-              "won": 1,
-              "drawn": 1,
-              "lost": 3,
-              "rubbers": "46-74",
-              "points": 46,
-              "form": [
-                "L",
-                "W",
-                "L",
-                "L"
-              ]
-            },
-            {
               "rank": 8,
               "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 5",
-              "played": 6,
+              "played": 7,
               "won": 0,
               "drawn": 0,
-              "lost": 6,
-              "rubbers": "19-125",
-              "points": 19,
+              "lost": 7,
+              "rubbers": "23-145",
+              "points": 23,
               "form": [
                 "L",
                 "L",
@@ -4262,8 +4263,8 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 5",
               "away": "Totteridge Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 4,
+              "as": 20,
               "date": "Tue 07/07/2026"
             },
             {
@@ -4439,10 +4440,10 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/39",
           "position": 8,
           "of": 9,
-          "played": 6,
+          "played": 7,
           "won": 0,
-          "lost": 6,
-          "points": 19,
+          "lost": 7,
+          "points": 23,
           "form": [
             "L",
             "L",
@@ -4520,6 +4521,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
+              "name": "Totteridge Tennis Club 1",
+              "played": 6,
+              "won": 2,
+              "drawn": 1,
+              "lost": 3,
+              "rubbers": "66-78",
+              "points": 66,
+              "form": [
+                "L",
+                "W",
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 6,
               "name": "Chandos Lawn Tennis Club 2",
               "played": 4,
               "won": 4,
@@ -4535,7 +4553,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 6,
+              "rank": 7,
               "name": "Elmwood Lawn Tennis Club 1",
               "played": 6,
               "won": 1,
@@ -4552,30 +4570,14 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 7,
-              "name": "Totteridge Tennis Club 1",
-              "played": 5,
-              "won": 1,
-              "drawn": 1,
-              "lost": 3,
-              "rubbers": "46-74",
-              "points": 46,
-              "form": [
-                "L",
-                "W",
-                "L",
-                "L"
-              ]
-            },
-            {
               "rank": 8,
               "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 5",
-              "played": 6,
+              "played": 7,
               "won": 0,
               "drawn": 0,
-              "lost": 6,
-              "rubbers": "19-125",
-              "points": 19,
+              "lost": 7,
+              "rubbers": "23-145",
+              "points": 23,
               "form": [
                 "L",
                 "L",
@@ -4779,8 +4781,8 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 5",
               "away": "Totteridge Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 4,
+              "as": 20,
               "date": "Tue 07/07/2026"
             },
             {
