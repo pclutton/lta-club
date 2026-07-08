@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-08T08:39:41.304Z",
+  "generatedAt": "2026-07-08T14:23:18.685Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "matches": 275,
-      "players": 107,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
@@ -1558,6 +1558,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Holland Park Lawn Tennis Club 2",
+              "played": 5,
+              "won": 5,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "74-46",
+              "points": 74,
+              "form": [
+                "W",
+                "W",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Teddington Lawn Tennis Club 6",
               "played": 5,
               "won": 2,
@@ -1573,7 +1590,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
               "name": "Thistleworth LTC 1",
               "played": 5,
               "won": 2,
@@ -1589,23 +1606,22 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
-              "name": "Holland Park Lawn Tennis Club 2",
-              "played": 4,
-              "won": 4,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "60-36",
-              "points": 60,
+              "rank": 6,
+              "name": "David Lloyd Club Sudbury Hill 1",
+              "played": 5,
+              "won": 0,
+              "drawn": 2,
+              "lost": 3,
+              "rubbers": "42-78",
+              "points": 42,
               "form": [
-                "W",
-                "W",
-                "W",
-                "W"
+                "L",
+                "L",
+                "L"
               ]
             },
             {
-              "rank": 6,
+              "rank": 7,
               "name": "The Lensbury Club 1",
               "played": 4,
               "won": 0,
@@ -1615,20 +1631,6 @@ window.__RESULTS__ = {
               "points": 34,
               "form": [
                 "L",
-                "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 7,
-              "name": "David Lloyd Club Sudbury Hill 1",
-              "played": 4,
-              "won": 0,
-              "drawn": 2,
-              "lost": 2,
-              "rubbers": "32-64",
-              "points": 32,
-              "form": [
                 "L",
                 "L"
               ]
@@ -1780,8 +1782,8 @@ window.__RESULTS__ = {
             {
               "home": "David Lloyd Club Sudbury Hill 1",
               "away": "Holland Park Lawn Tennis Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 10,
+              "as": 14,
               "date": "Tue 07/07/2026"
             },
             {
@@ -1790,13 +1792,6 @@ window.__RESULTS__ = {
               "hs": null,
               "as": null,
               "date": "Tue 07/07/2026"
-            },
-            {
-              "home": "Holland Park Lawn Tennis Club 2",
-              "away": "Teddington Lawn Tennis Club 6",
-              "hs": null,
-              "as": null,
-              "date": "Mon 13/07/2026"
             },
             {
               "home": "Wycombe House 1",
@@ -1811,6 +1806,13 @@ window.__RESULTS__ = {
               "hs": null,
               "as": null,
               "date": "Wed 15/07/2026"
+            },
+            {
+              "home": "Holland Park Lawn Tennis Club 2",
+              "away": "Teddington Lawn Tennis Club 6",
+              "hs": null,
+              "as": null,
+              "date": "Thu 16/07/2026"
             },
             {
               "home": "Paddington Sports Club 2",
@@ -2419,23 +2421,6 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
-              "name": "Hatch End Lawn Tennis Club 3",
-              "played": 5,
-              "won": 4,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "63-42",
-              "points": 78,
-              "form": [
-                "W",
-                "W",
-                "W",
-                "W",
-                "L"
-              ]
-            },
-            {
-              "rank": 4,
               "name": "Harrow Baptist Tennis Club 1",
               "played": 5,
               "won": 3,
@@ -2452,7 +2437,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
+              "rank": 4,
               "name": "Greenford Tennis Club 1",
               "played": 5,
               "won": 2,
@@ -2466,6 +2451,22 @@ window.__RESULTS__ = {
                 "L",
                 "L",
                 "W"
+              ]
+            },
+            {
+              "rank": 5,
+              "name": "Hatch End Lawn Tennis Club 3",
+              "played": 5,
+              "won": 3,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "54-42",
+              "points": 54,
+              "form": [
+                "W",
+                "W",
+                "W",
+                "L"
               ]
             },
             {
@@ -2487,6 +2488,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 7,
+              "name": "Wembley & Sudbury Lawn Tennis Squash & Social Cl 1",
+              "played": 6,
+              "won": 1,
+              "drawn": 1,
+              "lost": 3,
+              "rubbers": "50-70",
+              "points": 50,
+              "form": [
+                "L",
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 8,
               "name": "Harrow Lawn Tennis Club 4",
               "played": 5,
               "won": 1,
@@ -2501,32 +2518,16 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 8,
+              "rank": 9,
               "name": "Pinner Lawn Tennis Club 5",
-              "played": 6,
+              "played": 7,
               "won": 0,
               "drawn": 0,
-              "lost": 6,
-              "rubbers": "31-113",
-              "points": 31,
+              "lost": 7,
+              "rubbers": "33-135",
+              "points": 33,
               "form": [
                 "L",
-                "L",
-                "L",
-                "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 9,
-              "name": "Wembley & Sudbury Lawn Tennis Squash & Social Cl 1",
-              "played": 5,
-              "won": 0,
-              "drawn": 1,
-              "lost": 4,
-              "rubbers": "28-77",
-              "points": 28,
-              "form": [
                 "L",
                 "L",
                 "L",
@@ -2559,7 +2560,7 @@ window.__RESULTS__ = {
             {
               "home": "Hatch End Lawn Tennis Club 3",
               "away": "Wembley & Sudbury Lawn Tennis Squash & Social Cl 1",
-              "hs": 24,
+              "hs": 0,
               "as": 0,
               "date": "Fri 08/05/2026"
             },
@@ -2713,8 +2714,8 @@ window.__RESULTS__ = {
             {
               "home": "Wembley & Sudbury Lawn Tennis Squash & Social Cl 1",
               "away": "Pinner Lawn Tennis Club 5",
-              "hs": null,
-              "as": null,
+              "hs": 22,
+              "as": 2,
               "date": "Tue 07/07/2026"
             },
             {
