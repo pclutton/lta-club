@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-08T20:25:10.881Z",
+  "generatedAt": "2026-07-08T22:12:27.267Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -2907,6 +2907,23 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "The Hurlingham Club 1",
+              "played": 5,
+              "won": 4,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "86-34",
+              "points": 86,
+              "form": [
+                "W",
+                "W",
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Pinner Lawn Tennis Club 1",
               "played": 5,
               "won": 3,
@@ -2922,7 +2939,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
+              "rank": 3,
               "name": "Virgin Active Chiswick Riverside 1",
               "played": 5,
               "won": 2,
@@ -2933,22 +2950,6 @@ window.__RESULTS__ = {
               "form": [
                 "L",
                 "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 3,
-              "name": "The Hurlingham Club 1",
-              "played": 4,
-              "won": 3,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "64-32",
-              "points": 64,
-              "form": [
-                "W",
-                "W",
-                "L",
                 "W"
               ]
             },
@@ -3005,17 +3006,18 @@ window.__RESULTS__ = {
             {
               "rank": 7,
               "name": "Wayfarers LTC 1",
-              "played": 4,
+              "played": 5,
               "won": 2,
               "drawn": 0,
-              "lost": 2,
-              "rubbers": "56-40",
-              "points": 56,
+              "lost": 3,
+              "rubbers": "58-62",
+              "points": 58,
               "form": [
                 "W",
                 "L",
                 "L",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -3166,8 +3168,8 @@ window.__RESULTS__ = {
             {
               "home": "Wayfarers LTC 1",
               "away": "The Hurlingham Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 2,
+              "as": 22,
               "date": "Mon 06/07/2026"
             },
             {
@@ -4121,7 +4123,7 @@ window.__RESULTS__ = {
           "division": "West Division 3",
           "pscName": "Paddington Sports Club 2",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/20",
-          "position": 1,
+          "position": 2,
           "of": 8,
           "played": 4,
           "won": 3,
@@ -4135,6 +4137,22 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Old Actonians Association Tennis Club 1",
+              "played": 5,
+              "won": 3,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "74-46",
+              "points": 74,
+              "form": [
+                "W",
+                "W",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Paddington Sports Club 2",
               "played": 4,
               "won": 3,
@@ -4149,7 +4167,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
+              "rank": 3,
               "name": "Ealing Lawn Tennis Club 4",
               "played": 6,
               "won": 3,
@@ -4165,7 +4183,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "The Lensbury Club 2",
               "played": 6,
               "won": 2,
@@ -4181,7 +4199,23 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
+              "name": "Thistleworth LTC 1",
+              "played": 5,
+              "won": 2,
+              "drawn": 1,
+              "lost": 2,
+              "rubbers": "62-58",
+              "points": 62,
+              "form": [
+                "W",
+                "L",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 6,
               "name": "Hartswood Lawn Tennis Club Ltd 2",
               "played": 5,
               "won": 3,
@@ -4195,36 +4229,6 @@ window.__RESULTS__ = {
                 "W",
                 "W",
                 "W"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "Thistleworth LTC 1",
-              "played": 4,
-              "won": 2,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "58-38",
-              "points": 58,
-              "form": [
-                "W",
-                "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "Old Actonians Association Tennis Club 1",
-              "played": 4,
-              "won": 2,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "54-42",
-              "points": 54,
-              "form": [
-                "W",
-                "W",
-                "L"
               ]
             },
             {
@@ -4388,8 +4392,8 @@ window.__RESULTS__ = {
             {
               "home": "Old Actonians Association Tennis Club 1",
               "away": "Thistleworth LTC 1",
-              "hs": null,
-              "as": null,
+              "hs": 20,
+              "as": 4,
               "date": "Wed 08/07/2026"
             },
             {
