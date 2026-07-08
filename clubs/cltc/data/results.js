@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-08T14:22:47.099Z",
+  "generatedAt": "2026-07-08T17:41:31.845Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -2371,7 +2371,7 @@ window.__RESULTS__ = {
           "division": "",
           "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/20",
-          "position": 3,
+          "position": 4,
           "of": 7,
           "played": 5,
           "won": 3,
@@ -2404,6 +2404,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Coolhurst LTC 1",
+              "played": 5,
+              "won": 3,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "66-34",
+              "points": 6,
+              "form": [
+                "L",
+                "W",
+                "W",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "David Lloyd Club Finchley 1",
               "played": 5,
               "won": 3,
@@ -2420,7 +2437,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "played": 5,
               "won": 3,
@@ -2434,22 +2451,6 @@ window.__RESULTS__ = {
                 "W",
                 "L",
                 "W"
-              ]
-            },
-            {
-              "rank": 4,
-              "name": "Coolhurst LTC 1",
-              "played": 4,
-              "won": 2,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "46-34",
-              "points": 4,
-              "form": [
-                "L",
-                "W",
-                "W",
-                "L"
               ]
             },
             {
@@ -2487,13 +2488,14 @@ window.__RESULTS__ = {
             {
               "rank": 7,
               "name": "Temple Fortune Club 1",
-              "played": 3,
+              "played": 4,
               "won": 0,
               "drawn": 0,
-              "lost": 3,
-              "rubbers": "6-54",
+              "lost": 4,
+              "rubbers": "6-74",
               "points": 0,
               "form": [
+                "L",
                 "L",
                 "L",
                 "L"
@@ -2637,8 +2639,8 @@ window.__RESULTS__ = {
             {
               "home": "Temple Fortune Club 1",
               "away": "Coolhurst LTC 1",
-              "hs": null,
-              "as": null,
+              "hs": 0,
+              "as": 20,
               "date": "Sun 12/07/2026"
             },
             {
@@ -6178,29 +6180,31 @@ window.__RESULTS__ = {
             {
               "rank": 4,
               "name": "Temple Fortune 1",
-              "played": 3,
+              "played": 4,
               "won": 3,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "46-26",
-              "points": 46,
+              "lost": 1,
+              "rubbers": "54-42",
+              "points": 54,
               "form": [
                 "W",
                 "W",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
               "rank": 5,
               "name": "Totteridge 2",
-              "played": 3,
-              "won": 1,
+              "played": 4,
+              "won": 2,
               "drawn": 1,
               "lost": 1,
-              "rubbers": "34-38",
-              "points": 34,
+              "rubbers": "50-46",
+              "points": 50,
               "form": [
                 "L",
+                "W",
                 "W"
               ]
             },
@@ -6373,8 +6377,8 @@ window.__RESULTS__ = {
             {
               "home": "Temple Fortune 1",
               "away": "Totteridge 2",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 16,
               "date": "Tue 07/07/2026"
             },
             {
