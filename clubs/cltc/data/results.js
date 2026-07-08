@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-08T17:41:31.845Z",
+  "generatedAt": "2026-07-08T20:24:37.473Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -1880,32 +1880,34 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
-              "name": "Highgate Cricket and Lawn Tennis Club 1",
-              "played": 3,
-              "won": 1,
+              "name": "Broomfield Park 1",
+              "played": 5,
+              "won": 2,
               "drawn": 0,
-              "lost": 2,
-              "rubbers": "12-24",
-              "points": 2,
+              "lost": 3,
+              "rubbers": "26-34",
+              "points": 4,
               "form": [
                 "L",
+                "L",
+                "W",
                 "W",
                 "L"
               ]
             },
             {
               "rank": 5,
-              "name": "Broomfield Park 1",
+              "name": "Highgate Cricket and Lawn Tennis Club 1",
               "played": 4,
               "won": 1,
               "drawn": 0,
               "lost": 3,
-              "rubbers": "14-34",
+              "rubbers": "12-36",
               "points": 2,
               "form": [
                 "L",
-                "L",
                 "W",
+                "L",
                 "L"
               ]
             },
@@ -2057,8 +2059,8 @@ window.__RESULTS__ = {
             {
               "home": "Broomfield Park 1",
               "away": "Highgate Cricket and Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 0,
               "date": "Sat 04/07/2026"
             },
             {
