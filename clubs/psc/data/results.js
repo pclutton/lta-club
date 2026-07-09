@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-09T18:00:26.816Z",
+  "generatedAt": "2026-07-09T20:50:50.224Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -2439,14 +2439,13 @@ window.__RESULTS__ = {
             {
               "rank": 4,
               "name": "Greenford Tennis Club 1",
-              "played": 5,
+              "played": 6,
               "won": 2,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 3,
-              "rubbers": "65-55",
-              "points": 65,
+              "rubbers": "77-67",
+              "points": 77,
               "form": [
-                "W",
                 "L",
                 "L",
                 "L",
@@ -2455,6 +2454,20 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
+              "name": "Harrow Lawn Tennis Club 4",
+              "played": 6,
+              "won": 1,
+              "drawn": 3,
+              "lost": 2,
+              "rubbers": "58-86",
+              "points": 58,
+              "form": [
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 6,
               "name": "Hatch End Lawn Tennis Club 3",
               "played": 5,
               "won": 3,
@@ -2470,7 +2483,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 6,
+              "rank": 7,
               "name": "Lowlands Club 4",
               "played": 5,
               "won": 3,
@@ -2487,7 +2500,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 7,
+              "rank": 8,
               "name": "Wembley & Sudbury Lawn Tennis Squash & Social Cl 1",
               "played": 6,
               "won": 1,
@@ -2500,21 +2513,6 @@ window.__RESULTS__ = {
                 "L",
                 "L",
                 "W"
-              ]
-            },
-            {
-              "rank": 8,
-              "name": "Harrow Lawn Tennis Club 4",
-              "played": 5,
-              "won": 1,
-              "drawn": 2,
-              "lost": 2,
-              "rubbers": "46-74",
-              "points": 46,
-              "form": [
-                "L",
-                "W",
-                "L"
               ]
             },
             {
@@ -2721,8 +2719,8 @@ window.__RESULTS__ = {
             {
               "home": "Harrow Lawn Tennis Club 4",
               "away": "Greenford Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 12,
               "date": "Thu 09/07/2026"
             },
             {
