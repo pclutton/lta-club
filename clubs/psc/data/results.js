@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-09T09:52:17.284Z",
+  "generatedAt": "2026-07-09T15:18:25.098Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "matches": 275,
-      "players": 108,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
@@ -2373,17 +2373,17 @@ window.__RESULTS__ = {
           "division": "North West Division 5",
           "pscName": "Paddington Sports Club 4",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/4",
-          "position": 2,
+          "position": 3,
           "of": 9,
-          "played": 5,
+          "played": 6,
           "won": 3,
-          "lost": 1,
-          "points": 82,
+          "lost": 2,
+          "points": 88,
           "form": [
-            "W",
             "L",
             "W",
-            "W"
+            "W",
+            "L"
           ],
           "standings": [
             {
@@ -2405,14 +2405,15 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
-              "name": "Paddington Sports Club 4",
-              "played": 5,
-              "won": 3,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "82-38",
-              "points": 82,
+              "name": "Harrow Baptist Tennis Club 1",
+              "played": 6,
+              "won": 4,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "94-50",
+              "points": 94,
               "form": [
+                "L",
                 "W",
                 "L",
                 "W",
@@ -2421,19 +2422,18 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
-              "name": "Harrow Baptist Tennis Club 1",
-              "played": 5,
+              "name": "Paddington Sports Club 4",
+              "played": 6,
               "won": 3,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 2,
-              "rubbers": "76-44",
-              "points": 76,
+              "rubbers": "88-56",
+              "points": 88,
               "form": [
-                "W",
                 "L",
                 "W",
-                "L",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -2707,8 +2707,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 4",
               "away": "Harrow Baptist Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 6,
+              "as": 18,
               "date": "Tue 07/07/2026"
             },
             {

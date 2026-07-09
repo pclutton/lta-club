@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-09T09:50:46.728Z",
+  "generatedAt": "2026-07-09T15:17:53.638Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 20,
-      "matches": 418,
-      "players": 157,
-      "stale": 0
+      "refreshed": 20,
+      "failed": 0
     },
     "competitions": [
       {
@@ -58,12 +58,12 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/22",
           "position": 1,
           "of": 4,
-          "played": 5,
-          "won": 4,
+          "played": 6,
+          "won": 5,
           "lost": 1,
-          "points": 8,
+          "points": 10,
           "form": [
-            "L",
+            "W",
             "W",
             "W",
             "W",
@@ -73,14 +73,14 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "played": 5,
-              "won": 4,
+              "played": 6,
+              "won": 5,
               "drawn": 0,
               "lost": 1,
-              "rubbers": "44-16",
-              "points": 8,
+              "rubbers": "54-18",
+              "points": 10,
               "form": [
-                "L",
+                "W",
                 "W",
                 "W",
                 "W",
@@ -124,13 +124,14 @@ window.__RESULTS__ = {
             {
               "rank": 4,
               "name": "Hazelwood Lawn Tennis & Squash Club 1",
-              "played": 4,
+              "played": 5,
               "won": 0,
               "drawn": 0,
-              "lost": 4,
-              "rubbers": "4-44",
+              "lost": 5,
+              "rubbers": "6-54",
               "points": 0,
               "form": [
+                "L",
                 "L",
                 "L",
                 "L",
@@ -219,8 +220,8 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "away": "Hazelwood Lawn Tennis & Squash Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 10,
+              "as": 2,
               "date": "Sat 04/07/2026"
             }
           ],
@@ -1823,13 +1824,14 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/21",
           "position": 3,
           "of": 7,
-          "played": 3,
-          "won": 2,
+          "played": 4,
+          "won": 3,
           "lost": 1,
-          "points": 4,
+          "points": 6,
           "form": [
             "W",
             "L",
+            "W",
             "W",
             "W"
           ],
@@ -1871,15 +1873,16 @@ window.__RESULTS__ = {
             {
               "rank": 3,
               "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "played": 3,
-              "won": 2,
+              "played": 4,
+              "won": 3,
               "drawn": 0,
               "lost": 1,
-              "rubbers": "16-20",
-              "points": 4,
+              "rubbers": "28-20",
+              "points": 6,
               "form": [
                 "W",
                 "L",
+                "W",
                 "W",
                 "W"
               ]
@@ -1904,15 +1907,16 @@ window.__RESULTS__ = {
             {
               "rank": 5,
               "name": "Highgate Cricket and Lawn Tennis Club 1",
-              "played": 4,
+              "played": 5,
               "won": 1,
               "drawn": 0,
-              "lost": 3,
-              "rubbers": "12-36",
+              "lost": 4,
+              "rubbers": "12-48",
               "points": 2,
               "form": [
                 "L",
                 "W",
+                "L",
                 "L",
                 "L"
               ]
@@ -2016,8 +2020,8 @@ window.__RESULTS__ = {
             {
               "home": "Highgate Cricket and Lawn Tennis Club 1",
               "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "hs": null,
-              "as": null,
+              "hs": 0,
+              "as": 12,
               "date": "Sat 30/05/2026"
             },
             {
@@ -6130,16 +6134,17 @@ window.__RESULTS__ = {
           "division": "North East Division 2",
           "pscName": "Cumberland 4",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/67",
-          "position": 3,
+          "position": 2,
           "of": 8,
-          "played": 3,
-          "won": 2,
+          "played": 4,
+          "won": 3,
           "lost": 1,
-          "points": 56,
+          "points": 76,
           "form": [
             "W",
             "W",
-            "L"
+            "L",
+            "W"
           ],
           "standings": [
             {
@@ -6161,6 +6166,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Cumberland 4",
+              "played": 4,
+              "won": 3,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "76-20",
+              "points": 76,
+              "form": [
+                "W",
+                "W",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "David Lloyd Finchley 2",
               "played": 5,
               "won": 3,
@@ -6171,21 +6192,6 @@ window.__RESULTS__ = {
               "form": [
                 "W",
                 "L",
-                "W",
-                "W",
-                "L"
-              ]
-            },
-            {
-              "rank": 3,
-              "name": "Cumberland 4",
-              "played": 3,
-              "won": 2,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "56-16",
-              "points": 56,
-              "form": [
                 "W",
                 "W",
                 "L"
@@ -6225,15 +6231,16 @@ window.__RESULTS__ = {
             {
               "rank": 6,
               "name": "Chandos 3",
-              "played": 3,
+              "played": 4,
               "won": 1,
               "drawn": 1,
-              "lost": 1,
-              "rubbers": "33-39",
-              "points": 33,
+              "lost": 2,
+              "rubbers": "37-59",
+              "points": 37,
               "form": [
                 "L",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -6384,8 +6391,8 @@ window.__RESULTS__ = {
             {
               "home": "Chandos 3",
               "away": "Cumberland 4",
-              "hs": null,
-              "as": null,
+              "hs": 4,
+              "as": 20,
               "date": "Mon 06/07/2026"
             },
             {
