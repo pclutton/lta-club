@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-09T20:50:16.766Z",
+  "generatedAt": "2026-07-09T22:26:16.218Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -3596,7 +3596,7 @@ window.__RESULTS__ = {
           "division": "East Intermediate",
           "pscName": "Cumberland 3",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/7",
-          "position": 3,
+          "position": 5,
           "of": 7,
           "played": 3,
           "won": 2,
@@ -3642,6 +3642,38 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Hazelwood 2",
+              "played": 5,
+              "won": 2,
+              "drawn": 0,
+              "lost": 3,
+              "rubbers": "50-70",
+              "points": 50,
+              "form": [
+                "L",
+                "W",
+                "L",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 4,
+              "name": "Hackney 1",
+              "played": 3,
+              "won": 3,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "48-24",
+              "points": 48,
+              "form": [
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Cumberland 3",
               "played": 3,
               "won": 2,
@@ -3652,36 +3684,6 @@ window.__RESULTS__ = {
               "form": [
                 "W",
                 "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 4,
-              "name": "Hazelwood 2",
-              "played": 4,
-              "won": 2,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "44-52",
-              "points": 44,
-              "form": [
-                "L",
-                "W",
-                "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "Hackney 1",
-              "played": 2,
-              "won": 2,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "30-18",
-              "points": 30,
-              "form": [
-                "W",
                 "W"
               ]
             },
@@ -3810,8 +3812,8 @@ window.__RESULTS__ = {
             {
               "home": "Hazelwood 2",
               "away": "Hackney 1",
-              "hs": null,
-              "as": null,
+              "hs": 6,
+              "as": 18,
               "date": "Thu 09/07/2026"
             },
             {
