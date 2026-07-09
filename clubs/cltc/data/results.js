@@ -2,43 +2,43 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-08T22:11:54.026Z",
+  "generatedAt": "2026-07-09T09:50:46.728Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 20,
-      "refreshed": 20,
-      "failed": 0
+      "matches": 418,
+      "players": 157,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-07-08"
+        "asOf": "2026-07-09"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-07-08"
+        "asOf": "2026-07-09"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-07-08"
+        "asOf": "2026-07-09"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-07-08"
+        "asOf": "2026-07-09"
       }
     ]
   },
@@ -47,8 +47,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-07-08",
-      "asOf": "2026-07-08",
+      "lastSeen": "2026-07-09",
+      "asOf": "2026-07-09",
       "stale": false,
       "teams": [
         {
@@ -1785,6 +1785,12 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1379"
             },
             {
+              "name": "MARTYNA MICHALAK",
+              "won": 2,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1991"
+            },
+            {
               "name": "Shanaya Massey",
               "won": 2,
               "lost": 0,
@@ -2718,8 +2724,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-07-08",
-      "asOf": "2026-07-08",
+      "lastSeen": "2026-07-09",
+      "asOf": "2026-07-09",
       "stale": false,
       "teams": [
         {
@@ -3964,32 +3970,32 @@ window.__RESULTS__ = {
             {
               "rank": 2,
               "name": "Finchley Manor Tennis Squash and Health Club 2",
-              "played": 6,
-              "won": 4,
+              "played": 7,
+              "won": 5,
               "drawn": 0,
               "lost": 2,
-              "rubbers": "89-55",
-              "points": 89,
+              "rubbers": "107-61",
+              "points": 107,
               "form": [
-                "L",
                 "W",
                 "W",
                 "L",
+                "W",
                 "W"
               ]
             },
             {
               "rank": 3,
-              "name": "Coolhurst LTC 2",
-              "played": 5,
-              "won": 4,
+              "name": "Chandos Lawn Tennis Club 2",
+              "played": 6,
+              "won": 6,
               "drawn": 0,
-              "lost": 1,
-              "rubbers": "84-36",
-              "points": 84,
+              "lost": 0,
+              "rubbers": "105-39",
+              "points": 105,
               "form": [
                 "W",
-                "L",
+                "W",
                 "W",
                 "W",
                 "W"
@@ -3997,22 +4003,40 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
-              "name": "West Heath Lawn Tennis Club Limited 1",
-              "played": 4,
-              "won": 3,
+              "name": "Coolhurst LTC 2",
+              "played": 6,
+              "won": 4,
               "drawn": 0,
-              "lost": 1,
-              "rubbers": "66-30",
-              "points": 66,
+              "lost": 2,
+              "rubbers": "92-52",
+              "points": 92,
               "form": [
-                "W",
                 "L",
                 "W",
-                "W"
+                "W",
+                "W",
+                "L"
               ]
             },
             {
               "rank": 5,
+              "name": "West Heath Lawn Tennis Club Limited 1",
+              "played": 5,
+              "won": 3,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "72-48",
+              "points": 72,
+              "form": [
+                "W",
+                "L",
+                "W",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 6,
               "name": "Totteridge Tennis Club 1",
               "played": 6,
               "won": 2,
@@ -4025,22 +4049,6 @@ window.__RESULTS__ = {
                 "W",
                 "L",
                 "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "Chandos Lawn Tennis Club 2",
-              "played": 4,
-              "won": 4,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "65-31",
-              "points": 65,
-              "form": [
-                "W",
-                "W",
-                "W",
                 "W"
               ]
             },
@@ -4081,13 +4089,14 @@ window.__RESULTS__ = {
             {
               "rank": 9,
               "name": "Brampton Lawn Tennis Club 1",
-              "played": 3,
+              "played": 4,
               "won": 0,
               "drawn": 0,
-              "lost": 3,
-              "rubbers": "14-58",
+              "lost": 4,
+              "rubbers": "14-82",
               "points": 14,
               "form": [
+                "L",
                 "L",
                 "L",
                 "L"
@@ -4259,8 +4268,8 @@ window.__RESULTS__ = {
             {
               "home": "Coolhurst LTC 2",
               "away": "Chandos Lawn Tennis Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 16,
               "date": "Tue 30/06/2026"
             },
             {
@@ -4280,15 +4289,15 @@ window.__RESULTS__ = {
             {
               "home": "Finchley Manor Tennis Squash and Health Club 2",
               "away": "West Heath Lawn Tennis Club Limited 1",
-              "hs": null,
-              "as": null,
+              "hs": 18,
+              "as": 6,
               "date": "Wed 08/07/2026"
             },
             {
               "home": "Chandos Lawn Tennis Club 2",
               "away": "Brampton Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 24,
+              "as": 0,
               "date": "Wed 08/07/2026"
             },
             {
@@ -4482,32 +4491,32 @@ window.__RESULTS__ = {
             {
               "rank": 2,
               "name": "Finchley Manor Tennis Squash and Health Club 2",
-              "played": 6,
-              "won": 4,
+              "played": 7,
+              "won": 5,
               "drawn": 0,
               "lost": 2,
-              "rubbers": "89-55",
-              "points": 89,
+              "rubbers": "107-61",
+              "points": 107,
               "form": [
-                "L",
                 "W",
                 "W",
                 "L",
+                "W",
                 "W"
               ]
             },
             {
               "rank": 3,
-              "name": "Coolhurst LTC 2",
-              "played": 5,
-              "won": 4,
+              "name": "Chandos Lawn Tennis Club 2",
+              "played": 6,
+              "won": 6,
               "drawn": 0,
-              "lost": 1,
-              "rubbers": "84-36",
-              "points": 84,
+              "lost": 0,
+              "rubbers": "105-39",
+              "points": 105,
               "form": [
                 "W",
-                "L",
+                "W",
                 "W",
                 "W",
                 "W"
@@ -4515,22 +4524,40 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
-              "name": "West Heath Lawn Tennis Club Limited 1",
-              "played": 4,
-              "won": 3,
+              "name": "Coolhurst LTC 2",
+              "played": 6,
+              "won": 4,
               "drawn": 0,
-              "lost": 1,
-              "rubbers": "66-30",
-              "points": 66,
+              "lost": 2,
+              "rubbers": "92-52",
+              "points": 92,
               "form": [
-                "W",
                 "L",
                 "W",
-                "W"
+                "W",
+                "W",
+                "L"
               ]
             },
             {
               "rank": 5,
+              "name": "West Heath Lawn Tennis Club Limited 1",
+              "played": 5,
+              "won": 3,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "72-48",
+              "points": 72,
+              "form": [
+                "W",
+                "L",
+                "W",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 6,
               "name": "Totteridge Tennis Club 1",
               "played": 6,
               "won": 2,
@@ -4543,22 +4570,6 @@ window.__RESULTS__ = {
                 "W",
                 "L",
                 "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "Chandos Lawn Tennis Club 2",
-              "played": 4,
-              "won": 4,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "65-31",
-              "points": 65,
-              "form": [
-                "W",
-                "W",
-                "W",
                 "W"
               ]
             },
@@ -4599,13 +4610,14 @@ window.__RESULTS__ = {
             {
               "rank": 9,
               "name": "Brampton Lawn Tennis Club 1",
-              "played": 3,
+              "played": 4,
               "won": 0,
               "drawn": 0,
-              "lost": 3,
-              "rubbers": "14-58",
+              "lost": 4,
+              "rubbers": "14-82",
               "points": 14,
               "form": [
+                "L",
                 "L",
                 "L",
                 "L"
@@ -4777,8 +4789,8 @@ window.__RESULTS__ = {
             {
               "home": "Coolhurst LTC 2",
               "away": "Chandos Lawn Tennis Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 16,
               "date": "Tue 30/06/2026"
             },
             {
@@ -4798,15 +4810,15 @@ window.__RESULTS__ = {
             {
               "home": "Finchley Manor Tennis Squash and Health Club 2",
               "away": "West Heath Lawn Tennis Club Limited 1",
-              "hs": null,
-              "as": null,
+              "hs": 18,
+              "as": 6,
               "date": "Wed 08/07/2026"
             },
             {
               "home": "Chandos Lawn Tennis Club 2",
               "away": "Brampton Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 24,
+              "as": 0,
               "date": "Wed 08/07/2026"
             },
             {
@@ -6537,8 +6549,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "current",
-      "lastSeen": "2026-07-08",
-      "asOf": "2026-07-08",
+      "lastSeen": "2026-07-09",
+      "asOf": "2026-07-09",
       "stale": false,
       "teams": [
         {
@@ -6979,8 +6991,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-07-08",
-      "asOf": "2026-07-08",
+      "lastSeen": "2026-07-09",
+      "asOf": "2026-07-09",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -7669,6 +7681,13 @@ window.__RESULTS__ = {
     {
       "name": "Logan Mair",
       "url": "https://competitions.lta.org.uk/league/3057a6b7-c664-4833-a537-3321aadcba44/player/649",
+      "won": 2,
+      "lost": 0,
+      "played": 2
+    },
+    {
+      "name": "MARTYNA MICHALAK",
+      "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1991",
       "won": 2,
       "lost": 0,
       "played": 2
