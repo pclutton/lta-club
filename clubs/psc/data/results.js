@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-10T14:36:22.212Z",
+  "generatedAt": "2026-07-10T17:51:21.951Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -3390,6 +3390,23 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Teddington Lawn Tennis Club 3",
+              "played": 5,
+              "won": 4,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "84-32",
+              "points": 84,
+              "form": [
+                "W",
+                "W",
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Headstone Lawn Tennis Club 1",
               "played": 4,
               "won": 4,
@@ -3401,22 +3418,6 @@ window.__RESULTS__ = {
                 "W",
                 "W",
                 "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 2,
-              "name": "Teddington Lawn Tennis Club 3",
-              "played": 4,
-              "won": 3,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "68-28",
-              "points": 68,
-              "form": [
-                "W",
-                "W",
-                "L",
                 "W"
               ]
             },
@@ -3503,13 +3504,14 @@ window.__RESULTS__ = {
             {
               "rank": 8,
               "name": "Pinner West End Lawn Tennis Club 1",
-              "played": 4,
+              "played": 5,
               "won": 0,
               "drawn": 0,
-              "lost": 4,
-              "rubbers": "24-72",
-              "points": 24,
+              "lost": 5,
+              "rubbers": "28-88",
+              "points": 28,
               "form": [
+                "L",
                 "L",
                 "L",
                 "L",
@@ -3647,8 +3649,8 @@ window.__RESULTS__ = {
             {
               "home": "Pinner West End Lawn Tennis Club 1",
               "away": "Teddington Lawn Tennis Club 3",
-              "hs": null,
-              "as": null,
+              "hs": 4,
+              "as": 16,
               "date": "Thu 09/07/2026"
             },
             {

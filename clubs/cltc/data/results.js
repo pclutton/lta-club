@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-10T14:35:47.360Z",
+  "generatedAt": "2026-07-10T17:50:47.996Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -4151,17 +4151,17 @@ window.__RESULTS__ = {
               "date": "Thu 07/05/2026"
             },
             {
-              "home": "Brampton Lawn Tennis Club 1",
-              "away": "West Heath Lawn Tennis Club Limited 1",
-              "hs": 2,
-              "as": 22,
-              "date": "Thu 07/05/2026"
-            },
-            {
               "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 4",
               "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 5",
               "hs": 22,
               "as": 2,
+              "date": "Thu 07/05/2026"
+            },
+            {
+              "home": "Brampton Lawn Tennis Club 1",
+              "away": "West Heath Lawn Tennis Club Limited 1",
+              "hs": 2,
+              "as": 22,
               "date": "Thu 07/05/2026"
             },
             {
@@ -4226,13 +4226,6 @@ window.__RESULTS__ = {
               "hs": 14,
               "as": 10,
               "date": "Wed 10/06/2026"
-            },
-            {
-              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 5",
-              "away": "Brampton Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Thu 11/06/2026"
             },
             {
               "home": "Chandos Lawn Tennis Club 2",
@@ -4331,6 +4324,13 @@ window.__RESULTS__ = {
               "hs": null,
               "as": null,
               "date": "Fri 17/07/2026"
+            },
+            {
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 5",
+              "away": "Brampton Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Mon 20/07/2026"
             },
             {
               "home": "Totteridge Tennis Club 1",
@@ -4672,17 +4672,17 @@ window.__RESULTS__ = {
               "date": "Thu 07/05/2026"
             },
             {
-              "home": "Brampton Lawn Tennis Club 1",
-              "away": "West Heath Lawn Tennis Club Limited 1",
-              "hs": 2,
-              "as": 22,
-              "date": "Thu 07/05/2026"
-            },
-            {
               "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 4",
               "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 5",
               "hs": 22,
               "as": 2,
+              "date": "Thu 07/05/2026"
+            },
+            {
+              "home": "Brampton Lawn Tennis Club 1",
+              "away": "West Heath Lawn Tennis Club Limited 1",
+              "hs": 2,
+              "as": 22,
               "date": "Thu 07/05/2026"
             },
             {
@@ -4747,13 +4747,6 @@ window.__RESULTS__ = {
               "hs": 14,
               "as": 10,
               "date": "Wed 10/06/2026"
-            },
-            {
-              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 5",
-              "away": "Brampton Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Thu 11/06/2026"
             },
             {
               "home": "Chandos Lawn Tennis Club 2",
@@ -4852,6 +4845,13 @@ window.__RESULTS__ = {
               "hs": null,
               "as": null,
               "date": "Fri 17/07/2026"
+            },
+            {
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 5",
+              "away": "Brampton Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Mon 20/07/2026"
             },
             {
               "home": "Totteridge Tennis Club 1",
