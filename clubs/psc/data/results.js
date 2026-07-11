@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-11T08:06:54.000Z",
+  "generatedAt": "2026-07-11T13:28:03.052Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "matches": 275,
-      "players": 111,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
@@ -3390,6 +3390,22 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Headstone Lawn Tennis Club 1",
+              "played": 5,
+              "won": 4,
+              "drawn": 1,
+              "lost": 0,
+              "rubbers": "94-26",
+              "points": 94,
+              "form": [
+                "W",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Teddington Lawn Tennis Club 3",
               "played": 5,
               "won": 4,
@@ -3406,30 +3422,14 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
-              "name": "Headstone Lawn Tennis Club 1",
-              "played": 4,
-              "won": 4,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "82-14",
-              "points": 82,
-              "form": [
-                "W",
-                "W",
-                "W",
-                "W"
-              ]
-            },
-            {
               "rank": 3,
               "name": "Harrow Lawn Tennis Club 2",
-              "played": 4,
+              "played": 5,
               "won": 3,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 1,
-              "rubbers": "58-38",
-              "points": 58,
+              "rubbers": "70-50",
+              "points": 70,
               "form": [
                 "L",
                 "W",
@@ -3656,8 +3656,8 @@ window.__RESULTS__ = {
             {
               "home": "Harrow Lawn Tennis Club 2",
               "away": "Headstone Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 12,
               "date": "Fri 10/07/2026"
             },
             {
