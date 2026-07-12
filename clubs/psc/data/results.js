@@ -2,37 +2,37 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-11T21:55:13.603Z",
+  "generatedAt": "2026-07-12T08:27:54.760Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 275,
+      "players": 110,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-07-11"
+        "asOf": "2026-07-12"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-07-11"
+        "asOf": "2026-07-12"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-07-11"
+        "asOf": "2026-07-12"
       }
     ]
   },
@@ -41,8 +41,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-07-11",
-      "asOf": "2026-07-11",
+      "lastSeen": "2026-07-12",
+      "asOf": "2026-07-12",
       "stale": false,
       "teams": [
         {
@@ -1067,8 +1067,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-07-11",
-      "asOf": "2026-07-11",
+      "lastSeen": "2026-07-12",
+      "asOf": "2026-07-12",
       "stale": false,
       "teams": [
         {
@@ -2301,16 +2301,16 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/979"
             },
             {
+              "name": "Jacky Yu",
+              "won": 3,
+              "lost": 3,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5742"
+            },
+            {
               "name": "Tom Sharples",
               "won": 3,
               "lost": 6,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/981"
-            },
-            {
-              "name": "Jacky Yu",
-              "won": 2,
-              "lost": 1,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5742"
             },
             {
               "name": "Patrick Ryan",
@@ -2349,16 +2349,16 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/612"
             },
             {
-              "name": "Jackie Yu",
-              "won": 1,
-              "lost": 2,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5156"
-            },
-            {
               "name": "Oscar Garland",
               "won": 1,
               "lost": 2,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5158"
+            },
+            {
+              "name": "Jackie Yu",
+              "won": 0,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5156"
             },
             {
               "name": "Thurai Sitham",
@@ -4553,8 +4553,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-07-11",
-      "asOf": "2026-07-11",
+      "lastSeen": "2026-07-12",
+      "asOf": "2026-07-12",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -4947,6 +4947,13 @@ window.__RESULTS__ = {
       "played": 6
     },
     {
+      "name": "Jacky Yu",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5742",
+      "won": 3,
+      "lost": 3,
+      "played": 6
+    },
+    {
       "name": "Jens Vanbrabant",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5034",
       "won": 3,
@@ -5047,13 +5054,6 @@ window.__RESULTS__ = {
     {
       "name": "Elda Boyle",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6014",
-      "won": 2,
-      "lost": 1,
-      "played": 3
-    },
-    {
-      "name": "Jacky Yu",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5742",
       "won": 2,
       "lost": 1,
       "played": 3
@@ -5187,13 +5187,6 @@ window.__RESULTS__ = {
     {
       "name": "Izabella Repakis",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4444",
-      "won": 1,
-      "lost": 2,
-      "played": 3
-    },
-    {
-      "name": "Jackie Yu",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5156",
       "won": 1,
       "lost": 2,
       "played": 3
