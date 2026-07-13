@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-13T20:19:41.319Z",
+  "generatedAt": "2026-07-13T22:01:20.401Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -3801,7 +3801,7 @@ window.__RESULTS__ = {
           "division": "North West Division 2",
           "pscName": "Paddington Sports Club 4",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/34",
-          "position": 3,
+          "position": 4,
           "of": 7,
           "played": 4,
           "won": 1,
@@ -3814,6 +3814,23 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Wayfarers LTC 2",
+              "played": 5,
+              "won": 3,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "73-47",
+              "points": 73,
+              "form": [
+                "W",
+                "L",
+                "W",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Kenton Lawn Tennis Club 1",
               "played": 4,
               "won": 3,
@@ -3829,23 +3846,22 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
-              "name": "Wayfarers LTC 2",
+              "rank": 3,
+              "name": "David Lloyd Club Northwood 2",
               "played": 4,
               "won": 2,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "53-43",
-              "points": 53,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "50-46",
+              "points": 50,
               "form": [
                 "W",
-                "L",
                 "W",
                 "L"
               ]
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "Paddington Sports Club 4",
               "played": 4,
               "won": 1,
@@ -3855,20 +3871,6 @@ window.__RESULTS__ = {
               "points": 48,
               "form": [
                 "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 4,
-              "name": "David Lloyd Club Northwood 2",
-              "played": 3,
-              "won": 2,
-              "drawn": 1,
-              "lost": 0,
-              "rubbers": "46-26",
-              "points": 46,
-              "form": [
-                "W",
                 "W"
               ]
             },
@@ -4007,8 +4009,8 @@ window.__RESULTS__ = {
             {
               "home": "Wayfarers LTC 2",
               "away": "David Lloyd Club Northwood 2",
-              "hs": null,
-              "as": null,
+              "hs": 20,
+              "as": 4,
               "date": "Mon 13/07/2026"
             },
             {
