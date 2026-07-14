@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-14T08:18:34.452Z",
+  "generatedAt": "2026-07-14T13:52:32.529Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 20,
-      "matches": 418,
-      "players": 161,
-      "stale": 0
+      "refreshed": 20,
+      "failed": 0
     },
     "competitions": [
       {
@@ -2395,17 +2395,17 @@ window.__RESULTS__ = {
           "division": "",
           "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/20",
-          "position": 4,
+          "position": 2,
           "of": 7,
-          "played": 5,
-          "won": 3,
+          "played": 6,
+          "won": 4,
           "lost": 2,
-          "points": 6,
+          "points": 8,
           "form": [
-            "L",
             "W",
             "W",
             "L",
+            "W",
             "W"
           ],
           "standings": [
@@ -2428,6 +2428,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "played": 6,
+              "won": 4,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "70-50",
+              "points": 8,
+              "form": [
+                "W",
+                "W",
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "Coolhurst LTC 1",
               "played": 5,
               "won": 3,
@@ -2444,30 +2461,13 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "David Lloyd Club Finchley 1",
               "played": 5,
               "won": 3,
               "drawn": 0,
               "lost": 2,
               "rubbers": "58-42",
-              "points": 6,
-              "form": [
-                "L",
-                "W",
-                "W",
-                "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 4,
-              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "played": 5,
-              "won": 3,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "50-50",
               "points": 6,
               "form": [
                 "L",
@@ -2512,13 +2512,14 @@ window.__RESULTS__ = {
             {
               "rank": 7,
               "name": "Temple Fortune Club 1",
-              "played": 4,
+              "played": 5,
               "won": 0,
               "drawn": 0,
-              "lost": 4,
-              "rubbers": "6-74",
+              "lost": 5,
+              "rubbers": "6-94",
               "points": 0,
               "form": [
+                "L",
                 "L",
                 "L",
                 "L",
@@ -2670,8 +2671,8 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "away": "Temple Fortune Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 20,
+              "as": 0,
               "date": "Sat 18/07/2026"
             }
           ],
