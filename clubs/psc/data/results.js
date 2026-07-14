@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-14T20:17:13.343Z",
+  "generatedAt": "2026-07-14T22:02:26.510Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -1928,7 +1928,7 @@ window.__RESULTS__ = {
           "division": "North West Division 3",
           "pscName": "Paddington Sports Club 3",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/35",
-          "position": 4,
+          "position": 5,
           "of": 8,
           "played": 5,
           "won": 3,
@@ -1995,6 +1995,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
+              "name": "Harrow Weald Lawn Tennis Club 1",
+              "played": 6,
+              "won": 2,
+              "drawn": 0,
+              "lost": 4,
+              "rubbers": "64-80",
+              "points": 64,
+              "form": [
+                "L",
+                "L",
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Paddington Sports Club 3",
               "played": 5,
               "won": 3,
@@ -2008,23 +2025,6 @@ window.__RESULTS__ = {
                 "L",
                 "W",
                 "W"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "Harrow Weald Lawn Tennis Club 1",
-              "played": 5,
-              "won": 1,
-              "drawn": 0,
-              "lost": 4,
-              "rubbers": "48-72",
-              "points": 48,
-              "form": [
-                "W",
-                "L",
-                "L",
-                "L",
-                "L"
               ]
             },
             {
@@ -2046,14 +2046,15 @@ window.__RESULTS__ = {
             {
               "rank": 7,
               "name": "Uxbridge LTC 2",
-              "played": 4,
+              "played": 5,
               "won": 1,
               "drawn": 0,
-              "lost": 3,
-              "rubbers": "37-59",
-              "points": 37,
+              "lost": 4,
+              "rubbers": "45-75",
+              "points": 45,
               "form": [
                 "W",
+                "L",
                 "L",
                 "L",
                 "L"
@@ -2212,8 +2213,8 @@ window.__RESULTS__ = {
             {
               "home": "Uxbridge LTC 2",
               "away": "Harrow Weald Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 16,
               "date": "Tue 14/07/2026"
             },
             {

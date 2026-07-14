@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-14T20:16:41.191Z",
+  "generatedAt": "2026-07-14T22:01:55.984Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -3612,7 +3612,7 @@ window.__RESULTS__ = {
           "division": "East Intermediate",
           "pscName": "Cumberland 3",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/7",
-          "position": 2,
+          "position": 3,
           "of": 7,
           "played": 4,
           "won": 3,
@@ -3627,6 +3627,22 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Hackney 1",
+              "played": 4,
+              "won": 4,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "64-32",
+              "points": 64,
+              "form": [
+                "W",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Globe 1",
               "played": 4,
               "won": 3,
@@ -3642,7 +3658,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
+              "rank": 3,
               "name": "Cumberland 3",
               "played": 4,
               "won": 3,
@@ -3658,7 +3674,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "Highgate 1",
               "played": 5,
               "won": 1,
@@ -3674,7 +3690,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
               "name": "Hazelwood 2",
               "played": 5,
               "won": 2,
@@ -3688,21 +3704,6 @@ window.__RESULTS__ = {
                 "L",
                 "W",
                 "L"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "Hackney 1",
-              "played": 3,
-              "won": 3,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "48-24",
-              "points": 48,
-              "form": [
-                "W",
-                "W",
-                "W"
               ]
             },
             {
@@ -3723,14 +3724,15 @@ window.__RESULTS__ = {
             {
               "rank": 7,
               "name": "Brondesbury 1",
-              "played": 3,
+              "played": 4,
               "won": 1,
               "drawn": 0,
-              "lost": 2,
-              "rubbers": "23-49",
-              "points": 23,
+              "lost": 3,
+              "rubbers": "31-65",
+              "points": 31,
               "form": [
                 "W",
+                "L",
                 "L",
                 "L"
               ]
@@ -3838,8 +3840,8 @@ window.__RESULTS__ = {
             {
               "home": "Brondesbury 1",
               "away": "Hackney 1",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 16,
               "date": "Mon 13/07/2026"
             },
             {
@@ -6169,50 +6171,52 @@ window.__RESULTS__ = {
           "division": "North East Division 2",
           "pscName": "Cumberland 4",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/67",
-          "position": 2,
+          "position": 1,
           "of": 8,
-          "played": 4,
-          "won": 3,
+          "played": 5,
+          "won": 4,
           "lost": 1,
-          "points": 76,
+          "points": 98,
           "form": [
             "W",
             "W",
             "L",
+            "W",
             "W"
           ],
           "standings": [
             {
               "rank": 1,
-              "name": "Finchley 1",
-              "played": 6,
+              "name": "Cumberland 4",
+              "played": 5,
               "won": 4,
               "drawn": 0,
-              "lost": 2,
-              "rubbers": "92-52",
-              "points": 92,
+              "lost": 1,
+              "rubbers": "98-22",
+              "points": 98,
               "form": [
-                "L",
-                "L",
                 "W",
+                "W",
+                "L",
                 "W",
                 "W"
               ]
             },
             {
               "rank": 2,
-              "name": "Cumberland 4",
-              "played": 4,
-              "won": 3,
+              "name": "Finchley 1",
+              "played": 7,
+              "won": 4,
               "drawn": 0,
-              "lost": 1,
-              "rubbers": "76-20",
-              "points": 76,
+              "lost": 3,
+              "rubbers": "94-74",
+              "points": 94,
               "form": [
-                "W",
-                "W",
                 "L",
-                "W"
+                "W",
+                "W",
+                "W",
+                "L"
               ]
             },
             {
@@ -6449,8 +6453,8 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland 4",
               "away": "Finchley 1",
-              "hs": null,
-              "as": null,
+              "hs": 22,
+              "as": 2,
               "date": "Mon 13/07/2026"
             },
             {
