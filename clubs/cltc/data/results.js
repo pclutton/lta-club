@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-14T13:52:32.529Z",
+  "generatedAt": "2026-07-14T17:18:38.274Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -523,11 +523,12 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/9",
           "position": 6,
           "of": 6,
-          "played": 4,
+          "played": 5,
           "won": 0,
-          "lost": 4,
+          "lost": 5,
           "points": 0,
           "form": [
+            "L",
             "L",
             "L",
             "L",
@@ -571,14 +572,15 @@ window.__RESULTS__ = {
             {
               "rank": 3,
               "name": "The Hurlingham Club 1",
-              "played": 4,
-              "won": 2,
+              "played": 5,
+              "won": 3,
               "drawn": 0,
               "lost": 2,
-              "rubbers": "16-32",
-              "points": 4,
+              "rubbers": "24-36",
+              "points": 6,
               "form": [
                 "L",
+                "W",
                 "W",
                 "L",
                 "W"
@@ -621,13 +623,14 @@ window.__RESULTS__ = {
             {
               "rank": 6,
               "name": "Cumberland Lawn Tennis Club 2",
-              "played": 4,
+              "played": 5,
               "won": 0,
               "drawn": 0,
-              "lost": 4,
-              "rubbers": "14-34",
+              "lost": 5,
+              "rubbers": "18-42",
               "points": 0,
               "form": [
+                "L",
                 "L",
                 "L",
                 "L",
@@ -681,8 +684,8 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland Lawn Tennis Club 2",
               "away": "The Hurlingham Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 4,
+              "as": 8,
               "date": "Sun 31/05/2026"
             },
             {
@@ -6278,29 +6281,31 @@ window.__RESULTS__ = {
             {
               "rank": 7,
               "name": "Temple Fortune 2",
-              "played": 4,
-              "won": 0,
+              "played": 5,
+              "won": 1,
               "drawn": 0,
               "lost": 4,
-              "rubbers": "17-79",
-              "points": 17,
+              "rubbers": "35-85",
+              "points": 35,
               "form": [
                 "L",
                 "L",
                 "L",
-                "L"
+                "L",
+                "W"
               ]
             },
             {
               "rank": 8,
               "name": "Brondesbury 3",
-              "played": 3,
+              "played": 4,
               "won": 0,
               "drawn": 0,
-              "lost": 3,
-              "rubbers": "14-58",
-              "points": 14,
+              "lost": 4,
+              "rubbers": "20-76",
+              "points": 20,
               "form": [
+                "L",
                 "L",
                 "L",
                 "L"
@@ -6437,8 +6442,8 @@ window.__RESULTS__ = {
             {
               "home": "Temple Fortune 2",
               "away": "Brondesbury 3",
-              "hs": null,
-              "as": null,
+              "hs": 18,
+              "as": 6,
               "date": "Thu 09/07/2026"
             },
             {

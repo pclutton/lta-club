@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-14T13:53:06.932Z",
+  "generatedAt": "2026-07-14T17:19:14.882Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -2907,6 +2907,21 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Virgin Active Chiswick Riverside 1",
+              "played": 6,
+              "won": 3,
+              "drawn": 2,
+              "lost": 1,
+              "rubbers": "90-54",
+              "points": 90,
+              "form": [
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "The Hurlingham Club 1",
               "played": 5,
               "won": 4,
@@ -2923,7 +2938,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
+              "rank": 3,
               "name": "Pinner Lawn Tennis Club 1",
               "played": 5,
               "won": 3,
@@ -2935,21 +2950,6 @@ window.__RESULTS__ = {
                 "W",
                 "W",
                 "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 3,
-              "name": "Virgin Active Chiswick Riverside 1",
-              "played": 5,
-              "won": 2,
-              "drawn": 2,
-              "lost": 1,
-              "rubbers": "66-54",
-              "points": 66,
-              "form": [
-                "L",
-                "W",
                 "W"
               ]
             },
@@ -3023,11 +3023,11 @@ window.__RESULTS__ = {
             {
               "rank": 8,
               "name": "Lowlands Club 1",
-              "played": 5,
+              "played": 6,
               "won": 0,
               "drawn": 0,
-              "lost": 5,
-              "rubbers": "14-106",
+              "lost": 6,
+              "rubbers": "14-130",
               "points": 14,
               "form": [
                 "L",
@@ -3182,8 +3182,8 @@ window.__RESULTS__ = {
             {
               "home": "Virgin Active Chiswick Riverside 1",
               "away": "Lowlands Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 24,
+              "as": 0,
               "date": "Mon 13/07/2026"
             },
             {
