@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-15T08:24:30.180Z",
+  "generatedAt": "2026-07-15T13:50:27.139Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 20,
-      "matches": 418,
-      "players": 161,
-      "stale": 0
+      "refreshed": 20,
+      "failed": 0
     },
     "competitions": [
       {
@@ -3048,13 +3048,6 @@ window.__RESULTS__ = {
               "date": "Tue 14/07/2026"
             },
             {
-              "home": "Vicars Moor 1",
-              "away": "Cumberland 2",
-              "hs": null,
-              "as": null,
-              "date": "Wed 15/07/2026"
-            },
-            {
               "home": "Coolhurst 1",
               "away": "Chandos 1",
               "hs": null,
@@ -3102,6 +3095,13 @@ window.__RESULTS__ = {
               "hs": null,
               "as": null,
               "date": "Thu 30/07/2026"
+            },
+            {
+              "home": "Vicars Moor 1",
+              "away": "Cumberland 2",
+              "hs": null,
+              "as": null,
+              "date": "Mon 10/08/2026"
             }
           ],
           "results": [],
@@ -3468,13 +3468,6 @@ window.__RESULTS__ = {
               "date": "Tue 14/07/2026"
             },
             {
-              "home": "Vicars Moor 1",
-              "away": "Cumberland 2",
-              "hs": null,
-              "as": null,
-              "date": "Wed 15/07/2026"
-            },
-            {
               "home": "Coolhurst 1",
               "away": "Chandos 1",
               "hs": null,
@@ -3522,6 +3515,13 @@ window.__RESULTS__ = {
               "hs": null,
               "as": null,
               "date": "Thu 30/07/2026"
+            },
+            {
+              "home": "Vicars Moor 1",
+              "away": "Cumberland 2",
+              "hs": null,
+              "as": null,
+              "date": "Mon 10/08/2026"
             }
           ],
           "results": [],
@@ -6250,6 +6250,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
+              "name": "Chandos 3",
+              "played": 5,
+              "won": 2,
+              "drawn": 1,
+              "lost": 2,
+              "rubbers": "57-63",
+              "points": 57,
+              "form": [
+                "L",
+                "W",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Temple Fortune 1",
               "played": 4,
               "won": 3,
@@ -6265,7 +6281,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Totteridge 2",
               "played": 4,
               "won": 2,
@@ -6277,21 +6293,6 @@ window.__RESULTS__ = {
                 "L",
                 "W",
                 "W"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "Chandos 3",
-              "played": 4,
-              "won": 1,
-              "drawn": 1,
-              "lost": 2,
-              "rubbers": "37-59",
-              "points": 37,
-              "form": [
-                "L",
-                "W",
-                "L"
               ]
             },
             {
@@ -6314,13 +6315,14 @@ window.__RESULTS__ = {
             {
               "rank": 8,
               "name": "Brondesbury 3",
-              "played": 4,
+              "played": 5,
               "won": 0,
               "drawn": 0,
-              "lost": 4,
-              "rubbers": "20-76",
-              "points": 20,
+              "lost": 5,
+              "rubbers": "24-96",
+              "points": 24,
               "form": [
+                "L",
                 "L",
                 "L",
                 "L",
@@ -6472,8 +6474,8 @@ window.__RESULTS__ = {
             {
               "home": "Chandos 3",
               "away": "Brondesbury 3",
-              "hs": null,
-              "as": null,
+              "hs": 20,
+              "as": 4,
               "date": "Tue 14/07/2026"
             },
             {

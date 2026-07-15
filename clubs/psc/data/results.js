@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-15T08:26:02.107Z",
+  "generatedAt": "2026-07-15T13:51:01.364Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "matches": 275,
-      "players": 110,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
@@ -2459,6 +2459,40 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
+              "name": "Hatch End Lawn Tennis Club 3",
+              "played": 6,
+              "won": 4,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "70-50",
+              "points": 70,
+              "form": [
+                "W",
+                "W",
+                "W",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 6,
+              "name": "Lowlands Club 4",
+              "played": 6,
+              "won": 3,
+              "drawn": 0,
+              "lost": 3,
+              "rubbers": "60-84",
+              "points": 60,
+              "form": [
+                "W",
+                "W",
+                "L",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 7,
               "name": "Harrow Lawn Tennis Club 4",
               "played": 6,
               "won": 1,
@@ -2469,39 +2503,6 @@ window.__RESULTS__ = {
               "form": [
                 "W",
                 "L"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "Hatch End Lawn Tennis Club 3",
-              "played": 5,
-              "won": 3,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "54-42",
-              "points": 54,
-              "form": [
-                "W",
-                "W",
-                "W",
-                "L"
-              ]
-            },
-            {
-              "rank": 7,
-              "name": "Lowlands Club 4",
-              "played": 5,
-              "won": 3,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "52-68",
-              "points": 52,
-              "form": [
-                "L",
-                "W",
-                "W",
-                "L",
-                "W"
               ]
             },
             {
@@ -2731,8 +2732,8 @@ window.__RESULTS__ = {
             {
               "home": "Hatch End Lawn Tennis Club 3",
               "away": "Lowlands Club 4",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 8,
               "date": "Tue 14/07/2026"
             },
             {
@@ -4271,28 +4272,30 @@ window.__RESULTS__ = {
             },
             {
               "rank": 7,
-              "name": "David Lloyd Club Hampton 1",
-              "played": 4,
-              "won": 0,
-              "drawn": 1,
-              "lost": 3,
-              "rubbers": "30-66",
-              "points": 30,
+              "name": "The Hurlingham Club 3",
+              "played": 5,
+              "won": 1,
+              "drawn": 0,
+              "lost": 4,
+              "rubbers": "44-76",
+              "points": 44,
               "form": [
                 "L",
                 "L",
-                "L"
+                "L",
+                "L",
+                "W"
               ]
             },
             {
               "rank": 8,
-              "name": "The Hurlingham Club 3",
-              "played": 4,
+              "name": "David Lloyd Club Hampton 1",
+              "played": 5,
               "won": 0,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 4,
-              "rubbers": "30-66",
-              "points": 30,
+              "rubbers": "40-80",
+              "points": 40,
               "form": [
                 "L",
                 "L",
@@ -4445,8 +4448,8 @@ window.__RESULTS__ = {
             {
               "home": "David Lloyd Club Hampton 1",
               "away": "The Hurlingham Club 3",
-              "hs": null,
-              "as": null,
+              "hs": 10,
+              "as": 14,
               "date": "Tue 14/07/2026"
             },
             {
