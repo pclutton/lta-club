@@ -2,37 +2,37 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-14T22:02:26.510Z",
+  "generatedAt": "2026-07-15T08:26:02.107Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 275,
+      "players": 110,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-07-14"
+        "asOf": "2026-07-15"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-07-14"
+        "asOf": "2026-07-15"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-07-14"
+        "asOf": "2026-07-15"
       }
     ]
   },
@@ -41,8 +41,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-07-14",
-      "asOf": "2026-07-14",
+      "lastSeen": "2026-07-15",
+      "asOf": "2026-07-15",
       "stale": false,
       "teams": [
         {
@@ -1067,8 +1067,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-07-14",
-      "asOf": "2026-07-14",
+      "lastSeen": "2026-07-15",
+      "asOf": "2026-07-15",
       "stale": false,
       "teams": [
         {
@@ -1138,6 +1138,38 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
+              "name": "Ealing Lawn Tennis Club 2",
+              "played": 6,
+              "won": 1,
+              "drawn": 3,
+              "lost": 2,
+              "rubbers": "68-76",
+              "points": 68,
+              "form": [
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 5,
+              "name": "Teddington Lawn Tennis Club 2",
+              "played": 6,
+              "won": 2,
+              "drawn": 0,
+              "lost": 4,
+              "rubbers": "60-84",
+              "points": 60,
+              "form": [
+                "L",
+                "L",
+                "W",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 6,
               "name": "Eastcote Lawn Tennis Club 1",
               "played": 5,
               "won": 1,
@@ -1153,21 +1185,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
-              "name": "Ealing Lawn Tennis Club 2",
-              "played": 5,
-              "won": 0,
-              "drawn": 3,
-              "lost": 2,
-              "rubbers": "54-66",
-              "points": 54,
-              "form": [
-                "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 6,
+              "rank": 7,
               "name": "Campden Hill Lawn Tennis Club 3",
               "played": 4,
               "won": 3,
@@ -1177,23 +1195,6 @@ window.__RESULTS__ = {
               "points": 53,
               "form": [
                 "W",
-                "L",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 7,
-              "name": "Teddington Lawn Tennis Club 2",
-              "played": 5,
-              "won": 2,
-              "drawn": 0,
-              "lost": 3,
-              "rubbers": "50-70",
-              "points": 50,
-              "form": [
-                "L",
-                "L",
                 "L",
                 "W",
                 "W"
@@ -1352,8 +1353,8 @@ window.__RESULTS__ = {
             {
               "home": "Ealing Lawn Tennis Club 2",
               "away": "Teddington Lawn Tennis Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 14,
+              "as": 10,
               "date": "Tue 14/07/2026"
             },
             {
@@ -1961,6 +1962,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Headstone Lawn Tennis Club 2",
+              "played": 6,
+              "won": 4,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "90-54",
+              "points": 90,
+              "form": [
+                "L",
+                "W",
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "Kenton Lawn Tennis Club 2",
               "played": 5,
               "won": 3,
@@ -1973,23 +1991,6 @@ window.__RESULTS__ = {
                 "L",
                 "W",
                 "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 3,
-              "name": "Headstone Lawn Tennis Club 2",
-              "played": 5,
-              "won": 3,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "70-50",
-              "points": 70,
-              "form": [
-                "W",
-                "L",
-                "W",
-                "L",
                 "W"
               ]
             },
@@ -2030,17 +2031,18 @@ window.__RESULTS__ = {
             {
               "rank": 6,
               "name": "Lowlands Club 2",
-              "played": 4,
+              "played": 5,
               "won": 3,
               "drawn": 0,
-              "lost": 1,
-              "rubbers": "47-49",
-              "points": 47,
+              "lost": 2,
+              "rubbers": "51-69",
+              "points": 51,
               "form": [
                 "W",
                 "W",
                 "L",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -2206,8 +2208,8 @@ window.__RESULTS__ = {
             {
               "home": "Lowlands Club 2",
               "away": "Headstone Lawn Tennis Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 4,
+              "as": 20,
               "date": "Tue 14/07/2026"
             },
             {
@@ -3337,6 +3339,12 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4663"
             },
             {
+              "name": "Annika Chai",
+              "won": 0,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6114"
+            },
+            {
               "name": "Julie Zysman",
               "won": 0,
               "lost": 3,
@@ -3802,7 +3810,7 @@ window.__RESULTS__ = {
           "division": "North West Division 2",
           "pscName": "Paddington Sports Club 4",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/34",
-          "position": 4,
+          "position": 5,
           "of": 7,
           "played": 4,
           "won": 1,
@@ -3815,6 +3823,23 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Kenton Lawn Tennis Club 1",
+              "played": 5,
+              "won": 4,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "78-42",
+              "points": 78,
+              "form": [
+                "W",
+                "W",
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Wayfarers LTC 2",
               "played": 5,
               "won": 3,
@@ -3831,23 +3856,23 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
-              "name": "Kenton Lawn Tennis Club 1",
-              "played": 4,
-              "won": 3,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "64-32",
-              "points": 64,
+              "rank": 3,
+              "name": "David Lloyd Club Sudbury Hill 1",
+              "played": 5,
+              "won": 1,
+              "drawn": 1,
+              "lost": 3,
+              "rubbers": "52-68",
+              "points": 52,
               "form": [
                 "W",
-                "W",
                 "L",
-                "W"
+                "L",
+                "L"
               ]
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "David Lloyd Club Northwood 2",
               "played": 4,
               "won": 2,
@@ -3862,7 +3887,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
               "name": "Paddington Sports Club 4",
               "played": 4,
               "won": 1,
@@ -3873,21 +3898,6 @@ window.__RESULTS__ = {
               "form": [
                 "L",
                 "W"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "David Lloyd Club Sudbury Hill 1",
-              "played": 4,
-              "won": 1,
-              "drawn": 1,
-              "lost": 2,
-              "rubbers": "42-54",
-              "points": 42,
-              "form": [
-                "W",
-                "L",
-                "L"
               ]
             },
             {
@@ -4017,8 +4027,8 @@ window.__RESULTS__ = {
             {
               "home": "David Lloyd Club Sudbury Hill 1",
               "away": "Kenton Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 10,
+              "as": 14,
               "date": "Tue 14/07/2026"
             },
             {
@@ -4556,8 +4566,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-07-14",
-      "asOf": "2026-07-14",
+      "lastSeen": "2026-07-15",
+      "asOf": "2026-07-15",
       "stale": false,
       "teams": [],
       "knockouts": [
