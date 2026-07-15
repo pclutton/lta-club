@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-15T13:50:27.139Z",
+  "generatedAt": "2026-07-15T17:21:45.981Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -1851,7 +1851,7 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/21",
           "position": 3,
           "of": 7,
-          "played": 4,
+          "played": 5,
           "won": 3,
           "lost": 1,
           "points": 6,
@@ -1900,7 +1900,7 @@ window.__RESULTS__ = {
             {
               "rank": 3,
               "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "played": 4,
+              "played": 5,
               "won": 3,
               "drawn": 0,
               "lost": 1,
@@ -1951,7 +1951,7 @@ window.__RESULTS__ = {
             {
               "rank": 6,
               "name": "Finchley Manor Tennis Squash and Health Club 1",
-              "played": 4,
+              "played": 5,
               "won": 0,
               "drawn": 0,
               "lost": 4,
@@ -2124,8 +2124,8 @@ window.__RESULTS__ = {
             {
               "home": "Finchley Manor Tennis Squash and Health Club 1",
               "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "hs": null,
-              "as": null,
+              "hs": 0,
+              "as": 0,
               "date": "Sun 05/07/2026"
             }
           ],
