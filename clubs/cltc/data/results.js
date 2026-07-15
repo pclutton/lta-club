@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-15T17:21:45.981Z",
+  "generatedAt": "2026-07-15T20:13:44.936Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -5106,6 +5106,39 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
+              "name": "Coolhurst LTC 1",
+              "played": 4,
+              "won": 2,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "41-55",
+              "points": 41,
+              "form": [
+                "L",
+                "W",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 6,
+              "name": "Totteridge 1",
+              "played": 6,
+              "won": 1,
+              "drawn": 0,
+              "lost": 5,
+              "rubbers": "37-107",
+              "points": 37,
+              "form": [
+                "W",
+                "L",
+                "L",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 7,
               "name": "Globe 1",
               "played": 4,
               "won": 1,
@@ -5115,38 +5148,6 @@ window.__RESULTS__ = {
               "points": 35,
               "form": [
                 "L",
-                "L",
-                "W",
-                "L"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "Totteridge 1",
-              "played": 5,
-              "won": 1,
-              "drawn": 0,
-              "lost": 4,
-              "rubbers": "29-91",
-              "points": 29,
-              "form": [
-                "L",
-                "W",
-                "L",
-                "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 7,
-              "name": "Coolhurst LTC 1",
-              "played": 3,
-              "won": 1,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "25-47",
-              "points": 25,
-              "form": [
                 "L",
                 "W",
                 "L"
@@ -5255,8 +5256,8 @@ window.__RESULTS__ = {
             {
               "home": "Totteridge 1",
               "away": "Coolhurst LTC 1",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 16,
               "date": "Wed 15/07/2026"
             },
             {
@@ -5509,6 +5510,39 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
+              "name": "Coolhurst LTC 1",
+              "played": 4,
+              "won": 2,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "41-55",
+              "points": 41,
+              "form": [
+                "L",
+                "W",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 6,
+              "name": "Totteridge 1",
+              "played": 6,
+              "won": 1,
+              "drawn": 0,
+              "lost": 5,
+              "rubbers": "37-107",
+              "points": 37,
+              "form": [
+                "W",
+                "L",
+                "L",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 7,
               "name": "Globe 1",
               "played": 4,
               "won": 1,
@@ -5518,38 +5552,6 @@ window.__RESULTS__ = {
               "points": 35,
               "form": [
                 "L",
-                "L",
-                "W",
-                "L"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "Totteridge 1",
-              "played": 5,
-              "won": 1,
-              "drawn": 0,
-              "lost": 4,
-              "rubbers": "29-91",
-              "points": 29,
-              "form": [
-                "L",
-                "W",
-                "L",
-                "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 7,
-              "name": "Coolhurst LTC 1",
-              "played": 3,
-              "won": 1,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "25-47",
-              "points": 25,
-              "form": [
                 "L",
                 "W",
                 "L"
@@ -5658,8 +5660,8 @@ window.__RESULTS__ = {
             {
               "home": "Totteridge 1",
               "away": "Coolhurst LTC 1",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 16,
               "date": "Wed 15/07/2026"
             },
             {
