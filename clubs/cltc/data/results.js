@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-16T17:22:24.115Z",
+  "generatedAt": "2026-07-16T20:12:29.815Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -12,8 +12,8 @@ window.__RESULTS__ = {
     "totals": {
       "comps": 4,
       "teams": 20,
-      "refreshed": 20,
-      "failed": 0
+      "refreshed": 18,
+      "failed": 2
     },
     "competitions": [
       {
@@ -6418,13 +6418,6 @@ window.__RESULTS__ = {
               "date": "Tue 23/06/2026"
             },
             {
-              "home": "Brondesbury 3",
-              "away": "Temple Fortune 1",
-              "hs": null,
-              "as": null,
-              "date": "Wed 24/06/2026"
-            },
-            {
               "home": "Finchley 1",
               "away": "Temple Fortune 2",
               "hs": 19,
@@ -6528,6 +6521,13 @@ window.__RESULTS__ = {
               "hs": null,
               "as": null,
               "date": "Thu 06/08/2026"
+            },
+            {
+              "home": "Brondesbury 3",
+              "away": "Temple Fortune 1",
+              "hs": null,
+              "as": null,
+              "date": "Mon 10/08/2026"
             }
           ],
           "results": [],
