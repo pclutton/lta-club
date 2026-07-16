@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-16T20:12:29.815Z",
+  "generatedAt": "2026-07-16T22:06:35.993Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -12,8 +12,8 @@ window.__RESULTS__ = {
     "totals": {
       "comps": 4,
       "teams": 20,
-      "refreshed": 18,
-      "failed": 2
+      "refreshed": 20,
+      "failed": 0
     },
     "competitions": [
       {
@@ -2427,17 +2427,17 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "Ealing Lawn Tennis Club 1",
-              "played": 5,
-              "won": 4,
+              "played": 6,
+              "won": 5,
               "drawn": 0,
               "lost": 1,
-              "rubbers": "74-26",
-              "points": 8,
+              "rubbers": "92-28",
+              "points": 10,
               "form": [
                 "W",
                 "W",
-                "W",
                 "L",
+                "W",
                 "W"
               ]
             },
@@ -2478,18 +2478,18 @@ window.__RESULTS__ = {
             {
               "rank": 4,
               "name": "David Lloyd Club Finchley 1",
-              "played": 5,
+              "played": 6,
               "won": 3,
               "drawn": 0,
-              "lost": 2,
-              "rubbers": "58-42",
+              "lost": 3,
+              "rubbers": "60-60",
               "points": 6,
               "form": [
-                "L",
                 "W",
                 "W",
                 "L",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -2665,8 +2665,8 @@ window.__RESULTS__ = {
             {
               "home": "Ealing Lawn Tennis Club 1",
               "away": "David Lloyd Club Finchley 1",
-              "hs": null,
-              "as": null,
+              "hs": 18,
+              "as": 2,
               "date": "Sun 05/07/2026"
             },
             {

@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-16T20:13:01.137Z",
+  "generatedAt": "2026-07-16T22:07:10.805Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -1078,11 +1078,12 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/8",
           "position": 8,
           "of": 8,
-          "played": 4,
+          "played": 5,
           "won": 0,
-          "lost": 3,
-          "points": 30,
+          "lost": 4,
+          "points": 36,
           "form": [
+            "L",
             "L",
             "L",
             "L"
@@ -1090,6 +1091,23 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Eastcote Lawn Tennis Club 1",
+              "played": 6,
+              "won": 2,
+              "drawn": 1,
+              "lost": 3,
+              "rubbers": "76-68",
+              "points": 76,
+              "form": [
+                "W",
+                "L",
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Campden Hill Lawn Tennis Club 4",
               "played": 5,
               "won": 3,
@@ -1106,7 +1124,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
+              "rank": 3,
               "name": "West Middlesex Lawn Tennis Club Ltd 1",
               "played": 5,
               "won": 4,
@@ -1122,7 +1140,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "David Lloyd Club Acton Park 1",
               "played": 5,
               "won": 2,
@@ -1137,7 +1155,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
               "name": "Ealing Lawn Tennis Club 2",
               "played": 6,
               "won": 1,
@@ -1152,7 +1170,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Teddington Lawn Tennis Club 2",
               "played": 6,
               "won": 2,
@@ -1165,22 +1183,6 @@ window.__RESULTS__ = {
                 "L",
                 "W",
                 "W",
-                "L"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "Eastcote Lawn Tennis Club 1",
-              "played": 5,
-              "won": 1,
-              "drawn": 1,
-              "lost": 3,
-              "rubbers": "58-62",
-              "points": 58,
-              "form": [
-                "W",
-                "L",
-                "L",
                 "L"
               ]
             },
@@ -1203,13 +1205,14 @@ window.__RESULTS__ = {
             {
               "rank": 8,
               "name": "Paddington Sports Club 1",
-              "played": 4,
+              "played": 5,
               "won": 0,
               "drawn": 1,
-              "lost": 3,
-              "rubbers": "30-66",
-              "points": 30,
+              "lost": 4,
+              "rubbers": "36-84",
+              "points": 36,
               "form": [
+                "L",
                 "L",
                 "L",
                 "L"
@@ -1360,8 +1363,8 @@ window.__RESULTS__ = {
             {
               "home": "Eastcote Lawn Tennis Club 1",
               "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 18,
+              "as": 6,
               "date": "Thu 16/07/2026"
             },
             {
@@ -4160,7 +4163,7 @@ window.__RESULTS__ = {
           "division": "West Division 3",
           "pscName": "Paddington Sports Club 2",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/20",
-          "position": 1,
+          "position": 2,
           "of": 8,
           "played": 5,
           "won": 4,
@@ -4175,6 +4178,22 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Old Actonians Association Tennis Club 1",
+              "played": 6,
+              "won": 4,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "96-48",
+              "points": 96,
+              "form": [
+                "W",
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Paddington Sports Club 2",
               "played": 5,
               "won": 4,
@@ -4186,22 +4205,6 @@ window.__RESULTS__ = {
                 "W",
                 "W",
                 "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 2,
-              "name": "Old Actonians Association Tennis Club 1",
-              "played": 5,
-              "won": 3,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "74-46",
-              "points": 74,
-              "form": [
-                "W",
-                "W",
-                "L",
                 "W"
               ]
             },
@@ -4273,18 +4276,18 @@ window.__RESULTS__ = {
             {
               "rank": 7,
               "name": "The Hurlingham Club 3",
-              "played": 5,
+              "played": 6,
               "won": 1,
               "drawn": 0,
-              "lost": 4,
-              "rubbers": "44-76",
-              "points": 44,
+              "lost": 5,
+              "rubbers": "46-98",
+              "points": 46,
               "form": [
                 "L",
                 "L",
                 "L",
-                "L",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -4455,8 +4458,8 @@ window.__RESULTS__ = {
             {
               "home": "The Hurlingham Club 3",
               "away": "Old Actonians Association Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 2,
+              "as": 22,
               "date": "Thu 16/07/2026"
             },
             {
