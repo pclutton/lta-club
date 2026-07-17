@@ -2,37 +2,37 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-16T22:07:10.805Z",
+  "generatedAt": "2026-07-17T08:21:16.833Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 275,
+      "players": 111,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-07-16"
+        "asOf": "2026-07-17"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-07-16"
+        "asOf": "2026-07-17"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-07-16"
+        "asOf": "2026-07-17"
       }
     ]
   },
@@ -41,8 +41,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-07-16",
-      "asOf": "2026-07-16",
+      "lastSeen": "2026-07-17",
+      "asOf": "2026-07-17",
       "stale": false,
       "teams": [
         {
@@ -82,15 +82,16 @@ window.__RESULTS__ = {
             {
               "rank": 2,
               "name": "Hackney Tennis 1",
-              "played": 3,
-              "won": 2,
+              "played": 4,
+              "won": 3,
               "drawn": 0,
               "lost": 1,
-              "rubbers": "20-14",
-              "points": 4,
+              "rubbers": "30-16",
+              "points": 6,
               "form": [
                 "W",
                 "L",
+                "W",
                 "W"
               ]
             },
@@ -129,13 +130,14 @@ window.__RESULTS__ = {
             {
               "rank": 5,
               "name": "Coolhurst LTC 1",
-              "played": 3,
+              "played": 4,
               "won": 0,
               "drawn": 0,
-              "lost": 3,
-              "rubbers": "10-26",
+              "lost": 4,
+              "rubbers": "12-36",
               "points": 0,
               "form": [
+                "L",
                 "L",
                 "L",
                 "L"
@@ -209,8 +211,8 @@ window.__RESULTS__ = {
             {
               "home": "Hackney Tennis 1",
               "away": "Coolhurst LTC 1",
-              "hs": null,
-              "as": null,
+              "hs": 10,
+              "as": 2,
               "date": "Sun 05/07/2026"
             }
           ],
@@ -1067,8 +1069,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-07-16",
-      "asOf": "2026-07-16",
+      "lastSeen": "2026-07-17",
+      "asOf": "2026-07-17",
       "stale": false,
       "teams": [
         {
@@ -1422,26 +1424,26 @@ window.__RESULTS__ = {
           "players": [
             {
               "name": "Isaac Havu",
-              "won": 6,
-              "lost": 6,
+              "won": 7,
+              "lost": 8,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2406"
             },
             {
               "name": "Yannick Tandy",
-              "won": 4,
-              "lost": 4,
+              "won": 5,
+              "lost": 6,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/616"
             },
             {
               "name": "Arun Ranganathan",
               "won": 3,
-              "lost": 3,
+              "lost": 6,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2418"
             },
             {
               "name": "David Kane",
               "won": 3,
-              "lost": 3,
+              "lost": 6,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2405"
             },
             {
@@ -1475,6 +1477,12 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2407"
             },
             {
+              "name": "Constantinos Repakis",
+              "won": 0,
+              "lost": 3,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6158"
+            },
+            {
               "name": "Farruh Shermatov",
               "won": 0,
               "lost": 3,
@@ -1503,6 +1511,12 @@ window.__RESULTS__ = {
               "won": 0,
               "lost": 3,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/614"
+            },
+            {
+              "name": "Patrick Ryan",
+              "won": 0,
+              "lost": 3,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3741"
             }
           ],
           "displayName": "Mens Team 1",
@@ -4163,12 +4177,12 @@ window.__RESULTS__ = {
           "division": "West Division 3",
           "pscName": "Paddington Sports Club 2",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/20",
-          "position": 2,
+          "position": 1,
           "of": 8,
-          "played": 5,
-          "won": 4,
+          "played": 6,
+          "won": 5,
           "lost": 0,
-          "points": 88,
+          "points": 106,
           "form": [
             "W",
             "W",
@@ -4178,6 +4192,22 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Paddington Sports Club 2",
+              "played": 6,
+              "won": 5,
+              "drawn": 1,
+              "lost": 0,
+              "rubbers": "106-38",
+              "points": 106,
+              "form": [
+                "W",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Old Actonians Association Tennis Club 1",
               "played": 6,
               "won": 4,
@@ -4193,23 +4223,23 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
-              "name": "Paddington Sports Club 2",
-              "played": 5,
-              "won": 4,
+              "rank": 3,
+              "name": "Thistleworth LTC 1",
+              "played": 6,
+              "won": 2,
               "drawn": 1,
-              "lost": 0,
-              "rubbers": "88-32",
-              "points": 88,
+              "lost": 3,
+              "rubbers": "68-76",
+              "points": 68,
               "form": [
+                "L",
                 "W",
-                "W",
-                "W",
-                "W"
+                "L",
+                "L"
               ]
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "Ealing Lawn Tennis Club 4",
               "played": 6,
               "won": 3,
@@ -4225,7 +4255,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
               "name": "The Lensbury Club 2",
               "played": 6,
               "won": 2,
@@ -4233,22 +4263,6 @@ window.__RESULTS__ = {
               "lost": 3,
               "rubbers": "67-77",
               "points": 67,
-              "form": [
-                "W",
-                "L",
-                "W",
-                "L"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "Thistleworth LTC 1",
-              "played": 5,
-              "won": 2,
-              "drawn": 1,
-              "lost": 2,
-              "rubbers": "62-58",
-              "points": 62,
               "form": [
                 "W",
                 "L",
@@ -4465,8 +4479,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 2",
               "away": "Thistleworth LTC 1",
-              "hs": null,
-              "as": null,
+              "hs": 18,
+              "as": 6,
               "date": "Thu 16/07/2026"
             },
             {
@@ -4510,7 +4524,7 @@ window.__RESULTS__ = {
           "players": [
             {
               "name": "Zara Danesh",
-              "won": 13,
+              "won": 16,
               "lost": 2,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2485"
             },
@@ -4534,8 +4548,8 @@ window.__RESULTS__ = {
             },
             {
               "name": "Lucy Graham",
-              "won": 6,
-              "lost": 9,
+              "won": 7,
+              "lost": 11,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2483"
             },
             {
@@ -4545,22 +4559,28 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2482"
             },
             {
+              "name": "Anne Beranger",
+              "won": 3,
+              "lost": 3,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5181"
+            },
+            {
+              "name": "Jenna Troop",
+              "won": 3,
+              "lost": 3,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5940"
+            },
+            {
               "name": "Samantha Morris",
               "won": 3,
               "lost": 6,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5025"
             },
             {
-              "name": "Jenna Troop",
+              "name": "Alix Aubry",
               "won": 2,
               "lost": 1,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5940"
-            },
-            {
-              "name": "Anne Beranger",
-              "won": 0,
-              "lost": 3,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5181"
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4443"
             }
           ],
           "displayName": "Womens Team 2",
@@ -4572,8 +4592,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-07-16",
-      "asOf": "2026-07-16",
+      "lastSeen": "2026-07-17",
+      "asOf": "2026-07-17",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -4604,9 +4624,9 @@ window.__RESULTS__ = {
     {
       "name": "Zara Danesh",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2485",
-      "won": 13,
+      "won": 16,
       "lost": 5,
-      "played": 18
+      "played": 21
     },
     {
       "name": "Sam Kennedy",
@@ -4639,16 +4659,16 @@ window.__RESULTS__ = {
     {
       "name": "Yannick Tandy",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/616",
-      "won": 9,
-      "lost": 5,
-      "played": 14
+      "won": 10,
+      "lost": 7,
+      "played": 17
     },
     {
       "name": "Isaac Havu",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2406",
-      "won": 9,
-      "lost": 6,
-      "played": 15
+      "won": 10,
+      "lost": 8,
+      "played": 18
     },
     {
       "name": "Alexander Stannard",
@@ -4728,6 +4748,13 @@ window.__RESULTS__ = {
       "played": 15
     },
     {
+      "name": "Lucy Graham",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2483",
+      "won": 7,
+      "lost": 14,
+      "played": 21
+    },
+    {
       "name": "jack li woon",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1080",
       "won": 6,
@@ -4763,15 +4790,15 @@ window.__RESULTS__ = {
       "played": 8
     },
     {
-      "name": "David Kane",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2405",
-      "won": 6,
-      "lost": 3,
-      "played": 9
-    },
-    {
       "name": "Benjamin Carreau",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/611",
+      "won": 6,
+      "lost": 6,
+      "played": 12
+    },
+    {
+      "name": "David Kane",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2405",
       "won": 6,
       "lost": 6,
       "played": 12
@@ -4798,11 +4825,11 @@ window.__RESULTS__ = {
       "played": 15
     },
     {
-      "name": "Lucy Graham",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2483",
-      "won": 6,
-      "lost": 12,
-      "played": 18
+      "name": "Anne Beranger",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5181",
+      "won": 5,
+      "lost": 4,
+      "played": 9
     },
     {
       "name": "Michael Yeomans",
@@ -4945,8 +4972,8 @@ window.__RESULTS__ = {
       "played": 6
     },
     {
-      "name": "Arun Ranganathan",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2418",
+      "name": "Alix Aubry",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4443",
       "won": 3,
       "lost": 3,
       "played": 6
@@ -4968,6 +4995,13 @@ window.__RESULTS__ = {
     {
       "name": "Jacky Yu",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5742",
+      "won": 3,
+      "lost": 3,
+      "played": 6
+    },
+    {
+      "name": "Jenna Troop",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5940",
       "won": 3,
       "lost": 3,
       "played": 6
@@ -4996,6 +5030,13 @@ window.__RESULTS__ = {
     {
       "name": "Alan Wilson",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2791",
+      "won": 3,
+      "lost": 6,
+      "played": 9
+    },
+    {
+      "name": "Arun Ranganathan",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2418",
       "won": 3,
       "lost": 6,
       "played": 9
@@ -5078,13 +5119,6 @@ window.__RESULTS__ = {
       "played": 3
     },
     {
-      "name": "Jenna Troop",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5940",
-      "won": 2,
-      "lost": 1,
-      "played": 3
-    },
-    {
       "name": "Johanne Arnesen",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6016",
       "won": 2,
@@ -5097,20 +5131,6 @@ window.__RESULTS__ = {
       "won": 2,
       "lost": 1,
       "played": 3
-    },
-    {
-      "name": "Patrick Ryan",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3741",
-      "won": 2,
-      "lost": 1,
-      "played": 3
-    },
-    {
-      "name": "Anne Beranger",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5181",
-      "won": 2,
-      "lost": 4,
-      "played": 6
     },
     {
       "name": "Annika Chai",
@@ -5129,6 +5149,13 @@ window.__RESULTS__ = {
     {
       "name": "Jack Bishop",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/980",
+      "won": 2,
+      "lost": 4,
+      "played": 6
+    },
+    {
+      "name": "Patrick Ryan",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3741",
       "won": 2,
       "lost": 4,
       "played": 6
@@ -5181,13 +5208,6 @@ window.__RESULTS__ = {
       "won": 1,
       "lost": 1,
       "played": 2
-    },
-    {
-      "name": "Alix Aubry",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4443",
-      "won": 1,
-      "lost": 2,
-      "played": 3
     },
     {
       "name": "Ben White",
@@ -5325,6 +5345,13 @@ window.__RESULTS__ = {
     {
       "name": "bari shaffran",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5261",
+      "won": 0,
+      "lost": 3,
+      "played": 3
+    },
+    {
+      "name": "Constantinos Repakis",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6158",
       "won": 0,
       "lost": 3,
       "played": 3
