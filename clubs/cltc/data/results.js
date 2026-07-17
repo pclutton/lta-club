@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-17T08:19:52.635Z",
+  "generatedAt": "2026-07-17T13:46:32.830Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 20,
-      "matches": 418,
-      "players": 161,
-      "stale": 0
+      "refreshed": 20,
+      "failed": 0
     },
     "competitions": [
       {
@@ -6235,6 +6235,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Chandos 3",
+              "played": 6,
+              "won": 3,
+              "drawn": 1,
+              "lost": 2,
+              "rubbers": "79-65",
+              "points": 79,
+              "form": [
+                "W",
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "David Lloyd Finchley 2",
               "played": 5,
               "won": 3,
@@ -6251,34 +6267,19 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
-              "name": "Chandos 3",
-              "played": 5,
-              "won": 2,
-              "drawn": 1,
-              "lost": 2,
-              "rubbers": "57-63",
-              "points": 57,
-              "form": [
-                "L",
-                "W",
-                "L",
-                "W"
-              ]
-            },
-            {
               "rank": 5,
               "name": "Temple Fortune 1",
-              "played": 4,
+              "played": 5,
               "won": 3,
               "drawn": 0,
-              "lost": 1,
-              "rubbers": "54-42",
-              "points": 54,
+              "lost": 2,
+              "rubbers": "56-64",
+              "points": 56,
               "form": [
                 "W",
                 "W",
                 "W",
+                "L",
                 "L"
               ]
             },
@@ -6476,8 +6477,8 @@ window.__RESULTS__ = {
             {
               "home": "Chandos 3",
               "away": "Temple Fortune 1",
-              "hs": null,
-              "as": null,
+              "hs": 22,
+              "as": 2,
               "date": "Thu 16/07/2026"
             },
             {
