@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-17T13:47:09.780Z",
+  "generatedAt": "2026-07-17T17:17:12.492Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -2913,7 +2913,7 @@ window.__RESULTS__ = {
           "division": "West Intermediate",
           "pscName": "Paddington Sports Club 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/22",
-          "position": 4,
+          "position": 5,
           "of": 8,
           "played": 5,
           "won": 3,
@@ -2962,21 +2962,38 @@ window.__RESULTS__ = {
             {
               "rank": 3,
               "name": "Pinner Lawn Tennis Club 1",
-              "played": 5,
-              "won": 3,
+              "played": 6,
+              "won": 4,
               "drawn": 1,
               "lost": 1,
-              "rubbers": "72-48",
-              "points": 72,
+              "rubbers": "86-58",
+              "points": 86,
               "form": [
                 "W",
                 "W",
                 "L",
+                "W",
                 "W"
               ]
             },
             {
               "rank": 4,
+              "name": "David Lloyd Club Acton Park 1",
+              "played": 6,
+              "won": 2,
+              "drawn": 1,
+              "lost": 3,
+              "rubbers": "68-76",
+              "points": 68,
+              "form": [
+                "L",
+                "W",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Paddington Sports Club 1",
               "played": 5,
               "won": 3,
@@ -2993,7 +3010,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Teddington Lawn Tennis Club 2",
               "played": 5,
               "won": 2,
@@ -3006,22 +3023,6 @@ window.__RESULTS__ = {
                 "W",
                 "W",
                 "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "David Lloyd Club Acton Park 1",
-              "played": 5,
-              "won": 2,
-              "drawn": 1,
-              "lost": 2,
-              "rubbers": "58-62",
-              "points": 58,
-              "form": [
-                "W",
-                "L",
-                "W",
                 "L"
               ]
             },
@@ -3218,8 +3219,8 @@ window.__RESULTS__ = {
             {
               "home": "Pinner Lawn Tennis Club 1",
               "away": "David Lloyd Club Acton Park 1",
-              "hs": null,
-              "as": null,
+              "hs": 14,
+              "as": 10,
               "date": "Thu 16/07/2026"
             },
             {
