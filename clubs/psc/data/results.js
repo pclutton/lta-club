@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-17T17:17:12.492Z",
+  "generatedAt": "2026-07-17T20:09:31.214Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -1947,16 +1947,16 @@ window.__RESULTS__ = {
           "division": "North West Division 3",
           "pscName": "Paddington Sports Club 3",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/35",
-          "position": 5,
+          "position": 4,
           "of": 8,
-          "played": 5,
-          "won": 3,
+          "played": 6,
+          "won": 4,
           "lost": 2,
-          "points": 58,
+          "points": 72,
           "form": [
-            "L",
             "W",
             "L",
+            "W",
             "W",
             "W"
           ],
@@ -1964,17 +1964,17 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "Acorn Lawn Tennis Club 1",
-              "played": 5,
+              "played": 6,
               "won": 4,
               "drawn": 0,
-              "lost": 1,
-              "rubbers": "90-30",
-              "points": 90,
+              "lost": 2,
+              "rubbers": "100-44",
+              "points": 100,
               "form": [
                 "W",
                 "W",
                 "W",
-                "W",
+                "L",
                 "L"
               ]
             },
@@ -2014,6 +2014,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
+              "name": "Paddington Sports Club 3",
+              "played": 6,
+              "won": 4,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "72-72",
+              "points": 72,
+              "form": [
+                "W",
+                "L",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Harrow Weald Lawn Tennis Club 1",
               "played": 6,
               "won": 2,
@@ -2026,23 +2043,6 @@ window.__RESULTS__ = {
                 "L",
                 "L",
                 "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "Paddington Sports Club 3",
-              "played": 5,
-              "won": 3,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "58-62",
-              "points": 58,
-              "form": [
-                "L",
-                "W",
-                "L",
-                "W",
                 "W"
               ]
             },
@@ -2247,8 +2247,8 @@ window.__RESULTS__ = {
             {
               "home": "Acorn Lawn Tennis Club 1",
               "away": "Paddington Sports Club 3",
-              "hs": null,
-              "as": null,
+              "hs": 10,
+              "as": 14,
               "date": "Thu 16/07/2026"
             },
             {
