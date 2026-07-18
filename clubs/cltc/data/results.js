@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-18T08:01:44.044Z",
+  "generatedAt": "2026-07-18T13:23:36.692Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 20,
-      "matches": 418,
-      "players": 161,
-      "stale": 0
+      "refreshed": 20,
+      "failed": 0
     },
     "competitions": [
       {
@@ -1392,21 +1392,39 @@ window.__RESULTS__ = {
             {
               "rank": 4,
               "name": "Paddington Sports Club 1",
-              "played": 4,
+              "played": 5,
               "won": 1,
               "drawn": 0,
-              "lost": 3,
-              "rubbers": "20-28",
+              "lost": 4,
+              "rubbers": "24-36",
               "points": 2,
               "form": [
                 "L",
                 "W",
+                "L",
                 "L",
                 "L"
               ]
             },
             {
               "rank": 5,
+              "name": "David Lloyd Club Northwood 1",
+              "played": 5,
+              "won": 1,
+              "drawn": 0,
+              "lost": 4,
+              "rubbers": "20-40",
+              "points": 2,
+              "form": [
+                "L",
+                "L",
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 6,
               "name": "The Hurlingham Club 1",
               "played": 5,
               "won": 1,
@@ -1417,22 +1435,6 @@ window.__RESULTS__ = {
               "form": [
                 "L",
                 "W",
-                "L",
-                "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "David Lloyd Club Northwood 1",
-              "played": 4,
-              "won": 0,
-              "drawn": 0,
-              "lost": 4,
-              "rubbers": "12-36",
-              "points": 0,
-              "form": [
-                "L",
                 "L",
                 "L",
                 "L"
@@ -1541,8 +1543,8 @@ window.__RESULTS__ = {
             {
               "home": "David Lloyd Club Northwood 1",
               "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 4,
               "date": "Sun 12/07/2026"
             }
           ],
@@ -3987,7 +3989,7 @@ window.__RESULTS__ = {
           "division": "North East Division 1",
           "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 4",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/39",
-          "position": 1,
+          "position": 2,
           "of": 9,
           "played": 7,
           "won": 5,
@@ -4003,6 +4005,23 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Chandos Lawn Tennis Club 2",
+              "played": 7,
+              "won": 7,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "127-41",
+              "points": 127,
+              "form": [
+                "W",
+                "W",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 4",
               "played": 7,
               "won": 5,
@@ -4019,7 +4038,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
+              "rank": 3,
               "name": "Finchley Manor Tennis Squash and Health Club 2",
               "played": 7,
               "won": 5,
@@ -4031,23 +4050,6 @@ window.__RESULTS__ = {
                 "W",
                 "W",
                 "L",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 3,
-              "name": "Chandos Lawn Tennis Club 2",
-              "played": 6,
-              "won": 6,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "105-39",
-              "points": 105,
-              "form": [
-                "W",
-                "W",
-                "W",
                 "W",
                 "W"
               ]
@@ -4072,17 +4074,17 @@ window.__RESULTS__ = {
             {
               "rank": 5,
               "name": "West Heath Lawn Tennis Club Limited 1",
-              "played": 5,
+              "played": 6,
               "won": 3,
               "drawn": 0,
-              "lost": 2,
-              "rubbers": "72-48",
-              "points": 72,
+              "lost": 3,
+              "rubbers": "74-70",
+              "points": 74,
               "form": [
-                "W",
                 "L",
                 "W",
                 "W",
+                "L",
                 "L"
               ]
             },
@@ -4354,8 +4356,8 @@ window.__RESULTS__ = {
             {
               "home": "West Heath Lawn Tennis Club Limited 1",
               "away": "Chandos Lawn Tennis Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 2,
+              "as": 22,
               "date": "Fri 17/07/2026"
             },
             {
@@ -4524,6 +4526,23 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Chandos Lawn Tennis Club 2",
+              "played": 7,
+              "won": 7,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "127-41",
+              "points": 127,
+              "form": [
+                "W",
+                "W",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 4",
               "played": 7,
               "won": 5,
@@ -4540,7 +4559,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
+              "rank": 3,
               "name": "Finchley Manor Tennis Squash and Health Club 2",
               "played": 7,
               "won": 5,
@@ -4552,23 +4571,6 @@ window.__RESULTS__ = {
                 "W",
                 "W",
                 "L",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 3,
-              "name": "Chandos Lawn Tennis Club 2",
-              "played": 6,
-              "won": 6,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "105-39",
-              "points": 105,
-              "form": [
-                "W",
-                "W",
-                "W",
                 "W",
                 "W"
               ]
@@ -4593,17 +4595,17 @@ window.__RESULTS__ = {
             {
               "rank": 5,
               "name": "West Heath Lawn Tennis Club Limited 1",
-              "played": 5,
+              "played": 6,
               "won": 3,
               "drawn": 0,
-              "lost": 2,
-              "rubbers": "72-48",
-              "points": 72,
+              "lost": 3,
+              "rubbers": "74-70",
+              "points": 74,
               "form": [
-                "W",
                 "L",
                 "W",
                 "W",
+                "L",
                 "L"
               ]
             },
@@ -4875,8 +4877,8 @@ window.__RESULTS__ = {
             {
               "home": "West Heath Lawn Tennis Club Limited 1",
               "away": "Chandos Lawn Tennis Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 2,
+              "as": 22,
               "date": "Fri 17/07/2026"
             },
             {
@@ -5792,6 +5794,23 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Brondesbury 1",
+              "played": 6,
+              "won": 5,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "103-37",
+              "points": 103,
+              "form": [
+                "W",
+                "L",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Finchley Manor 1",
               "played": 6,
               "won": 5,
@@ -5804,23 +5823,6 @@ window.__RESULTS__ = {
                 "W",
                 "W",
                 "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 2,
-              "name": "Brondesbury 1",
-              "played": 5,
-              "won": 4,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "83-37",
-              "points": 83,
-              "form": [
-                "W",
-                "W",
-                "L",
-                "W",
                 "W"
               ]
             },
@@ -5861,17 +5863,17 @@ window.__RESULTS__ = {
             {
               "rank": 5,
               "name": "Coolhurst 2",
-              "played": 5,
+              "played": 6,
               "won": 2,
               "drawn": 0,
-              "lost": 3,
-              "rubbers": "50-66",
+              "lost": 4,
+              "rubbers": "50-86",
               "points": 50,
               "form": [
-                "W",
                 "L",
                 "L",
                 "W",
+                "L",
                 "L"
               ]
             },
@@ -6067,8 +6069,8 @@ window.__RESULTS__ = {
             {
               "home": "Brondesbury 1",
               "away": "Coolhurst 2",
-              "hs": null,
-              "as": null,
+              "hs": 20,
+              "as": 0,
               "date": "Wed 15/07/2026"
             },
             {

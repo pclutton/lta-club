@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-18T08:03:15.465Z",
+  "generatedAt": "2026-07-18T13:24:08.934Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "matches": 275,
-      "players": 111,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
@@ -773,13 +773,14 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/2",
           "position": 4,
           "of": 6,
-          "played": 4,
+          "played": 5,
           "won": 1,
-          "lost": 3,
+          "lost": 4,
           "points": 2,
           "form": [
             "L",
             "W",
+            "L",
             "L",
             "L"
           ],
@@ -838,21 +839,39 @@ window.__RESULTS__ = {
             {
               "rank": 4,
               "name": "Paddington Sports Club 1",
-              "played": 4,
+              "played": 5,
               "won": 1,
               "drawn": 0,
-              "lost": 3,
-              "rubbers": "20-28",
+              "lost": 4,
+              "rubbers": "24-36",
               "points": 2,
               "form": [
                 "L",
                 "W",
+                "L",
                 "L",
                 "L"
               ]
             },
             {
               "rank": 5,
+              "name": "David Lloyd Club Northwood 1",
+              "played": 5,
+              "won": 1,
+              "drawn": 0,
+              "lost": 4,
+              "rubbers": "20-40",
+              "points": 2,
+              "form": [
+                "L",
+                "L",
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 6,
               "name": "The Hurlingham Club 1",
               "played": 5,
               "won": 1,
@@ -863,22 +882,6 @@ window.__RESULTS__ = {
               "form": [
                 "L",
                 "W",
-                "L",
-                "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "David Lloyd Club Northwood 1",
-              "played": 4,
-              "won": 0,
-              "drawn": 0,
-              "lost": 4,
-              "rubbers": "12-36",
-              "points": 0,
-              "form": [
-                "L",
                 "L",
                 "L",
                 "L"
@@ -987,8 +990,8 @@ window.__RESULTS__ = {
             {
               "home": "David Lloyd Club Northwood 1",
               "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 4,
               "date": "Sun 12/07/2026"
             }
           ],
@@ -1627,16 +1630,17 @@ window.__RESULTS__ = {
             {
               "rank": 6,
               "name": "David Lloyd Club Sudbury Hill 1",
-              "played": 5,
-              "won": 0,
+              "played": 6,
+              "won": 1,
               "drawn": 2,
               "lost": 3,
-              "rubbers": "42-78",
-              "points": 42,
+              "rubbers": "58-86",
+              "points": 58,
               "form": [
                 "L",
                 "L",
-                "L"
+                "L",
+                "W"
               ]
             },
             {
@@ -1657,13 +1661,14 @@ window.__RESULTS__ = {
             {
               "rank": 8,
               "name": "Wycombe House 1",
-              "played": 4,
+              "played": 5,
               "won": 0,
               "drawn": 0,
-              "lost": 4,
-              "rubbers": "22-74",
-              "points": 22,
+              "lost": 5,
+              "rubbers": "30-90",
+              "points": 30,
               "form": [
+                "L",
                 "L",
                 "L",
                 "L",
@@ -1815,8 +1820,8 @@ window.__RESULTS__ = {
             {
               "home": "Wycombe House 1",
               "away": "David Lloyd Club Sudbury Hill 1",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 16,
               "date": "Tue 14/07/2026"
             },
             {
