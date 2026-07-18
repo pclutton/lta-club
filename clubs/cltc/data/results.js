@@ -2,43 +2,43 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-17T21:57:21.630Z",
+  "generatedAt": "2026-07-18T08:01:44.044Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 20,
-      "refreshed": 20,
-      "failed": 0
+      "matches": 418,
+      "players": 161,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-07-17"
+        "asOf": "2026-07-18"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-07-17"
+        "asOf": "2026-07-18"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-07-17"
+        "asOf": "2026-07-18"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-07-17"
+        "asOf": "2026-07-18"
       }
     ]
   },
@@ -47,8 +47,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-07-17",
-      "asOf": "2026-07-17",
+      "lastSeen": "2026-07-18",
+      "asOf": "2026-07-18",
       "stale": false,
       "teams": [
         {
@@ -1167,7 +1167,7 @@ window.__RESULTS__ = {
             {
               "rank": 4,
               "name": "Coolhurst LTC 1",
-              "played": 2,
+              "played": 3,
               "won": 0,
               "drawn": 0,
               "lost": 2,
@@ -1181,7 +1181,7 @@ window.__RESULTS__ = {
             {
               "rank": 5,
               "name": "Finchley Manor Tennis Squash and Health Club 1",
-              "played": 3,
+              "played": 4,
               "won": 0,
               "drawn": 0,
               "lost": 3,
@@ -1261,8 +1261,8 @@ window.__RESULTS__ = {
             {
               "home": "Coolhurst LTC 1",
               "away": "Finchley Manor Tennis Squash and Health Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 0,
+              "as": 0,
               "date": "Sat 25/07/2026"
             }
           ],
@@ -2756,8 +2756,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-07-17",
-      "asOf": "2026-07-17",
+      "lastSeen": "2026-07-18",
+      "asOf": "2026-07-18",
       "stale": false,
       "teams": [
         {
@@ -5793,18 +5793,18 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "Finchley Manor 1",
-              "played": 5,
-              "won": 4,
+              "played": 6,
+              "won": 5,
               "drawn": 0,
               "lost": 1,
-              "rubbers": "85-35",
-              "points": 85,
+              "rubbers": "103-41",
+              "points": 103,
               "form": [
                 "W",
                 "W",
                 "W",
-                "W",
-                "L"
+                "L",
+                "W"
               ]
             },
             {
@@ -5826,6 +5826,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "South Hampstead 1",
+              "played": 6,
+              "won": 2,
+              "drawn": 0,
+              "lost": 4,
+              "rubbers": "67-77",
+              "points": 67,
+              "form": [
+                "L",
+                "W",
+                "L",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Hackney 1",
               "played": 5,
               "won": 3,
@@ -5839,23 +5856,6 @@ window.__RESULTS__ = {
                 "W",
                 "L",
                 "W"
-              ]
-            },
-            {
-              "rank": 4,
-              "name": "South Hampstead 1",
-              "played": 5,
-              "won": 2,
-              "drawn": 0,
-              "lost": 3,
-              "rubbers": "61-59",
-              "points": 61,
-              "form": [
-                "W",
-                "L",
-                "W",
-                "L",
-                "L"
               ]
             },
             {
@@ -6074,8 +6074,8 @@ window.__RESULTS__ = {
             {
               "home": "Finchley Manor 1",
               "away": "South Hampstead 1",
-              "hs": null,
-              "as": null,
+              "hs": 18,
+              "as": 6,
               "date": "Fri 17/07/2026"
             },
             {
@@ -6632,8 +6632,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "current",
-      "lastSeen": "2026-07-17",
-      "asOf": "2026-07-17",
+      "lastSeen": "2026-07-18",
+      "asOf": "2026-07-18",
       "stale": false,
       "teams": [
         {
@@ -7074,8 +7074,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-07-17",
-      "asOf": "2026-07-17",
+      "lastSeen": "2026-07-18",
+      "asOf": "2026-07-18",
       "stale": false,
       "teams": [],
       "knockouts": [

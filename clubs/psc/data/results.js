@@ -2,37 +2,37 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-17T21:57:51.347Z",
+  "generatedAt": "2026-07-18T08:03:15.465Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 275,
+      "players": 111,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-07-17"
+        "asOf": "2026-07-18"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-07-17"
+        "asOf": "2026-07-18"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-07-17"
+        "asOf": "2026-07-18"
       }
     ]
   },
@@ -41,8 +41,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-07-17",
-      "asOf": "2026-07-17",
+      "lastSeen": "2026-07-18",
+      "asOf": "2026-07-18",
       "stale": false,
       "teams": [
         {
@@ -1069,8 +1069,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-07-17",
-      "asOf": "2026-07-17",
+      "lastSeen": "2026-07-18",
+      "asOf": "2026-07-18",
       "stale": false,
       "teams": [
         {
@@ -2298,9 +2298,15 @@ window.__RESULTS__ = {
           "fixtures": [],
           "players": [
             {
+              "name": "Aakash Vanchi Nath",
+              "won": 6,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/586"
+            },
+            {
               "name": "James Notaras",
-              "won": 5,
-              "lost": 5,
+              "won": 6,
+              "lost": 7,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/982"
             },
             {
@@ -2310,10 +2316,16 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3742"
             },
             {
-              "name": "Aakash Vanchi Nath",
+              "name": "Jacky Yu",
               "won": 4,
-              "lost": 1,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/586"
+              "lost": 5,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5742"
+            },
+            {
+              "name": "Michael Yeomans",
+              "won": 4,
+              "lost": 5,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/585"
             },
             {
               "name": "Stephen Hobson",
@@ -2322,10 +2334,16 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/979"
             },
             {
-              "name": "Jacky Yu",
+              "name": "Herve Lagadec",
               "won": 3,
-              "lost": 3,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5742"
+              "lost": 6,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5246"
+            },
+            {
+              "name": "Jack Bishop",
+              "won": 3,
+              "lost": 6,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/980"
             },
             {
               "name": "Tom Sharples",
@@ -2344,24 +2362,6 @@ window.__RESULTS__ = {
               "won": 2,
               "lost": 4,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3738"
-            },
-            {
-              "name": "Herve Lagadec",
-              "won": 2,
-              "lost": 4,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5246"
-            },
-            {
-              "name": "Jack Bishop",
-              "won": 2,
-              "lost": 4,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/980"
-            },
-            {
-              "name": "Michael Yeomans",
-              "won": 2,
-              "lost": 4,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/585"
             },
             {
               "name": "Sushant Mehta",
@@ -4596,8 +4596,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-07-17",
-      "asOf": "2026-07-17",
+      "lastSeen": "2026-07-18",
+      "asOf": "2026-07-18",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -4675,6 +4675,13 @@ window.__RESULTS__ = {
       "played": 18
     },
     {
+      "name": "Aakash Vanchi Nath",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/586",
+      "won": 9,
+      "lost": 2,
+      "played": 11
+    },
+    {
       "name": "Alexander Stannard",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/322",
       "won": 8,
@@ -4724,18 +4731,18 @@ window.__RESULTS__ = {
       "played": 15
     },
     {
-      "name": "Aakash Vanchi Nath",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/586",
-      "won": 7,
-      "lost": 1,
-      "played": 8
-    },
-    {
       "name": "George Fotakakis",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/951",
       "won": 7,
       "lost": 1,
       "played": 8
+    },
+    {
+      "name": "Michael Yeomans",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/585",
+      "won": 7,
+      "lost": 5,
+      "played": 12
     },
     {
       "name": "Stacie Alex",
@@ -4815,6 +4822,13 @@ window.__RESULTS__ = {
       "played": 12
     },
     {
+      "name": "James Notaras",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/982",
+      "won": 6,
+      "lost": 7,
+      "played": 13
+    },
+    {
       "name": "Marina Campbell",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1397",
       "won": 6,
@@ -4836,25 +4850,11 @@ window.__RESULTS__ = {
       "played": 9
     },
     {
-      "name": "Michael Yeomans",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/585",
-      "won": 5,
-      "lost": 4,
-      "played": 9
-    },
-    {
       "name": "Nadia Essa",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1404",
       "won": 5,
       "lost": 4,
       "played": 9
-    },
-    {
-      "name": "James Notaras",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/982",
-      "won": 5,
-      "lost": 5,
-      "played": 10
     },
     {
       "name": "Adam Chidell",
@@ -4897,6 +4897,13 @@ window.__RESULTS__ = {
       "won": 4,
       "lost": 2,
       "played": 6
+    },
+    {
+      "name": "Jacky Yu",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5742",
+      "won": 4,
+      "lost": 5,
+      "played": 9
     },
     {
       "name": "Stephen Hobson",
@@ -4997,13 +5004,6 @@ window.__RESULTS__ = {
       "played": 6
     },
     {
-      "name": "Jacky Yu",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5742",
-      "won": 3,
-      "lost": 3,
-      "played": 6
-    },
-    {
       "name": "Jenna Troop",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5940",
       "won": 3,
@@ -5041,6 +5041,20 @@ window.__RESULTS__ = {
     {
       "name": "Arun Ranganathan",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2418",
+      "won": 3,
+      "lost": 6,
+      "played": 9
+    },
+    {
+      "name": "Herve Lagadec",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5246",
+      "won": 3,
+      "lost": 6,
+      "played": 9
+    },
+    {
+      "name": "Jack Bishop",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/980",
       "won": 3,
       "lost": 6,
       "played": 9
@@ -5139,20 +5153,6 @@ window.__RESULTS__ = {
     {
       "name": "Annika Chai",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/802",
-      "won": 2,
-      "lost": 4,
-      "played": 6
-    },
-    {
-      "name": "Herve Lagadec",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5246",
-      "won": 2,
-      "lost": 4,
-      "played": 6
-    },
-    {
-      "name": "Jack Bishop",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/980",
       "won": 2,
       "lost": 4,
       "played": 6
