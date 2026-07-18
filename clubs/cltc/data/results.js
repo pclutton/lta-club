@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-18T13:23:36.692Z",
+  "generatedAt": "2026-07-18T17:02:52.182Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -90,12 +90,12 @@ window.__RESULTS__ = {
             {
               "rank": 2,
               "name": "Hackney Tennis 1",
-              "played": 5,
-              "won": 4,
+              "played": 6,
+              "won": 5,
               "drawn": 0,
               "lost": 1,
-              "rubbers": "38-22",
-              "points": 8,
+              "rubbers": "50-22",
+              "points": 10,
               "form": [
                 "W",
                 "W",
@@ -124,11 +124,11 @@ window.__RESULTS__ = {
             {
               "rank": 4,
               "name": "Hazelwood Lawn Tennis & Squash Club 1",
-              "played": 5,
+              "played": 6,
               "won": 0,
               "drawn": 0,
-              "lost": 5,
-              "rubbers": "6-54",
+              "lost": 6,
+              "rubbers": "6-66",
               "points": 0,
               "form": [
                 "L",
@@ -150,8 +150,8 @@ window.__RESULTS__ = {
             {
               "home": "Hazelwood Lawn Tennis & Squash Club 1",
               "away": "Hackney Tennis 1",
-              "hs": null,
-              "as": null,
+              "hs": 0,
+              "as": 12,
               "date": "Sat 09/05/2026"
             },
             {
