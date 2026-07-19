@@ -2,37 +2,37 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-18T21:55:32.299Z",
+  "generatedAt": "2026-07-19T08:29:00.154Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 275,
+      "players": 112,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-07-18"
+        "asOf": "2026-07-19"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-07-18"
+        "asOf": "2026-07-19"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-07-18"
+        "asOf": "2026-07-19"
       }
     ]
   },
@@ -41,8 +41,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-07-18",
-      "asOf": "2026-07-18",
+      "lastSeen": "2026-07-19",
+      "asOf": "2026-07-19",
       "stale": false,
       "teams": [
         {
@@ -1001,20 +1001,20 @@ window.__RESULTS__ = {
             {
               "name": "Irene Ouyang",
               "won": 6,
-              "lost": 2,
+              "lost": 4,
               "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/803"
+            },
+            {
+              "name": "Annika Chai",
+              "won": 3,
+              "lost": 5,
+              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/802"
             },
             {
               "name": "Raphaela Waschnig",
               "won": 2,
               "lost": 2,
               "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/799"
-            },
-            {
-              "name": "Annika Chai",
-              "won": 2,
-              "lost": 4,
-              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/802"
             },
             {
               "name": "Arabella Moen",
@@ -1029,22 +1029,28 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1485"
             },
             {
+              "name": "Megumi Aoyagi",
+              "won": 1,
+              "lost": 1,
+              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/2051"
+            },
+            {
               "name": "Anna Vershebeniuk",
               "won": 1,
               "lost": 2,
               "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1326"
             },
             {
+              "name": "Kathryn Brill",
+              "won": 1,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1488"
+            },
+            {
               "name": "Stacie Alex",
               "won": 1,
               "lost": 2,
               "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/804"
-            },
-            {
-              "name": "Kathryn Brill",
-              "won": 0,
-              "lost": 1,
-              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1488"
             },
             {
               "name": "Marta Chojnowska",
@@ -1072,8 +1078,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-07-18",
-      "asOf": "2026-07-18",
+      "lastSeen": "2026-07-19",
+      "asOf": "2026-07-19",
       "stale": false,
       "teams": [
         {
@@ -4601,8 +4607,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-07-18",
-      "asOf": "2026-07-18",
+      "lastSeen": "2026-07-19",
+      "asOf": "2026-07-19",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -4627,8 +4633,8 @@ window.__RESULTS__ = {
       "name": "Irene Ouyang",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4440",
       "won": 17,
-      "lost": 6,
-      "played": 23
+      "lost": 8,
+      "played": 25
     },
     {
       "name": "Zara Danesh",
@@ -4939,6 +4945,13 @@ window.__RESULTS__ = {
       "played": 12
     },
     {
+      "name": "Kathryn Brill",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4661",
+      "won": 4,
+      "lost": 8,
+      "played": 12
+    },
+    {
       "name": "Trystan Forrest",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/621",
       "won": 4,
@@ -5030,6 +5043,13 @@ window.__RESULTS__ = {
       "played": 7
     },
     {
+      "name": "Annika Chai",
+      "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/802",
+      "won": 3,
+      "lost": 5,
+      "played": 8
+    },
+    {
       "name": "Jack Fresnais",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/418",
       "won": 3,
@@ -5084,13 +5104,6 @@ window.__RESULTS__ = {
       "won": 3,
       "lost": 6,
       "played": 9
-    },
-    {
-      "name": "Kathryn Brill",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4661",
-      "won": 3,
-      "lost": 7,
-      "played": 10
     },
     {
       "name": "Konstantinos Pagonis",
@@ -5156,13 +5169,6 @@ window.__RESULTS__ = {
       "played": 3
     },
     {
-      "name": "Annika Chai",
-      "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/802",
-      "won": 2,
-      "lost": 4,
-      "played": 6
-    },
-    {
       "name": "Patrick Ryan",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3741",
       "won": 2,
@@ -5214,6 +5220,13 @@ window.__RESULTS__ = {
     {
       "name": "Lukas Hederer",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1937",
+      "won": 1,
+      "lost": 1,
+      "played": 2
+    },
+    {
+      "name": "Megumi Aoyagi",
+      "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/2051",
       "won": 1,
       "lost": 1,
       "played": 2
