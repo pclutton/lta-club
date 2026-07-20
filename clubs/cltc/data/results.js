@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-20T14:13:30.332Z",
+  "generatedAt": "2026-07-20T18:08:25.821Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -5830,6 +5830,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Hackney 1",
+              "played": 6,
+              "won": 3,
+              "drawn": 1,
+              "lost": 2,
+              "rubbers": "75-69",
+              "points": 75,
+              "form": [
+                "W",
+                "W",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "South Hampstead 1",
               "played": 6,
               "won": 2,
@@ -5843,23 +5859,6 @@ window.__RESULTS__ = {
                 "L",
                 "L",
                 "L"
-              ]
-            },
-            {
-              "rank": 4,
-              "name": "Hackney 1",
-              "played": 5,
-              "won": 3,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "63-57",
-              "points": 63,
-              "form": [
-                "L",
-                "W",
-                "W",
-                "L",
-                "W"
               ]
             },
             {
@@ -5914,12 +5913,12 @@ window.__RESULTS__ = {
             {
               "rank": 8,
               "name": "Conway 1",
-              "played": 4,
+              "played": 5,
               "won": 0,
-              "drawn": 1,
+              "drawn": 2,
               "lost": 3,
-              "rubbers": "26-70",
-              "points": 26,
+              "rubbers": "38-82",
+              "points": 38,
               "form": [
                 "L",
                 "L",
@@ -6064,8 +6063,8 @@ window.__RESULTS__ = {
             {
               "home": "Hackney 1",
               "away": "Conway 1",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 12,
               "date": "Mon 13/07/2026"
             },
             {
