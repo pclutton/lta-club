@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-20T20:24:38.267Z",
+  "generatedAt": "2026-07-20T22:04:00.073Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -2800,6 +2800,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Vicars Moor 1",
+              "played": 5,
+              "won": 3,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "70-50",
+              "points": 70,
+              "form": [
+                "L",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "Cumberland 2",
               "played": 5,
               "won": 2,
@@ -2809,21 +2825,6 @@ window.__RESULTS__ = {
               "points": 60,
               "form": [
                 "L",
-                "L",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 3,
-              "name": "Vicars Moor 1",
-              "played": 4,
-              "won": 2,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "56-40",
-              "points": 56,
-              "form": [
                 "L",
                 "W",
                 "W"
@@ -2878,6 +2879,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 7,
+              "name": "Coles Green 1",
+              "played": 4,
+              "won": 1,
+              "drawn": 0,
+              "lost": 3,
+              "rubbers": "35-61",
+              "points": 35,
+              "form": [
+                "W",
+                "L",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 8,
               "name": "Finchley Manor 1",
               "played": 4,
               "won": 0,
@@ -2888,21 +2905,6 @@ window.__RESULTS__ = {
               "form": [
                 "L",
                 "L",
-                "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 8,
-              "name": "Coles Green 1",
-              "played": 3,
-              "won": 1,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "25-47",
-              "points": 25,
-              "form": [
-                "W",
                 "L",
                 "L"
               ]
@@ -3017,8 +3019,8 @@ window.__RESULTS__ = {
             {
               "home": "Coles Green 1",
               "away": "Vicars Moor 1",
-              "hs": null,
-              "as": null,
+              "hs": 10,
+              "as": 14,
               "date": "Fri 26/06/2026"
             },
             {
@@ -3188,7 +3190,7 @@ window.__RESULTS__ = {
           "division": "East Premier",
           "pscName": "Cumberland 2",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/55",
-          "position": 2,
+          "position": 3,
           "of": 8,
           "played": 5,
           "won": 2,
@@ -3220,6 +3222,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Vicars Moor 1",
+              "played": 5,
+              "won": 3,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "70-50",
+              "points": 70,
+              "form": [
+                "L",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "Cumberland 2",
               "played": 5,
               "won": 2,
@@ -3229,21 +3247,6 @@ window.__RESULTS__ = {
               "points": 60,
               "form": [
                 "L",
-                "L",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 3,
-              "name": "Vicars Moor 1",
-              "played": 4,
-              "won": 2,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "56-40",
-              "points": 56,
-              "form": [
                 "L",
                 "W",
                 "W"
@@ -3298,6 +3301,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 7,
+              "name": "Coles Green 1",
+              "played": 4,
+              "won": 1,
+              "drawn": 0,
+              "lost": 3,
+              "rubbers": "35-61",
+              "points": 35,
+              "form": [
+                "W",
+                "L",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 8,
               "name": "Finchley Manor 1",
               "played": 4,
               "won": 0,
@@ -3308,21 +3327,6 @@ window.__RESULTS__ = {
               "form": [
                 "L",
                 "L",
-                "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 8,
-              "name": "Coles Green 1",
-              "played": 3,
-              "won": 1,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "25-47",
-              "points": 25,
-              "form": [
-                "W",
                 "L",
                 "L"
               ]
@@ -3437,8 +3441,8 @@ window.__RESULTS__ = {
             {
               "home": "Coles Green 1",
               "away": "Vicars Moor 1",
-              "hs": null,
-              "as": null,
+              "hs": 10,
+              "as": 14,
               "date": "Fri 26/06/2026"
             },
             {

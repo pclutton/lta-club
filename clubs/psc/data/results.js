@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-20T20:25:10.830Z",
+  "generatedAt": "2026-07-20T22:04:34.554Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -3840,15 +3840,16 @@ window.__RESULTS__ = {
           "division": "North West Division 2",
           "pscName": "Paddington Sports Club 4",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/34",
-          "position": 5,
+          "position": 6,
           "of": 7,
-          "played": 4,
+          "played": 5,
           "won": 1,
-          "lost": 1,
-          "points": 48,
+          "lost": 2,
+          "points": 50,
           "form": [
             "L",
-            "W"
+            "W",
+            "L"
           ],
           "standings": [
             {
@@ -3887,6 +3888,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Eastcote Lawn Tennis Club 2",
+              "played": 5,
+              "won": 2,
+              "drawn": 0,
+              "lost": 3,
+              "rubbers": "59-61",
+              "points": 59,
+              "form": [
+                "L",
+                "L",
+                "W",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "David Lloyd Club Northwood 2",
               "played": 5,
               "won": 2,
@@ -3902,7 +3920,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
               "name": "David Lloyd Club Sudbury Hill 1",
               "played": 5,
               "won": 1,
@@ -3918,21 +3936,22 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Paddington Sports Club 4",
-              "played": 4,
+              "played": 5,
               "won": 1,
               "drawn": 2,
-              "lost": 1,
-              "rubbers": "48-48",
-              "points": 48,
+              "lost": 2,
+              "rubbers": "50-70",
+              "points": 50,
               "form": [
                 "L",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
-              "rank": 6,
+              "rank": 7,
               "name": "Lowlands Club 2",
               "played": 4,
               "won": 2,
@@ -3945,22 +3964,6 @@ window.__RESULTS__ = {
                 "W",
                 "L",
                 "W"
-              ]
-            },
-            {
-              "rank": 7,
-              "name": "Eastcote Lawn Tennis Club 2",
-              "played": 4,
-              "won": 1,
-              "drawn": 0,
-              "lost": 3,
-              "rubbers": "37-59",
-              "points": 37,
-              "form": [
-                "L",
-                "L",
-                "W",
-                "L"
               ]
             }
           ],
@@ -4080,8 +4083,8 @@ window.__RESULTS__ = {
             {
               "home": "Eastcote Lawn Tennis Club 2",
               "away": "Paddington Sports Club 4",
-              "hs": null,
-              "as": null,
+              "hs": 22,
+              "as": 2,
               "date": "Mon 20/07/2026"
             },
             {
