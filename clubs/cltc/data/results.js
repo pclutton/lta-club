@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-20T09:25:20.619Z",
+  "generatedAt": "2026-07-20T14:13:30.332Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 20,
-      "matches": 418,
-      "players": 161,
-      "stale": 0
+      "refreshed": 20,
+      "failed": 0
     },
     "competitions": [
       {
@@ -3989,22 +3989,39 @@ window.__RESULTS__ = {
           "division": "North East Division 1",
           "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 4",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/39",
-          "position": 2,
+          "position": 1,
           "of": 9,
-          "played": 7,
-          "won": 5,
+          "played": 8,
+          "won": 6,
           "lost": 2,
-          "points": 113,
+          "points": 137,
           "form": [
             "W",
-            "W",
             "L",
+            "W",
             "W",
             "W"
           ],
           "standings": [
             {
               "rank": 1,
+              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 4",
+              "played": 8,
+              "won": 6,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "137-55",
+              "points": 137,
+              "form": [
+                "W",
+                "L",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Chandos Lawn Tennis Club 2",
               "played": 7,
               "won": 7,
@@ -4016,23 +4033,6 @@ window.__RESULTS__ = {
                 "W",
                 "W",
                 "W",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 2,
-              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 4",
-              "played": 7,
-              "won": 5,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "113-55",
-              "points": 113,
-              "form": [
-                "W",
-                "W",
-                "L",
                 "W",
                 "W"
               ]
@@ -4142,13 +4142,14 @@ window.__RESULTS__ = {
             {
               "rank": 9,
               "name": "Brampton Lawn Tennis Club 1",
-              "played": 4,
+              "played": 5,
               "won": 0,
               "drawn": 0,
-              "lost": 4,
-              "rubbers": "14-82",
+              "lost": 5,
+              "rubbers": "14-106",
               "points": 14,
               "form": [
+                "L",
                 "L",
                 "L",
                 "L",
@@ -4349,8 +4350,8 @@ window.__RESULTS__ = {
             {
               "home": "Brampton Lawn Tennis Club 1",
               "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 4",
-              "hs": null,
-              "as": null,
+              "hs": 0,
+              "as": 24,
               "date": "Thu 16/07/2026"
             },
             {
@@ -4526,6 +4527,23 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 4",
+              "played": 8,
+              "won": 6,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "137-55",
+              "points": 137,
+              "form": [
+                "W",
+                "L",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Chandos Lawn Tennis Club 2",
               "played": 7,
               "won": 7,
@@ -4537,23 +4555,6 @@ window.__RESULTS__ = {
                 "W",
                 "W",
                 "W",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 2,
-              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 4",
-              "played": 7,
-              "won": 5,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "113-55",
-              "points": 113,
-              "form": [
-                "W",
-                "W",
-                "L",
                 "W",
                 "W"
               ]
@@ -4663,13 +4664,14 @@ window.__RESULTS__ = {
             {
               "rank": 9,
               "name": "Brampton Lawn Tennis Club 1",
-              "played": 4,
+              "played": 5,
               "won": 0,
               "drawn": 0,
-              "lost": 4,
-              "rubbers": "14-82",
+              "lost": 5,
+              "rubbers": "14-106",
               "points": 14,
               "form": [
+                "L",
                 "L",
                 "L",
                 "L",
@@ -4870,8 +4872,8 @@ window.__RESULTS__ = {
             {
               "home": "Brampton Lawn Tennis Club 1",
               "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 4",
-              "hs": null,
-              "as": null,
+              "hs": 0,
+              "as": 24,
               "date": "Thu 16/07/2026"
             },
             {

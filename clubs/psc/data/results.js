@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-20T09:26:48.271Z",
+  "generatedAt": "2026-07-20T14:14:03.815Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "matches": 275,
-      "players": 113,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
@@ -3414,7 +3414,7 @@ window.__RESULTS__ = {
           "division": "North West Division 1",
           "pscName": "Paddington Sports Club 3",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/33",
-          "position": 5,
+          "position": 6,
           "of": 8,
           "played": 5,
           "won": 2,
@@ -3430,6 +3430,22 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Teddington Lawn Tennis Club 3",
+              "played": 6,
+              "won": 4,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "96-44",
+              "points": 96,
+              "form": [
+                "W",
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Headstone Lawn Tennis Club 1",
               "played": 5,
               "won": 4,
@@ -3440,23 +3456,6 @@ window.__RESULTS__ = {
               "form": [
                 "W",
                 "W",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 2,
-              "name": "Teddington Lawn Tennis Club 3",
-              "played": 5,
-              "won": 4,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "84-32",
-              "points": 84,
-              "form": [
-                "W",
-                "W",
-                "L",
                 "W",
                 "W"
               ]
@@ -3479,6 +3478,21 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
+              "name": "Eastcote Lawn Tennis Club 1",
+              "played": 5,
+              "won": 2,
+              "drawn": 2,
+              "lost": 1,
+              "rubbers": "56-64",
+              "points": 56,
+              "form": [
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Pinner Lawn Tennis Club 2",
               "played": 5,
               "won": 1,
@@ -3494,7 +3508,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Paddington Sports Club 3",
               "played": 5,
               "won": 2,
@@ -3508,21 +3522,6 @@ window.__RESULTS__ = {
                 "L",
                 "L",
                 "L"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "Eastcote Lawn Tennis Club 1",
-              "played": 4,
-              "won": 2,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "44-52",
-              "points": 44,
-              "form": [
-                "L",
-                "W",
-                "W"
               ]
             },
             {
@@ -3703,8 +3702,8 @@ window.__RESULTS__ = {
             {
               "home": "Teddington Lawn Tennis Club 3",
               "away": "Eastcote Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 12,
               "date": "Fri 17/07/2026"
             },
             {
