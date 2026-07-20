@@ -2,43 +2,43 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-19T21:57:30.927Z",
+  "generatedAt": "2026-07-20T09:25:20.619Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 20,
-      "refreshed": 20,
-      "failed": 0
+      "matches": 418,
+      "players": 161,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-07-19"
+        "asOf": "2026-07-20"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-07-19"
+        "asOf": "2026-07-20"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-07-19"
+        "asOf": "2026-07-20"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-07-19"
+        "asOf": "2026-07-20"
       }
     ]
   },
@@ -47,8 +47,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-07-19",
-      "asOf": "2026-07-19",
+      "lastSeen": "2026-07-20",
+      "asOf": "2026-07-20",
       "stale": false,
       "teams": [
         {
@@ -2758,8 +2758,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-07-19",
-      "asOf": "2026-07-19",
+      "lastSeen": "2026-07-20",
+      "asOf": "2026-07-20",
       "stale": false,
       "teams": [
         {
@@ -6634,8 +6634,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "current",
-      "lastSeen": "2026-07-19",
-      "asOf": "2026-07-19",
+      "lastSeen": "2026-07-20",
+      "asOf": "2026-07-20",
       "stale": false,
       "teams": [
         {
@@ -7076,8 +7076,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-07-19",
-      "asOf": "2026-07-19",
+      "lastSeen": "2026-07-20",
+      "asOf": "2026-07-20",
       "stale": false,
       "teams": [],
       "knockouts": [
