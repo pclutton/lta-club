@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-21T17:25:41.474Z",
+  "generatedAt": "2026-07-21T20:20:53.004Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -3649,6 +3649,23 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Globe 1",
+              "played": 5,
+              "won": 4,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "71-34",
+              "points": 86,
+              "form": [
+                "W",
+                "L",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Hackney 1",
               "played": 4,
               "won": 4,
@@ -3659,22 +3676,6 @@ window.__RESULTS__ = {
               "form": [
                 "W",
                 "W",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 2,
-              "name": "Globe 1",
-              "played": 4,
-              "won": 3,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "62-34",
-              "points": 62,
-              "form": [
-                "W",
-                "L",
                 "W",
                 "W"
               ]
@@ -3714,17 +3715,17 @@ window.__RESULTS__ = {
             {
               "rank": 5,
               "name": "Hazelwood 2",
-              "played": 5,
+              "played": 6,
               "won": 2,
               "drawn": 0,
-              "lost": 3,
-              "rubbers": "50-70",
+              "lost": 4,
+              "rubbers": "50-79",
               "points": 50,
               "form": [
-                "L",
                 "W",
                 "L",
                 "W",
+                "L",
                 "L"
               ]
             },
@@ -3869,8 +3870,8 @@ window.__RESULTS__ = {
             {
               "home": "Globe 1",
               "away": "Hazelwood 2",
-              "hs": null,
-              "as": null,
+              "hs": 24,
+              "as": 0,
               "date": "Tue 14/07/2026"
             },
             {
