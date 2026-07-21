@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-21T20:21:22.690Z",
+  "generatedAt": "2026-07-21T22:07:39.263Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -1975,18 +1975,18 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "Acorn Lawn Tennis Club 1",
-              "played": 6,
-              "won": 4,
+              "played": 7,
+              "won": 5,
               "drawn": 0,
               "lost": 2,
-              "rubbers": "100-44",
-              "points": 100,
+              "rubbers": "116-52",
+              "points": 116,
               "form": [
                 "W",
                 "W",
-                "W",
                 "L",
-                "L"
+                "L",
+                "W"
               ]
             },
             {
@@ -2043,18 +2043,18 @@ window.__RESULTS__ = {
             {
               "rank": 5,
               "name": "Harrow Weald Lawn Tennis Club 1",
-              "played": 6,
+              "played": 7,
               "won": 2,
               "drawn": 0,
-              "lost": 4,
-              "rubbers": "64-80",
-              "points": 64,
+              "lost": 5,
+              "rubbers": "72-96",
+              "points": 72,
               "form": [
                 "L",
                 "L",
                 "L",
-                "L",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -2265,8 +2265,8 @@ window.__RESULTS__ = {
             {
               "home": "Harrow Weald Lawn Tennis Club 1",
               "away": "Acorn Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 16,
               "date": "Tue 21/07/2026"
             },
             {
@@ -2409,14 +2409,14 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/4",
           "position": 3,
           "of": 9,
-          "played": 6,
+          "played": 7,
           "won": 3,
-          "lost": 2,
-          "points": 88,
+          "lost": 3,
+          "points": 96,
           "form": [
+            "W",
+            "W",
             "L",
-            "W",
-            "W",
             "L"
           ],
           "standings": [
@@ -2457,32 +2457,32 @@ window.__RESULTS__ = {
             {
               "rank": 3,
               "name": "Paddington Sports Club 4",
-              "played": 6,
+              "played": 7,
               "won": 3,
               "drawn": 1,
-              "lost": 2,
-              "rubbers": "88-56",
-              "points": 88,
+              "lost": 3,
+              "rubbers": "96-72",
+              "points": 96,
               "form": [
+                "W",
+                "W",
                 "L",
-                "W",
-                "W",
                 "L"
               ]
             },
             {
               "rank": 4,
               "name": "Greenford Tennis Club 1",
-              "played": 6,
-              "won": 2,
+              "played": 7,
+              "won": 3,
               "drawn": 1,
               "lost": 3,
-              "rubbers": "77-67",
-              "points": 77,
+              "rubbers": "93-75",
+              "points": 93,
               "form": [
                 "L",
                 "L",
-                "L",
+                "W",
                 "W"
               ]
             },
@@ -2775,8 +2775,8 @@ window.__RESULTS__ = {
             {
               "home": "Greenford Tennis Club 1",
               "away": "Paddington Sports Club 4",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 8,
               "date": "Tue 21/07/2026"
             },
             {
@@ -2924,16 +2924,16 @@ window.__RESULTS__ = {
           "division": "West Intermediate",
           "pscName": "Paddington Sports Club 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/22",
-          "position": 7,
+          "position": 4,
           "of": 8,
-          "played": 5,
-          "won": 3,
+          "played": 6,
+          "won": 4,
           "lost": 2,
-          "points": 64,
+          "points": 82,
           "form": [
+            "L",
+            "L",
             "W",
-            "L",
-            "L",
             "W",
             "W"
           ],
@@ -2941,16 +2941,17 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "Virgin Active Chiswick Riverside 1",
-              "played": 6,
+              "played": 7,
               "won": 3,
               "drawn": 2,
-              "lost": 1,
-              "rubbers": "90-54",
-              "points": 90,
+              "lost": 2,
+              "rubbers": "96-72",
+              "points": 96,
               "form": [
                 "W",
                 "W",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -2989,6 +2990,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
+              "name": "Paddington Sports Club 1",
+              "played": 6,
+              "won": 4,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "82-62",
+              "points": 82,
+              "form": [
+                "L",
+                "L",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Teddington Lawn Tennis Club 2",
               "played": 6,
               "won": 3,
@@ -3005,7 +3023,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "David Lloyd Club Acton Park 1",
               "played": 6,
               "won": 2,
@@ -3021,7 +3039,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 6,
+              "rank": 7,
               "name": "Wayfarers LTC 1",
               "played": 6,
               "won": 2,
@@ -3035,23 +3053,6 @@ window.__RESULTS__ = {
                 "W",
                 "L",
                 "L"
-              ]
-            },
-            {
-              "rank": 7,
-              "name": "Paddington Sports Club 1",
-              "played": 5,
-              "won": 3,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "64-56",
-              "points": 64,
-              "form": [
-                "W",
-                "L",
-                "L",
-                "W",
-                "W"
               ]
             },
             {
@@ -3244,8 +3245,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 1",
               "away": "Virgin Active Chiswick Riverside 1",
-              "hs": null,
-              "as": null,
+              "hs": 18,
+              "as": 6,
               "date": "Tue 21/07/2026"
             },
             {

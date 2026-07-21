@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-21T20:20:53.004Z",
+  "generatedAt": "2026-07-21T22:07:06.911Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -1122,7 +1122,7 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "David Lloyd Club Finchley 1",
-              "played": 3,
+              "played": 4,
               "won": 3,
               "drawn": 0,
               "lost": 0,
@@ -1137,7 +1137,7 @@ window.__RESULTS__ = {
             {
               "rank": 2,
               "name": "Conway Lawn Tennis Club 1",
-              "played": 3,
+              "played": 4,
               "won": 3,
               "drawn": 0,
               "lost": 0,
@@ -1226,8 +1226,8 @@ window.__RESULTS__ = {
             {
               "home": "David Lloyd Club Finchley 1",
               "away": "Conway Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 0,
+              "as": 0,
               "date": "Sun 14/06/2026"
             },
             {
@@ -5852,8 +5852,8 @@ window.__RESULTS__ = {
               "won": 5,
               "drawn": 0,
               "lost": 1,
-              "rubbers": "103-37",
-              "points": 103,
+              "rubbers": "105-39",
+              "points": 105,
               "form": [
                 "W",
                 "L",
@@ -5919,8 +5919,8 @@ window.__RESULTS__ = {
               "won": 2,
               "drawn": 0,
               "lost": 4,
-              "rubbers": "50-86",
-              "points": 50,
+              "rubbers": "52-88",
+              "points": 52,
               "form": [
                 "L",
                 "L",
@@ -6121,8 +6121,8 @@ window.__RESULTS__ = {
             {
               "home": "Brondesbury 1",
               "away": "Coolhurst 2",
-              "hs": 20,
-              "as": 0,
+              "hs": 22,
+              "as": 2,
               "date": "Wed 15/07/2026"
             },
             {
