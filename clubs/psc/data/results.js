@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-21T08:39:24.346Z",
+  "generatedAt": "2026-07-21T14:01:18.487Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "matches": 275,
-      "players": 114,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
@@ -1538,20 +1538,36 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/12",
           "position": 4,
           "of": 8,
-          "played": 5,
+          "played": 6,
           "won": 4,
-          "lost": 1,
-          "points": 76,
+          "lost": 2,
+          "points": 78,
           "form": [
-            "W",
             "L",
             "W",
             "W",
-            "W"
+            "W",
+            "L"
           ],
           "standings": [
             {
               "rank": 1,
+              "name": "Brentham Lawn Tennis Club 2",
+              "played": 6,
+              "won": 4,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "98-46",
+              "points": 98,
+              "form": [
+                "W",
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Holland Park Lawn Tennis Club 2",
               "played": 6,
               "won": 5,
@@ -1568,7 +1584,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
+              "rank": 3,
               "name": "Teddington Lawn Tennis Club 6",
               "played": 6,
               "won": 3,
@@ -1585,36 +1601,20 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
-              "name": "Brentham Lawn Tennis Club 2",
-              "played": 5,
-              "won": 3,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "76-44",
-              "points": 76,
-              "form": [
-                "W",
-                "W",
-                "L",
-                "W"
-              ]
-            },
-            {
               "rank": 4,
               "name": "Paddington Sports Club 2",
-              "played": 5,
+              "played": 6,
               "won": 4,
               "drawn": 0,
-              "lost": 1,
-              "rubbers": "76-44",
-              "points": 76,
+              "lost": 2,
+              "rubbers": "78-66",
+              "points": 78,
               "form": [
-                "W",
                 "L",
                 "W",
                 "W",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -1847,8 +1847,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 2",
               "away": "Brentham Lawn Tennis Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 2,
+              "as": 22,
               "date": "Mon 20/07/2026"
             },
             {
