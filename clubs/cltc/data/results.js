@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-22T14:04:00.011Z",
+  "generatedAt": "2026-07-22T17:24:51.857Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -5847,16 +5847,17 @@ window.__RESULTS__ = {
           "division": "East Intermediate",
           "pscName": "Cumberland 3",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/64",
-          "position": 6,
+          "position": 5,
           "of": 8,
-          "played": 4,
-          "won": 2,
+          "played": 5,
+          "won": 3,
           "lost": 2,
-          "points": 44,
+          "points": 58,
           "form": [
             "W",
             "L",
             "L",
+            "W",
             "W"
           ],
           "standings": [
@@ -5929,6 +5930,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
+              "name": "Cumberland 3",
+              "played": 5,
+              "won": 3,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "58-58",
+              "points": 58,
+              "form": [
+                "W",
+                "L",
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 6,
               "name": "Coolhurst 2",
               "played": 6,
               "won": 2,
@@ -5945,34 +5963,18 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 6,
-              "name": "Cumberland 3",
-              "played": 4,
-              "won": 2,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "44-48",
-              "points": 44,
-              "form": [
-                "W",
-                "L",
-                "L",
-                "W"
-              ]
-            },
-            {
               "rank": 7,
               "name": "Muswell Hill Methodist 1",
-              "played": 5,
+              "played": 6,
               "won": 1,
               "drawn": 1,
-              "lost": 3,
-              "rubbers": "40-80",
-              "points": 40,
+              "lost": 4,
+              "rubbers": "50-94",
+              "points": 50,
               "form": [
                 "L",
-                "L",
                 "W",
+                "L",
                 "L"
               ]
             },
@@ -6150,8 +6152,8 @@ window.__RESULTS__ = {
             {
               "home": "Muswell Hill Methodist 1",
               "away": "Cumberland 3",
-              "hs": null,
-              "as": null,
+              "hs": 10,
+              "as": 14,
               "date": "Mon 20/07/2026"
             },
             {
