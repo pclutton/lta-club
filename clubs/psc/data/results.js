@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-22T08:38:42.553Z",
+  "generatedAt": "2026-07-22T14:04:30.205Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "matches": 275,
-      "players": 116,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
@@ -3476,14 +3476,14 @@ window.__RESULTS__ = {
             {
               "rank": 3,
               "name": "Harrow Lawn Tennis Club 2",
-              "played": 5,
-              "won": 3,
+              "played": 6,
+              "won": 4,
               "drawn": 1,
               "lost": 1,
-              "rubbers": "70-50",
-              "points": 70,
+              "rubbers": "90-54",
+              "points": 90,
               "form": [
-                "L",
+                "W",
                 "W",
                 "W",
                 "W"
@@ -3540,14 +3540,15 @@ window.__RESULTS__ = {
             {
               "rank": 7,
               "name": "David Lloyd Club Northwood 1",
-              "played": 4,
+              "played": 5,
               "won": 1,
               "drawn": 0,
-              "lost": 3,
-              "rubbers": "32-64",
-              "points": 32,
+              "lost": 4,
+              "rubbers": "36-84",
+              "points": 36,
               "form": [
                 "W",
+                "L",
                 "L",
                 "L",
                 "L"
@@ -3729,8 +3730,8 @@ window.__RESULTS__ = {
             {
               "home": "Harrow Lawn Tennis Club 2",
               "away": "David Lloyd Club Northwood 1",
-              "hs": null,
-              "as": null,
+              "hs": 20,
+              "as": 4,
               "date": "Tue 21/07/2026"
             },
             {

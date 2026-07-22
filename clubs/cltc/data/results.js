@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-22T08:37:18.858Z",
+  "generatedAt": "2026-07-22T14:04:00.011Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 20,
-      "matches": 418,
-      "players": 162,
-      "stale": 0
+      "refreshed": 20,
+      "failed": 0
     },
     "competitions": [
       {
@@ -1109,7 +1109,7 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/25",
           "position": 3,
           "of": 5,
-          "played": 3,
+          "played": 4,
           "won": 1,
           "lost": 2,
           "points": 2,
@@ -1152,7 +1152,7 @@ window.__RESULTS__ = {
             {
               "rank": 3,
               "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "played": 3,
+              "played": 4,
               "won": 1,
               "drawn": 0,
               "lost": 2,
@@ -1166,20 +1166,6 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
-              "name": "Coolhurst LTC 1",
-              "played": 3,
-              "won": 0,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "0-24",
-              "points": 0,
-              "form": [
-                "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 5,
               "name": "Finchley Manor Tennis Squash and Health Club 1",
               "played": 4,
               "won": 0,
@@ -1189,6 +1175,20 @@ window.__RESULTS__ = {
               "points": 0,
               "form": [
                 "L",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 5,
+              "name": "Coolhurst LTC 1",
+              "played": 4,
+              "won": 0,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "0-24",
+              "points": 0,
+              "form": [
                 "L",
                 "L"
               ]
@@ -1254,8 +1254,8 @@ window.__RESULTS__ = {
             {
               "home": "Coolhurst LTC 1",
               "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "hs": null,
-              "as": null,
+              "hs": 0,
+              "as": 0,
               "date": "Sat 18/07/2026"
             },
             {
@@ -2412,7 +2412,7 @@ window.__RESULTS__ = {
           "division": "",
           "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/20",
-          "position": 2,
+          "position": 3,
           "of": 7,
           "played": 6,
           "won": 4,
@@ -2445,6 +2445,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Coolhurst LTC 1",
+              "played": 6,
+              "won": 4,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "84-36",
+              "points": 8,
+              "form": [
+                "W",
+                "W",
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "played": 6,
               "won": 4,
@@ -2461,41 +2478,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
-              "name": "Coolhurst LTC 1",
-              "played": 5,
-              "won": 3,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "66-34",
-              "points": 6,
-              "form": [
-                "L",
-                "W",
-                "W",
-                "L",
-                "W"
-              ]
-            },
-            {
               "rank": 4,
-              "name": "Highgate Cricket and Lawn Tennis Club 1",
-              "played": 5,
-              "won": 3,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "54-46",
-              "points": 6,
-              "form": [
-                "W",
-                "L",
-                "L",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 5,
               "name": "David Lloyd Club Finchley 1",
               "played": 6,
               "won": 3,
@@ -2507,6 +2490,23 @@ window.__RESULTS__ = {
                 "W",
                 "W",
                 "L",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 5,
+              "name": "Highgate Cricket and Lawn Tennis Club 1",
+              "played": 6,
+              "won": 3,
+              "drawn": 0,
+              "lost": 3,
+              "rubbers": "56-64",
+              "points": 6,
+              "form": [
+                "L",
+                "L",
+                "W",
                 "W",
                 "L"
               ]
@@ -2676,8 +2676,8 @@ window.__RESULTS__ = {
             {
               "home": "Coolhurst LTC 1",
               "away": "Highgate Cricket and Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 18,
+              "as": 2,
               "date": "Sat 11/07/2026"
             },
             {
@@ -2818,6 +2818,37 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Coolhurst 1",
+              "played": 6,
+              "won": 1,
+              "drawn": 2,
+              "lost": 3,
+              "rubbers": "63-81",
+              "points": 63,
+              "form": [
+                "W",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 4,
+              "name": "Chandos 1",
+              "played": 5,
+              "won": 2,
+              "drawn": 1,
+              "lost": 2,
+              "rubbers": "60-60",
+              "points": 60,
+              "form": [
+                "W",
+                "W",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Hazelwood 1",
               "played": 5,
               "won": 3,
@@ -2833,7 +2864,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 6,
               "name": "Cumberland 2",
               "played": 5,
               "won": 2,
@@ -2846,38 +2877,6 @@ window.__RESULTS__ = {
                 "L",
                 "W",
                 "W"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "Coolhurst 1",
-              "played": 5,
-              "won": 1,
-              "drawn": 1,
-              "lost": 3,
-              "rubbers": "51-69",
-              "points": 51,
-              "form": [
-                "L",
-                "W",
-                "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "Chandos 1",
-              "played": 4,
-              "won": 2,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "48-48",
-              "points": 48,
-              "form": [
-                "W",
-                "W",
-                "L",
-                "L"
               ]
             },
             {
@@ -3058,8 +3057,8 @@ window.__RESULTS__ = {
             {
               "home": "Coolhurst 1",
               "away": "Chandos 1",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 12,
               "date": "Mon 20/07/2026"
             },
             {
@@ -3194,7 +3193,7 @@ window.__RESULTS__ = {
           "division": "East Premier",
           "pscName": "Cumberland 2",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/55",
-          "position": 4,
+          "position": 6,
           "of": 8,
           "played": 5,
           "won": 2,
@@ -3242,6 +3241,37 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Coolhurst 1",
+              "played": 6,
+              "won": 1,
+              "drawn": 2,
+              "lost": 3,
+              "rubbers": "63-81",
+              "points": 63,
+              "form": [
+                "W",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 4,
+              "name": "Chandos 1",
+              "played": 5,
+              "won": 2,
+              "drawn": 1,
+              "lost": 2,
+              "rubbers": "60-60",
+              "points": 60,
+              "form": [
+                "W",
+                "W",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Hazelwood 1",
               "played": 5,
               "won": 3,
@@ -3257,7 +3287,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 6,
               "name": "Cumberland 2",
               "played": 5,
               "won": 2,
@@ -3270,38 +3300,6 @@ window.__RESULTS__ = {
                 "L",
                 "W",
                 "W"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "Coolhurst 1",
-              "played": 5,
-              "won": 1,
-              "drawn": 1,
-              "lost": 3,
-              "rubbers": "51-69",
-              "points": 51,
-              "form": [
-                "L",
-                "W",
-                "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "Chandos 1",
-              "played": 4,
-              "won": 2,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "48-48",
-              "points": 48,
-              "form": [
-                "W",
-                "W",
-                "L",
-                "L"
               ]
             },
             {
@@ -3482,8 +3480,8 @@ window.__RESULTS__ = {
             {
               "home": "Coolhurst 1",
               "away": "Chandos 1",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 12,
               "date": "Mon 20/07/2026"
             },
             {
@@ -3641,7 +3639,7 @@ window.__RESULTS__ = {
           "played": 5,
           "won": 4,
           "lost": 1,
-          "points": 70,
+          "points": 71,
           "form": [
             "W",
             "L",
@@ -3674,8 +3672,8 @@ window.__RESULTS__ = {
               "won": 4,
               "drawn": 0,
               "lost": 1,
-              "rubbers": "70-38",
-              "points": 70,
+              "rubbers": "71-41",
+              "points": 71,
               "form": [
                 "W",
                 "L",
@@ -3740,8 +3738,8 @@ window.__RESULTS__ = {
               "won": 0,
               "drawn": 1,
               "lost": 3,
-              "rubbers": "36-56",
-              "points": 36,
+              "rubbers": "39-57",
+              "points": 39,
               "form": [
                 "L",
                 "L",
@@ -3854,8 +3852,8 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland 3",
               "away": "Barnet 1",
-              "hs": 14,
-              "as": 6,
+              "hs": 15,
+              "as": 9,
               "date": "Thu 09/07/2026"
             },
             {
@@ -4060,16 +4058,16 @@ window.__RESULTS__ = {
             {
               "rank": 3,
               "name": "Finchley Manor Tennis Squash and Health Club 2",
-              "played": 7,
-              "won": 5,
+              "played": 8,
+              "won": 6,
               "drawn": 0,
               "lost": 2,
-              "rubbers": "107-61",
-              "points": 107,
+              "rubbers": "123-69",
+              "points": 123,
               "form": [
                 "W",
-                "W",
                 "L",
+                "W",
                 "W",
                 "W"
               ]
@@ -4111,18 +4109,18 @@ window.__RESULTS__ = {
             {
               "rank": 6,
               "name": "Totteridge Tennis Club 1",
-              "played": 6,
+              "played": 7,
               "won": 2,
               "drawn": 1,
-              "lost": 3,
-              "rubbers": "66-78",
-              "points": 66,
+              "lost": 4,
+              "rubbers": "74-94",
+              "points": 74,
               "form": [
-                "L",
                 "W",
                 "L",
                 "L",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -4391,8 +4389,8 @@ window.__RESULTS__ = {
             {
               "home": "Totteridge Tennis Club 1",
               "away": "Finchley Manor Tennis Squash and Health Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 16,
               "date": "Tue 21/07/2026"
             },
             {
@@ -4594,16 +4592,16 @@ window.__RESULTS__ = {
             {
               "rank": 3,
               "name": "Finchley Manor Tennis Squash and Health Club 2",
-              "played": 7,
-              "won": 5,
+              "played": 8,
+              "won": 6,
               "drawn": 0,
               "lost": 2,
-              "rubbers": "107-61",
-              "points": 107,
+              "rubbers": "123-69",
+              "points": 123,
               "form": [
                 "W",
-                "W",
                 "L",
+                "W",
                 "W",
                 "W"
               ]
@@ -4645,18 +4643,18 @@ window.__RESULTS__ = {
             {
               "rank": 6,
               "name": "Totteridge Tennis Club 1",
-              "played": 6,
+              "played": 7,
               "won": 2,
               "drawn": 1,
-              "lost": 3,
-              "rubbers": "66-78",
-              "points": 66,
+              "lost": 4,
+              "rubbers": "74-94",
+              "points": 74,
               "form": [
-                "L",
                 "W",
                 "L",
                 "L",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -4925,8 +4923,8 @@ window.__RESULTS__ = {
             {
               "home": "Totteridge Tennis Club 1",
               "away": "Finchley Manor Tennis Squash and Health Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 16,
               "date": "Tue 21/07/2026"
             },
             {
