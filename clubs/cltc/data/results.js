@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-22T17:24:51.857Z",
+  "generatedAt": "2026-07-22T20:13:33.489Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -1638,12 +1638,12 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/65",
           "position": 1,
           "of": 4,
-          "played": 5,
-          "won": 4,
+          "played": 6,
+          "won": 5,
           "lost": 1,
-          "points": 8,
+          "points": 10,
           "form": [
-            "L",
+            "W",
             "W",
             "W",
             "W",
@@ -1653,14 +1653,14 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "played": 5,
-              "won": 4,
+              "played": 6,
+              "won": 5,
               "drawn": 0,
               "lost": 1,
-              "rubbers": "20-10",
-              "points": 8,
+              "rubbers": "26-10",
+              "points": 10,
               "form": [
-                "L",
+                "W",
                 "W",
                 "W",
                 "W",
@@ -1687,18 +1687,18 @@ window.__RESULTS__ = {
             {
               "rank": 3,
               "name": "Vicars Moor LTC 1",
-              "played": 5,
+              "played": 6,
               "won": 2,
               "drawn": 0,
-              "lost": 3,
-              "rubbers": "12-18",
+              "lost": 4,
+              "rubbers": "12-24",
               "points": 4,
               "form": [
-                "L",
                 "W",
                 "L",
                 "L",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -1793,8 +1793,8 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "away": "Vicars Moor LTC 1",
-              "hs": null,
-              "as": null,
+              "hs": 6,
+              "as": 0,
               "date": "Sun 21/06/2026"
             },
             {
