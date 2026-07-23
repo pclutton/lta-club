@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-23T08:38:58.038Z",
+  "generatedAt": "2026-07-23T14:09:38.323Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 20,
-      "matches": 418,
-      "players": 162,
-      "stale": 0
+      "refreshed": 20,
+      "failed": 0
     },
     "competitions": [
       {
@@ -5117,13 +5117,14 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "Chandos 1",
-              "played": 4,
-              "won": 3,
+              "played": 5,
+              "won": 4,
               "drawn": 1,
               "lost": 0,
-              "rubbers": "77-19",
-              "points": 77,
+              "rubbers": "97-23",
+              "points": 97,
               "form": [
+                "W",
                 "W",
                 "W",
                 "W"
@@ -5194,6 +5195,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 6,
+              "name": "Globe 1",
+              "played": 5,
+              "won": 1,
+              "drawn": 0,
+              "lost": 4,
+              "rubbers": "39-81",
+              "points": 39,
+              "form": [
+                "L",
+                "L",
+                "W",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 7,
               "name": "Totteridge 1",
               "played": 6,
               "won": 1,
@@ -5206,22 +5224,6 @@ window.__RESULTS__ = {
                 "L",
                 "L",
                 "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 7,
-              "name": "Globe 1",
-              "played": 4,
-              "won": 1,
-              "drawn": 0,
-              "lost": 3,
-              "rubbers": "35-61",
-              "points": 35,
-              "form": [
-                "L",
-                "L",
-                "W",
                 "L"
               ]
             }
@@ -5335,8 +5337,8 @@ window.__RESULTS__ = {
             {
               "home": "Chandos 1",
               "away": "Globe 1",
-              "hs": null,
-              "as": null,
+              "hs": 20,
+              "as": 4,
               "date": "Wed 22/07/2026"
             },
             {
@@ -5521,13 +5523,14 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "Chandos 1",
-              "played": 4,
-              "won": 3,
+              "played": 5,
+              "won": 4,
               "drawn": 1,
               "lost": 0,
-              "rubbers": "77-19",
-              "points": 77,
+              "rubbers": "97-23",
+              "points": 97,
               "form": [
+                "W",
                 "W",
                 "W",
                 "W"
@@ -5598,6 +5601,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 6,
+              "name": "Globe 1",
+              "played": 5,
+              "won": 1,
+              "drawn": 0,
+              "lost": 4,
+              "rubbers": "39-81",
+              "points": 39,
+              "form": [
+                "L",
+                "L",
+                "W",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 7,
               "name": "Totteridge 1",
               "played": 6,
               "won": 1,
@@ -5610,22 +5630,6 @@ window.__RESULTS__ = {
                 "L",
                 "L",
                 "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 7,
-              "name": "Globe 1",
-              "played": 4,
-              "won": 1,
-              "drawn": 0,
-              "lost": 3,
-              "rubbers": "35-61",
-              "points": 35,
-              "form": [
-                "L",
-                "L",
-                "W",
                 "L"
               ]
             }
@@ -5739,8 +5743,8 @@ window.__RESULTS__ = {
             {
               "home": "Chandos 1",
               "away": "Globe 1",
-              "hs": null,
-              "as": null,
+              "hs": 20,
+              "as": 4,
               "date": "Wed 22/07/2026"
             },
             {
