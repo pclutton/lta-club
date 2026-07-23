@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-23T20:17:38.849Z",
+  "generatedAt": "2026-07-23T22:09:14.824Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -506,7 +506,7 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/8",
           "position": 1,
           "of": 6,
-          "played": 4,
+          "played": 5,
           "won": 4,
           "lost": 0,
           "points": 8,
@@ -520,7 +520,7 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "Paddington Sports Club 1",
-              "played": 4,
+              "played": 5,
               "won": 4,
               "drawn": 0,
               "lost": 0,
@@ -587,7 +587,7 @@ window.__RESULTS__ = {
             {
               "rank": 5,
               "name": "Teddington Lawn Tennis Club 1",
-              "played": 4,
+              "played": 5,
               "won": 1,
               "drawn": 0,
               "lost": 3,
@@ -720,8 +720,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 1",
               "away": "Teddington Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 0,
+              "as": 0,
               "date": "Sun 26/07/2026"
             }
           ],
@@ -3429,12 +3429,11 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/33",
           "position": 6,
           "of": 8,
-          "played": 5,
+          "played": 6,
           "won": 2,
           "lost": 3,
-          "points": 45,
+          "points": 51,
           "form": [
-            "W",
             "W",
             "L",
             "L",
@@ -3523,14 +3522,13 @@ window.__RESULTS__ = {
             {
               "rank": 6,
               "name": "Paddington Sports Club 3",
-              "played": 5,
+              "played": 6,
               "won": 2,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 3,
-              "rubbers": "45-75",
-              "points": 45,
+              "rubbers": "51-81",
+              "points": 51,
               "form": [
-                "W",
                 "W",
                 "L",
                 "L",
@@ -3557,14 +3555,13 @@ window.__RESULTS__ = {
             {
               "rank": 8,
               "name": "Pinner West End Lawn Tennis Club 1",
-              "played": 5,
+              "played": 6,
               "won": 0,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 5,
-              "rubbers": "28-88",
-              "points": 28,
+              "rubbers": "34-94",
+              "points": 34,
               "form": [
-                "L",
                 "L",
                 "L",
                 "L",
@@ -3737,8 +3734,8 @@ window.__RESULTS__ = {
             {
               "home": "Pinner West End Lawn Tennis Club 1",
               "away": "Paddington Sports Club 3",
-              "hs": null,
-              "as": null,
+              "hs": 6,
+              "as": 6,
               "date": "Thu 23/07/2026"
             },
             {
