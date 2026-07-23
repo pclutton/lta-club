@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-23T14:09:38.323Z",
+  "generatedAt": "2026-07-23T17:26:32.995Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -6268,14 +6268,13 @@ window.__RESULTS__ = {
           "division": "North East Division 2",
           "pscName": "Cumberland 4",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/67",
-          "position": 2,
+          "position": 1,
           "of": 8,
-          "played": 5,
+          "played": 6,
           "won": 4,
           "lost": 1,
-          "points": 98,
+          "points": 110,
           "form": [
-            "W",
             "W",
             "L",
             "W",
@@ -6284,6 +6283,22 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Cumberland 4",
+              "played": 6,
+              "won": 4,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "110-34",
+              "points": 110,
+              "form": [
+                "W",
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Chandos 3",
               "played": 7,
               "won": 4,
@@ -6294,23 +6309,6 @@ window.__RESULTS__ = {
               "form": [
                 "L",
                 "W",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 2,
-              "name": "Cumberland 4",
-              "played": 5,
-              "won": 4,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "98-22",
-              "points": 98,
-              "form": [
-                "W",
-                "W",
-                "L",
                 "W",
                 "W"
               ]
@@ -6355,29 +6353,27 @@ window.__RESULTS__ = {
               "played": 5,
               "won": 3,
               "drawn": 0,
-              "lost": 2,
-              "rubbers": "56-64",
-              "points": 56,
+              "lost": 1,
+              "rubbers": "48-48",
+              "points": 48,
               "form": [
                 "W",
                 "W",
                 "W",
-                "L",
                 "L"
               ]
             },
             {
               "rank": 6,
               "name": "Totteridge 2",
-              "played": 4,
-              "won": 2,
-              "drawn": 1,
+              "played": 5,
+              "won": 1,
+              "drawn": 2,
               "lost": 1,
-              "rubbers": "50-46",
-              "points": 50,
+              "rubbers": "46-50",
+              "points": 46,
               "form": [
                 "L",
-                "W",
                 "W"
               ]
             },
@@ -6532,8 +6528,8 @@ window.__RESULTS__ = {
             {
               "home": "Temple Fortune 1",
               "away": "Totteridge 2",
-              "hs": 8,
-              "as": 16,
+              "hs": 0,
+              "as": 0,
               "date": "Tue 07/07/2026"
             },
             {
@@ -6567,8 +6563,8 @@ window.__RESULTS__ = {
             {
               "home": "Totteridge 2",
               "away": "Cumberland 4",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 12,
               "date": "Mon 20/07/2026"
             },
             {
