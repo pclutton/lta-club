@@ -2,37 +2,37 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-22T20:14:06.156Z",
+  "generatedAt": "2026-07-23T08:40:27.119Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 275,
+      "players": 117,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-07-22"
+        "asOf": "2026-07-23"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-07-22"
+        "asOf": "2026-07-23"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-07-22"
+        "asOf": "2026-07-23"
       }
     ]
   },
@@ -41,8 +41,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-07-22",
-      "asOf": "2026-07-22",
+      "lastSeen": "2026-07-23",
+      "asOf": "2026-07-23",
       "stale": false,
       "teams": [
         {
@@ -1078,8 +1078,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-07-22",
-      "asOf": "2026-07-22",
+      "lastSeen": "2026-07-23",
+      "asOf": "2026-07-23",
       "stale": false,
       "teams": [
         {
@@ -4204,6 +4204,12 @@ window.__RESULTS__ = {
               "won": 0,
               "lost": 3,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6232"
+            },
+            {
+              "name": "Sophie Solomon",
+              "won": 0,
+              "lost": 3,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6292"
             }
           ],
           "displayName": "Womens Team 4",
@@ -4214,7 +4220,7 @@ window.__RESULTS__ = {
           "division": "West Division 3",
           "pscName": "Paddington Sports Club 2",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/20",
-          "position": 1,
+          "position": 2,
           "of": 8,
           "played": 6,
           "won": 5,
@@ -4229,6 +4235,22 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Old Actonians Association Tennis Club 1",
+              "played": 7,
+              "won": 5,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "116-52",
+              "points": 116,
+              "form": [
+                "L",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Paddington Sports Club 2",
               "played": 6,
               "won": 5,
@@ -4239,22 +4261,6 @@ window.__RESULTS__ = {
               "form": [
                 "W",
                 "W",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 2,
-              "name": "Old Actonians Association Tennis Club 1",
-              "played": 6,
-              "won": 4,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "96-48",
-              "points": 96,
-              "form": [
-                "W",
-                "L",
                 "W",
                 "W"
               ]
@@ -4278,6 +4284,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
+              "name": "The Lensbury Club 2",
+              "played": 7,
+              "won": 2,
+              "drawn": 1,
+              "lost": 4,
+              "rubbers": "71-97",
+              "points": 71,
+              "form": [
+                "L",
+                "W",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Thistleworth LTC 1",
               "played": 6,
               "won": 2,
@@ -4293,7 +4315,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Ealing Lawn Tennis Club 4",
               "played": 6,
               "won": 3,
@@ -4306,22 +4328,6 @@ window.__RESULTS__ = {
                 "W",
                 "L",
                 "W"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "The Lensbury Club 2",
-              "played": 6,
-              "won": 2,
-              "drawn": 1,
-              "lost": 3,
-              "rubbers": "67-77",
-              "points": 67,
-              "form": [
-                "W",
-                "L",
-                "W",
-                "L"
               ]
             },
             {
@@ -4530,8 +4536,8 @@ window.__RESULTS__ = {
             {
               "home": "Old Actonians Association Tennis Club 1",
               "away": "The Lensbury Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 20,
+              "as": 4,
               "date": "Wed 22/07/2026"
             },
             {
@@ -4635,8 +4641,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-07-22",
-      "asOf": "2026-07-22",
+      "lastSeen": "2026-07-23",
+      "asOf": "2026-07-23",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -5458,6 +5464,13 @@ window.__RESULTS__ = {
     {
       "name": "Rebecca Manuel",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5262",
+      "won": 0,
+      "lost": 3,
+      "played": 3
+    },
+    {
+      "name": "Sophie Solomon",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6292",
       "won": 0,
       "lost": 3,
       "played": 3
