@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-23T17:26:32.995Z",
+  "generatedAt": "2026-07-23T20:17:05.453Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -6349,32 +6349,34 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
-              "name": "Temple Fortune 1",
+              "name": "Totteridge 2",
               "played": 5,
-              "won": 3,
-              "drawn": 0,
+              "won": 2,
+              "drawn": 2,
               "lost": 1,
-              "rubbers": "48-48",
-              "points": 48,
+              "rubbers": "65-55",
+              "points": 65,
               "form": [
+                "L",
                 "W",
-                "W",
-                "W",
-                "L"
+                "W"
               ]
             },
             {
               "rank": 6,
-              "name": "Totteridge 2",
+              "name": "Temple Fortune 1",
               "played": 5,
-              "won": 1,
-              "drawn": 2,
-              "lost": 1,
-              "rubbers": "46-50",
-              "points": 46,
+              "won": 3,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "53-67",
+              "points": 53,
               "form": [
+                "W",
+                "W",
+                "W",
                 "L",
-                "W"
+                "L"
               ]
             },
             {
@@ -6528,8 +6530,8 @@ window.__RESULTS__ = {
             {
               "home": "Temple Fortune 1",
               "away": "Totteridge 2",
-              "hs": 0,
-              "as": 0,
+              "hs": 5,
+              "as": 19,
               "date": "Tue 07/07/2026"
             },
             {
