@@ -2,43 +2,43 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-23T22:08:37.018Z",
+  "generatedAt": "2026-07-24T08:35:29.717Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 20,
-      "refreshed": 20,
-      "failed": 0
+      "matches": 418,
+      "players": 162,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-07-23"
+        "asOf": "2026-07-24"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-07-23"
+        "asOf": "2026-07-24"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-07-23"
+        "asOf": "2026-07-24"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-07-23"
+        "asOf": "2026-07-24"
       }
     ]
   },
@@ -47,8 +47,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-07-23",
-      "asOf": "2026-07-23",
+      "lastSeen": "2026-07-24",
+      "asOf": "2026-07-24",
       "stale": false,
       "teams": [
         {
@@ -2760,8 +2760,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-07-23",
-      "asOf": "2026-07-23",
+      "lastSeen": "2026-07-24",
+      "asOf": "2026-07-24",
       "stale": false,
       "teams": [
         {
@@ -6617,8 +6617,8 @@ window.__RESULTS__ = {
           "players": [
             {
               "name": "Martha Rushbrooke",
-              "won": 15,
-              "lost": 0,
+              "won": 17,
+              "lost": 1,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2443"
             },
             {
@@ -6628,9 +6628,15 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2442"
             },
             {
-              "name": "Pamela Henry",
+              "name": "Eva Klute",
               "won": 7,
               "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5970"
+            },
+            {
+              "name": "Pamela Henry",
+              "won": 7,
+              "lost": 5,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2447"
             },
             {
@@ -6646,22 +6652,16 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5509"
             },
             {
+              "name": "Alexandra Liebelt",
+              "won": 5,
+              "lost": 1,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2307"
+            },
+            {
               "name": "Celestine Ober",
               "won": 5,
               "lost": 1,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5971"
-            },
-            {
-              "name": "Eva Klute",
-              "won": 5,
-              "lost": 1,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5970"
-            },
-            {
-              "name": "Magda Danowska",
-              "won": 5,
-              "lost": 1,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4079"
             },
             {
               "name": "Anastasia Argent",
@@ -6670,10 +6670,10 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2445"
             },
             {
-              "name": "Alexandra Liebelt",
-              "won": 3,
-              "lost": 0,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2307"
+              "name": "Magda Danowska",
+              "won": 5,
+              "lost": 4,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4079"
             },
             {
               "name": "Cybele Cortina",
@@ -6713,8 +6713,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "current",
-      "lastSeen": "2026-07-23",
-      "asOf": "2026-07-23",
+      "lastSeen": "2026-07-24",
+      "asOf": "2026-07-24",
       "stale": false,
       "teams": [
         {
@@ -7155,8 +7155,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-07-23",
-      "asOf": "2026-07-23",
+      "lastSeen": "2026-07-24",
+      "asOf": "2026-07-24",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -7185,6 +7185,13 @@ window.__RESULTS__ = {
   ],
   "players": [
     {
+      "name": "Martha Rushbrooke",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2443",
+      "won": 17,
+      "lost": 1,
+      "played": 18
+    },
+    {
       "name": "Juliet Huggett",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4225",
       "won": 16,
@@ -7197,13 +7204,6 @@ window.__RESULTS__ = {
       "won": 16,
       "lost": 7,
       "played": 23
-    },
-    {
-      "name": "Martha Rushbrooke",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2443",
-      "won": 15,
-      "lost": 0,
-      "played": 15
     },
     {
       "name": "Gerardo De la Concha",
@@ -7346,15 +7346,15 @@ window.__RESULTS__ = {
       "played": 14
     },
     {
-      "name": "Mark Woolley",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4136",
+      "name": "Eva Klute",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5970",
       "won": 7,
       "lost": 2,
       "played": 9
     },
     {
-      "name": "Pamela Henry",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2447",
+      "name": "Mark Woolley",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4136",
       "won": 7,
       "lost": 2,
       "played": 9
@@ -7411,6 +7411,13 @@ window.__RESULTS__ = {
     {
       "name": "Joshua Imber",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4963",
+      "won": 7,
+      "lost": 5,
+      "played": 12
+    },
+    {
+      "name": "Pamela Henry",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2447",
       "won": 7,
       "lost": 5,
       "played": 12
@@ -7542,6 +7549,13 @@ window.__RESULTS__ = {
       "played": 6
     },
     {
+      "name": "Alexandra Liebelt",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2307",
+      "won": 5,
+      "lost": 1,
+      "played": 6
+    },
+    {
       "name": "Avi Shah",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1227",
       "won": 5,
@@ -7551,13 +7565,6 @@ window.__RESULTS__ = {
     {
       "name": "Celestine Ober",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5971",
-      "won": 5,
-      "lost": 1,
-      "played": 6
-    },
-    {
-      "name": "Eva Klute",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5970",
       "won": 5,
       "lost": 1,
       "played": 6
@@ -7579,13 +7586,6 @@ window.__RESULTS__ = {
     {
       "name": "Lucas Smallwood",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1197",
-      "won": 5,
-      "lost": 1,
-      "played": 6
-    },
-    {
-      "name": "Magda Danowska",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4079",
       "won": 5,
       "lost": 1,
       "played": 6
@@ -7621,6 +7621,13 @@ window.__RESULTS__ = {
     {
       "name": "Anastasia Argent",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2445",
+      "won": 5,
+      "lost": 4,
+      "played": 9
+    },
+    {
+      "name": "Magda Danowska",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4079",
       "won": 5,
       "lost": 4,
       "played": 9
@@ -7736,13 +7743,6 @@ window.__RESULTS__ = {
       "won": 4,
       "lost": 8,
       "played": 12
-    },
-    {
-      "name": "Alexandra Liebelt",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2307",
-      "won": 3,
-      "lost": 0,
-      "played": 3
     },
     {
       "name": "Julie Byrne",

@@ -2,37 +2,37 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-23T22:09:14.824Z",
+  "generatedAt": "2026-07-24T08:37:00.078Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 275,
+      "players": 119,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-07-23"
+        "asOf": "2026-07-24"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-07-23"
+        "asOf": "2026-07-24"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-07-23"
+        "asOf": "2026-07-24"
       }
     ]
   },
@@ -41,8 +41,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-07-23",
-      "asOf": "2026-07-23",
+      "lastSeen": "2026-07-24",
+      "asOf": "2026-07-24",
       "stale": false,
       "teams": [
         {
@@ -1078,8 +1078,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-07-23",
-      "asOf": "2026-07-23",
+      "lastSeen": "2026-07-24",
+      "asOf": "2026-07-24",
       "stale": false,
       "teams": [
         {
@@ -3772,14 +3772,14 @@ window.__RESULTS__ = {
           "players": [
             {
               "name": "Kara Hebert",
-              "won": 6,
+              "won": 8,
               "lost": 6,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1435"
             },
             {
               "name": "Marina Campbell",
-              "won": 6,
-              "lost": 8,
+              "won": 7,
+              "lost": 9,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1397"
             },
             {
@@ -3787,6 +3787,12 @@ window.__RESULTS__ = {
               "won": 5,
               "lost": 4,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1404"
+            },
+            {
+              "name": "Olivia Marsden",
+              "won": 4,
+              "lost": 7,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4342"
             },
             {
               "name": "Ann Scott",
@@ -3801,10 +3807,10 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1401"
             },
             {
-              "name": "Olivia Marsden",
-              "won": 3,
-              "lost": 6,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4342"
+              "name": "Kenza Mekouar",
+              "won": 2,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6334"
             },
             {
               "name": "Anne Beranger",
@@ -3829,6 +3835,12 @@ window.__RESULTS__ = {
               "won": 1,
               "lost": 4,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1396"
+            },
+            {
+              "name": "Joan Park",
+              "won": 0,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6335"
             },
             {
               "name": "bari shaffran",
@@ -4638,8 +4650,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-07-23",
-      "asOf": "2026-07-23",
+      "lastSeen": "2026-07-24",
+      "asOf": "2026-07-24",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -4752,6 +4764,13 @@ window.__RESULTS__ = {
       "played": 12
     },
     {
+      "name": "Kara Hebert",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1435",
+      "won": 8,
+      "lost": 6,
+      "played": 14
+    },
+    {
       "name": "Alexander Smith",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4042",
       "won": 8,
@@ -4799,6 +4818,13 @@ window.__RESULTS__ = {
       "won": 7,
       "lost": 5,
       "played": 12
+    },
+    {
+      "name": "Marina Campbell",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1397",
+      "won": 7,
+      "lost": 9,
+      "played": 16
     },
     {
       "name": "Niall Paterson",
@@ -4871,25 +4897,11 @@ window.__RESULTS__ = {
       "played": 12
     },
     {
-      "name": "Kara Hebert",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1435",
-      "won": 6,
-      "lost": 6,
-      "played": 12
-    },
-    {
       "name": "James Notaras",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/982",
       "won": 6,
       "lost": 7,
       "played": 13
-    },
-    {
-      "name": "Marina Campbell",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1397",
-      "won": 6,
-      "lost": 8,
-      "played": 14
     },
     {
       "name": "Anne Beranger",
@@ -4974,6 +4986,13 @@ window.__RESULTS__ = {
       "won": 4,
       "lost": 5,
       "played": 9
+    },
+    {
+      "name": "Olivia Marsden",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4342",
+      "won": 4,
+      "lost": 7,
+      "played": 11
     },
     {
       "name": "Ann Scott",
@@ -5144,13 +5163,6 @@ window.__RESULTS__ = {
       "played": 9
     },
     {
-      "name": "Olivia Marsden",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4342",
-      "won": 3,
-      "lost": 6,
-      "played": 9
-    },
-    {
       "name": "Tom Sharples",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/981",
       "won": 3,
@@ -5181,6 +5193,13 @@ window.__RESULTS__ = {
     {
       "name": "Alberto Ambrosetti",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1707",
+      "won": 2,
+      "lost": 0,
+      "played": 2
+    },
+    {
+      "name": "Kenza Mekouar",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6334",
       "won": 2,
       "lost": 0,
       "played": 2
@@ -5391,6 +5410,13 @@ window.__RESULTS__ = {
     {
       "name": "Alexander Lenior-Emanuel",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/419",
+      "won": 0,
+      "lost": 2,
+      "played": 2
+    },
+    {
+      "name": "Joan Park",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6335",
       "won": 0,
       "lost": 2,
       "played": 2
