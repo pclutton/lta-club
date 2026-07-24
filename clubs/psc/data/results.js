@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-24T20:24:10.933Z",
+  "generatedAt": "2026-07-24T22:08:54.660Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -2065,6 +2065,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 6,
+              "name": "Uxbridge LTC 2",
+              "played": 6,
+              "won": 1,
+              "drawn": 1,
+              "lost": 4,
+              "rubbers": "57-87",
+              "points": 57,
+              "form": [
+                "L",
+                "L",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 7,
               "name": "Lowlands Club 2",
               "played": 5,
               "won": 3,
@@ -2081,31 +2097,14 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 7,
-              "name": "Uxbridge LTC 2",
-              "played": 5,
-              "won": 1,
-              "drawn": 0,
-              "lost": 4,
-              "rubbers": "45-75",
-              "points": 45,
-              "form": [
-                "W",
-                "L",
-                "L",
-                "L",
-                "L"
-              ]
-            },
-            {
               "rank": 8,
               "name": "David Lloyd Club Northwood 3",
-              "played": 3,
+              "played": 4,
               "won": 0,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 3,
-              "rubbers": "10-62",
-              "points": 10,
+              "rubbers": "22-74",
+              "points": 22,
               "form": [
                 "L",
                 "L",
@@ -2278,8 +2277,8 @@ window.__RESULTS__ = {
             {
               "home": "David Lloyd Club Northwood 3",
               "away": "Uxbridge LTC 2",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 12,
               "date": "Fri 24/07/2026"
             },
             {
