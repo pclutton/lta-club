@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-24T08:37:00.078Z",
+  "generatedAt": "2026-07-24T13:52:23.716Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "matches": 275,
-      "players": 119,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
@@ -1831,13 +1831,6 @@ window.__RESULTS__ = {
               "date": "Tue 14/07/2026"
             },
             {
-              "home": "The Lensbury Club 1",
-              "away": "Thistleworth LTC 1",
-              "hs": null,
-              "as": null,
-              "date": "Wed 15/07/2026"
-            },
-            {
               "home": "Holland Park Lawn Tennis Club 2",
               "away": "Teddington Lawn Tennis Club 6",
               "hs": 10,
@@ -1857,6 +1850,13 @@ window.__RESULTS__ = {
               "hs": null,
               "as": null,
               "date": "Mon 27/07/2026"
+            },
+            {
+              "home": "The Lensbury Club 1",
+              "away": "Thistleworth LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 31/07/2026"
             },
             {
               "home": "Teddington Lawn Tennis Club 6",

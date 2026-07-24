@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-24T08:35:29.717Z",
+  "generatedAt": "2026-07-24T13:51:51.738Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 20,
-      "matches": 418,
-      "players": 162,
-      "stale": 0
+      "refreshed": 20,
+      "failed": 0
     },
     "competitions": [
       {
@@ -5149,31 +5149,33 @@ window.__RESULTS__ = {
             {
               "rank": 3,
               "name": "Hazelwood 1",
-              "played": 3,
+              "played": 4,
               "won": 3,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "56-16",
-              "points": 56,
+              "lost": 1,
+              "rubbers": "66-30",
+              "points": 66,
               "form": [
                 "W",
                 "W",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
               "rank": 4,
               "name": "Cumberland 2",
-              "played": 4,
-              "won": 1,
+              "played": 5,
+              "won": 2,
               "drawn": 0,
               "lost": 3,
-              "rubbers": "43-53",
-              "points": 43,
+              "rubbers": "57-63",
+              "points": 57,
               "form": [
                 "L",
                 "L",
                 "L",
+                "W",
                 "W"
               ]
             },
@@ -5344,8 +5346,8 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland 2",
               "away": "Hazelwood 1",
-              "hs": null,
-              "as": null,
+              "hs": 14,
+              "as": 10,
               "date": "Thu 23/07/2026"
             },
             {
@@ -5509,14 +5511,15 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/51",
           "position": 4,
           "of": 7,
-          "played": 4,
-          "won": 1,
+          "played": 5,
+          "won": 2,
           "lost": 3,
-          "points": 43,
+          "points": 57,
           "form": [
             "L",
             "L",
             "L",
+            "W",
             "W"
           ],
           "standings": [
@@ -5555,31 +5558,33 @@ window.__RESULTS__ = {
             {
               "rank": 3,
               "name": "Hazelwood 1",
-              "played": 3,
+              "played": 4,
               "won": 3,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "56-16",
-              "points": 56,
+              "lost": 1,
+              "rubbers": "66-30",
+              "points": 66,
               "form": [
                 "W",
                 "W",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
               "rank": 4,
               "name": "Cumberland 2",
-              "played": 4,
-              "won": 1,
+              "played": 5,
+              "won": 2,
               "drawn": 0,
               "lost": 3,
-              "rubbers": "43-53",
-              "points": 43,
+              "rubbers": "57-63",
+              "points": 57,
               "form": [
                 "L",
                 "L",
                 "L",
+                "W",
                 "W"
               ]
             },
@@ -5750,8 +5755,8 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland 2",
               "away": "Hazelwood 1",
-              "hs": null,
-              "as": null,
+              "hs": 14,
+              "as": 10,
               "date": "Thu 23/07/2026"
             },
             {
@@ -6332,6 +6337,21 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
+              "name": "Totteridge 2",
+              "played": 6,
+              "won": 3,
+              "drawn": 2,
+              "lost": 1,
+              "rubbers": "81-63",
+              "points": 81,
+              "form": [
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "David Lloyd Finchley 2",
               "played": 5,
               "won": 3,
@@ -6345,21 +6365,6 @@ window.__RESULTS__ = {
                 "W",
                 "W",
                 "L"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "Totteridge 2",
-              "played": 5,
-              "won": 2,
-              "drawn": 2,
-              "lost": 1,
-              "rubbers": "65-55",
-              "points": 65,
-              "form": [
-                "L",
-                "W",
-                "W"
               ]
             },
             {
@@ -6382,17 +6387,17 @@ window.__RESULTS__ = {
             {
               "rank": 7,
               "name": "Temple Fortune 2",
-              "played": 6,
+              "played": 7,
               "won": 1,
               "drawn": 0,
-              "lost": 5,
-              "rubbers": "39-105",
-              "points": 39,
+              "lost": 6,
+              "rubbers": "47-121",
+              "points": 47,
               "form": [
                 "L",
                 "L",
-                "L",
                 "W",
+                "L",
                 "L"
               ]
             },
@@ -6579,8 +6584,8 @@ window.__RESULTS__ = {
             {
               "home": "Totteridge 2",
               "away": "Temple Fortune 2",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 8,
               "date": "Thu 23/07/2026"
             },
             {
