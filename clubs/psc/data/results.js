@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-24T17:41:49.244Z",
+  "generatedAt": "2026-07-24T20:24:10.933Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -2936,14 +2936,13 @@ window.__RESULTS__ = {
           "division": "West Intermediate",
           "pscName": "Paddington Sports Club 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/22",
-          "position": 4,
+          "position": 3,
           "of": 8,
-          "played": 6,
+          "played": 7,
           "won": 4,
           "lost": 2,
-          "points": 82,
+          "points": 88,
           "form": [
-            "L",
             "L",
             "W",
             "W",
@@ -2969,14 +2968,13 @@ window.__RESULTS__ = {
             {
               "rank": 2,
               "name": "The Hurlingham Club 1",
-              "played": 5,
+              "played": 6,
               "won": 4,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 1,
-              "rubbers": "86-34",
-              "points": 86,
+              "rubbers": "92-40",
+              "points": 92,
               "form": [
-                "W",
                 "W",
                 "L",
                 "W",
@@ -2985,6 +2983,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Paddington Sports Club 1",
+              "played": 7,
+              "won": 4,
+              "drawn": 1,
+              "lost": 2,
+              "rubbers": "88-68",
+              "points": 88,
+              "form": [
+                "L",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Pinner Lawn Tennis Club 1",
               "played": 6,
               "won": 4,
@@ -2996,23 +3010,6 @@ window.__RESULTS__ = {
                 "W",
                 "W",
                 "L",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 4,
-              "name": "Paddington Sports Club 1",
-              "played": 6,
-              "won": 4,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "82-62",
-              "points": 82,
-              "form": [
-                "L",
-                "L",
-                "W",
                 "W",
                 "W"
               ]
@@ -3236,8 +3233,8 @@ window.__RESULTS__ = {
             {
               "home": "The Hurlingham Club 1",
               "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 6,
+              "as": 6,
               "date": "Tue 14/07/2026"
             },
             {
