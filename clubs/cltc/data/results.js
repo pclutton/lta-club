@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-25T08:14:51.375Z",
+  "generatedAt": "2026-07-25T13:42:15.342Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 20,
-      "matches": 418,
-      "players": 164,
-      "stale": 0
+      "refreshed": 20,
+      "failed": 0
     },
     "competitions": [
       {
@@ -4093,6 +4093,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
+              "name": "Elmwood Lawn Tennis Club 1",
+              "played": 7,
+              "won": 2,
+              "drawn": 1,
+              "lost": 4,
+              "rubbers": "76-92",
+              "points": 76,
+              "form": [
+                "W",
+                "L",
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 6,
               "name": "West Heath Lawn Tennis Club Limited 1",
               "played": 6,
               "won": 3,
@@ -4109,7 +4126,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 6,
+              "rank": 7,
               "name": "Totteridge Tennis Club 1",
               "played": 7,
               "won": 2,
@@ -4126,37 +4143,20 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 7,
-              "name": "Elmwood Lawn Tennis Club 1",
-              "played": 6,
-              "won": 1,
-              "drawn": 1,
-              "lost": 4,
-              "rubbers": "56-88",
-              "points": 56,
-              "form": [
-                "L",
-                "W",
-                "L",
-                "L",
-                "L"
-              ]
-            },
-            {
               "rank": 8,
               "name": "Brampton Lawn Tennis Club 1",
-              "played": 6,
+              "played": 7,
               "won": 1,
               "drawn": 0,
-              "lost": 5,
-              "rubbers": "32-112",
-              "points": 32,
+              "lost": 6,
+              "rubbers": "36-132",
+              "points": 36,
               "form": [
                 "L",
                 "L",
                 "L",
-                "L",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -4398,8 +4398,8 @@ window.__RESULTS__ = {
             {
               "home": "Brampton Lawn Tennis Club 1",
               "away": "Elmwood Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 4,
+              "as": 20,
               "date": "Thu 23/07/2026"
             },
             {
@@ -4627,6 +4627,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
+              "name": "Elmwood Lawn Tennis Club 1",
+              "played": 7,
+              "won": 2,
+              "drawn": 1,
+              "lost": 4,
+              "rubbers": "76-92",
+              "points": 76,
+              "form": [
+                "W",
+                "L",
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 6,
               "name": "West Heath Lawn Tennis Club Limited 1",
               "played": 6,
               "won": 3,
@@ -4643,7 +4660,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 6,
+              "rank": 7,
               "name": "Totteridge Tennis Club 1",
               "played": 7,
               "won": 2,
@@ -4660,37 +4677,20 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 7,
-              "name": "Elmwood Lawn Tennis Club 1",
-              "played": 6,
-              "won": 1,
-              "drawn": 1,
-              "lost": 4,
-              "rubbers": "56-88",
-              "points": 56,
-              "form": [
-                "L",
-                "W",
-                "L",
-                "L",
-                "L"
-              ]
-            },
-            {
               "rank": 8,
               "name": "Brampton Lawn Tennis Club 1",
-              "played": 6,
+              "played": 7,
               "won": 1,
               "drawn": 0,
-              "lost": 5,
-              "rubbers": "32-112",
-              "points": 32,
+              "lost": 6,
+              "rubbers": "36-132",
+              "points": 36,
               "form": [
                 "L",
                 "L",
                 "L",
-                "L",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -4932,8 +4932,8 @@ window.__RESULTS__ = {
             {
               "home": "Brampton Lawn Tennis Club 1",
               "away": "Elmwood Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 4,
+              "as": 20,
               "date": "Thu 23/07/2026"
             },
             {
