@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-26T08:36:32.203Z",
+  "generatedAt": "2026-07-26T13:37:43.422Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "matches": 275,
-      "players": 120,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
@@ -2940,17 +2940,35 @@ window.__RESULTS__ = {
           "of": 8,
           "played": 7,
           "won": 4,
-          "lost": 2,
-          "points": 88,
+          "lost": 3,
+          "points": 93,
           "form": [
             "L",
             "W",
             "W",
+            "L",
             "W"
           ],
           "standings": [
             {
               "rank": 1,
+              "name": "The Hurlingham Club 1",
+              "played": 6,
+              "won": 5,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "99-45",
+              "points": 99,
+              "form": [
+                "W",
+                "L",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Virgin Active Chiswick Riverside 1",
               "played": 7,
               "won": 3,
@@ -2966,34 +2984,19 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
-              "name": "The Hurlingham Club 1",
-              "played": 6,
-              "won": 4,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "92-40",
-              "points": 92,
-              "form": [
-                "W",
-                "L",
-                "W",
-                "W"
-              ]
-            },
-            {
               "rank": 3,
               "name": "Paddington Sports Club 1",
               "played": 7,
               "won": 4,
-              "drawn": 1,
-              "lost": 2,
-              "rubbers": "88-68",
-              "points": 88,
+              "drawn": 0,
+              "lost": 3,
+              "rubbers": "93-75",
+              "points": 93,
               "form": [
                 "L",
                 "W",
                 "W",
+                "L",
                 "W"
               ]
             },
@@ -3233,8 +3236,8 @@ window.__RESULTS__ = {
             {
               "home": "The Hurlingham Club 1",
               "away": "Paddington Sports Club 1",
-              "hs": 6,
-              "as": 6,
+              "hs": 13,
+              "as": 11,
               "date": "Tue 14/07/2026"
             },
             {
