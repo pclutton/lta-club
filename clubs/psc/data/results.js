@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-27T17:46:35.494Z",
+  "generatedAt": "2026-07-27T20:26:30.554Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -2175,13 +2175,6 @@ window.__RESULTS__ = {
               "date": "Tue 14/07/2026"
             },
             {
-              "home": "David Lloyd Club Northwood 3",
-              "away": "Kenton Lawn Tennis Club 2",
-              "hs": null,
-              "as": null,
-              "date": "Wed 15/07/2026"
-            },
-            {
               "home": "Acorn Lawn Tennis Club 1",
               "away": "Paddington Sports Club 3",
               "hs": 10,
@@ -2203,15 +2196,15 @@ window.__RESULTS__ = {
               "date": "Fri 24/07/2026"
             },
             {
-              "home": "Paddington Sports Club 3",
-              "away": "David Lloyd Club Northwood 3",
+              "home": "Headstone Lawn Tennis Club 2",
+              "away": "Uxbridge LTC 2",
               "hs": null,
               "as": null,
               "date": "Tue 28/07/2026"
             },
             {
-              "home": "Headstone Lawn Tennis Club 2",
-              "away": "Uxbridge LTC 2",
+              "home": "Paddington Sports Club 3",
+              "away": "David Lloyd Club Northwood 3",
               "hs": null,
               "as": null,
               "date": "Tue 28/07/2026"
@@ -2228,7 +2221,14 @@ window.__RESULTS__ = {
               "away": "Lowlands Club 2",
               "hs": null,
               "as": null,
-              "date": "Fri 31/07/2026"
+              "date": "Fri 07/08/2026"
+            },
+            {
+              "home": "David Lloyd Club Northwood 3",
+              "away": "Kenton Lawn Tennis Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Wed 12/08/2026"
             }
           ],
           "results": [],
@@ -2349,14 +2349,13 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "Lowlands Club 3",
-              "played": 7,
+              "played": 8,
               "won": 6,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 1,
-              "rubbers": "118-50",
-              "points": 118,
+              "rubbers": "128-60",
+              "points": 128,
               "form": [
-                "W",
                 "W",
                 "W",
                 "L",
@@ -2432,14 +2431,13 @@ window.__RESULTS__ = {
             {
               "rank": 6,
               "name": "Lowlands Club 4",
-              "played": 6,
+              "played": 7,
               "won": 3,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 3,
-              "rubbers": "60-84",
-              "points": 60,
+              "rubbers": "70-94",
+              "points": 70,
               "form": [
-                "W",
                 "W",
                 "L",
                 "W",
@@ -2709,8 +2707,8 @@ window.__RESULTS__ = {
             {
               "home": "Lowlands Club 4",
               "away": "Lowlands Club 3",
-              "hs": null,
-              "as": null,
+              "hs": 10,
+              "as": 10,
               "date": "Fri 24/07/2026"
             },
             {
@@ -3611,13 +3609,6 @@ window.__RESULTS__ = {
               "date": "Mon 06/07/2026"
             },
             {
-              "home": "David Lloyd Club Northwood 1",
-              "away": "Eastcote Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Wed 08/07/2026"
-            },
-            {
               "home": "Pinner West End Lawn Tennis Club 1",
               "away": "Teddington Lawn Tennis Club 3",
               "hs": 4,
@@ -3686,6 +3677,13 @@ window.__RESULTS__ = {
               "hs": null,
               "as": null,
               "date": "Thu 30/07/2026"
+            },
+            {
+              "home": "David Lloyd Club Northwood 1",
+              "away": "Eastcote Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Thu 06/08/2026"
             }
           ],
           "results": [],
