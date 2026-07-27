@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-27T20:26:30.554Z",
+  "generatedAt": "2026-07-27T22:12:07.700Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -2351,15 +2351,16 @@ window.__RESULTS__ = {
               "name": "Lowlands Club 3",
               "played": 8,
               "won": 6,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "128-60",
-              "points": 128,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "129-63",
+              "points": 129,
               "form": [
                 "W",
                 "W",
                 "L",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -2432,16 +2433,17 @@ window.__RESULTS__ = {
               "rank": 6,
               "name": "Lowlands Club 4",
               "played": 7,
-              "won": 3,
-              "drawn": 1,
+              "won": 4,
+              "drawn": 0,
               "lost": 3,
-              "rubbers": "70-94",
-              "points": 70,
+              "rubbers": "73-95",
+              "points": 73,
               "form": [
                 "W",
                 "L",
                 "W",
-                "L"
+                "L",
+                "W"
               ]
             },
             {
@@ -2707,8 +2709,8 @@ window.__RESULTS__ = {
             {
               "home": "Lowlands Club 4",
               "away": "Lowlands Club 3",
-              "hs": 10,
-              "as": 10,
+              "hs": 13,
+              "as": 11,
               "date": "Fri 24/07/2026"
             },
             {

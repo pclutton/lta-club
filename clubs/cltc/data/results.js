@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-27T20:25:54.530Z",
+  "generatedAt": "2026-07-27T22:11:36.941Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -3650,16 +3650,16 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
-              "name": "Globe 1",
-              "played": 5,
-              "won": 4,
+              "name": "Hackney 1",
+              "played": 6,
+              "won": 6,
               "drawn": 0,
-              "lost": 1,
-              "rubbers": "71-34",
-              "points": 86,
+              "lost": 0,
+              "rubbers": "98-46",
+              "points": 98,
               "form": [
                 "W",
-                "L",
+                "W",
                 "W",
                 "W",
                 "W"
@@ -3667,19 +3667,19 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
-              "name": "Hackney 1",
-              "played": 5,
-              "won": 5,
+              "name": "Globe 1",
+              "played": 6,
+              "won": 4,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "80-40",
-              "points": 80,
+              "lost": 2,
+              "rubbers": "77-52",
+              "points": 92,
               "form": [
+                "L",
                 "W",
                 "W",
                 "W",
-                "W",
-                "W"
+                "L"
               ]
             },
             {
@@ -3903,8 +3903,8 @@ window.__RESULTS__ = {
             {
               "home": "Hackney 1",
               "away": "Globe 1",
-              "hs": null,
-              "as": null,
+              "hs": 18,
+              "as": 6,
               "date": "Mon 27/07/2026"
             },
             {
@@ -6361,6 +6361,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
+              "name": "David Lloyd Finchley 2",
+              "played": 6,
+              "won": 4,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "88-56",
+              "points": 88,
+              "form": [
+                "L",
+                "W",
+                "W",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Totteridge 2",
               "played": 6,
               "won": 3,
@@ -6372,23 +6389,6 @@ window.__RESULTS__ = {
                 "W",
                 "W",
                 "W"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "David Lloyd Finchley 2",
-              "played": 5,
-              "won": 3,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "68-52",
-              "points": 68,
-              "form": [
-                "W",
-                "L",
-                "W",
-                "W",
-                "L"
               ]
             },
             {
@@ -6428,12 +6428,12 @@ window.__RESULTS__ = {
             {
               "rank": 8,
               "name": "Brondesbury 3",
-              "played": 5,
+              "played": 6,
               "won": 0,
               "drawn": 0,
-              "lost": 5,
-              "rubbers": "24-96",
-              "points": 24,
+              "lost": 6,
+              "rubbers": "28-116",
+              "points": 28,
               "form": [
                 "L",
                 "L",
@@ -6615,8 +6615,8 @@ window.__RESULTS__ = {
             {
               "home": "Brondesbury 3",
               "away": "David Lloyd Finchley 2",
-              "hs": null,
-              "as": null,
+              "hs": 4,
+              "as": 20,
               "date": "Thu 23/07/2026"
             },
             {
