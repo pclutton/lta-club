@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-28T17:38:38.677Z",
+  "generatedAt": "2026-07-28T20:18:31.173Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -3638,13 +3638,13 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/7",
           "position": 3,
           "of": 7,
-          "played": 5,
-          "won": 4,
+          "played": 6,
+          "won": 5,
           "lost": 1,
-          "points": 71,
+          "points": 91,
           "form": [
-            "W",
             "L",
+            "W",
             "W",
             "W",
             "W"
@@ -3687,15 +3687,15 @@ window.__RESULTS__ = {
             {
               "rank": 3,
               "name": "Cumberland 3",
-              "played": 5,
-              "won": 4,
+              "played": 6,
+              "won": 5,
               "drawn": 0,
               "lost": 1,
-              "rubbers": "71-41",
-              "points": 71,
+              "rubbers": "91-45",
+              "points": 91,
               "form": [
-                "W",
                 "L",
+                "W",
                 "W",
                 "W",
                 "W"
@@ -3704,15 +3704,15 @@ window.__RESULTS__ = {
             {
               "rank": 4,
               "name": "Highgate 1",
-              "played": 5,
+              "played": 6,
               "won": 1,
               "drawn": 1,
-              "lost": 3,
-              "rubbers": "55-65",
-              "points": 55,
+              "lost": 4,
+              "rubbers": "59-85",
+              "points": 59,
               "form": [
-                "L",
                 "W",
+                "L",
                 "L",
                 "L"
               ]
@@ -3898,8 +3898,8 @@ window.__RESULTS__ = {
             {
               "home": "Highgate 1",
               "away": "Cumberland 3",
-              "hs": null,
-              "as": null,
+              "hs": 4,
+              "as": 20,
               "date": "Mon 27/07/2026"
             },
             {

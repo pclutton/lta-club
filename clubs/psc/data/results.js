@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-28T17:39:10.351Z",
+  "generatedAt": "2026-07-28T20:19:01.523Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -2429,6 +2429,23 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Harrow Baptist Tennis Club 1",
+              "played": 8,
+              "won": 6,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "138-54",
+              "points": 138,
+              "form": [
+                "L",
+                "W",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Lowlands Club 3",
               "played": 8,
               "won": 6,
@@ -2442,23 +2459,6 @@ window.__RESULTS__ = {
                 "L",
                 "W",
                 "L"
-              ]
-            },
-            {
-              "rank": 2,
-              "name": "Harrow Baptist Tennis Club 1",
-              "played": 7,
-              "won": 5,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "116-52",
-              "points": 116,
-              "form": [
-                "W",
-                "L",
-                "W",
-                "W",
-                "W"
               ]
             },
             {
@@ -2561,12 +2561,12 @@ window.__RESULTS__ = {
             {
               "rank": 9,
               "name": "Pinner Lawn Tennis Club 5",
-              "played": 7,
+              "played": 8,
               "won": 0,
               "drawn": 0,
-              "lost": 7,
-              "rubbers": "33-135",
-              "points": 33,
+              "lost": 8,
+              "rubbers": "35-157",
+              "points": 35,
               "form": [
                 "L",
                 "L",
@@ -2804,8 +2804,8 @@ window.__RESULTS__ = {
             {
               "home": "Pinner Lawn Tennis Club 5",
               "away": "Harrow Baptist Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 2,
+              "as": 22,
               "date": "Mon 27/07/2026"
             },
             {
