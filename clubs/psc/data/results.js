@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-28T08:45:40.080Z",
+  "generatedAt": "2026-07-28T14:16:20.649Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "matches": 275,
-      "players": 121,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
@@ -1653,27 +1653,28 @@ window.__RESULTS__ = {
             {
               "rank": 7,
               "name": "The Lensbury Club 1",
-              "played": 4,
-              "won": 0,
+              "played": 5,
+              "won": 1,
               "drawn": 1,
               "lost": 3,
-              "rubbers": "34-62",
-              "points": 34,
+              "rubbers": "54-66",
+              "points": 54,
               "form": [
                 "L",
                 "L",
-                "L"
+                "L",
+                "W"
               ]
             },
             {
               "rank": 8,
               "name": "Wycombe House 1",
-              "played": 5,
+              "played": 6,
               "won": 0,
               "drawn": 0,
-              "lost": 5,
-              "rubbers": "30-90",
-              "points": 30,
+              "lost": 6,
+              "rubbers": "34-110",
+              "points": 34,
               "form": [
                 "L",
                 "L",
@@ -1820,8 +1821,8 @@ window.__RESULTS__ = {
             {
               "home": "Wycombe House 1",
               "away": "The Lensbury Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 4,
+              "as": 20,
               "date": "Tue 07/07/2026"
             },
             {
@@ -3870,7 +3871,7 @@ window.__RESULTS__ = {
           "division": "North West Division 2",
           "pscName": "Paddington Sports Club 4",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/34",
-          "position": 3,
+          "position": 5,
           "of": 7,
           "played": 6,
           "won": 1,
@@ -3918,6 +3919,40 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "David Lloyd Club Northwood 2",
+              "played": 6,
+              "won": 3,
+              "drawn": 1,
+              "lost": 2,
+              "rubbers": "72-72",
+              "points": 72,
+              "form": [
+                "W",
+                "W",
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
+              "name": "Eastcote Lawn Tennis Club 2",
+              "played": 6,
+              "won": 2,
+              "drawn": 0,
+              "lost": 4,
+              "rubbers": "67-77",
+              "points": 67,
+              "form": [
+                "L",
+                "W",
+                "L",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Paddington Sports Club 4",
               "played": 6,
               "won": 1,
@@ -3928,39 +3963,6 @@ window.__RESULTS__ = {
               "form": [
                 "L",
                 "W",
-                "L"
-              ]
-            },
-            {
-              "rank": 4,
-              "name": "Eastcote Lawn Tennis Club 2",
-              "played": 5,
-              "won": 2,
-              "drawn": 0,
-              "lost": 3,
-              "rubbers": "59-61",
-              "points": 59,
-              "form": [
-                "L",
-                "L",
-                "W",
-                "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "David Lloyd Club Northwood 2",
-              "played": 5,
-              "won": 2,
-              "drawn": 1,
-              "lost": 2,
-              "rubbers": "56-64",
-              "points": 56,
-              "form": [
-                "W",
-                "W",
-                "L",
                 "L"
               ]
             },
@@ -4127,8 +4129,8 @@ window.__RESULTS__ = {
             {
               "home": "David Lloyd Club Northwood 2",
               "away": "Eastcote Lawn Tennis Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 8,
               "date": "Mon 27/07/2026"
             },
             {

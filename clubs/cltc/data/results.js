@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-28T08:44:08.017Z",
+  "generatedAt": "2026-07-28T14:15:49.960Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 20,
-      "matches": 418,
-      "players": 164,
-      "stale": 0
+      "refreshed": 20,
+      "failed": 0
     },
     "competitions": [
       {
@@ -815,7 +815,7 @@ window.__RESULTS__ = {
           "division": "Open Mens Division 2",
           "pscName": "Cumberland Lawn Tennis Club 3",
           "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/10",
-          "position": 2,
+          "position": 3,
           "of": 6,
           "played": 5,
           "won": 3,
@@ -848,6 +848,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "West Middlesex Lawn Tennis Club Ltd 1",
+              "played": 5,
+              "won": 3,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "40-20",
+              "points": 6,
+              "form": [
+                "W",
+                "W",
+                "W",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "Cumberland Lawn Tennis Club 3",
               "played": 5,
               "won": 3,
@@ -864,32 +881,17 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
-              "name": "West Middlesex Lawn Tennis Club Ltd 1",
-              "played": 4,
-              "won": 2,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "32-16",
-              "points": 4,
-              "form": [
-                "W",
-                "W",
-                "L",
-                "L"
-              ]
-            },
-            {
               "rank": 4,
               "name": "David Lloyd Club Finchley 1",
-              "played": 4,
+              "played": 5,
               "won": 2,
               "drawn": 0,
-              "lost": 2,
-              "rubbers": "28-20",
+              "lost": 3,
+              "rubbers": "32-28",
               "points": 4,
               "form": [
                 "W",
+                "L",
                 "L",
                 "W",
                 "L"
@@ -976,8 +978,8 @@ window.__RESULTS__ = {
             {
               "home": "David Lloyd Club Finchley 1",
               "away": "West Middlesex Lawn Tennis Club Ltd 1",
-              "hs": null,
-              "as": null,
+              "hs": 4,
+              "as": 8,
               "date": "Sat 30/05/2026"
             },
             {
@@ -5882,16 +5884,16 @@ window.__RESULTS__ = {
           "division": "East Intermediate",
           "pscName": "Cumberland 3",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/64",
-          "position": 7,
+          "position": 4,
           "of": 8,
-          "played": 5,
-          "won": 3,
+          "played": 6,
+          "won": 4,
           "lost": 2,
-          "points": 58,
+          "points": 76,
           "form": [
+            "L",
+            "L",
             "W",
-            "L",
-            "L",
             "W",
             "W"
           ],
@@ -5933,21 +5935,38 @@ window.__RESULTS__ = {
             {
               "rank": 3,
               "name": "Hackney 1",
-              "played": 6,
+              "played": 7,
               "won": 3,
               "drawn": 1,
-              "lost": 2,
-              "rubbers": "75-69",
-              "points": 75,
+              "lost": 3,
+              "rubbers": "81-87",
+              "points": 81,
               "form": [
                 "W",
-                "W",
                 "L",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
               "rank": 4,
+              "name": "Cumberland 3",
+              "played": 6,
+              "won": 4,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "76-64",
+              "points": 76,
+              "form": [
+                "L",
+                "L",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "South Hampstead 1",
               "played": 6,
               "won": 2,
@@ -5964,7 +5983,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Coolhurst 2",
               "played": 7,
               "won": 3,
@@ -5981,7 +6000,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 6,
+              "rank": 7,
               "name": "Muswell Hill Methodist 1",
               "played": 7,
               "won": 1,
@@ -5994,23 +6013,6 @@ window.__RESULTS__ = {
                 "L",
                 "L",
                 "L"
-              ]
-            },
-            {
-              "rank": 7,
-              "name": "Cumberland 3",
-              "played": 5,
-              "won": 3,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "58-58",
-              "points": 58,
-              "form": [
-                "W",
-                "L",
-                "L",
-                "W",
-                "W"
               ]
             },
             {
@@ -6201,8 +6203,8 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland 3",
               "away": "Hackney 1",
-              "hs": null,
-              "as": null,
+              "hs": 18,
+              "as": 6,
               "date": "Mon 27/07/2026"
             },
             {
