@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-29T08:51:05.980Z",
+  "generatedAt": "2026-07-29T14:18:39.159Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "matches": 275,
-      "players": 121,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
@@ -3435,17 +3435,18 @@ window.__RESULTS__ = {
           "division": "North West Division 1",
           "pscName": "Paddington Sports Club 3",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/33",
-          "position": 6,
+          "position": 4,
           "of": 8,
           "played": 6,
-          "won": 2,
+          "won": 3,
           "lost": 3,
-          "points": 51,
+          "points": 58,
           "form": [
             "W",
             "L",
             "L",
-            "L"
+            "L",
+            "W"
           ],
           "standings": [
             {
@@ -3498,6 +3499,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
+              "name": "Paddington Sports Club 3",
+              "played": 6,
+              "won": 3,
+              "drawn": 0,
+              "lost": 3,
+              "rubbers": "58-86",
+              "points": 58,
+              "form": [
+                "W",
+                "L",
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Pinner Lawn Tennis Club 2",
               "played": 6,
               "won": 1,
@@ -3513,7 +3531,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Eastcote Lawn Tennis Club 1",
               "played": 5,
               "won": 2,
@@ -3528,23 +3546,24 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 6,
-              "name": "Paddington Sports Club 3",
+              "rank": 7,
+              "name": "Pinner West End Lawn Tennis Club 1",
               "played": 6,
-              "won": 2,
-              "drawn": 1,
-              "lost": 3,
-              "rubbers": "51-81",
-              "points": 51,
+              "won": 0,
+              "drawn": 0,
+              "lost": 6,
+              "rubbers": "39-101",
+              "points": 39,
               "form": [
-                "W",
+                "L",
+                "L",
                 "L",
                 "L",
                 "L"
               ]
             },
             {
-              "rank": 7,
+              "rank": 8,
               "name": "David Lloyd Club Northwood 1",
               "played": 5,
               "won": 1,
@@ -3554,22 +3573,6 @@ window.__RESULTS__ = {
               "points": 36,
               "form": [
                 "W",
-                "L",
-                "L",
-                "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 8,
-              "name": "Pinner West End Lawn Tennis Club 1",
-              "played": 6,
-              "won": 0,
-              "drawn": 1,
-              "lost": 5,
-              "rubbers": "34-94",
-              "points": 34,
-              "form": [
                 "L",
                 "L",
                 "L",
@@ -3735,8 +3738,8 @@ window.__RESULTS__ = {
             {
               "home": "Pinner West End Lawn Tennis Club 1",
               "away": "Paddington Sports Club 3",
-              "hs": 6,
-              "as": 6,
+              "hs": 11,
+              "as": 13,
               "date": "Thu 23/07/2026"
             },
             {

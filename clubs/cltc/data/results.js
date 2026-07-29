@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-29T08:49:36.511Z",
+  "generatedAt": "2026-07-29T14:18:07.672Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 20,
-      "matches": 418,
-      "players": 165,
-      "stale": 0
+      "refreshed": 20,
+      "failed": 0
     },
     "competitions": [
       {
@@ -2516,12 +2516,12 @@ window.__RESULTS__ = {
             {
               "rank": 6,
               "name": "Hackney Tennis 1",
-              "played": 5,
-              "won": 1,
+              "played": 6,
+              "won": 2,
               "drawn": 0,
               "lost": 4,
-              "rubbers": "32-68",
-              "points": 2,
+              "rubbers": "48-72",
+              "points": 4,
               "form": [
                 "L",
                 "W",
@@ -2533,11 +2533,11 @@ window.__RESULTS__ = {
             {
               "rank": 7,
               "name": "Temple Fortune Club 1",
-              "played": 5,
+              "played": 6,
               "won": 0,
               "drawn": 0,
-              "lost": 5,
-              "rubbers": "6-94",
+              "lost": 6,
+              "rubbers": "10-110",
               "points": 0,
               "form": [
                 "L",
@@ -2566,8 +2566,8 @@ window.__RESULTS__ = {
             {
               "home": "Hackney Tennis 1",
               "away": "Temple Fortune Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 4,
               "date": "Sun 26/04/2026"
             },
             {
@@ -2804,6 +2804,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Cumberland 2",
+              "played": 6,
+              "won": 3,
+              "drawn": 1,
+              "lost": 2,
+              "rubbers": "81-63",
+              "points": 81,
+              "form": [
+                "L",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "Vicars Moor 1",
               "played": 5,
               "won": 3,
@@ -2819,7 +2835,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "Coolhurst 1",
               "played": 6,
               "won": 1,
@@ -2834,7 +2850,23 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
+              "name": "Hazelwood 1",
+              "played": 6,
+              "won": 3,
+              "drawn": 1,
+              "lost": 2,
+              "rubbers": "63-81",
+              "points": 63,
+              "form": [
+                "L",
+                "W",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 6,
               "name": "Chandos 1",
               "played": 5,
               "won": 2,
@@ -2847,38 +2879,6 @@ window.__RESULTS__ = {
                 "W",
                 "L",
                 "L"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "Hazelwood 1",
-              "played": 5,
-              "won": 3,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "60-60",
-              "points": 60,
-              "form": [
-                "W",
-                "L",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "Cumberland 2",
-              "played": 5,
-              "won": 2,
-              "drawn": 1,
-              "lost": 2,
-              "rubbers": "60-60",
-              "points": 60,
-              "form": [
-                "L",
-                "L",
-                "W",
-                "W"
               ]
             },
             {
@@ -3080,8 +3080,8 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland 2",
               "away": "Hazelwood 1",
-              "hs": null,
-              "as": null,
+              "hs": 21,
+              "as": 3,
               "date": "Tue 28/07/2026"
             },
             {
@@ -3195,15 +3195,15 @@ window.__RESULTS__ = {
           "division": "East Premier",
           "pscName": "Cumberland 2",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/55",
-          "position": 6,
+          "position": 2,
           "of": 8,
-          "played": 5,
-          "won": 2,
+          "played": 6,
+          "won": 3,
           "lost": 2,
-          "points": 60,
+          "points": 81,
           "form": [
             "L",
-            "L",
+            "W",
             "W",
             "W"
           ],
@@ -3227,6 +3227,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Cumberland 2",
+              "played": 6,
+              "won": 3,
+              "drawn": 1,
+              "lost": 2,
+              "rubbers": "81-63",
+              "points": 81,
+              "form": [
+                "L",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "Vicars Moor 1",
               "played": 5,
               "won": 3,
@@ -3242,7 +3258,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "Coolhurst 1",
               "played": 6,
               "won": 1,
@@ -3257,7 +3273,23 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
+              "name": "Hazelwood 1",
+              "played": 6,
+              "won": 3,
+              "drawn": 1,
+              "lost": 2,
+              "rubbers": "63-81",
+              "points": 63,
+              "form": [
+                "L",
+                "W",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 6,
               "name": "Chandos 1",
               "played": 5,
               "won": 2,
@@ -3270,38 +3302,6 @@ window.__RESULTS__ = {
                 "W",
                 "L",
                 "L"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "Hazelwood 1",
-              "played": 5,
-              "won": 3,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "60-60",
-              "points": 60,
-              "form": [
-                "W",
-                "L",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "Cumberland 2",
-              "played": 5,
-              "won": 2,
-              "drawn": 1,
-              "lost": 2,
-              "rubbers": "60-60",
-              "points": 60,
-              "form": [
-                "L",
-                "L",
-                "W",
-                "W"
               ]
             },
             {
@@ -3503,8 +3503,8 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland 2",
               "away": "Hazelwood 1",
-              "hs": null,
-              "as": null,
+              "hs": 21,
+              "as": 3,
               "date": "Tue 28/07/2026"
             },
             {
