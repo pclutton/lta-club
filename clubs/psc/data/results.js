@@ -2,37 +2,37 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-28T22:08:32.436Z",
+  "generatedAt": "2026-07-29T08:51:05.980Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 275,
+      "players": 121,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-07-28"
+        "asOf": "2026-07-29"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-07-28"
+        "asOf": "2026-07-29"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-07-28"
+        "asOf": "2026-07-29"
       }
     ]
   },
@@ -41,8 +41,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-07-28",
-      "asOf": "2026-07-28",
+      "lastSeen": "2026-07-29",
+      "asOf": "2026-07-29",
       "stale": false,
       "teams": [
         {
@@ -1078,8 +1078,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-07-28",
-      "asOf": "2026-07-28",
+      "lastSeen": "2026-07-29",
+      "asOf": "2026-07-29",
       "stale": false,
       "teams": [
         {
@@ -1956,6 +1956,12 @@ window.__RESULTS__ = {
               "won": 0,
               "lost": 3,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6252"
+            },
+            {
+              "name": "Oscar Garland",
+              "won": 0,
+              "lost": 3,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5158"
             }
           ],
           "displayName": "Mens Team 2",
@@ -2414,7 +2420,7 @@ window.__RESULTS__ = {
           "division": "North West Division 5",
           "pscName": "Paddington Sports Club 4",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/4",
-          "position": 3,
+          "position": 4,
           "of": 9,
           "played": 7,
           "won": 3,
@@ -2463,6 +2469,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Greenford Tennis Club 1",
+              "played": 8,
+              "won": 3,
+              "drawn": 1,
+              "lost": 4,
+              "rubbers": "103-89",
+              "points": 103,
+              "form": [
+                "L",
+                "W",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Paddington Sports Club 4",
               "played": 7,
               "won": 3,
@@ -2475,22 +2497,6 @@ window.__RESULTS__ = {
                 "W",
                 "L",
                 "L"
-              ]
-            },
-            {
-              "rank": 4,
-              "name": "Greenford Tennis Club 1",
-              "played": 7,
-              "won": 3,
-              "drawn": 1,
-              "lost": 3,
-              "rubbers": "93-75",
-              "points": 93,
-              "form": [
-                "L",
-                "L",
-                "W",
-                "W"
               ]
             },
             {
@@ -2529,6 +2535,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 7,
+              "name": "Wembley & Sudbury Lawn Tennis Squash & Social Cl 1",
+              "played": 8,
+              "won": 2,
+              "drawn": 1,
+              "lost": 4,
+              "rubbers": "66-102",
+              "points": 66,
+              "form": [
+                "L",
+                "W",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 8,
               "name": "Harrow Lawn Tennis Club 4",
               "played": 7,
               "won": 1,
@@ -2539,22 +2561,6 @@ window.__RESULTS__ = {
               "form": [
                 "W",
                 "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 8,
-              "name": "Wembley & Sudbury Lawn Tennis Squash & Social Cl 1",
-              "played": 7,
-              "won": 1,
-              "drawn": 1,
-              "lost": 4,
-              "rubbers": "52-92",
-              "points": 52,
-              "form": [
-                "L",
-                "L",
-                "W",
                 "L"
               ]
             },
@@ -2811,8 +2817,8 @@ window.__RESULTS__ = {
             {
               "home": "Wembley & Sudbury Lawn Tennis Squash & Social Cl 1",
               "away": "Greenford Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 14,
+              "as": 10,
               "date": "Tue 28/07/2026"
             },
             {
@@ -4671,8 +4677,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-07-28",
-      "asOf": "2026-07-28",
+      "lastSeen": "2026-07-29",
+      "asOf": "2026-07-29",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -5366,13 +5372,6 @@ window.__RESULTS__ = {
       "played": 3
     },
     {
-      "name": "Oscar Garland",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5158",
-      "won": 1,
-      "lost": 2,
-      "played": 3
-    },
-    {
       "name": "Paul Kassar",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4703",
       "won": 1,
@@ -5403,6 +5402,13 @@ window.__RESULTS__ = {
     {
       "name": "Mary Carson",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4246",
+      "won": 1,
+      "lost": 5,
+      "played": 6
+    },
+    {
+      "name": "Oscar Garland",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5158",
       "won": 1,
       "lost": 5,
       "played": 6
