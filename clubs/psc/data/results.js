@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-29T14:18:39.159Z",
+  "generatedAt": "2026-07-29T17:19:49.490Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -2961,15 +2961,15 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "The Hurlingham Club 1",
-              "played": 6,
-              "won": 5,
+              "played": 7,
+              "won": 6,
               "drawn": 0,
               "lost": 1,
-              "rubbers": "99-45",
-              "points": 99,
+              "rubbers": "109-51",
+              "points": 109,
               "form": [
-                "W",
                 "L",
+                "W",
                 "W",
                 "W",
                 "W"
@@ -3044,18 +3044,18 @@ window.__RESULTS__ = {
             {
               "rank": 6,
               "name": "Teddington Lawn Tennis Club 2",
-              "played": 6,
+              "played": 7,
               "won": 3,
               "drawn": 0,
-              "lost": 3,
-              "rubbers": "76-68",
-              "points": 76,
+              "lost": 4,
+              "rubbers": "82-78",
+              "points": 82,
               "form": [
                 "W",
+                "L",
+                "L",
                 "W",
-                "L",
-                "L",
-                "W"
+                "L"
               ]
             },
             {
@@ -3279,8 +3279,8 @@ window.__RESULTS__ = {
             {
               "home": "Teddington Lawn Tennis Club 2",
               "away": "The Hurlingham Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 6,
+              "as": 10,
               "date": "Mon 27/07/2026"
             },
             {

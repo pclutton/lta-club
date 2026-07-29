@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-29T14:18:07.672Z",
+  "generatedAt": "2026-07-29T17:19:16.798Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -5902,15 +5902,15 @@ window.__RESULTS__ = {
           "division": "East Intermediate",
           "pscName": "Cumberland 3",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/64",
-          "position": 4,
+          "position": 3,
           "of": 8,
-          "played": 6,
-          "won": 4,
+          "played": 7,
+          "won": 5,
           "lost": 2,
-          "points": 76,
+          "points": 94,
           "form": [
             "L",
-            "L",
+            "W",
             "W",
             "W",
             "W"
@@ -5952,6 +5952,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Cumberland 3",
+              "played": 7,
+              "won": 5,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "94-70",
+              "points": 94,
+              "form": [
+                "L",
+                "W",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Hackney 1",
               "played": 7,
               "won": 3,
@@ -5964,23 +5981,6 @@ window.__RESULTS__ = {
                 "L",
                 "W",
                 "L"
-              ]
-            },
-            {
-              "rank": 4,
-              "name": "Cumberland 3",
-              "played": 6,
-              "won": 4,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "76-64",
-              "points": 76,
-              "form": [
-                "L",
-                "L",
-                "W",
-                "W",
-                "W"
               ]
             },
             {
@@ -6036,12 +6036,12 @@ window.__RESULTS__ = {
             {
               "rank": 8,
               "name": "Conway 1",
-              "played": 5,
+              "played": 6,
               "won": 0,
               "drawn": 2,
-              "lost": 3,
-              "rubbers": "38-82",
-              "points": 38,
+              "lost": 4,
+              "rubbers": "44-100",
+              "points": 44,
               "form": [
                 "L",
                 "L",
@@ -6228,8 +6228,8 @@ window.__RESULTS__ = {
             {
               "home": "Conway 1",
               "away": "Cumberland 3",
-              "hs": null,
-              "as": null,
+              "hs": 6,
+              "as": 18,
               "date": "Tue 28/07/2026"
             },
             {
