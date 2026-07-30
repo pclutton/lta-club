@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-30T14:10:36.483Z",
+  "generatedAt": "2026-07-30T17:39:22.590Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -2773,7 +2773,7 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/55",
           "position": 1,
           "of": 8,
-          "played": 5,
+          "played": 6,
           "won": 5,
           "lost": 0,
           "points": 97,
@@ -2788,7 +2788,7 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "Cumberland 1",
-              "played": 5,
+              "played": 6,
               "won": 5,
               "drawn": 0,
               "lost": 0,
@@ -2821,7 +2821,7 @@ window.__RESULTS__ = {
             {
               "rank": 3,
               "name": "Vicars Moor 1",
-              "played": 5,
+              "played": 6,
               "won": 3,
               "drawn": 1,
               "lost": 1,
@@ -3094,8 +3094,8 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland 1",
               "away": "Vicars Moor 1",
-              "hs": null,
-              "as": null,
+              "hs": 0,
+              "as": 0,
               "date": "Thu 30/07/2026"
             },
             {
@@ -3211,7 +3211,7 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "Cumberland 1",
-              "played": 5,
+              "played": 6,
               "won": 5,
               "drawn": 0,
               "lost": 0,
@@ -3244,7 +3244,7 @@ window.__RESULTS__ = {
             {
               "rank": 3,
               "name": "Vicars Moor 1",
-              "played": 5,
+              "played": 6,
               "won": 3,
               "drawn": 1,
               "lost": 1,
@@ -3517,8 +3517,8 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland 1",
               "away": "Vicars Moor 1",
-              "hs": null,
-              "as": null,
+              "hs": 0,
+              "as": 0,
               "date": "Thu 30/07/2026"
             },
             {
