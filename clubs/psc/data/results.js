@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-30T20:18:22.769Z",
+  "generatedAt": "2026-07-30T22:10:03.586Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -2006,16 +2006,16 @@ window.__RESULTS__ = {
             {
               "rank": 2,
               "name": "Headstone Lawn Tennis Club 2",
-              "played": 6,
-              "won": 4,
+              "played": 7,
+              "won": 5,
               "drawn": 0,
               "lost": 2,
-              "rubbers": "90-54",
-              "points": 90,
+              "rubbers": "106-62",
+              "points": 106,
               "form": [
-                "L",
                 "W",
                 "L",
+                "W",
                 "W",
                 "W"
               ]
@@ -2074,12 +2074,12 @@ window.__RESULTS__ = {
             {
               "rank": 6,
               "name": "Uxbridge LTC 2",
-              "played": 6,
+              "played": 7,
               "won": 1,
               "drawn": 1,
-              "lost": 4,
-              "rubbers": "57-87",
-              "points": 57,
+              "lost": 5,
+              "rubbers": "65-103",
+              "points": 65,
               "form": [
                 "L",
                 "L",
@@ -2285,8 +2285,8 @@ window.__RESULTS__ = {
             {
               "home": "Headstone Lawn Tennis Club 2",
               "away": "Uxbridge LTC 2",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 8,
               "date": "Tue 28/07/2026"
             },
             {
