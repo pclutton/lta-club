@@ -2,37 +2,37 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-29T22:04:49.239Z",
+  "generatedAt": "2026-07-30T08:37:39.607Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 275,
+      "players": 121,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-07-29"
+        "asOf": "2026-07-30"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-07-29"
+        "asOf": "2026-07-30"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-07-29"
+        "asOf": "2026-07-30"
       }
     ]
   },
@@ -41,8 +41,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-07-29",
-      "asOf": "2026-07-29",
+      "lastSeen": "2026-07-30",
+      "asOf": "2026-07-30",
       "stale": false,
       "teams": [
         {
@@ -1078,8 +1078,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-07-29",
-      "asOf": "2026-07-29",
+      "lastSeen": "2026-07-30",
+      "asOf": "2026-07-30",
       "stale": false,
       "teams": [
         {
@@ -2965,8 +2965,8 @@ window.__RESULTS__ = {
               "won": 6,
               "drawn": 0,
               "lost": 1,
-              "rubbers": "109-51",
-              "points": 109,
+              "rubbers": "113-55",
+              "points": 113,
               "form": [
                 "L",
                 "W",
@@ -3027,6 +3027,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
+              "name": "Teddington Lawn Tennis Club 2",
+              "played": 7,
+              "won": 3,
+              "drawn": 0,
+              "lost": 4,
+              "rubbers": "86-82",
+              "points": 86,
+              "form": [
+                "W",
+                "L",
+                "L",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 6,
               "name": "David Lloyd Club Acton Park 1",
               "played": 7,
               "won": 3,
@@ -3039,23 +3056,6 @@ window.__RESULTS__ = {
                 "L",
                 "L",
                 "W"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "Teddington Lawn Tennis Club 2",
-              "played": 7,
-              "won": 3,
-              "drawn": 0,
-              "lost": 4,
-              "rubbers": "82-78",
-              "points": 82,
-              "form": [
-                "W",
-                "L",
-                "L",
-                "W",
-                "L"
               ]
             },
             {
@@ -3279,8 +3279,8 @@ window.__RESULTS__ = {
             {
               "home": "Teddington Lawn Tennis Club 2",
               "away": "The Hurlingham Club 1",
-              "hs": 6,
-              "as": 10,
+              "hs": 10,
+              "as": 14,
               "date": "Mon 27/07/2026"
             },
             {
@@ -4680,8 +4680,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-07-29",
-      "asOf": "2026-07-29",
+      "lastSeen": "2026-07-30",
+      "asOf": "2026-07-30",
       "stale": false,
       "teams": [],
       "knockouts": [
