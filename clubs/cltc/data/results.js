@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-30T08:36:12.017Z",
+  "generatedAt": "2026-07-30T14:10:36.483Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 20,
-      "matches": 418,
-      "players": 167,
-      "stale": 0
+      "refreshed": 20,
+      "failed": 0
     },
     "competitions": [
       {
@@ -4029,7 +4029,7 @@ window.__RESULTS__ = {
           "division": "North East Division 1",
           "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 4",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/39",
-          "position": 1,
+          "position": 2,
           "of": 9,
           "played": 8,
           "won": 6,
@@ -4045,6 +4045,23 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Chandos Lawn Tennis Club 2",
+              "played": 8,
+              "won": 8,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "141-51",
+              "points": 141,
+              "form": [
+                "W",
+                "W",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 4",
               "played": 8,
               "won": 6,
@@ -4055,23 +4072,6 @@ window.__RESULTS__ = {
               "form": [
                 "W",
                 "L",
-                "W",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 2,
-              "name": "Chandos Lawn Tennis Club 2",
-              "played": 7,
-              "won": 7,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "127-41",
-              "points": 127,
-              "form": [
-                "W",
-                "W",
                 "W",
                 "W",
                 "W"
@@ -4096,6 +4096,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
+              "name": "Elmwood Lawn Tennis Club 1",
+              "played": 8,
+              "won": 3,
+              "drawn": 1,
+              "lost": 4,
+              "rubbers": "94-98",
+              "points": 94,
+              "form": [
+                "L",
+                "L",
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Coolhurst LTC 2",
               "played": 6,
               "won": 4,
@@ -4112,34 +4129,17 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
-              "name": "Elmwood Lawn Tennis Club 1",
-              "played": 7,
+              "rank": 6,
+              "name": "Totteridge Tennis Club 1",
+              "played": 8,
               "won": 2,
               "drawn": 1,
-              "lost": 4,
-              "rubbers": "76-92",
-              "points": 76,
-              "form": [
-                "W",
-                "L",
-                "L",
-                "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "West Heath Lawn Tennis Club Limited 1",
-              "played": 6,
-              "won": 3,
-              "drawn": 0,
-              "lost": 3,
-              "rubbers": "74-70",
-              "points": 74,
+              "lost": 5,
+              "rubbers": "84-108",
+              "points": 84,
               "form": [
                 "L",
-                "W",
+                "L",
                 "W",
                 "L",
                 "L"
@@ -4147,18 +4147,18 @@ window.__RESULTS__ = {
             },
             {
               "rank": 7,
-              "name": "Totteridge Tennis Club 1",
+              "name": "West Heath Lawn Tennis Club Limited 1",
               "played": 7,
-              "won": 2,
-              "drawn": 1,
+              "won": 3,
+              "drawn": 0,
               "lost": 4,
-              "rubbers": "74-94",
-              "points": 74,
+              "rubbers": "80-88",
+              "points": 80,
               "form": [
                 "W",
-                "L",
-                "L",
                 "W",
+                "L",
+                "L",
                 "L"
               ]
             },
@@ -4425,15 +4425,15 @@ window.__RESULTS__ = {
             {
               "home": "Chandos Lawn Tennis Club 2",
               "away": "Totteridge Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 14,
+              "as": 10,
               "date": "Wed 29/07/2026"
             },
             {
               "home": "Elmwood Lawn Tennis Club 1",
               "away": "West Heath Lawn Tennis Club Limited 1",
-              "hs": null,
-              "as": null,
+              "hs": 18,
+              "as": 6,
               "date": "Wed 29/07/2026"
             },
             {
@@ -4579,6 +4579,23 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Chandos Lawn Tennis Club 2",
+              "played": 8,
+              "won": 8,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "141-51",
+              "points": 141,
+              "form": [
+                "W",
+                "W",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 4",
               "played": 8,
               "won": 6,
@@ -4589,23 +4606,6 @@ window.__RESULTS__ = {
               "form": [
                 "W",
                 "L",
-                "W",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 2,
-              "name": "Chandos Lawn Tennis Club 2",
-              "played": 7,
-              "won": 7,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "127-41",
-              "points": 127,
-              "form": [
-                "W",
-                "W",
                 "W",
                 "W",
                 "W"
@@ -4630,6 +4630,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
+              "name": "Elmwood Lawn Tennis Club 1",
+              "played": 8,
+              "won": 3,
+              "drawn": 1,
+              "lost": 4,
+              "rubbers": "94-98",
+              "points": 94,
+              "form": [
+                "L",
+                "L",
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Coolhurst LTC 2",
               "played": 6,
               "won": 4,
@@ -4646,34 +4663,17 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
-              "name": "Elmwood Lawn Tennis Club 1",
-              "played": 7,
+              "rank": 6,
+              "name": "Totteridge Tennis Club 1",
+              "played": 8,
               "won": 2,
               "drawn": 1,
-              "lost": 4,
-              "rubbers": "76-92",
-              "points": 76,
-              "form": [
-                "W",
-                "L",
-                "L",
-                "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "West Heath Lawn Tennis Club Limited 1",
-              "played": 6,
-              "won": 3,
-              "drawn": 0,
-              "lost": 3,
-              "rubbers": "74-70",
-              "points": 74,
+              "lost": 5,
+              "rubbers": "84-108",
+              "points": 84,
               "form": [
                 "L",
-                "W",
+                "L",
                 "W",
                 "L",
                 "L"
@@ -4681,18 +4681,18 @@ window.__RESULTS__ = {
             },
             {
               "rank": 7,
-              "name": "Totteridge Tennis Club 1",
+              "name": "West Heath Lawn Tennis Club Limited 1",
               "played": 7,
-              "won": 2,
-              "drawn": 1,
+              "won": 3,
+              "drawn": 0,
               "lost": 4,
-              "rubbers": "74-94",
-              "points": 74,
+              "rubbers": "80-88",
+              "points": 80,
               "form": [
                 "W",
-                "L",
-                "L",
                 "W",
+                "L",
+                "L",
                 "L"
               ]
             },
@@ -4959,15 +4959,15 @@ window.__RESULTS__ = {
             {
               "home": "Chandos Lawn Tennis Club 2",
               "away": "Totteridge Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 14,
+              "as": 10,
               "date": "Wed 29/07/2026"
             },
             {
               "home": "Elmwood Lawn Tennis Club 1",
               "away": "West Heath Lawn Tennis Club Limited 1",
-              "hs": null,
-              "as": null,
+              "hs": 18,
+              "as": 6,
               "date": "Wed 29/07/2026"
             },
             {
@@ -5121,7 +5121,7 @@ window.__RESULTS__ = {
           "division": "East Premier",
           "pscName": "Cumberland 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/51",
-          "position": 2,
+          "position": 3,
           "of": 7,
           "played": 5,
           "won": 3,
@@ -5137,12 +5137,12 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "Chandos 1",
-              "played": 5,
-              "won": 4,
+              "played": 6,
+              "won": 5,
               "drawn": 1,
               "lost": 0,
-              "rubbers": "97-23",
-              "points": 97,
+              "rubbers": "113-31",
+              "points": 113,
               "form": [
                 "W",
                 "W",
@@ -5152,6 +5152,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Hazelwood 1",
+              "played": 5,
+              "won": 3,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "74-46",
+              "points": 74,
+              "form": [
+                "W",
+                "W",
+                "W",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "Cumberland 1",
               "played": 5,
               "won": 3,
@@ -5164,22 +5181,6 @@ window.__RESULTS__ = {
                 "L",
                 "W",
                 "W"
-              ]
-            },
-            {
-              "rank": 3,
-              "name": "Hazelwood 1",
-              "played": 4,
-              "won": 3,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "66-30",
-              "points": 66,
-              "form": [
-                "W",
-                "W",
-                "W",
-                "L"
               ]
             },
             {
@@ -5373,8 +5374,8 @@ window.__RESULTS__ = {
             {
               "home": "Hazelwood 1",
               "away": "Chandos 1",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 16,
               "date": "Wed 29/07/2026"
             },
             {
@@ -5546,12 +5547,12 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "Chandos 1",
-              "played": 5,
-              "won": 4,
+              "played": 6,
+              "won": 5,
               "drawn": 1,
               "lost": 0,
-              "rubbers": "97-23",
-              "points": 97,
+              "rubbers": "113-31",
+              "points": 113,
               "form": [
                 "W",
                 "W",
@@ -5561,6 +5562,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Hazelwood 1",
+              "played": 5,
+              "won": 3,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "74-46",
+              "points": 74,
+              "form": [
+                "W",
+                "W",
+                "W",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "Cumberland 1",
               "played": 5,
               "won": 3,
@@ -5573,22 +5591,6 @@ window.__RESULTS__ = {
                 "L",
                 "W",
                 "W"
-              ]
-            },
-            {
-              "rank": 3,
-              "name": "Hazelwood 1",
-              "played": 4,
-              "won": 3,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "66-30",
-              "points": 66,
-              "form": [
-                "W",
-                "W",
-                "W",
-                "L"
               ]
             },
             {
@@ -5782,8 +5784,8 @@ window.__RESULTS__ = {
             {
               "home": "Hazelwood 1",
               "away": "Chandos 1",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 16,
               "date": "Wed 29/07/2026"
             },
             {
