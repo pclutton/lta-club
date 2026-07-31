@@ -2,37 +2,37 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-30T22:10:03.586Z",
+  "generatedAt": "2026-07-31T08:59:22.327Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 275,
+      "players": 121,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-07-30"
+        "asOf": "2026-07-31"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-07-30"
+        "asOf": "2026-07-31"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-07-30"
+        "asOf": "2026-07-31"
       }
     ]
   },
@@ -41,8 +41,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-07-30",
-      "asOf": "2026-07-30",
+      "lastSeen": "2026-07-31",
+      "asOf": "2026-07-31",
       "stale": false,
       "teams": [
         {
@@ -1078,8 +1078,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-07-30",
-      "asOf": "2026-07-30",
+      "lastSeen": "2026-07-31",
+      "asOf": "2026-07-31",
       "stale": false,
       "teams": [
         {
@@ -2023,15 +2023,15 @@ window.__RESULTS__ = {
             {
               "rank": 3,
               "name": "Kenton Lawn Tennis Club 2",
-              "played": 5,
-              "won": 3,
+              "played": 6,
+              "won": 4,
               "drawn": 0,
               "lost": 2,
-              "rubbers": "72-48",
-              "points": 72,
+              "rubbers": "90-54",
+              "points": 90,
               "form": [
                 "L",
-                "L",
+                "W",
                 "W",
                 "W",
                 "W"
@@ -2090,17 +2090,17 @@ window.__RESULTS__ = {
             {
               "rank": 7,
               "name": "Lowlands Club 2",
-              "played": 5,
+              "played": 6,
               "won": 3,
               "drawn": 0,
-              "lost": 2,
-              "rubbers": "51-69",
-              "points": 51,
+              "lost": 3,
+              "rubbers": "57-87",
+              "points": 57,
               "form": [
-                "W",
                 "W",
                 "L",
                 "W",
+                "L",
                 "L"
               ]
             },
@@ -2299,8 +2299,8 @@ window.__RESULTS__ = {
             {
               "home": "Kenton Lawn Tennis Club 2",
               "away": "Lowlands Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 18,
+              "as": 6,
               "date": "Thu 30/07/2026"
             },
             {
@@ -4680,8 +4680,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-07-30",
-      "asOf": "2026-07-30",
+      "lastSeen": "2026-07-31",
+      "asOf": "2026-07-31",
       "stale": false,
       "teams": [],
       "knockouts": [
