@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-31T08:59:22.327Z",
+  "generatedAt": "2026-07-31T14:15:56.104Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "matches": 275,
-      "players": 121,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
@@ -4306,6 +4306,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Ealing Lawn Tennis Club 4",
+              "played": 7,
+              "won": 4,
+              "drawn": 1,
+              "lost": 2,
+              "rubbers": "86-82",
+              "points": 86,
+              "form": [
+                "W",
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Hartswood Lawn Tennis Club Ltd 2",
               "played": 6,
               "won": 4,
@@ -4322,7 +4338,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
               "name": "The Lensbury Club 2",
               "played": 7,
               "won": 2,
@@ -4338,7 +4354,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Thistleworth LTC 1",
               "played": 6,
               "won": 2,
@@ -4354,23 +4370,24 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 6,
-              "name": "Ealing Lawn Tennis Club 4",
-              "played": 6,
-              "won": 3,
+              "rank": 7,
+              "name": "David Lloyd Club Hampton 1",
+              "played": 7,
+              "won": 0,
               "drawn": 1,
-              "lost": 2,
-              "rubbers": "68-76",
-              "points": 68,
+              "lost": 6,
+              "rubbers": "50-118",
+              "points": 50,
               "form": [
                 "L",
-                "W",
                 "L",
-                "W"
+                "L",
+                "L",
+                "L"
               ]
             },
             {
-              "rank": 7,
+              "rank": 8,
               "name": "The Hurlingham Club 3",
               "played": 6,
               "won": 1,
@@ -4383,22 +4400,6 @@ window.__RESULTS__ = {
                 "L",
                 "L",
                 "W",
-                "L"
-              ]
-            },
-            {
-              "rank": 8,
-              "name": "David Lloyd Club Hampton 1",
-              "played": 6,
-              "won": 0,
-              "drawn": 1,
-              "lost": 5,
-              "rubbers": "44-100",
-              "points": 44,
-              "form": [
-                "L",
-                "L",
-                "L",
                 "L"
               ]
             }
@@ -4582,8 +4583,8 @@ window.__RESULTS__ = {
             {
               "home": "Ealing Lawn Tennis Club 4",
               "away": "David Lloyd Club Hampton 1",
-              "hs": null,
-              "as": null,
+              "hs": 18,
+              "as": 6,
               "date": "Thu 30/07/2026"
             },
             {
