@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-07-31T20:22:43.252Z",
+  "generatedAt": "2026-07-31T22:09:27.342Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -4096,6 +4096,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
+              "name": "Coolhurst LTC 2",
+              "played": 7,
+              "won": 5,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "114-54",
+              "points": 114,
+              "form": [
+                "W",
+                "W",
+                "W",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Elmwood Lawn Tennis Club 1",
               "played": 8,
               "won": 3,
@@ -4109,23 +4126,6 @@ window.__RESULTS__ = {
                 "L",
                 "W",
                 "W"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "Coolhurst LTC 2",
-              "played": 6,
-              "won": 4,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "92-52",
-              "points": 92,
-              "form": [
-                "L",
-                "W",
-                "W",
-                "W",
-                "L"
               ]
             },
             {
@@ -4165,17 +4165,17 @@ window.__RESULTS__ = {
             {
               "rank": 8,
               "name": "Brampton Lawn Tennis Club 1",
-              "played": 7,
+              "played": 8,
               "won": 1,
               "drawn": 0,
-              "lost": 6,
-              "rubbers": "36-132",
-              "points": 36,
+              "lost": 7,
+              "rubbers": "38-154",
+              "points": 38,
               "form": [
                 "L",
                 "L",
-                "L",
                 "W",
+                "L",
                 "L"
               ]
             },
@@ -4439,8 +4439,8 @@ window.__RESULTS__ = {
             {
               "home": "Coolhurst LTC 2",
               "away": "Brampton Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 22,
+              "as": 2,
               "date": "Fri 31/07/2026"
             },
             {
@@ -4630,6 +4630,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
+              "name": "Coolhurst LTC 2",
+              "played": 7,
+              "won": 5,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "114-54",
+              "points": 114,
+              "form": [
+                "W",
+                "W",
+                "W",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Elmwood Lawn Tennis Club 1",
               "played": 8,
               "won": 3,
@@ -4643,23 +4660,6 @@ window.__RESULTS__ = {
                 "L",
                 "W",
                 "W"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "Coolhurst LTC 2",
-              "played": 6,
-              "won": 4,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "92-52",
-              "points": 92,
-              "form": [
-                "L",
-                "W",
-                "W",
-                "W",
-                "L"
               ]
             },
             {
@@ -4699,17 +4699,17 @@ window.__RESULTS__ = {
             {
               "rank": 8,
               "name": "Brampton Lawn Tennis Club 1",
-              "played": 7,
+              "played": 8,
               "won": 1,
               "drawn": 0,
-              "lost": 6,
-              "rubbers": "36-132",
-              "points": 36,
+              "lost": 7,
+              "rubbers": "38-154",
+              "points": 38,
               "form": [
                 "L",
                 "L",
-                "L",
                 "W",
+                "L",
                 "L"
               ]
             },
@@ -4973,8 +4973,8 @@ window.__RESULTS__ = {
             {
               "home": "Coolhurst LTC 2",
               "away": "Brampton Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 22,
+              "as": 2,
               "date": "Fri 31/07/2026"
             },
             {
