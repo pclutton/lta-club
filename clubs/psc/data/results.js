@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-01T13:29:17.918Z",
+  "generatedAt": "2026-08-01T17:04:44.841Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -2420,16 +2420,15 @@ window.__RESULTS__ = {
           "division": "North West Division 5",
           "pscName": "Paddington Sports Club 4",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/4",
-          "position": 4,
+          "position": 3,
           "of": 9,
           "played": 8,
           "won": 3,
-          "lost": 4,
-          "points": 100,
+          "lost": 3,
+          "points": 108,
           "form": [
             "W",
             "W",
-            "L",
             "L",
             "L"
           ],
@@ -2470,6 +2469,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Paddington Sports Club 4",
+              "played": 8,
+              "won": 3,
+              "drawn": 2,
+              "lost": 3,
+              "rubbers": "108-84",
+              "points": 108,
+              "form": [
+                "W",
+                "W",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Greenford Tennis Club 1",
               "played": 8,
               "won": 3,
@@ -2485,35 +2500,17 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
-              "name": "Paddington Sports Club 4",
-              "played": 8,
-              "won": 3,
-              "drawn": 1,
-              "lost": 4,
-              "rubbers": "100-80",
-              "points": 100,
-              "form": [
-                "W",
-                "W",
-                "L",
-                "L",
-                "L"
-              ]
-            },
-            {
               "rank": 5,
               "name": "Hatch End Lawn Tennis Club 3",
               "played": 8,
-              "won": 6,
-              "drawn": 0,
+              "won": 5,
+              "drawn": 1,
               "lost": 1,
-              "rubbers": "98-54",
-              "points": 98,
+              "rubbers": "102-62",
+              "points": 102,
               "form": [
                 "W",
                 "L",
-                "W",
                 "W",
                 "W"
               ]
@@ -2826,8 +2823,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 4",
               "away": "Hatch End Lawn Tennis Club 3",
-              "hs": 4,
-              "as": 8,
+              "hs": 12,
+              "as": 12,
               "date": "Thu 30/07/2026"
             },
             {
