@@ -2,37 +2,37 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-01T22:00:47.242Z",
+  "generatedAt": "2026-08-02T08:34:27.960Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 275,
+      "players": 121,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-08-01"
+        "asOf": "2026-08-02"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-08-01"
+        "asOf": "2026-08-02"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-08-01"
+        "asOf": "2026-08-02"
       }
     ]
   },
@@ -41,8 +41,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-08-01",
-      "asOf": "2026-08-01",
+      "lastSeen": "2026-08-02",
+      "asOf": "2026-08-02",
       "stale": false,
       "teams": [
         {
@@ -1078,8 +1078,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-08-01",
-      "asOf": "2026-08-01",
+      "lastSeen": "2026-08-02",
+      "asOf": "2026-08-02",
       "stale": false,
       "teams": [
         {
@@ -2840,7 +2840,7 @@ window.__RESULTS__ = {
           "players": [
             {
               "name": "Alessandro Gavazza",
-              "won": 10,
+              "won": 11,
               "lost": 10,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/589"
             },
@@ -2858,7 +2858,7 @@ window.__RESULTS__ = {
             },
             {
               "name": "Alan Wilson",
-              "won": 4,
+              "won": 5,
               "lost": 7,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2791"
             },
@@ -4686,11 +4686,33 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-08-01",
-      "asOf": "2026-08-01",
+      "lastSeen": "2026-08-02",
+      "asOf": "2026-08-02",
       "stale": false,
       "teams": [],
       "knockouts": [
+        {
+          "name": "Middlesex Winter Cup 2026-27 — Mens Doubles Division 1",
+          "link": "https://competitions.lta.org.uk/league/7609542A-AB09-463F-A5B9-8FD2F5975993/draw/1",
+          "last": null,
+          "next": {
+            "opponent": "Harrow Lawn Tennis Club 1",
+            "home": true,
+            "date": "Sun 13/09/2026"
+          },
+          "live": true
+        },
+        {
+          "name": "Middlesex Winter Cup 2026-27 — Womens Doubles Division 1",
+          "link": "https://competitions.lta.org.uk/league/7609542A-AB09-463F-A5B9-8FD2F5975993/draw/5",
+          "last": null,
+          "next": {
+            "opponent": "Ealing Lawn Tennis Club 1",
+            "home": false,
+            "date": "Sun 27/09/2026"
+          },
+          "live": true
+        },
         {
           "name": "Middlesex Summer Cup 2026 — Mixed Doubles Division 1",
           "link": "https://competitions.lta.org.uk/league/C9F24F13-B399-4FB1-A171-8CCED75F85B1/draw/1",
@@ -4737,6 +4759,13 @@ window.__RESULTS__ = {
       "played": 18
     },
     {
+      "name": "Alessandro Gavazza",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/589",
+      "won": 11,
+      "lost": 10,
+      "played": 21
+    },
+    {
       "name": "Emily MacKay",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2481",
       "won": 10,
@@ -4756,13 +4785,6 @@ window.__RESULTS__ = {
       "won": 10,
       "lost": 8,
       "played": 18
-    },
-    {
-      "name": "Alessandro Gavazza",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/589",
-      "won": 10,
-      "lost": 10,
-      "played": 20
     },
     {
       "name": "Sushant Mehta",
@@ -4975,6 +4997,13 @@ window.__RESULTS__ = {
       "played": 12
     },
     {
+      "name": "Alan Wilson",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2791",
+      "won": 5,
+      "lost": 7,
+      "played": 12
+    },
+    {
       "name": "Trystan Forrest",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/621",
       "won": 5,
@@ -5036,13 +5065,6 @@ window.__RESULTS__ = {
       "won": 4,
       "lost": 6,
       "played": 10
-    },
-    {
-      "name": "Alan Wilson",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2791",
-      "won": 4,
-      "lost": 7,
-      "played": 11
     },
     {
       "name": "Olivia Marsden",
