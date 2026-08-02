@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-02T20:13:04.421Z",
+  "generatedAt": "2026-08-02T21:59:54.589Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -3440,7 +3440,7 @@ window.__RESULTS__ = {
           "division": "North West Division 1",
           "pscName": "Paddington Sports Club 3",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/33",
-          "position": 5,
+          "position": 6,
           "of": 8,
           "played": 7,
           "won": 3,
@@ -3473,17 +3473,17 @@ window.__RESULTS__ = {
             {
               "rank": 2,
               "name": "Headstone Lawn Tennis Club 1",
-              "played": 6,
+              "played": 7,
               "won": 5,
               "drawn": 1,
-              "lost": 0,
-              "rubbers": "116-28",
-              "points": 116,
+              "lost": 1,
+              "rubbers": "118-50",
+              "points": 118,
               "form": [
                 "W",
                 "W",
                 "W",
-                "W"
+                "L"
               ]
             },
             {
@@ -3519,6 +3519,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
+              "name": "David Lloyd Club Northwood 1",
+              "played": 6,
+              "won": 2,
+              "drawn": 0,
+              "lost": 4,
+              "rubbers": "58-86",
+              "points": 58,
+              "form": [
+                "L",
+                "L",
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 6,
               "name": "Paddington Sports Club 3",
               "played": 7,
               "won": 3,
@@ -3535,7 +3552,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 6,
+              "rank": 7,
               "name": "Pinner Lawn Tennis Club 2",
               "played": 6,
               "won": 1,
@@ -3551,7 +3568,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 7,
+              "rank": 8,
               "name": "Pinner West End Lawn Tennis Club 1",
               "played": 6,
               "won": 0,
@@ -3561,23 +3578,6 @@ window.__RESULTS__ = {
               "points": 39,
               "form": [
                 "L",
-                "L",
-                "L",
-                "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 8,
-              "name": "David Lloyd Club Northwood 1",
-              "played": 5,
-              "won": 1,
-              "drawn": 0,
-              "lost": 4,
-              "rubbers": "36-84",
-              "points": 36,
-              "form": [
-                "W",
                 "L",
                 "L",
                 "L",
@@ -3757,8 +3757,8 @@ window.__RESULTS__ = {
             {
               "home": "David Lloyd Club Northwood 1",
               "away": "Headstone Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 22,
+              "as": 2,
               "date": "Wed 29/07/2026"
             },
             {
