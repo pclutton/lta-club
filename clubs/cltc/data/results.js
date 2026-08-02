@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-02T08:32:24.506Z",
+  "generatedAt": "2026-08-02T13:28:56.640Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 20,
-      "matches": 418,
-      "players": 168,
-      "stale": 0
+      "refreshed": 20,
+      "failed": 0
     },
     "competitions": [
       {
@@ -2820,6 +2820,21 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Coolhurst 1",
+              "played": 7,
+              "won": 1,
+              "drawn": 2,
+              "lost": 4,
+              "rubbers": "73-95",
+              "points": 73,
+              "form": [
+                "L",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Vicars Moor 1",
               "played": 6,
               "won": 3,
@@ -2832,21 +2847,6 @@ window.__RESULTS__ = {
                 "W",
                 "W",
                 "W"
-              ]
-            },
-            {
-              "rank": 4,
-              "name": "Coolhurst 1",
-              "played": 6,
-              "won": 1,
-              "drawn": 2,
-              "lost": 3,
-              "rubbers": "63-81",
-              "points": 63,
-              "form": [
-                "W",
-                "L",
-                "L"
               ]
             },
             {
@@ -2883,6 +2883,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 7,
+              "name": "Finchley Manor 1",
+              "played": 6,
+              "won": 1,
+              "drawn": 0,
+              "lost": 5,
+              "rubbers": "49-95",
+              "points": 49,
+              "form": [
+                "L",
+                "L",
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 8,
               "name": "Coles Green 1",
               "played": 4,
               "won": 1,
@@ -2892,23 +2909,6 @@ window.__RESULTS__ = {
               "points": 35,
               "form": [
                 "W",
-                "L",
-                "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 8,
-              "name": "Finchley Manor 1",
-              "played": 5,
-              "won": 0,
-              "drawn": 0,
-              "lost": 5,
-              "rubbers": "35-85",
-              "points": 35,
-              "form": [
-                "L",
-                "L",
                 "L",
                 "L",
                 "L"
@@ -3087,8 +3087,8 @@ window.__RESULTS__ = {
             {
               "home": "Finchley Manor 1",
               "away": "Coolhurst 1",
-              "hs": null,
-              "as": null,
+              "hs": 14,
+              "as": 10,
               "date": "Wed 29/07/2026"
             },
             {
@@ -3243,6 +3243,21 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Coolhurst 1",
+              "played": 7,
+              "won": 1,
+              "drawn": 2,
+              "lost": 4,
+              "rubbers": "73-95",
+              "points": 73,
+              "form": [
+                "L",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Vicars Moor 1",
               "played": 6,
               "won": 3,
@@ -3255,21 +3270,6 @@ window.__RESULTS__ = {
                 "W",
                 "W",
                 "W"
-              ]
-            },
-            {
-              "rank": 4,
-              "name": "Coolhurst 1",
-              "played": 6,
-              "won": 1,
-              "drawn": 2,
-              "lost": 3,
-              "rubbers": "63-81",
-              "points": 63,
-              "form": [
-                "W",
-                "L",
-                "L"
               ]
             },
             {
@@ -3306,6 +3306,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 7,
+              "name": "Finchley Manor 1",
+              "played": 6,
+              "won": 1,
+              "drawn": 0,
+              "lost": 5,
+              "rubbers": "49-95",
+              "points": 49,
+              "form": [
+                "L",
+                "L",
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 8,
               "name": "Coles Green 1",
               "played": 4,
               "won": 1,
@@ -3315,23 +3332,6 @@ window.__RESULTS__ = {
               "points": 35,
               "form": [
                 "W",
-                "L",
-                "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 8,
-              "name": "Finchley Manor 1",
-              "played": 5,
-              "won": 0,
-              "drawn": 0,
-              "lost": 5,
-              "rubbers": "35-85",
-              "points": 35,
-              "form": [
-                "L",
-                "L",
                 "L",
                 "L",
                 "L"
@@ -3510,8 +3510,8 @@ window.__RESULTS__ = {
             {
               "home": "Finchley Manor 1",
               "away": "Coolhurst 1",
-              "hs": null,
-              "as": null,
+              "hs": 14,
+              "as": 10,
               "date": "Wed 29/07/2026"
             },
             {
