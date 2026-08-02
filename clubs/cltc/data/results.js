@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-02T17:04:17.447Z",
+  "generatedAt": "2026-08-02T20:12:30.373Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -2773,10 +2773,10 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/55",
           "position": 1,
           "of": 8,
-          "played": 6,
-          "won": 5,
+          "played": 7,
+          "won": 6,
           "lost": 0,
-          "points": 97,
+          "points": 107,
           "form": [
             "W",
             "W",
@@ -2788,12 +2788,12 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "Cumberland 1",
-              "played": 6,
-              "won": 5,
+              "played": 7,
+              "won": 6,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "97-23",
-              "points": 97,
+              "rubbers": "107-29",
+              "points": 107,
               "form": [
                 "W",
                 "W",
@@ -2901,14 +2901,15 @@ window.__RESULTS__ = {
             {
               "rank": 8,
               "name": "Coles Green 1",
-              "played": 4,
+              "played": 5,
               "won": 1,
               "drawn": 0,
-              "lost": 3,
-              "rubbers": "35-61",
-              "points": 35,
+              "lost": 4,
+              "rubbers": "41-71",
+              "points": 41,
               "form": [
                 "W",
+                "L",
                 "L",
                 "L",
                 "L"
@@ -3066,8 +3067,8 @@ window.__RESULTS__ = {
             {
               "home": "Coles Green 1",
               "away": "Cumberland 1",
-              "hs": null,
-              "as": null,
+              "hs": 6,
+              "as": 10,
               "date": "Fri 24/07/2026"
             },
             {
@@ -3211,12 +3212,12 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "Cumberland 1",
-              "played": 6,
-              "won": 5,
+              "played": 7,
+              "won": 6,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "97-23",
-              "points": 97,
+              "rubbers": "107-29",
+              "points": 107,
               "form": [
                 "W",
                 "W",
@@ -3324,14 +3325,15 @@ window.__RESULTS__ = {
             {
               "rank": 8,
               "name": "Coles Green 1",
-              "played": 4,
+              "played": 5,
               "won": 1,
               "drawn": 0,
-              "lost": 3,
-              "rubbers": "35-61",
-              "points": 35,
+              "lost": 4,
+              "rubbers": "41-71",
+              "points": 41,
               "form": [
                 "W",
+                "L",
                 "L",
                 "L",
                 "L"
@@ -3489,8 +3491,8 @@ window.__RESULTS__ = {
             {
               "home": "Coles Green 1",
               "away": "Cumberland 1",
-              "hs": null,
-              "as": null,
+              "hs": 6,
+              "as": 10,
               "date": "Fri 24/07/2026"
             },
             {

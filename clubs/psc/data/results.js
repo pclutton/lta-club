@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-02T17:04:50.968Z",
+  "generatedAt": "2026-08-02T20:13:04.421Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -3440,22 +3440,38 @@ window.__RESULTS__ = {
           "division": "North West Division 1",
           "pscName": "Paddington Sports Club 3",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/33",
-          "position": 4,
+          "position": 5,
           "of": 8,
-          "played": 6,
+          "played": 7,
           "won": 3,
-          "lost": 3,
+          "lost": 4,
           "points": 58,
           "form": [
+            "L",
+            "L",
+            "L",
             "W",
-            "L",
-            "L",
-            "L",
-            "W"
+            "L"
           ],
           "standings": [
             {
               "rank": 1,
+              "name": "Teddington Lawn Tennis Club 3",
+              "played": 7,
+              "won": 5,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "120-44",
+              "points": 120,
+              "form": [
+                "L",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Headstone Lawn Tennis Club 1",
               "played": 6,
               "won": 5,
@@ -3471,56 +3487,55 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
-              "name": "Teddington Lawn Tennis Club 3",
-              "played": 6,
-              "won": 4,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "96-44",
-              "points": 96,
-              "form": [
-                "W",
-                "L",
-                "W",
-                "W"
-              ]
-            },
-            {
               "rank": 3,
               "name": "Harrow Lawn Tennis Club 2",
-              "played": 6,
+              "played": 7,
               "won": 4,
               "drawn": 1,
-              "lost": 1,
-              "rubbers": "90-54",
-              "points": 90,
+              "lost": 2,
+              "rubbers": "98-70",
+              "points": 98,
               "form": [
                 "W",
                 "W",
                 "W",
-                "W"
+                "L"
               ]
             },
             {
               "rank": 4,
-              "name": "Paddington Sports Club 3",
+              "name": "Eastcote Lawn Tennis Club 1",
               "played": 6,
               "won": 3,
-              "drawn": 0,
-              "lost": 3,
-              "rubbers": "58-86",
-              "points": 58,
+              "drawn": 2,
+              "lost": 1,
+              "rubbers": "72-72",
+              "points": 72,
               "form": [
                 "W",
-                "L",
-                "L",
-                "L",
+                "W",
                 "W"
               ]
             },
             {
               "rank": 5,
+              "name": "Paddington Sports Club 3",
+              "played": 7,
+              "won": 3,
+              "drawn": 0,
+              "lost": 4,
+              "rubbers": "58-110",
+              "points": 58,
+              "form": [
+                "L",
+                "L",
+                "L",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 6,
               "name": "Pinner Lawn Tennis Club 2",
               "played": 6,
               "won": 1,
@@ -3533,21 +3548,6 @@ window.__RESULTS__ = {
                 "W",
                 "L",
                 "L"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "Eastcote Lawn Tennis Club 1",
-              "played": 5,
-              "won": 2,
-              "drawn": 2,
-              "lost": 1,
-              "rubbers": "56-64",
-              "points": 56,
-              "form": [
-                "L",
-                "W",
-                "W"
               ]
             },
             {
@@ -3750,8 +3750,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 3",
               "away": "Teddington Lawn Tennis Club 3",
-              "hs": null,
-              "as": null,
+              "hs": 0,
+              "as": 24,
               "date": "Mon 27/07/2026"
             },
             {
@@ -3764,8 +3764,8 @@ window.__RESULTS__ = {
             {
               "home": "Eastcote Lawn Tennis Club 1",
               "away": "Harrow Lawn Tennis Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 8,
               "date": "Wed 29/07/2026"
             },
             {
