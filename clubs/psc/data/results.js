@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-03T14:47:47.097Z",
+  "generatedAt": "2026-08-03T17:55:08.193Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -1621,14 +1621,13 @@ window.__RESULTS__ = {
             {
               "rank": 5,
               "name": "Thistleworth LTC 1",
-              "played": 5,
+              "played": 6,
               "won": 2,
-              "drawn": 1,
+              "drawn": 2,
               "lost": 2,
-              "rubbers": "66-54",
-              "points": 66,
+              "rubbers": "78-66",
+              "points": 78,
               "form": [
-                "L",
                 "W",
                 "W",
                 "L"
@@ -1636,15 +1635,14 @@ window.__RESULTS__ = {
             },
             {
               "rank": 6,
-              "name": "David Lloyd Club Sudbury Hill 1",
+              "name": "The Lensbury Club 1",
               "played": 6,
               "won": 1,
               "drawn": 2,
               "lost": 3,
-              "rubbers": "58-86",
-              "points": 58,
+              "rubbers": "66-78",
+              "points": 66,
               "form": [
-                "L",
                 "L",
                 "L",
                 "W"
@@ -1652,13 +1650,13 @@ window.__RESULTS__ = {
             },
             {
               "rank": 7,
-              "name": "The Lensbury Club 1",
-              "played": 5,
+              "name": "David Lloyd Club Sudbury Hill 1",
+              "played": 6,
               "won": 1,
-              "drawn": 1,
+              "drawn": 2,
               "lost": 3,
-              "rubbers": "54-66",
-              "points": 54,
+              "rubbers": "58-86",
+              "points": 58,
               "form": [
                 "L",
                 "L",
@@ -1856,8 +1854,8 @@ window.__RESULTS__ = {
             {
               "home": "The Lensbury Club 1",
               "away": "Thistleworth LTC 1",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 12,
               "date": "Fri 31/07/2026"
             },
             {
