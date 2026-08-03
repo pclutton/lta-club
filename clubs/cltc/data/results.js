@@ -2,43 +2,43 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-02T21:59:22.601Z",
+  "generatedAt": "2026-08-03T09:57:16.136Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 20,
-      "refreshed": 20,
-      "failed": 0
+      "matches": 418,
+      "players": 170,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-08-02"
+        "asOf": "2026-08-03"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-08-02"
+        "asOf": "2026-08-03"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-08-02"
+        "asOf": "2026-08-03"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-08-02"
+        "asOf": "2026-08-03"
       }
     ]
   },
@@ -47,8 +47,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-08-02",
-      "asOf": "2026-08-02",
+      "lastSeen": "2026-08-03",
+      "asOf": "2026-08-03",
       "stale": false,
       "teams": [
         {
@@ -2762,8 +2762,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-08-02",
-      "asOf": "2026-08-02",
+      "lastSeen": "2026-08-03",
+      "asOf": "2026-08-03",
       "stale": false,
       "teams": [
         {
@@ -2774,11 +2774,10 @@ window.__RESULTS__ = {
           "position": 1,
           "of": 8,
           "played": 7,
-          "won": 6,
+          "won": 5,
           "lost": 0,
-          "points": 107,
+          "points": 109,
           "form": [
-            "W",
             "W",
             "W",
             "W",
@@ -2789,13 +2788,12 @@ window.__RESULTS__ = {
               "rank": 1,
               "name": "Cumberland 1",
               "played": 7,
-              "won": 6,
-              "drawn": 0,
+              "won": 5,
+              "drawn": 1,
               "lost": 0,
-              "rubbers": "107-29",
-              "points": 107,
+              "rubbers": "109-35",
+              "points": 109,
               "form": [
-                "W",
                 "W",
                 "W",
                 "W",
@@ -2903,13 +2901,12 @@ window.__RESULTS__ = {
               "name": "Coles Green 1",
               "played": 5,
               "won": 1,
-              "drawn": 0,
-              "lost": 4,
-              "rubbers": "41-71",
-              "points": 41,
+              "drawn": 1,
+              "lost": 3,
+              "rubbers": "47-73",
+              "points": 47,
               "form": [
                 "W",
-                "L",
                 "L",
                 "L",
                 "L"
@@ -3067,8 +3064,8 @@ window.__RESULTS__ = {
             {
               "home": "Coles Green 1",
               "away": "Cumberland 1",
-              "hs": 6,
-              "as": 10,
+              "hs": 12,
+              "as": 12,
               "date": "Fri 24/07/2026"
             },
             {
@@ -3119,7 +3116,7 @@ window.__RESULTS__ = {
           "players": [
             {
               "name": "Jacob Coenraad de klerk",
-              "won": 14,
+              "won": 16,
               "lost": 1,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3550"
             },
@@ -3136,16 +3133,22 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3546"
             },
             {
+              "name": "John Thompson",
+              "won": 8,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4373"
+            },
+            {
               "name": "Rhett Purcell",
               "won": 8,
               "lost": 1,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3549"
             },
             {
-              "name": "John Thompson",
-              "won": 6,
-              "lost": 0,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4373"
+              "name": "Michael Clarkson",
+              "won": 5,
+              "lost": 3,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4374"
             },
             {
               "name": "Neel Khimasia",
@@ -3154,16 +3157,16 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2089"
             },
             {
-              "name": "Michael Clarkson",
-              "won": 4,
-              "lost": 2,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4374"
-            },
-            {
               "name": "Jack Long-Martinez",
               "won": 4,
               "lost": 5,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3548"
+            },
+            {
+              "name": "Adam Woodall",
+              "won": 3,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5667"
             },
             {
               "name": "Mark Keothavong",
@@ -3172,16 +3175,22 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3545"
             },
             {
-              "name": "Adam Woodall",
-              "won": 2,
-              "lost": 0,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5667"
+              "name": "Cameron Lambden",
+              "won": 1,
+              "lost": 1,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6563"
             },
             {
               "name": "Dom Hemy",
               "won": 1,
               "lost": 2,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5809"
+            },
+            {
+              "name": "Joshua Pistorius",
+              "won": 1,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6572"
             },
             {
               "name": "Peter Whight",
@@ -3213,13 +3222,12 @@ window.__RESULTS__ = {
               "rank": 1,
               "name": "Cumberland 1",
               "played": 7,
-              "won": 6,
-              "drawn": 0,
+              "won": 5,
+              "drawn": 1,
               "lost": 0,
-              "rubbers": "107-29",
-              "points": 107,
+              "rubbers": "109-35",
+              "points": 109,
               "form": [
-                "W",
                 "W",
                 "W",
                 "W",
@@ -3327,13 +3335,12 @@ window.__RESULTS__ = {
               "name": "Coles Green 1",
               "played": 5,
               "won": 1,
-              "drawn": 0,
-              "lost": 4,
-              "rubbers": "41-71",
-              "points": 41,
+              "drawn": 1,
+              "lost": 3,
+              "rubbers": "47-73",
+              "points": 47,
               "form": [
                 "W",
-                "L",
                 "L",
                 "L",
                 "L"
@@ -3491,8 +3498,8 @@ window.__RESULTS__ = {
             {
               "home": "Coles Green 1",
               "away": "Cumberland 1",
-              "hs": 6,
-              "as": 10,
+              "hs": 12,
+              "as": 12,
               "date": "Fri 24/07/2026"
             },
             {
@@ -5918,15 +5925,14 @@ window.__RESULTS__ = {
           "division": "East Intermediate",
           "pscName": "Cumberland 3",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/64",
-          "position": 3,
+          "position": 4,
           "of": 8,
           "played": 7,
-          "won": 5,
+          "won": 4,
           "lost": 2,
-          "points": 94,
+          "points": 88,
           "form": [
             "L",
-            "W",
             "W",
             "W",
             "W"
@@ -5968,35 +5974,34 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
-              "name": "Cumberland 3",
-              "played": 7,
-              "won": 5,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "94-70",
-              "points": 94,
-              "form": [
-                "L",
-                "W",
-                "W",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 4,
               "name": "Hackney 1",
               "played": 7,
-              "won": 3,
+              "won": 4,
               "drawn": 1,
-              "lost": 3,
-              "rubbers": "81-87",
-              "points": 81,
+              "lost": 2,
+              "rubbers": "89-79",
+              "points": 89,
               "form": [
                 "W",
                 "L",
                 "W",
                 "L"
+              ]
+            },
+            {
+              "rank": 4,
+              "name": "Cumberland 3",
+              "played": 7,
+              "won": 4,
+              "drawn": 1,
+              "lost": 2,
+              "rubbers": "88-76",
+              "points": 88,
+              "form": [
+                "L",
+                "W",
+                "W",
+                "W"
               ]
             },
             {
@@ -6018,23 +6023,6 @@ window.__RESULTS__ = {
             },
             {
               "rank": 6,
-              "name": "Coolhurst 2",
-              "played": 7,
-              "won": 3,
-              "drawn": 0,
-              "lost": 4,
-              "rubbers": "66-98",
-              "points": 66,
-              "form": [
-                "L",
-                "W",
-                "L",
-                "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 7,
               "name": "Muswell Hill Methodist 1",
               "played": 7,
               "won": 1,
@@ -6050,16 +6038,32 @@ window.__RESULTS__ = {
               ]
             },
             {
+              "rank": 7,
+              "name": "Coolhurst 2",
+              "played": 7,
+              "won": 2,
+              "drawn": 0,
+              "lost": 5,
+              "rubbers": "58-106",
+              "points": 58,
+              "form": [
+                "L",
+                "W",
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
               "rank": 8,
               "name": "Conway 1",
               "played": 6,
               "won": 0,
-              "drawn": 2,
-              "lost": 4,
-              "rubbers": "44-100",
-              "points": 44,
+              "drawn": 3,
+              "lost": 3,
+              "rubbers": "50-94",
+              "points": 50,
               "form": [
-                "L",
                 "L",
                 "L"
               ]
@@ -6076,8 +6080,8 @@ window.__RESULTS__ = {
             {
               "home": "Hackney 1",
               "away": "Coolhurst 2",
-              "hs": 10,
-              "as": 14,
+              "hs": 18,
+              "as": 6,
               "date": "Mon 11/05/2026"
             },
             {
@@ -6244,8 +6248,8 @@ window.__RESULTS__ = {
             {
               "home": "Conway 1",
               "away": "Cumberland 3",
-              "hs": 6,
-              "as": 18,
+              "hs": 12,
+              "as": 12,
               "date": "Tue 28/07/2026"
             },
             {
@@ -6814,8 +6818,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "current",
-      "lastSeen": "2026-08-02",
-      "asOf": "2026-08-02",
+      "lastSeen": "2026-08-03",
+      "asOf": "2026-08-03",
       "stale": false,
       "teams": [
         {
@@ -7256,8 +7260,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-08-02",
-      "asOf": "2026-08-02",
+      "lastSeen": "2026-08-03",
+      "asOf": "2026-08-03",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -7332,6 +7336,13 @@ window.__RESULTS__ = {
       "played": 29
     },
     {
+      "name": "Jacob Coenraad de klerk",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3550",
+      "won": 16,
+      "lost": 1,
+      "played": 17
+    },
+    {
       "name": "Iain Gannon",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1385",
       "won": 16,
@@ -7344,13 +7355,6 @@ window.__RESULTS__ = {
       "won": 15,
       "lost": 10,
       "played": 25
-    },
-    {
-      "name": "Jacob Coenraad de klerk",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3550",
-      "won": 14,
-      "lost": 1,
-      "played": 15
     },
     {
       "name": "Neel Khimasia",
@@ -7514,6 +7518,13 @@ window.__RESULTS__ = {
       "played": 8
     },
     {
+      "name": "John Thompson",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4373",
+      "won": 8,
+      "lost": 0,
+      "played": 8
+    },
+    {
       "name": "Rhett Purcell",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3549",
       "won": 8,
@@ -7612,6 +7623,13 @@ window.__RESULTS__ = {
       "played": 11
     },
     {
+      "name": "Michael Clarkson",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4374",
+      "won": 7,
+      "lost": 4,
+      "played": 11
+    },
+    {
       "name": "William Pearmain",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1384",
       "won": 7,
@@ -7647,13 +7665,6 @@ window.__RESULTS__ = {
       "played": 6
     },
     {
-      "name": "John Thompson",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4373",
-      "won": 6,
-      "lost": 0,
-      "played": 6
-    },
-    {
       "name": "Chris Matthewson",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1838",
       "won": 6,
@@ -7673,13 +7684,6 @@ window.__RESULTS__ = {
       "won": 6,
       "lost": 2,
       "played": 8
-    },
-    {
-      "name": "Michael Clarkson",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4374",
-      "won": 6,
-      "lost": 3,
-      "played": 9
     },
     {
       "name": "Noah Chemla",
@@ -7766,6 +7770,13 @@ window.__RESULTS__ = {
       "played": 6
     },
     {
+      "name": "Adam Woodall",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5667",
+      "won": 5,
+      "lost": 3,
+      "played": 8
+    },
+    {
       "name": "Olivia Parson",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1898",
       "won": 5,
@@ -7827,13 +7838,6 @@ window.__RESULTS__ = {
       "won": 4,
       "lost": 0,
       "played": 4
-    },
-    {
-      "name": "Adam Woodall",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5667",
-      "won": 4,
-      "lost": 1,
-      "played": 5
     },
     {
       "name": "Andreas Torner",
@@ -8207,6 +8211,13 @@ window.__RESULTS__ = {
       "played": 17
     },
     {
+      "name": "Cameron Lambden",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6563",
+      "won": 1,
+      "lost": 1,
+      "played": 2
+    },
+    {
       "name": "Emma Boniek",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1871",
       "won": 1,
@@ -8265,6 +8276,13 @@ window.__RESULTS__ = {
     {
       "name": "Joseph Pizzanelli",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1683",
+      "won": 1,
+      "lost": 2,
+      "played": 3
+    },
+    {
+      "name": "Joshua Pistorius",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6572",
       "won": 1,
       "lost": 2,
       "played": 3
