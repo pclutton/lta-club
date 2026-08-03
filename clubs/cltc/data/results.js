@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-03T09:57:16.136Z",
+  "generatedAt": "2026-08-03T14:47:14.773Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 20,
-      "matches": 418,
-      "players": 170,
-      "stale": 0
+      "refreshed": 20,
+      "failed": 0
     },
     "competitions": [
       {
@@ -2818,6 +2818,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Chandos 1",
+              "played": 6,
+              "won": 3,
+              "drawn": 1,
+              "lost": 2,
+              "rubbers": "76-64",
+              "points": 76,
+              "form": [
+                "W",
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Coolhurst 1",
               "played": 7,
               "won": 1,
@@ -2832,7 +2848,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
               "name": "Vicars Moor 1",
               "played": 6,
               "won": 3,
@@ -2848,7 +2864,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Hazelwood 1",
               "played": 6,
               "won": 3,
@@ -2864,36 +2880,20 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 6,
-              "name": "Chandos 1",
-              "played": 5,
-              "won": 2,
-              "drawn": 1,
-              "lost": 2,
-              "rubbers": "60-60",
-              "points": 60,
-              "form": [
-                "W",
-                "W",
-                "L",
-                "L"
-              ]
-            },
-            {
               "rank": 7,
               "name": "Finchley Manor 1",
-              "played": 6,
+              "played": 7,
               "won": 1,
               "drawn": 0,
-              "lost": 5,
-              "rubbers": "49-95",
-              "points": 49,
+              "lost": 6,
+              "rubbers": "53-111",
+              "points": 53,
               "form": [
                 "L",
                 "L",
                 "L",
-                "L",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -3099,8 +3099,8 @@ window.__RESULTS__ = {
             {
               "home": "Chandos 1",
               "away": "Finchley Manor 1",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 4,
               "date": "Thu 30/07/2026"
             },
             {
@@ -3252,6 +3252,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Chandos 1",
+              "played": 6,
+              "won": 3,
+              "drawn": 1,
+              "lost": 2,
+              "rubbers": "76-64",
+              "points": 76,
+              "form": [
+                "W",
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Coolhurst 1",
               "played": 7,
               "won": 1,
@@ -3266,7 +3282,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
               "name": "Vicars Moor 1",
               "played": 6,
               "won": 3,
@@ -3282,7 +3298,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Hazelwood 1",
               "played": 6,
               "won": 3,
@@ -3298,36 +3314,20 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 6,
-              "name": "Chandos 1",
-              "played": 5,
-              "won": 2,
-              "drawn": 1,
-              "lost": 2,
-              "rubbers": "60-60",
-              "points": 60,
-              "form": [
-                "W",
-                "W",
-                "L",
-                "L"
-              ]
-            },
-            {
               "rank": 7,
               "name": "Finchley Manor 1",
-              "played": 6,
+              "played": 7,
               "won": 1,
               "drawn": 0,
-              "lost": 5,
-              "rubbers": "49-95",
-              "points": 49,
+              "lost": 6,
+              "rubbers": "53-111",
+              "points": 53,
               "form": [
                 "L",
                 "L",
                 "L",
-                "L",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -3533,8 +3533,8 @@ window.__RESULTS__ = {
             {
               "home": "Chandos 1",
               "away": "Finchley Manor 1",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 4,
               "date": "Thu 30/07/2026"
             },
             {
@@ -5930,7 +5930,7 @@ window.__RESULTS__ = {
           "played": 7,
           "won": 4,
           "lost": 2,
-          "points": 88,
+          "points": 89,
           "form": [
             "L",
             "W",
@@ -5940,6 +5940,23 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Finchley Manor 1",
+              "played": 7,
+              "won": 6,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "120-48",
+              "points": 120,
+              "form": [
+                "W",
+                "W",
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Brondesbury 1",
               "played": 6,
               "won": 5,
@@ -5952,23 +5969,6 @@ window.__RESULTS__ = {
                 "L",
                 "W",
                 "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 2,
-              "name": "Finchley Manor 1",
-              "played": 6,
-              "won": 5,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "103-41",
-              "points": 103,
-              "form": [
-                "W",
-                "W",
-                "W",
-                "L",
                 "W"
               ]
             },
@@ -5995,8 +5995,8 @@ window.__RESULTS__ = {
               "won": 4,
               "drawn": 1,
               "lost": 2,
-              "rubbers": "88-76",
-              "points": 88,
+              "rubbers": "89-79",
+              "points": 89,
               "form": [
                 "L",
                 "W",
@@ -6023,6 +6023,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 6,
+              "name": "Coolhurst 2",
+              "played": 7,
+              "won": 2,
+              "drawn": 0,
+              "lost": 5,
+              "rubbers": "61-107",
+              "points": 61,
+              "form": [
+                "L",
+                "W",
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 7,
               "name": "Muswell Hill Methodist 1",
               "played": 7,
               "won": 1,
@@ -6038,31 +6055,14 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 7,
-              "name": "Coolhurst 2",
-              "played": 7,
-              "won": 2,
-              "drawn": 0,
-              "lost": 5,
-              "rubbers": "58-106",
-              "points": 58,
-              "form": [
-                "L",
-                "W",
-                "L",
-                "L",
-                "W"
-              ]
-            },
-            {
               "rank": 8,
               "name": "Conway 1",
-              "played": 6,
+              "played": 7,
               "won": 0,
               "drawn": 3,
-              "lost": 3,
-              "rubbers": "50-94",
-              "points": 50,
+              "lost": 4,
+              "rubbers": "57-111",
+              "points": 57,
               "form": [
                 "L",
                 "L"
@@ -6192,8 +6192,8 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland 3",
               "away": "Coolhurst 2",
-              "hs": 16,
-              "as": 4,
+              "hs": 17,
+              "as": 7,
               "date": "Mon 06/07/2026"
             },
             {
@@ -6255,8 +6255,8 @@ window.__RESULTS__ = {
             {
               "home": "Conway 1",
               "away": "Finchley Manor 1",
-              "hs": null,
-              "as": null,
+              "hs": 7,
+              "as": 17,
               "date": "Fri 31/07/2026"
             },
             {
