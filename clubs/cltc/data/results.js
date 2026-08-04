@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-04T20:28:18.123Z",
+  "generatedAt": "2026-08-04T22:16:22.842Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -5940,6 +5940,23 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Brondesbury 1",
+              "played": 7,
+              "won": 6,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "123-45",
+              "points": 123,
+              "form": [
+                "L",
+                "W",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Finchley Manor 1",
               "played": 7,
               "won": 6,
@@ -5951,23 +5968,6 @@ window.__RESULTS__ = {
                 "W",
                 "W",
                 "L",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 2,
-              "name": "Brondesbury 1",
-              "played": 6,
-              "won": 5,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "105-39",
-              "points": 105,
-              "form": [
-                "W",
-                "L",
-                "W",
                 "W",
                 "W"
               ]
@@ -6007,15 +6007,15 @@ window.__RESULTS__ = {
             {
               "rank": 5,
               "name": "South Hampstead 1",
-              "played": 6,
+              "played": 7,
               "won": 2,
               "drawn": 0,
-              "lost": 4,
-              "rubbers": "67-77",
-              "points": 67,
+              "lost": 5,
+              "rubbers": "73-95",
+              "points": 73,
               "form": [
-                "L",
                 "W",
+                "L",
                 "L",
                 "L",
                 "L"
@@ -6262,8 +6262,8 @@ window.__RESULTS__ = {
             {
               "home": "South Hampstead 1",
               "away": "Brondesbury 1",
-              "hs": null,
-              "as": null,
+              "hs": 6,
+              "as": 18,
               "date": "Tue 04/08/2026"
             }
           ],
