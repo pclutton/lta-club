@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-04T08:49:38.366Z",
+  "generatedAt": "2026-08-04T14:24:30.466Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "matches": 275,
-      "players": 124,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
@@ -1569,6 +1569,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Teddington Lawn Tennis Club 6",
+              "played": 7,
+              "won": 4,
+              "drawn": 1,
+              "lost": 2,
+              "rubbers": "98-70",
+              "points": 98,
+              "form": [
+                "W",
+                "L",
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "Holland Park Lawn Tennis Club 2",
               "played": 7,
               "won": 5,
@@ -1582,23 +1599,6 @@ window.__RESULTS__ = {
                 "W",
                 "L",
                 "L"
-              ]
-            },
-            {
-              "rank": 3,
-              "name": "Teddington Lawn Tennis Club 6",
-              "played": 6,
-              "won": 3,
-              "drawn": 1,
-              "lost": 2,
-              "rubbers": "80-64",
-              "points": 80,
-              "form": [
-                "W",
-                "W",
-                "L",
-                "L",
-                "W"
               ]
             },
             {
@@ -1667,12 +1667,12 @@ window.__RESULTS__ = {
             {
               "rank": 8,
               "name": "Wycombe House 1",
-              "played": 6,
+              "played": 7,
               "won": 0,
               "drawn": 0,
-              "lost": 6,
-              "rubbers": "34-110",
-              "points": 34,
+              "lost": 7,
+              "rubbers": "40-128",
+              "points": 40,
               "form": [
                 "L",
                 "L",
@@ -1861,8 +1861,8 @@ window.__RESULTS__ = {
             {
               "home": "Teddington Lawn Tennis Club 6",
               "away": "Wycombe House 1",
-              "hs": null,
-              "as": null,
+              "hs": 18,
+              "as": 6,
               "date": "Mon 03/08/2026"
             },
             {

@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-04T08:47:42.074Z",
+  "generatedAt": "2026-08-04T14:24:00.026Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 20,
-      "matches": 418,
-      "players": 170,
-      "stale": 0
+      "refreshed": 20,
+      "failed": 0
     },
     "competitions": [
       {
@@ -5945,8 +5945,8 @@ window.__RESULTS__ = {
               "won": 6,
               "drawn": 0,
               "lost": 1,
-              "rubbers": "120-48",
-              "points": 120,
+              "rubbers": "119-49",
+              "points": 119,
               "form": [
                 "W",
                 "W",
@@ -6061,8 +6061,8 @@ window.__RESULTS__ = {
               "won": 0,
               "drawn": 3,
               "lost": 4,
-              "rubbers": "57-111",
-              "points": 57,
+              "rubbers": "58-110",
+              "points": 58,
               "form": [
                 "L",
                 "L"
@@ -6255,8 +6255,8 @@ window.__RESULTS__ = {
             {
               "home": "Conway 1",
               "away": "Finchley Manor 1",
-              "hs": 7,
-              "as": 17,
+              "hs": 8,
+              "as": 16,
               "date": "Fri 31/07/2026"
             },
             {
