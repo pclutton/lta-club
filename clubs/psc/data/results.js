@@ -2,37 +2,37 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-04T22:16:51.948Z",
+  "generatedAt": "2026-08-05T08:49:14.619Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 275,
+      "players": 124,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-08-04"
+        "asOf": "2026-08-05"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-08-04"
+        "asOf": "2026-08-05"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-08-04"
+        "asOf": "2026-08-05"
       }
     ]
   },
@@ -41,8 +41,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-08-04",
-      "asOf": "2026-08-04",
+      "lastSeen": "2026-08-05",
+      "asOf": "2026-08-05",
       "stale": false,
       "teams": [
         {
@@ -1078,8 +1078,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-08-04",
-      "asOf": "2026-08-04",
+      "lastSeen": "2026-08-05",
+      "asOf": "2026-08-05",
       "stale": false,
       "teams": [
         {
@@ -1435,13 +1435,13 @@ window.__RESULTS__ = {
           "players": [
             {
               "name": "Isaac Havu",
-              "won": 7,
+              "won": 9,
               "lost": 8,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2406"
             },
             {
               "name": "Yannick Tandy",
-              "won": 5,
+              "won": 7,
               "lost": 6,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/616"
             },
@@ -1470,16 +1470,16 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4702"
             },
             {
-              "name": "Paul Kassar",
-              "won": 1,
-              "lost": 2,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4703"
-            },
-            {
               "name": "Trystan Forrest",
               "won": 1,
               "lost": 3,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/621"
+            },
+            {
+              "name": "Paul Kassar",
+              "won": 1,
+              "lost": 5,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4703"
             },
             {
               "name": "Ben Wareing",
@@ -1512,12 +1512,6 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5771"
             },
             {
-              "name": "Murat Varol",
-              "won": 0,
-              "lost": 3,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4701"
-            },
-            {
               "name": "Niall Paterson",
               "won": 0,
               "lost": 3,
@@ -1528,6 +1522,12 @@ window.__RESULTS__ = {
               "won": 0,
               "lost": 3,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3741"
+            },
+            {
+              "name": "Murat Varol",
+              "won": 0,
+              "lost": 6,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4701"
             }
           ],
           "displayName": "Mens Team 1",
@@ -1636,33 +1636,33 @@ window.__RESULTS__ = {
             },
             {
               "rank": 6,
-              "name": "The Lensbury Club 1",
-              "played": 6,
-              "won": 1,
+              "name": "David Lloyd Club Sudbury Hill 1",
+              "played": 7,
+              "won": 2,
               "drawn": 2,
               "lost": 3,
-              "rubbers": "66-78",
-              "points": 66,
+              "rubbers": "78-90",
+              "points": 78,
               "form": [
                 "L",
                 "L",
+                "W",
                 "W"
               ]
             },
             {
               "rank": 7,
-              "name": "David Lloyd Club Sudbury Hill 1",
-              "played": 6,
+              "name": "The Lensbury Club 1",
+              "played": 7,
               "won": 1,
               "drawn": 2,
-              "lost": 3,
-              "rubbers": "58-86",
-              "points": 58,
+              "lost": 4,
+              "rubbers": "70-98",
+              "points": 70,
               "form": [
                 "L",
-                "L",
-                "L",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -1869,8 +1869,8 @@ window.__RESULTS__ = {
             {
               "home": "David Lloyd Club Sudbury Hill 1",
               "away": "The Lensbury Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 20,
+              "as": 4,
               "date": "Tue 04/08/2026"
             },
             {
@@ -3917,16 +3917,16 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "Kenton Lawn Tennis Club 1",
-              "played": 5,
-              "won": 4,
+              "played": 6,
+              "won": 5,
               "drawn": 0,
               "lost": 1,
-              "rubbers": "78-42",
-              "points": 78,
+              "rubbers": "94-50",
+              "points": 94,
               "form": [
                 "W",
-                "W",
                 "L",
+                "W",
                 "W",
                 "W"
               ]
@@ -3934,18 +3934,18 @@ window.__RESULTS__ = {
             {
               "rank": 2,
               "name": "Wayfarers LTC 2",
-              "played": 5,
+              "played": 6,
               "won": 3,
               "drawn": 0,
-              "lost": 2,
-              "rubbers": "73-47",
-              "points": 73,
+              "lost": 3,
+              "rubbers": "81-63",
+              "points": 81,
               "form": [
-                "W",
                 "L",
                 "W",
                 "L",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -4165,8 +4165,8 @@ window.__RESULTS__ = {
             {
               "home": "Kenton Lawn Tennis Club 1",
               "away": "Wayfarers LTC 2",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 8,
               "date": "Tue 04/08/2026"
             },
             {
@@ -4701,8 +4701,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-08-04",
-      "asOf": "2026-08-04",
+      "lastSeen": "2026-08-05",
+      "asOf": "2026-08-05",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -4767,6 +4767,20 @@ window.__RESULTS__ = {
       "played": 15
     },
     {
+      "name": "Yannick Tandy",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/616",
+      "won": 12,
+      "lost": 7,
+      "played": 19
+    },
+    {
+      "name": "Isaac Havu",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2406",
+      "won": 12,
+      "lost": 8,
+      "played": 20
+    },
+    {
       "name": "Julie Zysman",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2480",
       "won": 11,
@@ -4786,20 +4800,6 @@ window.__RESULTS__ = {
       "won": 10,
       "lost": 5,
       "played": 15
-    },
-    {
-      "name": "Yannick Tandy",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/616",
-      "won": 10,
-      "lost": 7,
-      "played": 17
-    },
-    {
-      "name": "Isaac Havu",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2406",
-      "won": 10,
-      "lost": 8,
-      "played": 18
     },
     {
       "name": "Sushant Mehta",
@@ -5411,13 +5411,6 @@ window.__RESULTS__ = {
       "played": 3
     },
     {
-      "name": "Paul Kassar",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4703",
-      "won": 1,
-      "lost": 2,
-      "played": 3
-    },
-    {
       "name": "Victor Voulgaropoulos",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5216",
       "won": 1,
@@ -5455,6 +5448,13 @@ window.__RESULTS__ = {
     {
       "name": "Oscar Garland",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5158",
+      "won": 1,
+      "lost": 5,
+      "played": 6
+    },
+    {
+      "name": "Paul Kassar",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4703",
       "won": 1,
       "lost": 5,
       "played": 6
@@ -5579,13 +5579,6 @@ window.__RESULTS__ = {
       "played": 3
     },
     {
-      "name": "Murat Varol",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4701",
-      "won": 0,
-      "lost": 3,
-      "played": 3
-    },
-    {
       "name": "Rebecca Manuel",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5262",
       "won": 0,
@@ -5612,6 +5605,13 @@ window.__RESULTS__ = {
       "won": 0,
       "lost": 3,
       "played": 3
+    },
+    {
+      "name": "Murat Varol",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4701",
+      "won": 0,
+      "lost": 6,
+      "played": 6
     }
   ]
 };
