@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-05T14:17:18.115Z",
+  "generatedAt": "2026-08-05T17:43:56.930Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -3461,8 +3461,8 @@ window.__RESULTS__ = {
               "won": 5,
               "drawn": 1,
               "lost": 1,
-              "rubbers": "120-44",
-              "points": 120,
+              "rubbers": "124-44",
+              "points": 124,
               "form": [
                 "L",
                 "W",
@@ -3574,7 +3574,7 @@ window.__RESULTS__ = {
               "won": 0,
               "drawn": 0,
               "lost": 7,
-              "rubbers": "49-115",
+              "rubbers": "49-119",
               "points": 49,
               "form": [
                 "L",
@@ -3709,7 +3709,7 @@ window.__RESULTS__ = {
               "home": "Pinner West End Lawn Tennis Club 1",
               "away": "Teddington Lawn Tennis Club 3",
               "hs": 4,
-              "as": 16,
+              "as": 20,
               "date": "Thu 09/07/2026"
             },
             {
