@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-05T20:30:12.510Z",
+  "generatedAt": "2026-08-05T22:15:59.059Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -1541,16 +1541,16 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/12",
           "position": 4,
           "of": 8,
-          "played": 6,
-          "won": 4,
+          "played": 7,
+          "won": 5,
           "lost": 2,
-          "points": 78,
+          "points": 92,
           "form": [
+            "W",
+            "W",
+            "W",
             "L",
-            "W",
-            "W",
-            "W",
-            "L"
+            "W"
           ],
           "standings": [
             {
@@ -1606,32 +1606,32 @@ window.__RESULTS__ = {
             {
               "rank": 4,
               "name": "Paddington Sports Club 2",
-              "played": 6,
-              "won": 4,
+              "played": 7,
+              "won": 5,
               "drawn": 0,
               "lost": 2,
-              "rubbers": "78-66",
-              "points": 78,
+              "rubbers": "92-76",
+              "points": 92,
               "form": [
+                "W",
+                "W",
+                "W",
                 "L",
-                "W",
-                "W",
-                "W",
-                "L"
+                "W"
               ]
             },
             {
               "rank": 5,
               "name": "Thistleworth LTC 1",
-              "played": 6,
+              "played": 7,
               "won": 2,
               "drawn": 2,
-              "lost": 2,
-              "rubbers": "78-66",
-              "points": 78,
+              "lost": 3,
+              "rubbers": "88-80",
+              "points": 88,
               "form": [
                 "W",
-                "W",
+                "L",
                 "L"
               ]
             },
@@ -1877,8 +1877,8 @@ window.__RESULTS__ = {
             {
               "home": "Thistleworth LTC 1",
               "away": "Paddington Sports Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 10,
+              "as": 14,
               "date": "Wed 05/08/2026"
             }
           ],
@@ -4280,12 +4280,12 @@ window.__RESULTS__ = {
           "division": "West Division 3",
           "pscName": "Paddington Sports Club 2",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/20",
-          "position": 2,
+          "position": 1,
           "of": 8,
-          "played": 6,
-          "won": 5,
+          "played": 7,
+          "won": 6,
           "lost": 0,
-          "points": 106,
+          "points": 122,
           "form": [
             "W",
             "W",
@@ -4295,6 +4295,22 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Paddington Sports Club 2",
+              "played": 7,
+              "won": 6,
+              "drawn": 1,
+              "lost": 0,
+              "rubbers": "122-46",
+              "points": 122,
+              "form": [
+                "W",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Old Actonians Association Tennis Club 1",
               "played": 7,
               "won": 5,
@@ -4310,23 +4326,24 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
-              "name": "Paddington Sports Club 2",
-              "played": 6,
-              "won": 5,
-              "drawn": 1,
-              "lost": 0,
-              "rubbers": "106-38",
-              "points": 106,
+              "rank": 3,
+              "name": "Hartswood Lawn Tennis Club Ltd 2",
+              "played": 7,
+              "won": 4,
+              "drawn": 0,
+              "lost": 3,
+              "rubbers": "89-79",
+              "points": 89,
               "form": [
                 "W",
                 "W",
                 "W",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "Ealing Lawn Tennis Club 4",
               "played": 7,
               "won": 4,
@@ -4337,23 +4354,6 @@ window.__RESULTS__ = {
               "form": [
                 "W",
                 "L",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 4,
-              "name": "Hartswood Lawn Tennis Club Ltd 2",
-              "played": 6,
-              "won": 4,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "81-63",
-              "points": 81,
-              "form": [
-                "L",
-                "W",
-                "W",
                 "W",
                 "W"
               ]
@@ -4611,8 +4611,8 @@ window.__RESULTS__ = {
             {
               "home": "Hartswood Lawn Tennis Club Ltd 2",
               "away": "Paddington Sports Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 16,
               "date": "Wed 05/08/2026"
             },
             {
