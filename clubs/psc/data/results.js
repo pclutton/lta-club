@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-05T08:49:14.619Z",
+  "generatedAt": "2026-08-05T14:17:18.115Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "matches": 275,
-      "players": 124,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
@@ -1135,6 +1135,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "David Lloyd Club Acton Park 1",
+              "played": 7,
+              "won": 2,
+              "drawn": 2,
+              "lost": 3,
+              "rubbers": "87-81",
+              "points": 87,
+              "form": [
+                "L",
+                "W",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Eastcote Lawn Tennis Club 1",
               "played": 7,
               "won": 2,
@@ -1151,7 +1167,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
               "name": "Ealing Lawn Tennis Club 2",
               "played": 7,
               "won": 2,
@@ -1167,22 +1183,24 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
-              "name": "David Lloyd Club Acton Park 1",
+              "rank": 6,
+              "name": "Campden Hill Lawn Tennis Club 3",
               "played": 6,
-              "won": 2,
-              "drawn": 2,
+              "won": 4,
+              "drawn": 0,
               "lost": 2,
-              "rubbers": "79-65",
-              "points": 79,
+              "rubbers": "75-69",
+              "points": 75,
               "form": [
                 "L",
                 "W",
-                "L"
+                "W",
+                "L",
+                "W"
               ]
             },
             {
-              "rank": 6,
+              "rank": 7,
               "name": "Teddington Lawn Tennis Club 2",
               "played": 6,
               "won": 2,
@@ -1192,23 +1210,6 @@ window.__RESULTS__ = {
               "points": 60,
               "form": [
                 "L",
-                "L",
-                "W",
-                "W",
-                "L"
-              ]
-            },
-            {
-              "rank": 7,
-              "name": "Campden Hill Lawn Tennis Club 3",
-              "played": 5,
-              "won": 3,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "59-61",
-              "points": 59,
-              "form": [
-                "W",
                 "L",
                 "W",
                 "W",
@@ -1404,8 +1405,8 @@ window.__RESULTS__ = {
             {
               "home": "Campden Hill Lawn Tennis Club 3",
               "away": "David Lloyd Club Acton Park 1",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 8,
               "date": "Tue 04/08/2026"
             },
             {
