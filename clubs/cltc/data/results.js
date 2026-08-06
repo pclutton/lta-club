@@ -2,43 +2,43 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-05T22:15:28.935Z",
+  "generatedAt": "2026-08-06T08:46:57.844Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 20,
-      "refreshed": 20,
-      "failed": 0
+      "matches": 418,
+      "players": 170,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-08-05"
+        "asOf": "2026-08-06"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-08-05"
+        "asOf": "2026-08-06"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-08-05"
+        "asOf": "2026-08-06"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-08-05"
+        "asOf": "2026-08-06"
       }
     ]
   },
@@ -47,8 +47,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-08-05",
-      "asOf": "2026-08-05",
+      "lastSeen": "2026-08-06",
+      "asOf": "2026-08-06",
       "stale": false,
       "teams": [
         {
@@ -2762,8 +2762,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-08-05",
-      "asOf": "2026-08-05",
+      "lastSeen": "2026-08-06",
+      "asOf": "2026-08-06",
       "stale": false,
       "teams": [
         {
@@ -3740,6 +3740,39 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
+              "name": "Barnet 1",
+              "played": 6,
+              "won": 0,
+              "drawn": 1,
+              "lost": 5,
+              "rubbers": "57-87",
+              "points": 57,
+              "form": [
+                "L",
+                "L",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 6,
+              "name": "Brondesbury 1",
+              "played": 6,
+              "won": 2,
+              "drawn": 0,
+              "lost": 4,
+              "rubbers": "55-89",
+              "points": 55,
+              "form": [
+                "L",
+                "L",
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 7,
               "name": "Hazelwood 2",
               "played": 6,
               "won": 2,
@@ -3751,39 +3784,6 @@ window.__RESULTS__ = {
                 "W",
                 "L",
                 "W",
-                "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "Barnet 1",
-              "played": 5,
-              "won": 0,
-              "drawn": 1,
-              "lost": 4,
-              "rubbers": "47-73",
-              "points": 47,
-              "form": [
-                "L",
-                "L",
-                "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 7,
-              "name": "Brondesbury 1",
-              "played": 5,
-              "won": 1,
-              "drawn": 0,
-              "lost": 4,
-              "rubbers": "41-79",
-              "points": 41,
-              "form": [
-                "W",
-                "L",
-                "L",
                 "L",
                 "L"
               ]
@@ -3933,8 +3933,8 @@ window.__RESULTS__ = {
             {
               "home": "Brondesbury 1",
               "away": "Barnet 1",
-              "hs": null,
-              "as": null,
+              "hs": 14,
+              "as": 10,
               "date": "Wed 05/08/2026"
             }
           ],
@@ -4088,6 +4088,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Coolhurst LTC 2",
+              "played": 8,
+              "won": 6,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "128-64",
+              "points": 128,
+              "form": [
+                "W",
+                "W",
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Finchley Manor Tennis Squash and Health Club 2",
               "played": 8,
               "won": 6,
@@ -4100,23 +4117,6 @@ window.__RESULTS__ = {
                 "L",
                 "W",
                 "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 4,
-              "name": "Coolhurst LTC 2",
-              "played": 7,
-              "won": 5,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "114-54",
-              "points": 114,
-              "form": [
-                "W",
-                "W",
-                "W",
-                "L",
                 "W"
               ]
             },
@@ -4139,6 +4139,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 6,
+              "name": "West Heath Lawn Tennis Club Limited 1",
+              "played": 8,
+              "won": 3,
+              "drawn": 0,
+              "lost": 5,
+              "rubbers": "90-102",
+              "points": 90,
+              "form": [
+                "W",
+                "L",
+                "L",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 7,
               "name": "Totteridge Tennis Club 1",
               "played": 8,
               "won": 2,
@@ -4150,23 +4167,6 @@ window.__RESULTS__ = {
                 "L",
                 "L",
                 "W",
-                "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 7,
-              "name": "West Heath Lawn Tennis Club Limited 1",
-              "played": 7,
-              "won": 3,
-              "drawn": 0,
-              "lost": 4,
-              "rubbers": "80-88",
-              "points": 80,
-              "form": [
-                "W",
-                "W",
-                "L",
                 "L",
                 "L"
               ]
@@ -4455,8 +4455,8 @@ window.__RESULTS__ = {
             {
               "home": "West Heath Lawn Tennis Club Limited 1",
               "away": "Coolhurst LTC 2",
-              "hs": null,
-              "as": null,
+              "hs": 10,
+              "as": 14,
               "date": "Wed 05/08/2026"
             }
           ],
@@ -4622,6 +4622,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Coolhurst LTC 2",
+              "played": 8,
+              "won": 6,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "128-64",
+              "points": 128,
+              "form": [
+                "W",
+                "W",
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Finchley Manor Tennis Squash and Health Club 2",
               "played": 8,
               "won": 6,
@@ -4634,23 +4651,6 @@ window.__RESULTS__ = {
                 "L",
                 "W",
                 "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 4,
-              "name": "Coolhurst LTC 2",
-              "played": 7,
-              "won": 5,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "114-54",
-              "points": 114,
-              "form": [
-                "W",
-                "W",
-                "W",
-                "L",
                 "W"
               ]
             },
@@ -4673,6 +4673,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 6,
+              "name": "West Heath Lawn Tennis Club Limited 1",
+              "played": 8,
+              "won": 3,
+              "drawn": 0,
+              "lost": 5,
+              "rubbers": "90-102",
+              "points": 90,
+              "form": [
+                "W",
+                "L",
+                "L",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 7,
               "name": "Totteridge Tennis Club 1",
               "played": 8,
               "won": 2,
@@ -4684,23 +4701,6 @@ window.__RESULTS__ = {
                 "L",
                 "L",
                 "W",
-                "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 7,
-              "name": "West Heath Lawn Tennis Club Limited 1",
-              "played": 7,
-              "won": 3,
-              "drawn": 0,
-              "lost": 4,
-              "rubbers": "80-88",
-              "points": 80,
-              "form": [
-                "W",
-                "W",
-                "L",
                 "L",
                 "L"
               ]
@@ -4989,8 +4989,8 @@ window.__RESULTS__ = {
             {
               "home": "West Heath Lawn Tennis Club Limited 1",
               "away": "Coolhurst LTC 2",
-              "hs": null,
-              "as": null,
+              "hs": 10,
+              "as": 14,
               "date": "Wed 05/08/2026"
             }
           ],
@@ -5178,18 +5178,18 @@ window.__RESULTS__ = {
             {
               "rank": 3,
               "name": "Hazelwood 1",
-              "played": 5,
-              "won": 3,
+              "played": 6,
+              "won": 4,
               "drawn": 0,
               "lost": 2,
-              "rubbers": "74-46",
-              "points": 74,
+              "rubbers": "90-54",
+              "points": 90,
               "form": [
                 "W",
                 "W",
-                "W",
                 "L",
-                "L"
+                "L",
+                "W"
               ]
             },
             {
@@ -5211,6 +5211,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
+              "name": "Coolhurst LTC 1",
+              "played": 5,
+              "won": 2,
+              "drawn": 0,
+              "lost": 3,
+              "rubbers": "49-71",
+              "points": 49,
+              "form": [
+                "L",
+                "W",
+                "L",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 6,
               "name": "Globe 1",
               "played": 6,
               "won": 1,
@@ -5224,22 +5241,6 @@ window.__RESULTS__ = {
                 "L",
                 "L",
                 "L"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "Coolhurst LTC 1",
-              "played": 4,
-              "won": 2,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "41-55",
-              "points": 41,
-              "form": [
-                "L",
-                "W",
-                "L",
-                "W"
               ]
             },
             {
@@ -5397,8 +5398,8 @@ window.__RESULTS__ = {
             {
               "home": "Hazelwood 1",
               "away": "Coolhurst LTC 1",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 8,
               "date": "Wed 05/08/2026"
             },
             {
@@ -5600,18 +5601,18 @@ window.__RESULTS__ = {
             {
               "rank": 3,
               "name": "Hazelwood 1",
-              "played": 5,
-              "won": 3,
+              "played": 6,
+              "won": 4,
               "drawn": 0,
               "lost": 2,
-              "rubbers": "74-46",
-              "points": 74,
+              "rubbers": "90-54",
+              "points": 90,
               "form": [
                 "W",
                 "W",
-                "W",
                 "L",
-                "L"
+                "L",
+                "W"
               ]
             },
             {
@@ -5633,6 +5634,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
+              "name": "Coolhurst LTC 1",
+              "played": 5,
+              "won": 2,
+              "drawn": 0,
+              "lost": 3,
+              "rubbers": "49-71",
+              "points": 49,
+              "form": [
+                "L",
+                "W",
+                "L",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 6,
               "name": "Globe 1",
               "played": 6,
               "won": 1,
@@ -5646,22 +5664,6 @@ window.__RESULTS__ = {
                 "L",
                 "L",
                 "L"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "Coolhurst LTC 1",
-              "played": 4,
-              "won": 2,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "41-55",
-              "points": 41,
-              "form": [
-                "L",
-                "W",
-                "L",
-                "W"
               ]
             },
             {
@@ -5819,8 +5821,8 @@ window.__RESULTS__ = {
             {
               "home": "Hazelwood 1",
               "away": "Coolhurst LTC 1",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 8,
               "date": "Wed 05/08/2026"
             },
             {
@@ -6818,8 +6820,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "current",
-      "lastSeen": "2026-08-05",
-      "asOf": "2026-08-05",
+      "lastSeen": "2026-08-06",
+      "asOf": "2026-08-06",
       "stale": false,
       "teams": [
         {
@@ -7260,8 +7262,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-08-05",
-      "asOf": "2026-08-05",
+      "lastSeen": "2026-08-06",
+      "asOf": "2026-08-06",
       "stale": false,
       "teams": [],
       "knockouts": [
