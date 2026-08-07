@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-06T14:20:29.105Z",
+  "generatedAt": "2026-08-07T00:43:08.378Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -20,19 +20,19 @@ window.__RESULTS__ = {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-08-06"
+        "asOf": "2026-08-07"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-08-06"
+        "asOf": "2026-08-07"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-08-06"
+        "asOf": "2026-08-07"
       },
       {
         "id": "knockouts",
@@ -47,8 +47,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-08-06",
-      "asOf": "2026-08-06",
+      "lastSeen": "2026-08-07",
+      "asOf": "2026-08-07",
       "stale": false,
       "teams": [
         {
@@ -2762,8 +2762,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-08-06",
-      "asOf": "2026-08-06",
+      "lastSeen": "2026-08-07",
+      "asOf": "2026-08-07",
       "stale": false,
       "teams": [
         {
@@ -6820,8 +6820,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "current",
-      "lastSeen": "2026-08-06",
-      "asOf": "2026-08-06",
+      "lastSeen": "2026-08-07",
+      "asOf": "2026-08-07",
       "stale": false,
       "teams": [
         {
