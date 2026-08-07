@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-07T07:25:01.694Z",
+  "generatedAt": "2026-08-07T13:11:31.006Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 20,
-      "matches": 418,
-      "players": 170,
-      "stale": 0
+      "refreshed": 20,
+      "failed": 0
     },
     "competitions": [
       {
@@ -2992,24 +2992,17 @@ window.__RESULTS__ = {
               "date": "Tue 09/06/2026"
             },
             {
-              "home": "Coles Green 1",
-              "away": "Hazelwood 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 12/06/2026"
+              "home": "Hazelwood 1",
+              "away": "Chandos 1",
+              "hs": 14,
+              "as": 10,
+              "date": "Fri 19/06/2026"
             },
             {
               "home": "Coolhurst 1",
               "away": "Cumberland 2",
               "hs": 12,
               "as": 12,
-              "date": "Fri 19/06/2026"
-            },
-            {
-              "home": "Hazelwood 1",
-              "away": "Chandos 1",
-              "hs": 14,
-              "as": 10,
               "date": "Fri 19/06/2026"
             },
             {
@@ -3109,6 +3102,13 @@ window.__RESULTS__ = {
               "hs": null,
               "as": null,
               "date": "Mon 10/08/2026"
+            },
+            {
+              "home": "Coles Green 1",
+              "away": "Hazelwood 1",
+              "hs": null,
+              "as": null,
+              "date": "Thu 13/08/2026"
             }
           ],
           "results": [],
@@ -3426,24 +3426,17 @@ window.__RESULTS__ = {
               "date": "Tue 09/06/2026"
             },
             {
-              "home": "Coles Green 1",
-              "away": "Hazelwood 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 12/06/2026"
+              "home": "Hazelwood 1",
+              "away": "Chandos 1",
+              "hs": 14,
+              "as": 10,
+              "date": "Fri 19/06/2026"
             },
             {
               "home": "Coolhurst 1",
               "away": "Cumberland 2",
               "hs": 12,
               "as": 12,
-              "date": "Fri 19/06/2026"
-            },
-            {
-              "home": "Hazelwood 1",
-              "away": "Chandos 1",
-              "hs": 14,
-              "as": 10,
               "date": "Fri 19/06/2026"
             },
             {
@@ -3543,6 +3536,13 @@ window.__RESULTS__ = {
               "hs": null,
               "as": null,
               "date": "Mon 10/08/2026"
+            },
+            {
+              "home": "Coles Green 1",
+              "away": "Hazelwood 1",
+              "hs": null,
+              "as": null,
+              "date": "Thu 13/08/2026"
             }
           ],
           "results": [],
@@ -6400,6 +6400,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "David Lloyd Finchley 2",
+              "played": 7,
+              "won": 5,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "104-64",
+              "points": 104,
+              "form": [
+                "W",
+                "W",
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "Chandos 3",
               "played": 7,
               "won": 4,
@@ -6415,7 +6432,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "Finchley 1",
               "played": 7,
               "won": 4,
@@ -6432,35 +6449,18 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
-              "name": "David Lloyd Finchley 2",
-              "played": 6,
-              "won": 4,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "88-56",
-              "points": 88,
-              "form": [
-                "L",
-                "W",
-                "W",
-                "L",
-                "W"
-              ]
-            },
-            {
               "rank": 5,
               "name": "Totteridge 2",
-              "played": 6,
+              "played": 7,
               "won": 3,
               "drawn": 2,
-              "lost": 1,
-              "rubbers": "81-63",
-              "points": 81,
+              "lost": 2,
+              "rubbers": "89-79",
+              "points": 89,
               "form": [
                 "W",
                 "W",
-                "W"
+                "L"
               ]
             },
             {
@@ -6701,8 +6701,8 @@ window.__RESULTS__ = {
             {
               "home": "David Lloyd Finchley 2",
               "away": "Totteridge 2",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 8,
               "date": "Thu 06/08/2026"
             },
             {
