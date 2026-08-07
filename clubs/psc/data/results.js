@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-07T00:43:39.129Z",
+  "generatedAt": "2026-08-07T07:27:00.741Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 275,
+      "players": 128,
+      "stale": 0
     },
     "competitions": [
       {
@@ -32,7 +32,7 @@ window.__RESULTS__ = {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-08-06"
+        "asOf": "2026-08-07"
       }
     ]
   },
@@ -4726,8 +4726,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-08-06",
-      "asOf": "2026-08-06",
+      "lastSeen": "2026-08-07",
+      "asOf": "2026-08-07",
       "stale": false,
       "teams": [],
       "knockouts": [
