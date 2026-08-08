@@ -2,37 +2,37 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-07T21:43:00.178Z",
+  "generatedAt": "2026-08-08T07:04:44.978Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 3,
       "teams": 12,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 275,
+      "players": 128,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-08-07"
+        "asOf": "2026-08-08"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-08-07"
+        "asOf": "2026-08-08"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-08-07"
+        "asOf": "2026-08-08"
       }
     ]
   },
@@ -41,8 +41,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-08-07",
-      "asOf": "2026-08-07",
+      "lastSeen": "2026-08-08",
+      "asOf": "2026-08-08",
       "stale": false,
       "teams": [
         {
@@ -1078,8 +1078,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-08-07",
-      "asOf": "2026-08-07",
+      "lastSeen": "2026-08-08",
+      "asOf": "2026-08-08",
       "stale": false,
       "teams": [
         {
@@ -2091,6 +2091,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 6,
+              "name": "Lowlands Club 2",
+              "played": 7,
+              "won": 4,
+              "drawn": 0,
+              "lost": 3,
+              "rubbers": "71-97",
+              "points": 71,
+              "form": [
+                "L",
+                "W",
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 7,
               "name": "Uxbridge LTC 2",
               "played": 7,
               "won": 1,
@@ -2106,32 +2123,16 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 7,
-              "name": "Lowlands Club 2",
-              "played": 6,
-              "won": 3,
-              "drawn": 0,
-              "lost": 3,
-              "rubbers": "57-87",
-              "points": 57,
-              "form": [
-                "W",
-                "L",
-                "W",
-                "L",
-                "L"
-              ]
-            },
-            {
               "rank": 8,
               "name": "David Lloyd Club Northwood 3",
-              "played": 4,
+              "played": 5,
               "won": 0,
               "drawn": 1,
-              "lost": 3,
-              "rubbers": "22-74",
-              "points": 22,
+              "lost": 4,
+              "rubbers": "32-88",
+              "points": 32,
               "form": [
+                "L",
                 "L",
                 "L",
                 "L"
@@ -2324,8 +2325,8 @@ window.__RESULTS__ = {
             {
               "home": "David Lloyd Club Northwood 3",
               "away": "Lowlands Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 10,
+              "as": 14,
               "date": "Fri 07/08/2026"
             },
             {
@@ -2535,23 +2536,39 @@ window.__RESULTS__ = {
             },
             {
               "rank": 6,
-              "name": "Lowlands Club 4",
-              "played": 7,
-              "won": 4,
-              "drawn": 0,
+              "name": "Harrow Lawn Tennis Club 4",
+              "played": 8,
+              "won": 2,
+              "drawn": 3,
               "lost": 3,
-              "rubbers": "73-95",
-              "points": 73,
+              "rubbers": "78-110",
+              "points": 78,
               "form": [
                 "W",
                 "L",
-                "W",
                 "L",
                 "W"
               ]
             },
             {
               "rank": 7,
+              "name": "Lowlands Club 4",
+              "played": 8,
+              "won": 4,
+              "drawn": 0,
+              "lost": 4,
+              "rubbers": "77-115",
+              "points": 77,
+              "form": [
+                "L",
+                "W",
+                "L",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 8,
               "name": "Wembley & Sudbury Lawn Tennis Squash & Social Cl 1",
               "played": 8,
               "won": 2,
@@ -2564,21 +2581,6 @@ window.__RESULTS__ = {
                 "W",
                 "L",
                 "W"
-              ]
-            },
-            {
-              "rank": 8,
-              "name": "Harrow Lawn Tennis Club 4",
-              "played": 7,
-              "won": 1,
-              "drawn": 3,
-              "lost": 3,
-              "rubbers": "58-106",
-              "points": 58,
-              "form": [
-                "W",
-                "L",
-                "L"
               ]
             },
             {
@@ -2848,8 +2850,8 @@ window.__RESULTS__ = {
             {
               "home": "Harrow Lawn Tennis Club 4",
               "away": "Lowlands Club 4",
-              "hs": null,
-              "as": null,
+              "hs": 20,
+              "as": 4,
               "date": "Fri 07/08/2026"
             }
           ],
@@ -2967,7 +2969,7 @@ window.__RESULTS__ = {
           "division": "West Intermediate",
           "pscName": "Paddington Sports Club 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/22",
-          "position": 3,
+          "position": 4,
           "of": 8,
           "played": 7,
           "won": 4,
@@ -3000,6 +3002,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Pinner Lawn Tennis Club 1",
+              "played": 7,
+              "won": 4,
+              "drawn": 1,
+              "lost": 2,
+              "rubbers": "96-72",
+              "points": 96,
+              "form": [
+                "W",
+                "L",
+                "W",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "Virgin Active Chiswick Riverside 1",
               "played": 7,
               "won": 3,
@@ -3015,7 +3034,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "Paddington Sports Club 1",
               "played": 7,
               "won": 4,
@@ -3028,23 +3047,6 @@ window.__RESULTS__ = {
                 "W",
                 "W",
                 "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 4,
-              "name": "Pinner Lawn Tennis Club 1",
-              "played": 6,
-              "won": 4,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "86-58",
-              "points": 86,
-              "form": [
-                "W",
-                "W",
-                "L",
-                "W",
                 "W"
               ]
             },
@@ -3101,18 +3103,18 @@ window.__RESULTS__ = {
             {
               "rank": 8,
               "name": "Lowlands Club 1",
-              "played": 6,
-              "won": 0,
+              "played": 7,
+              "won": 1,
               "drawn": 0,
               "lost": 6,
-              "rubbers": "14-130",
-              "points": 14,
+              "rubbers": "28-140",
+              "points": 28,
               "form": [
                 "L",
                 "L",
                 "L",
                 "L",
-                "L"
+                "W"
               ]
             }
           ],
@@ -3309,8 +3311,8 @@ window.__RESULTS__ = {
             {
               "home": "Lowlands Club 1",
               "away": "Pinner Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 14,
+              "as": 10,
               "date": "Thu 06/08/2026"
             }
           ],
@@ -4726,8 +4728,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-08-07",
-      "asOf": "2026-08-07",
+      "lastSeen": "2026-08-08",
+      "asOf": "2026-08-08",
       "stale": false,
       "teams": [],
       "knockouts": [
