@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-09T07:08:05.735Z",
+  "generatedAt": "2026-08-09T12:58:24.771Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 19,
-      "matches": 471,
-      "players": 128,
-      "stale": 0
+      "refreshed": 19,
+      "failed": 0
     },
     "competitions": [
       {
@@ -3236,7 +3236,7 @@ window.__RESULTS__ = {
           "played": 6,
           "won": 0,
           "lost": 5,
-          "points": 40,
+          "points": 46,
           "form": [
             "L",
             "L",
@@ -3318,8 +3318,8 @@ window.__RESULTS__ = {
               "won": 2,
               "drawn": 3,
               "lost": 2,
-              "rubbers": "80-80",
-              "points": 80,
+              "rubbers": "82-86",
+              "points": 82,
               "form": [
                 "L",
                 "L",
@@ -3368,8 +3368,8 @@ window.__RESULTS__ = {
               "won": 0,
               "drawn": 1,
               "lost": 5,
-              "rubbers": "40-96",
-              "points": 40,
+              "rubbers": "46-98",
+              "points": 46,
               "form": [
                 "L",
                 "L",
@@ -3557,8 +3557,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 1",
               "away": "Ealing Lawn Tennis Club 2",
-              "hs": 4,
-              "as": 12,
+              "hs": 10,
+              "as": 14,
               "date": "Tue 04/08/2026"
             },
             {
