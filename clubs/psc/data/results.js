@@ -2,47 +2,2191 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-08T21:34:55.926Z",
+  "generatedAt": "2026-08-09T07:08:05.735Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
-      "comps": 3,
-      "teams": 12,
-      "refreshed": 12,
-      "failed": 0
+      "comps": 4,
+      "teams": 19,
+      "matches": 471,
+      "players": 128,
+      "stale": 0
     },
     "competitions": [
+      {
+        "id": "b86e129e",
+        "name": "Middlesex Floodlit League 2026-27",
+        "stale": false,
+        "asOf": "2026-08-09"
+      },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-08-08"
+        "asOf": "2026-08-09"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-08-08"
+        "asOf": "2026-08-09"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-08-08"
+        "asOf": "2026-08-09"
       }
     ]
   },
   "competitions": [
     {
+      "id": "b86e129e",
+      "name": "Middlesex Floodlit League 2026-27",
+      "status": "current",
+      "lastSeen": "2026-08-09",
+      "asOf": "2026-08-09",
+      "stale": false,
+      "teams": [
+        {
+          "name": "Mens Doubles (2)",
+          "division": "Division 2 North East",
+          "pscName": "Paddington Sports Club 2",
+          "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/14",
+          "position": 1,
+          "of": 8,
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "points": 0,
+          "form": [],
+          "standings": [
+            {
+              "rank": 1,
+              "name": "Paddington Sports Club 2",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 2,
+              "name": "South Hampstead Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 3,
+              "name": "Finchley Lawn Tennis Club 2",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 4,
+              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 5,
+              "name": "Totteridge Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 6,
+              "name": "Mercury LTC 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 7,
+              "name": "Temple Fortune Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 8,
+              "name": "Paddington Sports Club 3",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            }
+          ],
+          "matches": [
+            {
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "away": "Totteridge Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "Finchley Lawn Tennis Club 2",
+              "away": "Mercury LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "South Hampstead Tennis Club 1",
+              "away": "Temple Fortune Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "Paddington Sports Club 2",
+              "away": "Paddington Sports Club 3",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "Paddington Sports Club 3",
+              "away": "Totteridge Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Mercury LTC 1",
+              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Temple Fortune Club 1",
+              "away": "Finchley Lawn Tennis Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Paddington Sports Club 2",
+              "away": "South Hampstead Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Finchley Lawn Tennis Club 2",
+              "away": "Paddington Sports Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "away": "Temple Fortune Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "Totteridge Tennis Club 1",
+              "away": "Mercury LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "South Hampstead Tennis Club 1",
+              "away": "Paddington Sports Club 3",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "Paddington Sports Club 3",
+              "away": "Mercury LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "Temple Fortune Club 1",
+              "away": "Totteridge Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "Paddington Sports Club 2",
+              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "South Hampstead Tennis Club 1",
+              "away": "Finchley Lawn Tennis Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "away": "South Hampstead Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Totteridge Tennis Club 1",
+              "away": "Paddington Sports Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Mercury LTC 1",
+              "away": "Temple Fortune Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Finchley Lawn Tennis Club 2",
+              "away": "Paddington Sports Club 3",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Paddington Sports Club 2",
+              "away": "Mercury LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "Finchley Lawn Tennis Club 2",
+              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "South Hampstead Tennis Club 1",
+              "away": "Totteridge Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "Paddington Sports Club 3",
+              "away": "Temple Fortune Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "Totteridge Tennis Club 1",
+              "away": "Finchley Lawn Tennis Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            },
+            {
+              "home": "Mercury LTC 1",
+              "away": "South Hampstead Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            },
+            {
+              "home": "Temple Fortune Club 1",
+              "away": "Paddington Sports Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            },
+            {
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "away": "Paddington Sports Club 3",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            }
+          ],
+          "results": [],
+          "fixtures": [],
+          "players": []
+        },
+        {
+          "name": "Mens Doubles (3)",
+          "division": "Division 2 North East",
+          "pscName": "Paddington Sports Club 3",
+          "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/14",
+          "position": 8,
+          "of": 8,
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "points": 0,
+          "form": [],
+          "standings": [
+            {
+              "rank": 1,
+              "name": "Paddington Sports Club 2",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 2,
+              "name": "South Hampstead Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 3,
+              "name": "Finchley Lawn Tennis Club 2",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 4,
+              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 5,
+              "name": "Totteridge Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 6,
+              "name": "Mercury LTC 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 7,
+              "name": "Temple Fortune Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 8,
+              "name": "Paddington Sports Club 3",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            }
+          ],
+          "matches": [
+            {
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "away": "Totteridge Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "Finchley Lawn Tennis Club 2",
+              "away": "Mercury LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "South Hampstead Tennis Club 1",
+              "away": "Temple Fortune Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "Paddington Sports Club 2",
+              "away": "Paddington Sports Club 3",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "Paddington Sports Club 3",
+              "away": "Totteridge Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Mercury LTC 1",
+              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Temple Fortune Club 1",
+              "away": "Finchley Lawn Tennis Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Paddington Sports Club 2",
+              "away": "South Hampstead Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Finchley Lawn Tennis Club 2",
+              "away": "Paddington Sports Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "away": "Temple Fortune Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "Totteridge Tennis Club 1",
+              "away": "Mercury LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "South Hampstead Tennis Club 1",
+              "away": "Paddington Sports Club 3",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "Paddington Sports Club 3",
+              "away": "Mercury LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "Temple Fortune Club 1",
+              "away": "Totteridge Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "Paddington Sports Club 2",
+              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "South Hampstead Tennis Club 1",
+              "away": "Finchley Lawn Tennis Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "away": "South Hampstead Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Totteridge Tennis Club 1",
+              "away": "Paddington Sports Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Mercury LTC 1",
+              "away": "Temple Fortune Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Finchley Lawn Tennis Club 2",
+              "away": "Paddington Sports Club 3",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Paddington Sports Club 2",
+              "away": "Mercury LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "Finchley Lawn Tennis Club 2",
+              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "South Hampstead Tennis Club 1",
+              "away": "Totteridge Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "Paddington Sports Club 3",
+              "away": "Temple Fortune Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "Totteridge Tennis Club 1",
+              "away": "Finchley Lawn Tennis Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            },
+            {
+              "home": "Mercury LTC 1",
+              "away": "South Hampstead Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            },
+            {
+              "home": "Temple Fortune Club 1",
+              "away": "Paddington Sports Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            },
+            {
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "away": "Paddington Sports Club 3",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            }
+          ],
+          "results": [],
+          "fixtures": [],
+          "players": []
+        },
+        {
+          "name": "Mens Doubles",
+          "division": "Division 3 North East",
+          "pscName": "Paddington Sports Club 1",
+          "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/3",
+          "position": 1,
+          "of": 8,
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "points": 0,
+          "form": [],
+          "standings": [
+            {
+              "rank": 1,
+              "name": "Paddington Sports Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 2,
+              "name": "David Lloyd Club Finchley 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 3,
+              "name": "West Heath Lawn Tennis Club Limited 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 4,
+              "name": "Elmwood Lawn Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 5,
+              "name": "Finchley Lawn Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 6,
+              "name": "Brondesbury Sports Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 7,
+              "name": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 8,
+              "name": "Finchley Manor Tennis Squash and Health Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            }
+          ],
+          "matches": [
+            {
+              "home": "Elmwood Lawn Tennis Club 1",
+              "away": "Finchley Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "West Heath Lawn Tennis Club Limited 1",
+              "away": "Brondesbury Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "David Lloyd Club Finchley 1",
+              "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "Finchley Manor Tennis Squash and Health Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "Finchley Manor Tennis Squash and Health Club 1",
+              "away": "Finchley Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Brondesbury Sports Club 1",
+              "away": "Elmwood Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "away": "West Heath Lawn Tennis Club Limited 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "David Lloyd Club Finchley 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "West Heath Lawn Tennis Club Limited 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "Elmwood Lawn Tennis Club 1",
+              "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "Finchley Lawn Tennis Club 1",
+              "away": "Brondesbury Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "David Lloyd Club Finchley 1",
+              "away": "Finchley Manor Tennis Squash and Health Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "Finchley Manor Tennis Squash and Health Club 1",
+              "away": "Brondesbury Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "away": "Finchley Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "Elmwood Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "David Lloyd Club Finchley 1",
+              "away": "West Heath Lawn Tennis Club Limited 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "Elmwood Lawn Tennis Club 1",
+              "away": "David Lloyd Club Finchley 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Finchley Lawn Tennis Club 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Brondesbury Sports Club 1",
+              "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "West Heath Lawn Tennis Club Limited 1",
+              "away": "Finchley Manor Tennis Squash and Health Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "Brondesbury Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "West Heath Lawn Tennis Club Limited 1",
+              "away": "Elmwood Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "David Lloyd Club Finchley 1",
+              "away": "Finchley Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "Finchley Manor Tennis Squash and Health Club 1",
+              "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "Finchley Lawn Tennis Club 1",
+              "away": "West Heath Lawn Tennis Club Limited 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            },
+            {
+              "home": "Brondesbury Sports Club 1",
+              "away": "David Lloyd Club Finchley 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            },
+            {
+              "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            },
+            {
+              "home": "Elmwood Lawn Tennis Club 1",
+              "away": "Finchley Manor Tennis Squash and Health Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            }
+          ],
+          "results": [],
+          "fixtures": [],
+          "players": []
+        },
+        {
+          "name": "Womens Doubles (1)",
+          "division": "Division 1 North East",
+          "pscName": "Paddington Sports Club 1",
+          "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/8",
+          "position": 2,
+          "of": 8,
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "points": 0,
+          "form": [],
+          "standings": [
+            {
+              "rank": 1,
+              "name": "Lowlands Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 2,
+              "name": "Paddington Sports Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 3,
+              "name": "Wayfarers LTC 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 4,
+              "name": "Pinner Lawn Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 5,
+              "name": "Harrow Lawn Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 6,
+              "name": "Harrow Lawn Tennis Club 2",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 7,
+              "name": "Paddington Sports Club 2",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 8,
+              "name": "Eastcote Lawn Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            }
+          ],
+          "matches": [
+            {
+              "home": "Pinner Lawn Tennis Club 1",
+              "away": "Harrow Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "Wayfarers LTC 1",
+              "away": "Harrow Lawn Tennis Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "Paddington Sports Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "Lowlands Club 1",
+              "away": "Eastcote Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "Eastcote Lawn Tennis Club 1",
+              "away": "Harrow Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Harrow Lawn Tennis Club 2",
+              "away": "Pinner Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Paddington Sports Club 2",
+              "away": "Wayfarers LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Lowlands Club 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Wayfarers LTC 1",
+              "away": "Lowlands Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "Pinner Lawn Tennis Club 1",
+              "away": "Paddington Sports Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "Harrow Lawn Tennis Club 1",
+              "away": "Harrow Lawn Tennis Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "Eastcote Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "Eastcote Lawn Tennis Club 1",
+              "away": "Harrow Lawn Tennis Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "Paddington Sports Club 2",
+              "away": "Harrow Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "Lowlands Club 1",
+              "away": "Pinner Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "Wayfarers LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "Pinner Lawn Tennis Club 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Harrow Lawn Tennis Club 1",
+              "away": "Lowlands Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Harrow Lawn Tennis Club 2",
+              "away": "Paddington Sports Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Wayfarers LTC 1",
+              "away": "Eastcote Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Lowlands Club 1",
+              "away": "Harrow Lawn Tennis Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "Wayfarers LTC 1",
+              "away": "Pinner Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "Harrow Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "Eastcote Lawn Tennis Club 1",
+              "away": "Paddington Sports Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "Harrow Lawn Tennis Club 1",
+              "away": "Wayfarers LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            },
+            {
+              "home": "Harrow Lawn Tennis Club 2",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            },
+            {
+              "home": "Paddington Sports Club 2",
+              "away": "Lowlands Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            },
+            {
+              "home": "Pinner Lawn Tennis Club 1",
+              "away": "Eastcote Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            }
+          ],
+          "results": [],
+          "fixtures": [],
+          "players": []
+        },
+        {
+          "name": "Womens Doubles (2)",
+          "division": "Division 1 North East",
+          "pscName": "Paddington Sports Club 2",
+          "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/8",
+          "position": 7,
+          "of": 8,
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "points": 0,
+          "form": [],
+          "standings": [
+            {
+              "rank": 1,
+              "name": "Lowlands Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 2,
+              "name": "Paddington Sports Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 3,
+              "name": "Wayfarers LTC 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 4,
+              "name": "Pinner Lawn Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 5,
+              "name": "Harrow Lawn Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 6,
+              "name": "Harrow Lawn Tennis Club 2",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 7,
+              "name": "Paddington Sports Club 2",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 8,
+              "name": "Eastcote Lawn Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            }
+          ],
+          "matches": [
+            {
+              "home": "Pinner Lawn Tennis Club 1",
+              "away": "Harrow Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "Wayfarers LTC 1",
+              "away": "Harrow Lawn Tennis Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "Paddington Sports Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "Lowlands Club 1",
+              "away": "Eastcote Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "Eastcote Lawn Tennis Club 1",
+              "away": "Harrow Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Harrow Lawn Tennis Club 2",
+              "away": "Pinner Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Paddington Sports Club 2",
+              "away": "Wayfarers LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Lowlands Club 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Wayfarers LTC 1",
+              "away": "Lowlands Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "Pinner Lawn Tennis Club 1",
+              "away": "Paddington Sports Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "Harrow Lawn Tennis Club 1",
+              "away": "Harrow Lawn Tennis Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "Eastcote Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "Eastcote Lawn Tennis Club 1",
+              "away": "Harrow Lawn Tennis Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "Paddington Sports Club 2",
+              "away": "Harrow Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "Lowlands Club 1",
+              "away": "Pinner Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "Wayfarers LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "Pinner Lawn Tennis Club 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Harrow Lawn Tennis Club 1",
+              "away": "Lowlands Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Harrow Lawn Tennis Club 2",
+              "away": "Paddington Sports Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Wayfarers LTC 1",
+              "away": "Eastcote Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Lowlands Club 1",
+              "away": "Harrow Lawn Tennis Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "Wayfarers LTC 1",
+              "away": "Pinner Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "Harrow Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "Eastcote Lawn Tennis Club 1",
+              "away": "Paddington Sports Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "Harrow Lawn Tennis Club 1",
+              "away": "Wayfarers LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            },
+            {
+              "home": "Harrow Lawn Tennis Club 2",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            },
+            {
+              "home": "Paddington Sports Club 2",
+              "away": "Lowlands Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            },
+            {
+              "home": "Pinner Lawn Tennis Club 1",
+              "away": "Eastcote Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            }
+          ],
+          "results": [],
+          "fixtures": [],
+          "players": []
+        },
+        {
+          "name": "Womens Doubles",
+          "division": "Division 3 West",
+          "pscName": "Paddington Sports Club 3",
+          "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/43",
+          "position": 1,
+          "of": 8,
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "points": 0,
+          "form": [],
+          "standings": [
+            {
+              "rank": 1,
+              "name": "Paddington Sports Club 3",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 2,
+              "name": "Park Sports - Lammas Park 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 3,
+              "name": "Brentham Lawn Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 4,
+              "name": "Twickenham Lawn Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 5,
+              "name": "Thistleworth LTC 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 6,
+              "name": "Virgin Active Chiswick Riverside 2",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 7,
+              "name": "Holland Park Lawn Tennis Club 2",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 8,
+              "name": "David Lloyd Club Hampton 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            }
+          ],
+          "matches": [
+            {
+              "home": "Twickenham Lawn Tennis Club 1",
+              "away": "Thistleworth LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "Brentham Lawn Tennis Club 1",
+              "away": "Virgin Active Chiswick Riverside 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "Park Sports - Lammas Park 1",
+              "away": "Holland Park Lawn Tennis Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "Paddington Sports Club 3",
+              "away": "David Lloyd Club Hampton 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "David Lloyd Club Hampton 1",
+              "away": "Thistleworth LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Virgin Active Chiswick Riverside 2",
+              "away": "Twickenham Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Holland Park Lawn Tennis Club 2",
+              "away": "Brentham Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Paddington Sports Club 3",
+              "away": "Park Sports - Lammas Park 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Brentham Lawn Tennis Club 1",
+              "away": "Paddington Sports Club 3",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "Twickenham Lawn Tennis Club 1",
+              "away": "Holland Park Lawn Tennis Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "Thistleworth LTC 1",
+              "away": "Virgin Active Chiswick Riverside 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "Park Sports - Lammas Park 1",
+              "away": "David Lloyd Club Hampton 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "David Lloyd Club Hampton 1",
+              "away": "Virgin Active Chiswick Riverside 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "Holland Park Lawn Tennis Club 2",
+              "away": "Thistleworth LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "Paddington Sports Club 3",
+              "away": "Twickenham Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "Park Sports - Lammas Park 1",
+              "away": "Brentham Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "Twickenham Lawn Tennis Club 1",
+              "away": "Park Sports - Lammas Park 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Thistleworth LTC 1",
+              "away": "Paddington Sports Club 3",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Virgin Active Chiswick Riverside 2",
+              "away": "Holland Park Lawn Tennis Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Brentham Lawn Tennis Club 1",
+              "away": "David Lloyd Club Hampton 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Paddington Sports Club 3",
+              "away": "Virgin Active Chiswick Riverside 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "Brentham Lawn Tennis Club 1",
+              "away": "Twickenham Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "Park Sports - Lammas Park 1",
+              "away": "Thistleworth LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "David Lloyd Club Hampton 1",
+              "away": "Holland Park Lawn Tennis Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "Thistleworth LTC 1",
+              "away": "Brentham Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            },
+            {
+              "home": "Virgin Active Chiswick Riverside 2",
+              "away": "Park Sports - Lammas Park 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            },
+            {
+              "home": "Holland Park Lawn Tennis Club 2",
+              "away": "Paddington Sports Club 3",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            },
+            {
+              "home": "Twickenham Lawn Tennis Club 1",
+              "away": "David Lloyd Club Hampton 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            }
+          ],
+          "results": [],
+          "fixtures": [],
+          "players": []
+        },
+        {
+          "name": "Mixed Doubles",
+          "division": "Division 1 North East",
+          "pscName": "Paddington Sports Club 1",
+          "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/10",
+          "position": 3,
+          "of": 8,
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "points": 0,
+          "form": [],
+          "standings": [
+            {
+              "rank": 1,
+              "name": "Totteridge Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 2,
+              "name": "West Heath Lawn Tennis Club Limited 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 3,
+              "name": "Paddington Sports Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 4,
+              "name": "David Lloyd Club Finchley 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 5,
+              "name": "Totteridge Tennis Club 2",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 6,
+              "name": "Oakleigh Park Lawn Tennis & Squash Club 2",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 7,
+              "name": "Finchley Lawn Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 8,
+              "name": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            }
+          ],
+          "matches": [
+            {
+              "home": "David Lloyd Club Finchley 1",
+              "away": "Totteridge Tennis Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "Oakleigh Park Lawn Tennis & Squash Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "West Heath Lawn Tennis Club Limited 1",
+              "away": "Finchley Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "Totteridge Tennis Club 1",
+              "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "away": "Totteridge Tennis Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Oakleigh Park Lawn Tennis & Squash Club 2",
+              "away": "David Lloyd Club Finchley 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Finchley Lawn Tennis Club 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Totteridge Tennis Club 1",
+              "away": "West Heath Lawn Tennis Club Limited 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "Totteridge Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "David Lloyd Club Finchley 1",
+              "away": "Finchley Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "Totteridge Tennis Club 2",
+              "away": "Oakleigh Park Lawn Tennis & Squash Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "West Heath Lawn Tennis Club Limited 1",
+              "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "away": "Oakleigh Park Lawn Tennis & Squash Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "Finchley Lawn Tennis Club 1",
+              "away": "Totteridge Tennis Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "Totteridge Tennis Club 1",
+              "away": "David Lloyd Club Finchley 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "West Heath Lawn Tennis Club Limited 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "David Lloyd Club Finchley 1",
+              "away": "West Heath Lawn Tennis Club Limited 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Totteridge Tennis Club 2",
+              "away": "Totteridge Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Oakleigh Park Lawn Tennis & Squash Club 2",
+              "away": "Finchley Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Totteridge Tennis Club 1",
+              "away": "Oakleigh Park Lawn Tennis & Squash Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "David Lloyd Club Finchley 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "West Heath Lawn Tennis Club Limited 1",
+              "away": "Totteridge Tennis Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "away": "Finchley Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "Totteridge Tennis Club 2",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            },
+            {
+              "home": "Oakleigh Park Lawn Tennis & Squash Club 2",
+              "away": "West Heath Lawn Tennis Club Limited 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            },
+            {
+              "home": "Finchley Lawn Tennis Club 1",
+              "away": "Totteridge Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            },
+            {
+              "home": "David Lloyd Club Finchley 1",
+              "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            }
+          ],
+          "results": [],
+          "fixtures": [],
+          "players": []
+        }
+      ]
+    },
+    {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-08-08",
-      "asOf": "2026-08-08",
+      "lastSeen": "2026-08-09",
+      "asOf": "2026-08-09",
       "stale": false,
       "teams": [
         {
@@ -1078,8 +3222,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-08-08",
-      "asOf": "2026-08-08",
+      "lastSeen": "2026-08-09",
+      "asOf": "2026-08-09",
       "stale": false,
       "teams": [
         {
@@ -1120,17 +3264,18 @@ window.__RESULTS__ = {
             {
               "rank": 2,
               "name": "West Middlesex Lawn Tennis Club Ltd 1",
-              "played": 6,
+              "played": 7,
               "won": 5,
               "drawn": 1,
-              "lost": 0,
-              "rubbers": "89-55",
-              "points": 89,
+              "lost": 1,
+              "rubbers": "97-71",
+              "points": 97,
               "form": [
                 "W",
                 "W",
                 "W",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -1184,6 +3329,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 6,
+              "name": "Teddington Lawn Tennis Club 2",
+              "played": 7,
+              "won": 3,
+              "drawn": 0,
+              "lost": 4,
+              "rubbers": "76-92",
+              "points": 76,
+              "form": [
+                "L",
+                "W",
+                "W",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 7,
               "name": "Campden Hill Lawn Tennis Club 3",
               "played": 6,
               "won": 4,
@@ -1197,23 +3359,6 @@ window.__RESULTS__ = {
                 "W",
                 "L",
                 "W"
-              ]
-            },
-            {
-              "rank": 7,
-              "name": "Teddington Lawn Tennis Club 2",
-              "played": 6,
-              "won": 2,
-              "drawn": 0,
-              "lost": 4,
-              "rubbers": "60-84",
-              "points": 60,
-              "form": [
-                "L",
-                "L",
-                "W",
-                "W",
-                "L"
               ]
             },
             {
@@ -1419,8 +3564,8 @@ window.__RESULTS__ = {
             {
               "home": "Teddington Lawn Tennis Club 2",
               "away": "West Middlesex Lawn Tennis Club Ltd 1",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 8,
               "date": "Fri 07/08/2026"
             },
             {
@@ -4728,8 +6873,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-08-08",
-      "asOf": "2026-08-08",
+      "lastSeen": "2026-08-09",
+      "asOf": "2026-08-09",
       "stale": false,
       "teams": [],
       "knockouts": [
