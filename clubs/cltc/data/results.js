@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-09T16:39:48.093Z",
+  "generatedAt": "2026-08-09T19:36:39.096Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -5818,34 +5818,34 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
-              "name": "Cumberland 2",
-              "played": 5,
-              "won": 2,
+              "name": "Coolhurst LTC 1",
+              "played": 6,
+              "won": 3,
               "drawn": 0,
               "lost": 3,
-              "rubbers": "57-63",
-              "points": 57,
+              "rubbers": "67-73",
+              "points": 67,
               "form": [
-                "L",
-                "L",
+                "W",
                 "L",
                 "W",
+                "L",
                 "W"
               ]
             },
             {
               "rank": 5,
-              "name": "Coolhurst LTC 1",
-              "played": 5,
+              "name": "Cumberland 2",
+              "played": 6,
               "won": 2,
               "drawn": 0,
-              "lost": 3,
-              "rubbers": "49-71",
-              "points": 49,
+              "lost": 4,
+              "rubbers": "59-81",
+              "points": 59,
               "form": [
                 "L",
-                "W",
                 "L",
+                "W",
                 "W",
                 "L"
               ]
@@ -6029,8 +6029,8 @@ window.__RESULTS__ = {
             {
               "home": "Coolhurst LTC 1",
               "away": "Cumberland 2",
-              "hs": null,
-              "as": null,
+              "hs": 18,
+              "as": 2,
               "date": "Fri 07/08/2026"
             }
           ],
@@ -6176,18 +6176,18 @@ window.__RESULTS__ = {
           "division": "East Premier",
           "pscName": "Cumberland 2",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/51",
-          "position": 4,
+          "position": 5,
           "of": 7,
-          "played": 5,
+          "played": 6,
           "won": 2,
-          "lost": 3,
-          "points": 57,
+          "lost": 4,
+          "points": 59,
           "form": [
             "L",
             "L",
-            "L",
             "W",
-            "W"
+            "W",
+            "L"
           ],
           "standings": [
             {
@@ -6241,34 +6241,34 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
-              "name": "Cumberland 2",
-              "played": 5,
-              "won": 2,
+              "name": "Coolhurst LTC 1",
+              "played": 6,
+              "won": 3,
               "drawn": 0,
               "lost": 3,
-              "rubbers": "57-63",
-              "points": 57,
+              "rubbers": "67-73",
+              "points": 67,
               "form": [
-                "L",
-                "L",
+                "W",
                 "L",
                 "W",
+                "L",
                 "W"
               ]
             },
             {
               "rank": 5,
-              "name": "Coolhurst LTC 1",
-              "played": 5,
+              "name": "Cumberland 2",
+              "played": 6,
               "won": 2,
               "drawn": 0,
-              "lost": 3,
-              "rubbers": "49-71",
-              "points": 49,
+              "lost": 4,
+              "rubbers": "59-81",
+              "points": 59,
               "form": [
                 "L",
-                "W",
                 "L",
+                "W",
                 "W",
                 "L"
               ]
@@ -6452,8 +6452,8 @@ window.__RESULTS__ = {
             {
               "home": "Coolhurst LTC 1",
               "away": "Cumberland 2",
-              "hs": null,
-              "as": null,
+              "hs": 18,
+              "as": 2,
               "date": "Fri 07/08/2026"
             }
           ],
