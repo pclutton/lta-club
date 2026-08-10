@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-10T07:51:52.608Z",
+  "generatedAt": "2026-08-10T13:16:18.637Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 5,
       "teams": 22,
-      "matches": 474,
-      "players": 170,
-      "stale": 0
+      "refreshed": 22,
+      "failed": 0
     },
     "competitions": [
       {
@@ -3426,6 +3426,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Chandos 1",
+              "played": 7,
+              "won": 3,
+              "drawn": 1,
+              "lost": 3,
+              "rubbers": "84-80",
+              "points": 84,
+              "form": [
+                "L",
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "Cumberland 2",
               "played": 6,
               "won": 3,
@@ -3437,22 +3453,6 @@ window.__RESULTS__ = {
                 "L",
                 "W",
                 "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 3,
-              "name": "Chandos 1",
-              "played": 6,
-              "won": 3,
-              "drawn": 1,
-              "lost": 2,
-              "rubbers": "76-64",
-              "points": 76,
-              "form": [
-                "W",
-                "L",
-                "L",
                 "W"
               ]
             },
@@ -3489,6 +3489,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 6,
+              "name": "Coles Green 1",
+              "played": 6,
+              "won": 2,
+              "drawn": 1,
+              "lost": 3,
+              "rubbers": "63-81",
+              "points": 63,
+              "form": [
+                "L",
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 7,
               "name": "Hazelwood 1",
               "played": 6,
               "won": 3,
@@ -3504,7 +3520,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 7,
+              "rank": 8,
               "name": "Finchley Manor 1",
               "played": 7,
               "won": 1,
@@ -3517,22 +3533,6 @@ window.__RESULTS__ = {
                 "L",
                 "L",
                 "W",
-                "L"
-              ]
-            },
-            {
-              "rank": 8,
-              "name": "Coles Green 1",
-              "played": 5,
-              "won": 1,
-              "drawn": 1,
-              "lost": 3,
-              "rubbers": "47-73",
-              "points": 47,
-              "form": [
-                "W",
-                "L",
-                "L",
                 "L"
               ]
             }
@@ -3688,8 +3688,8 @@ window.__RESULTS__ = {
             {
               "home": "Chandos 1",
               "away": "Coles Green 1",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 16,
               "date": "Mon 27/07/2026"
             },
             {
@@ -3829,7 +3829,7 @@ window.__RESULTS__ = {
           "division": "East Premier",
           "pscName": "Cumberland 2",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/55",
-          "position": 2,
+          "position": 3,
           "of": 8,
           "played": 6,
           "won": 3,
@@ -3860,6 +3860,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Chandos 1",
+              "played": 7,
+              "won": 3,
+              "drawn": 1,
+              "lost": 3,
+              "rubbers": "84-80",
+              "points": 84,
+              "form": [
+                "L",
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "Cumberland 2",
               "played": 6,
               "won": 3,
@@ -3871,22 +3887,6 @@ window.__RESULTS__ = {
                 "L",
                 "W",
                 "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 3,
-              "name": "Chandos 1",
-              "played": 6,
-              "won": 3,
-              "drawn": 1,
-              "lost": 2,
-              "rubbers": "76-64",
-              "points": 76,
-              "form": [
-                "W",
-                "L",
-                "L",
                 "W"
               ]
             },
@@ -3923,6 +3923,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 6,
+              "name": "Coles Green 1",
+              "played": 6,
+              "won": 2,
+              "drawn": 1,
+              "lost": 3,
+              "rubbers": "63-81",
+              "points": 63,
+              "form": [
+                "L",
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 7,
               "name": "Hazelwood 1",
               "played": 6,
               "won": 3,
@@ -3938,7 +3954,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 7,
+              "rank": 8,
               "name": "Finchley Manor 1",
               "played": 7,
               "won": 1,
@@ -3951,22 +3967,6 @@ window.__RESULTS__ = {
                 "L",
                 "L",
                 "W",
-                "L"
-              ]
-            },
-            {
-              "rank": 8,
-              "name": "Coles Green 1",
-              "played": 5,
-              "won": 1,
-              "drawn": 1,
-              "lost": 3,
-              "rubbers": "47-73",
-              "points": 47,
-              "form": [
-                "W",
-                "L",
-                "L",
                 "L"
               ]
             }
@@ -4122,8 +4122,8 @@ window.__RESULTS__ = {
             {
               "home": "Chandos 1",
               "away": "Coles Green 1",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 16,
               "date": "Mon 27/07/2026"
             },
             {

@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-10T07:54:23.524Z",
+  "generatedAt": "2026-08-10T13:17:01.650Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 19,
-      "matches": 471,
-      "players": 129,
-      "stale": 0
+      "refreshed": 19,
+      "failed": 0
     },
     "competitions": [
       {
@@ -6531,6 +6531,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
+              "name": "Thistleworth LTC 1",
+              "played": 7,
+              "won": 3,
+              "drawn": 1,
+              "lost": 3,
+              "rubbers": "84-84",
+              "points": 84,
+              "form": [
+                "L",
+                "W",
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 6,
               "name": "The Lensbury Club 2",
               "played": 7,
               "won": 2,
@@ -6546,15 +6563,16 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 6,
-              "name": "Thistleworth LTC 1",
-              "played": 6,
-              "won": 2,
-              "drawn": 1,
-              "lost": 3,
-              "rubbers": "68-76",
-              "points": 68,
+              "rank": 7,
+              "name": "The Hurlingham Club 3",
+              "played": 7,
+              "won": 1,
+              "drawn": 0,
+              "lost": 6,
+              "rubbers": "54-114",
+              "points": 54,
               "form": [
+                "L",
                 "L",
                 "W",
                 "L",
@@ -6562,7 +6580,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 7,
+              "rank": 8,
               "name": "David Lloyd Club Hampton 1",
               "played": 7,
               "won": 0,
@@ -6575,23 +6593,6 @@ window.__RESULTS__ = {
                 "L",
                 "L",
                 "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 8,
-              "name": "The Hurlingham Club 3",
-              "played": 6,
-              "won": 1,
-              "drawn": 0,
-              "lost": 5,
-              "rubbers": "46-98",
-              "points": 46,
-              "form": [
-                "L",
-                "L",
-                "L",
-                "W",
                 "L"
               ]
             }
@@ -6789,8 +6790,8 @@ window.__RESULTS__ = {
             {
               "home": "Thistleworth LTC 1",
               "away": "The Hurlingham Club 3",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 8,
               "date": "Thu 06/08/2026"
             }
           ],
