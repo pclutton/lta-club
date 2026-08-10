@@ -2,43 +2,43 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-09T21:37:12.336Z",
+  "generatedAt": "2026-08-10T07:54:23.524Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 19,
-      "refreshed": 19,
-      "failed": 0
+      "matches": 471,
+      "players": 129,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-08-09"
+        "asOf": "2026-08-10"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-08-09"
+        "asOf": "2026-08-10"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-08-09"
+        "asOf": "2026-08-10"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-08-09"
+        "asOf": "2026-08-10"
       }
     ]
   },
@@ -47,10 +47,314 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-08-09",
-      "asOf": "2026-08-09",
+      "lastSeen": "2026-08-10",
+      "asOf": "2026-08-10",
       "stale": false,
       "teams": [
+        {
+          "name": "Mens Doubles",
+          "division": "Division 1 North East",
+          "pscName": "Paddington Sports Club 1",
+          "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/3",
+          "position": 1,
+          "of": 8,
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "points": 0,
+          "form": [],
+          "standings": [
+            {
+              "rank": 1,
+              "name": "Paddington Sports Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 2,
+              "name": "David Lloyd Club Finchley 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 3,
+              "name": "West Heath Lawn Tennis Club Limited 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 4,
+              "name": "Elmwood Lawn Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 5,
+              "name": "Finchley Lawn Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 6,
+              "name": "Brondesbury Sports Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 7,
+              "name": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 8,
+              "name": "Finchley Manor Tennis Squash and Health Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            }
+          ],
+          "matches": [
+            {
+              "home": "Elmwood Lawn Tennis Club 1",
+              "away": "Finchley Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "West Heath Lawn Tennis Club Limited 1",
+              "away": "Brondesbury Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "David Lloyd Club Finchley 1",
+              "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "Finchley Manor Tennis Squash and Health Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 25/09/2026"
+            },
+            {
+              "home": "Finchley Manor Tennis Squash and Health Club 1",
+              "away": "Finchley Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Brondesbury Sports Club 1",
+              "away": "Elmwood Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "away": "West Heath Lawn Tennis Club Limited 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "David Lloyd Club Finchley 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "West Heath Lawn Tennis Club Limited 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "Elmwood Lawn Tennis Club 1",
+              "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "Finchley Lawn Tennis Club 1",
+              "away": "Brondesbury Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "David Lloyd Club Finchley 1",
+              "away": "Finchley Manor Tennis Squash and Health Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "Finchley Manor Tennis Squash and Health Club 1",
+              "away": "Brondesbury Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "away": "Finchley Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "Elmwood Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "David Lloyd Club Finchley 1",
+              "away": "West Heath Lawn Tennis Club Limited 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
+            },
+            {
+              "home": "Elmwood Lawn Tennis Club 1",
+              "away": "David Lloyd Club Finchley 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Finchley Lawn Tennis Club 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Brondesbury Sports Club 1",
+              "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "West Heath Lawn Tennis Club Limited 1",
+              "away": "Finchley Manor Tennis Squash and Health Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "Brondesbury Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "West Heath Lawn Tennis Club Limited 1",
+              "away": "Elmwood Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "David Lloyd Club Finchley 1",
+              "away": "Finchley Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "Finchley Manor Tennis Squash and Health Club 1",
+              "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
+              "home": "Finchley Lawn Tennis Club 1",
+              "away": "West Heath Lawn Tennis Club Limited 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            },
+            {
+              "home": "Brondesbury Sports Club 1",
+              "away": "David Lloyd Club Finchley 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            },
+            {
+              "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            },
+            {
+              "home": "Elmwood Lawn Tennis Club 1",
+              "away": "Finchley Manor Tennis Squash and Health Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            }
+          ],
+          "results": [],
+          "fixtures": [],
+          "players": []
+        },
         {
           "name": "Mens Doubles (2)",
           "division": "Division 2 North East",
@@ -650,310 +954,6 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "away": "Paddington Sports Club 3",
-              "hs": null,
-              "as": null,
-              "date": "Fri 19/03/2027"
-            }
-          ],
-          "results": [],
-          "fixtures": [],
-          "players": []
-        },
-        {
-          "name": "Mens Doubles",
-          "division": "Division 3 North East",
-          "pscName": "Paddington Sports Club 1",
-          "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/3",
-          "position": 1,
-          "of": 8,
-          "played": 0,
-          "won": 0,
-          "lost": 0,
-          "points": 0,
-          "form": [],
-          "standings": [
-            {
-              "rank": 1,
-              "name": "Paddington Sports Club 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
-              "rank": 2,
-              "name": "David Lloyd Club Finchley 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
-              "rank": 3,
-              "name": "West Heath Lawn Tennis Club Limited 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
-              "rank": 4,
-              "name": "Elmwood Lawn Tennis Club 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
-              "rank": 5,
-              "name": "Finchley Lawn Tennis Club 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
-              "rank": 6,
-              "name": "Brondesbury Sports Club 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
-              "rank": 7,
-              "name": "Oakleigh Park Lawn Tennis & Squash Club 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
-              "rank": 8,
-              "name": "Finchley Manor Tennis Squash and Health Club 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            }
-          ],
-          "matches": [
-            {
-              "home": "Elmwood Lawn Tennis Club 1",
-              "away": "Finchley Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 25/09/2026"
-            },
-            {
-              "home": "West Heath Lawn Tennis Club Limited 1",
-              "away": "Brondesbury Sports Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 25/09/2026"
-            },
-            {
-              "home": "David Lloyd Club Finchley 1",
-              "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 25/09/2026"
-            },
-            {
-              "home": "Paddington Sports Club 1",
-              "away": "Finchley Manor Tennis Squash and Health Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 25/09/2026"
-            },
-            {
-              "home": "Finchley Manor Tennis Squash and Health Club 1",
-              "away": "Finchley Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 23/10/2026"
-            },
-            {
-              "home": "Brondesbury Sports Club 1",
-              "away": "Elmwood Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 23/10/2026"
-            },
-            {
-              "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
-              "away": "West Heath Lawn Tennis Club Limited 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 23/10/2026"
-            },
-            {
-              "home": "Paddington Sports Club 1",
-              "away": "David Lloyd Club Finchley 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 23/10/2026"
-            },
-            {
-              "home": "West Heath Lawn Tennis Club Limited 1",
-              "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 20/11/2026"
-            },
-            {
-              "home": "Elmwood Lawn Tennis Club 1",
-              "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 20/11/2026"
-            },
-            {
-              "home": "Finchley Lawn Tennis Club 1",
-              "away": "Brondesbury Sports Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 20/11/2026"
-            },
-            {
-              "home": "David Lloyd Club Finchley 1",
-              "away": "Finchley Manor Tennis Squash and Health Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 20/11/2026"
-            },
-            {
-              "home": "Finchley Manor Tennis Squash and Health Club 1",
-              "away": "Brondesbury Sports Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 22/01/2027"
-            },
-            {
-              "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
-              "away": "Finchley Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 22/01/2027"
-            },
-            {
-              "home": "Paddington Sports Club 1",
-              "away": "Elmwood Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 22/01/2027"
-            },
-            {
-              "home": "David Lloyd Club Finchley 1",
-              "away": "West Heath Lawn Tennis Club Limited 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 22/01/2027"
-            },
-            {
-              "home": "Elmwood Lawn Tennis Club 1",
-              "away": "David Lloyd Club Finchley 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 12/02/2027"
-            },
-            {
-              "home": "Finchley Lawn Tennis Club 1",
-              "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 12/02/2027"
-            },
-            {
-              "home": "Brondesbury Sports Club 1",
-              "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 12/02/2027"
-            },
-            {
-              "home": "West Heath Lawn Tennis Club Limited 1",
-              "away": "Finchley Manor Tennis Squash and Health Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 12/02/2027"
-            },
-            {
-              "home": "Paddington Sports Club 1",
-              "away": "Brondesbury Sports Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 05/03/2027"
-            },
-            {
-              "home": "West Heath Lawn Tennis Club Limited 1",
-              "away": "Elmwood Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 05/03/2027"
-            },
-            {
-              "home": "David Lloyd Club Finchley 1",
-              "away": "Finchley Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 05/03/2027"
-            },
-            {
-              "home": "Finchley Manor Tennis Squash and Health Club 1",
-              "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 05/03/2027"
-            },
-            {
-              "home": "Finchley Lawn Tennis Club 1",
-              "away": "West Heath Lawn Tennis Club Limited 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 19/03/2027"
-            },
-            {
-              "home": "Brondesbury Sports Club 1",
-              "away": "David Lloyd Club Finchley 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 19/03/2027"
-            },
-            {
-              "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
-              "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 19/03/2027"
-            },
-            {
-              "home": "Elmwood Lawn Tennis Club 1",
-              "away": "Finchley Manor Tennis Squash and Health Club 1",
               "hs": null,
               "as": null,
               "date": "Fri 19/03/2027"
@@ -2185,8 +2185,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-08-09",
-      "asOf": "2026-08-09",
+      "lastSeen": "2026-08-10",
+      "asOf": "2026-08-10",
       "stale": false,
       "teams": [
         {
@@ -3222,8 +3222,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-08-09",
-      "asOf": "2026-08-09",
+      "lastSeen": "2026-08-10",
+      "asOf": "2026-08-10",
       "stale": false,
       "teams": [
         {
@@ -3674,6 +3674,12 @@ window.__RESULTS__ = {
               "won": 0,
               "lost": 3,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3741"
+            },
+            {
+              "name": "Thomas Sharples",
+              "won": 0,
+              "lost": 3,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6706"
             },
             {
               "name": "Murat Varol",
@@ -4135,15 +4141,15 @@ window.__RESULTS__ = {
           "division": "North West Division 3",
           "pscName": "Paddington Sports Club 3",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/35",
-          "position": 4,
+          "position": 3,
           "of": 8,
-          "played": 6,
-          "won": 4,
+          "played": 7,
+          "won": 5,
           "lost": 2,
-          "points": 72,
+          "points": 96,
           "form": [
-            "W",
             "L",
+            "W",
             "W",
             "W",
             "W"
@@ -4185,13 +4191,13 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
-              "name": "Kenton Lawn Tennis Club 2",
-              "played": 6,
-              "won": 4,
+              "name": "Paddington Sports Club 3",
+              "played": 7,
+              "won": 5,
               "drawn": 0,
               "lost": 2,
-              "rubbers": "90-54",
-              "points": 90,
+              "rubbers": "81-72",
+              "points": 96,
               "form": [
                 "L",
                 "W",
@@ -4202,16 +4208,16 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
-              "name": "Paddington Sports Club 3",
+              "name": "Kenton Lawn Tennis Club 2",
               "played": 6,
               "won": 4,
               "drawn": 0,
               "lost": 2,
-              "rubbers": "72-72",
-              "points": 72,
+              "rubbers": "90-54",
+              "points": 90,
               "form": [
-                "W",
                 "L",
+                "W",
                 "W",
                 "W",
                 "W"
@@ -4270,11 +4276,11 @@ window.__RESULTS__ = {
             {
               "rank": 8,
               "name": "David Lloyd Club Northwood 3",
-              "played": 5,
+              "played": 6,
               "won": 0,
               "drawn": 1,
-              "lost": 4,
-              "rubbers": "32-88",
+              "lost": 5,
+              "rubbers": "32-97",
               "points": 32,
               "form": [
                 "L",
@@ -4456,8 +4462,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 3",
               "away": "David Lloyd Club Northwood 3",
-              "hs": null,
-              "as": null,
+              "hs": 24,
+              "as": 0,
               "date": "Tue 28/07/2026"
             },
             {
@@ -6873,8 +6879,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-08-09",
-      "asOf": "2026-08-09",
+      "lastSeen": "2026-08-10",
+      "asOf": "2026-08-10",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -7795,6 +7801,13 @@ window.__RESULTS__ = {
     {
       "name": "Sophie Solomon",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6292",
+      "won": 0,
+      "lost": 3,
+      "played": 3
+    },
+    {
+      "name": "Thomas Sharples",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6706",
       "won": 0,
       "lost": 3,
       "played": 3
