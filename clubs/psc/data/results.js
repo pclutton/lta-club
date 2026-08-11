@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-11T20:02:33.976Z",
+  "generatedAt": "2026-08-11T21:53:36.612Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -5676,20 +5676,37 @@ window.__RESULTS__ = {
             {
               "rank": 4,
               "name": "Eastcote Lawn Tennis Club 1",
-              "played": 6,
+              "played": 7,
               "won": 3,
               "drawn": 2,
-              "lost": 1,
-              "rubbers": "72-72",
-              "points": 72,
+              "lost": 2,
+              "rubbers": "76-88",
+              "points": 76,
               "form": [
                 "W",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 5,
+              "name": "David Lloyd Club Northwood 1",
+              "played": 7,
+              "won": 3,
+              "drawn": 0,
+              "lost": 4,
+              "rubbers": "74-90",
+              "points": 74,
+              "form": [
+                "L",
+                "L",
+                "L",
                 "W",
                 "W"
               ]
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Pinner Lawn Tennis Club 2",
               "played": 7,
               "won": 2,
@@ -5699,23 +5716,6 @@ window.__RESULTS__ = {
               "points": 71,
               "form": [
                 "W",
-                "L",
-                "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "David Lloyd Club Northwood 1",
-              "played": 6,
-              "won": 2,
-              "drawn": 0,
-              "lost": 4,
-              "rubbers": "58-86",
-              "points": 58,
-              "form": [
-                "L",
-                "L",
                 "L",
                 "L",
                 "W"
@@ -5949,8 +5949,8 @@ window.__RESULTS__ = {
             {
               "home": "David Lloyd Club Northwood 1",
               "away": "Eastcote Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 4,
               "date": "Thu 06/08/2026"
             }
           ],
