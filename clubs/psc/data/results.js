@@ -2,43 +2,43 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-10T21:45:46.601Z",
+  "generatedAt": "2026-08-11T07:20:02.736Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 19,
-      "refreshed": 19,
-      "failed": 0
+      "matches": 471,
+      "players": 129,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-08-10"
+        "asOf": "2026-08-11"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-08-10"
+        "asOf": "2026-08-11"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-08-10"
+        "asOf": "2026-08-11"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-08-10"
+        "asOf": "2026-08-11"
       }
     ]
   },
@@ -47,8 +47,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-08-10",
-      "asOf": "2026-08-10",
+      "lastSeen": "2026-08-11",
+      "asOf": "2026-08-11",
       "stale": false,
       "teams": [
         {
@@ -2185,8 +2185,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-08-10",
-      "asOf": "2026-08-10",
+      "lastSeen": "2026-08-11",
+      "asOf": "2026-08-11",
       "stale": false,
       "teams": [
         {
@@ -3222,8 +3222,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-08-10",
-      "asOf": "2026-08-10",
+      "lastSeen": "2026-08-11",
+      "asOf": "2026-08-11",
       "stale": false,
       "teams": [
         {
@@ -6880,8 +6880,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-08-10",
-      "asOf": "2026-08-10",
+      "lastSeen": "2026-08-11",
+      "asOf": "2026-08-11",
       "stale": false,
       "teams": [],
       "knockouts": [
