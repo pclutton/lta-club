@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-11T07:17:34.834Z",
+  "generatedAt": "2026-08-11T13:13:47.919Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 5,
       "teams": 22,
-      "matches": 474,
-      "players": 170,
-      "stale": 0
+      "refreshed": 22,
+      "failed": 0
     },
     "competitions": [
       {
@@ -7096,18 +7096,18 @@ window.__RESULTS__ = {
             {
               "rank": 6,
               "name": "Temple Fortune 1",
-              "played": 6,
-              "won": 3,
+              "played": 7,
+              "won": 4,
               "drawn": 0,
               "lost": 3,
-              "rubbers": "55-89",
-              "points": 55,
+              "rubbers": "73-91",
+              "points": 73,
               "form": [
                 "W",
-                "W",
                 "L",
                 "L",
-                "L"
+                "L",
+                "W"
               ]
             },
             {
@@ -7130,12 +7130,12 @@ window.__RESULTS__ = {
             {
               "rank": 8,
               "name": "Brondesbury 3",
-              "played": 6,
+              "played": 7,
               "won": 0,
               "drawn": 0,
-              "lost": 6,
-              "rubbers": "28-116",
-              "points": 28,
+              "lost": 7,
+              "rubbers": "30-134",
+              "points": 30,
               "form": [
                 "L",
                 "L",
@@ -7338,8 +7338,8 @@ window.__RESULTS__ = {
             {
               "home": "Brondesbury 3",
               "away": "Temple Fortune 1",
-              "hs": null,
-              "as": null,
+              "hs": 2,
+              "as": 18,
               "date": "Mon 10/08/2026"
             }
           ],
