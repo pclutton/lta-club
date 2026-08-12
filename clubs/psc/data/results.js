@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-12T07:44:11.150Z",
+  "generatedAt": "2026-08-12T13:18:05.456Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 19,
-      "matches": 471,
-      "players": 129,
-      "stale": 0
+      "refreshed": 19,
+      "failed": 0
     },
     "competitions": [
       {
@@ -3236,7 +3236,7 @@ window.__RESULTS__ = {
           "played": 7,
           "won": 0,
           "lost": 6,
-          "points": 50,
+          "points": 51,
           "form": [
             "L",
             "L",
@@ -3286,8 +3286,8 @@ window.__RESULTS__ = {
               "won": 5,
               "drawn": 0,
               "lost": 2,
-              "rubbers": "87-73",
-              "points": 87,
+              "rubbers": "94-74",
+              "points": 94,
               "form": [
                 "W",
                 "W",
@@ -3369,8 +3369,8 @@ window.__RESULTS__ = {
               "won": 0,
               "drawn": 1,
               "lost": 6,
-              "rubbers": "50-110",
-              "points": 50,
+              "rubbers": "51-117",
+              "points": 51,
               "form": [
                 "L",
                 "L",
@@ -3573,8 +3573,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 1",
               "away": "Campden Hill Lawn Tennis Club 3",
-              "hs": 4,
-              "as": 12,
+              "hs": 5,
+              "as": 19,
               "date": "Tue 11/08/2026"
             }
           ],
@@ -3698,7 +3698,7 @@ window.__RESULTS__ = {
           "division": "West Division 3",
           "pscName": "Paddington Sports Club 2",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/12",
-          "position": 4,
+          "position": 3,
           "of": 8,
           "played": 7,
           "won": 5,
@@ -3719,8 +3719,8 @@ window.__RESULTS__ = {
               "won": 5,
               "drawn": 1,
               "lost": 1,
-              "rubbers": "114-54",
-              "points": 114,
+              "rubbers": "120-48",
+              "points": 120,
               "form": [
                 "L",
                 "W",
@@ -3747,23 +3747,6 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
-              "name": "Holland Park Lawn Tennis Club 2",
-              "played": 7,
-              "won": 5,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "92-76",
-              "points": 92,
-              "form": [
-                "W",
-                "W",
-                "W",
-                "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 4,
               "name": "Paddington Sports Club 2",
               "played": 7,
               "won": 5,
@@ -3780,7 +3763,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
+              "rank": 4,
               "name": "Thistleworth LTC 1",
               "played": 7,
               "won": 2,
@@ -3789,6 +3772,23 @@ window.__RESULTS__ = {
               "rubbers": "88-80",
               "points": 88,
               "form": [
+                "W",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 5,
+              "name": "Holland Park Lawn Tennis Club 2",
+              "played": 7,
+              "won": 5,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "86-82",
+              "points": 86,
+              "form": [
+                "W",
+                "W",
                 "W",
                 "L",
                 "L"
@@ -4008,8 +4008,8 @@ window.__RESULTS__ = {
             {
               "home": "Brentham Lawn Tennis Club 2",
               "away": "Holland Park Lawn Tennis Club 2",
-              "hs": 16,
-              "as": 8,
+              "hs": 22,
+              "as": 2,
               "date": "Mon 27/07/2026"
             },
             {
@@ -4592,15 +4592,16 @@ window.__RESULTS__ = {
           "division": "North West Division 5",
           "pscName": "Paddington Sports Club 4",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/4",
-          "position": 3,
+          "position": 4,
           "of": 9,
           "played": 8,
           "won": 3,
-          "lost": 3,
-          "points": 108,
+          "lost": 4,
+          "points": 107,
           "form": [
             "W",
             "W",
+            "L",
             "L",
             "L"
           ],
@@ -4641,22 +4642,40 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Hatch End Lawn Tennis Club 3",
+              "played": 8,
+              "won": 7,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "122-61",
+              "points": 122,
+              "form": [
+                "W",
+                "L",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Paddington Sports Club 4",
               "played": 8,
               "won": 3,
-              "drawn": 2,
-              "lost": 3,
-              "rubbers": "108-84",
-              "points": 108,
+              "drawn": 1,
+              "lost": 4,
+              "rubbers": "107-85",
+              "points": 107,
               "form": [
                 "W",
                 "W",
+                "L",
                 "L",
                 "L"
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
               "name": "Greenford Tennis Club 1",
               "played": 8,
               "won": 3,
@@ -4672,29 +4691,13 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
-              "name": "Hatch End Lawn Tennis Club 3",
-              "played": 8,
-              "won": 5,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "102-62",
-              "points": 102,
-              "form": [
-                "W",
-                "L",
-                "W",
-                "W"
-              ]
-            },
-            {
               "rank": 6,
               "name": "Harrow Lawn Tennis Club 4",
               "played": 8,
               "won": 2,
               "drawn": 3,
               "lost": 3,
-              "rubbers": "78-110",
+              "rubbers": "78-114",
               "points": 78,
               "form": [
                 "W",
@@ -4726,8 +4729,8 @@ window.__RESULTS__ = {
               "played": 8,
               "won": 2,
               "drawn": 1,
-              "lost": 4,
-              "rubbers": "66-102",
+              "lost": 5,
+              "rubbers": "66-117",
               "points": 66,
               "form": [
                 "L",
@@ -4779,7 +4782,7 @@ window.__RESULTS__ = {
             {
               "home": "Hatch End Lawn Tennis Club 3",
               "away": "Wembley & Sudbury Lawn Tennis Squash & Social Cl 1",
-              "hs": 0,
+              "hs": 15,
               "as": 0,
               "date": "Fri 08/05/2026"
             },
@@ -4975,7 +4978,7 @@ window.__RESULTS__ = {
             {
               "home": "Hatch End Lawn Tennis Club 3",
               "away": "Harrow Lawn Tennis Club 4",
-              "hs": 20,
+              "hs": 24,
               "as": 0,
               "date": "Fri 24/07/2026"
             },
@@ -4996,8 +4999,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 4",
               "away": "Hatch End Lawn Tennis Club 3",
-              "hs": 12,
-              "as": 12,
+              "hs": 11,
+              "as": 13,
               "date": "Thu 30/07/2026"
             },
             {
