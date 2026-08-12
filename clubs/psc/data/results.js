@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-12T13:18:05.456Z",
+  "generatedAt": "2026-08-12T17:00:43.468Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -5680,34 +5680,34 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
-              "name": "Eastcote Lawn Tennis Club 1",
-              "played": 7,
-              "won": 3,
-              "drawn": 2,
-              "lost": 2,
-              "rubbers": "76-88",
-              "points": 76,
-              "form": [
-                "W",
-                "W",
-                "L"
-              ]
-            },
-            {
-              "rank": 5,
               "name": "David Lloyd Club Northwood 1",
               "played": 7,
               "won": 3,
               "drawn": 0,
               "lost": 4,
-              "rubbers": "74-90",
-              "points": 74,
+              "rubbers": "78-90",
+              "points": 78,
               "form": [
                 "L",
                 "L",
                 "L",
                 "W",
                 "W"
+              ]
+            },
+            {
+              "rank": 5,
+              "name": "Eastcote Lawn Tennis Club 1",
+              "played": 7,
+              "won": 3,
+              "drawn": 2,
+              "lost": 2,
+              "rubbers": "76-92",
+              "points": 76,
+              "form": [
+                "W",
+                "W",
+                "L"
               ]
             },
             {
@@ -5954,7 +5954,7 @@ window.__RESULTS__ = {
             {
               "home": "David Lloyd Club Northwood 1",
               "away": "Eastcote Lawn Tennis Club 1",
-              "hs": 16,
+              "hs": 20,
               "as": 4,
               "date": "Thu 06/08/2026"
             }
