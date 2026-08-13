@@ -2,43 +2,43 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-12T21:52:01.502Z",
+  "generatedAt": "2026-08-13T07:46:14.118Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 19,
-      "refreshed": 19,
-      "failed": 0
+      "matches": 471,
+      "players": 129,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-08-12"
+        "asOf": "2026-08-13"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-08-12"
+        "asOf": "2026-08-13"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-08-12"
+        "asOf": "2026-08-13"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-08-12"
+        "asOf": "2026-08-13"
       }
     ]
   },
@@ -47,8 +47,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-08-12",
-      "asOf": "2026-08-12",
+      "lastSeen": "2026-08-13",
+      "asOf": "2026-08-13",
       "stale": false,
       "teams": [
         {
@@ -2185,8 +2185,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-08-12",
-      "asOf": "2026-08-12",
+      "lastSeen": "2026-08-13",
+      "asOf": "2026-08-13",
       "stale": false,
       "teams": [
         {
@@ -3222,8 +3222,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-08-12",
-      "asOf": "2026-08-12",
+      "lastSeen": "2026-08-13",
+      "asOf": "2026-08-13",
       "stale": false,
       "teams": [
         {
@@ -4143,7 +4143,7 @@ window.__RESULTS__ = {
           "division": "North West Division 3",
           "pscName": "Paddington Sports Club 3",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/35",
-          "position": 3,
+          "position": 4,
           "of": 8,
           "played": 7,
           "won": 5,
@@ -4176,6 +4176,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Kenton Lawn Tennis Club 2",
+              "played": 7,
+              "won": 5,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "114-54",
+              "points": 114,
+              "form": [
+                "W",
+                "W",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "Headstone Lawn Tennis Club 2",
               "played": 7,
               "won": 5,
@@ -4192,7 +4209,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "Paddington Sports Club 3",
               "played": 7,
               "won": 5,
@@ -4200,23 +4217,6 @@ window.__RESULTS__ = {
               "lost": 2,
               "rubbers": "81-72",
               "points": 96,
-              "form": [
-                "L",
-                "W",
-                "W",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 4,
-              "name": "Kenton Lawn Tennis Club 2",
-              "played": 6,
-              "won": 4,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "90-54",
-              "points": 90,
               "form": [
                 "L",
                 "W",
@@ -4278,11 +4278,11 @@ window.__RESULTS__ = {
             {
               "rank": 8,
               "name": "David Lloyd Club Northwood 3",
-              "played": 6,
+              "played": 7,
               "won": 0,
               "drawn": 1,
-              "lost": 5,
-              "rubbers": "32-97",
+              "lost": 6,
+              "rubbers": "32-121",
               "points": 32,
               "form": [
                 "L",
@@ -4485,8 +4485,8 @@ window.__RESULTS__ = {
             {
               "home": "David Lloyd Club Northwood 3",
               "away": "Kenton Lawn Tennis Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 0,
+              "as": 24,
               "date": "Wed 12/08/2026"
             }
           ],
@@ -6885,8 +6885,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-08-12",
-      "asOf": "2026-08-12",
+      "lastSeen": "2026-08-13",
+      "asOf": "2026-08-13",
       "stale": false,
       "teams": [],
       "knockouts": [
