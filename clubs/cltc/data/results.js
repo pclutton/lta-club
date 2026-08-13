@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-13T13:18:58.178Z",
+  "generatedAt": "2026-08-13T16:59:28.639Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -3426,6 +3426,38 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Cumberland 2",
+              "played": 7,
+              "won": 3,
+              "drawn": 1,
+              "lost": 3,
+              "rubbers": "89-79",
+              "points": 89,
+              "form": [
+                "W",
+                "W",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 3,
+              "name": "Vicars Moor 1",
+              "played": 7,
+              "won": 4,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "86-58",
+              "points": 86,
+              "form": [
+                "W",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Chandos 1",
               "played": 7,
               "won": 3,
@@ -3441,23 +3473,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
-              "name": "Cumberland 2",
-              "played": 6,
-              "won": 3,
-              "drawn": 1,
-              "lost": 2,
-              "rubbers": "81-63",
-              "points": 81,
-              "form": [
-                "L",
-                "W",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 4,
+              "rank": 5,
               "name": "Coolhurst 1",
               "played": 7,
               "won": 1,
@@ -3469,22 +3485,6 @@ window.__RESULTS__ = {
                 "L",
                 "L",
                 "L"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "Vicars Moor 1",
-              "played": 6,
-              "won": 3,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "70-50",
-              "points": 70,
-              "form": [
-                "L",
-                "W",
-                "W",
-                "W"
               ]
             },
             {
@@ -3723,8 +3723,8 @@ window.__RESULTS__ = {
             {
               "home": "Vicars Moor 1",
               "away": "Cumberland 2",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 8,
               "date": "Mon 10/08/2026"
             },
             {
@@ -3829,17 +3829,17 @@ window.__RESULTS__ = {
           "division": "East Premier",
           "pscName": "Cumberland 2",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/55",
-          "position": 3,
+          "position": 2,
           "of": 8,
-          "played": 6,
+          "played": 7,
           "won": 3,
-          "lost": 2,
-          "points": 81,
+          "lost": 3,
+          "points": 89,
           "form": [
-            "L",
             "W",
             "W",
-            "W"
+            "W",
+            "L"
           ],
           "standings": [
             {
@@ -3860,6 +3860,38 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Cumberland 2",
+              "played": 7,
+              "won": 3,
+              "drawn": 1,
+              "lost": 3,
+              "rubbers": "89-79",
+              "points": 89,
+              "form": [
+                "W",
+                "W",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 3,
+              "name": "Vicars Moor 1",
+              "played": 7,
+              "won": 4,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "86-58",
+              "points": 86,
+              "form": [
+                "W",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Chandos 1",
               "played": 7,
               "won": 3,
@@ -3875,23 +3907,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
-              "name": "Cumberland 2",
-              "played": 6,
-              "won": 3,
-              "drawn": 1,
-              "lost": 2,
-              "rubbers": "81-63",
-              "points": 81,
-              "form": [
-                "L",
-                "W",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 4,
+              "rank": 5,
               "name": "Coolhurst 1",
               "played": 7,
               "won": 1,
@@ -3903,22 +3919,6 @@ window.__RESULTS__ = {
                 "L",
                 "L",
                 "L"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "Vicars Moor 1",
-              "played": 6,
-              "won": 3,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "70-50",
-              "points": 70,
-              "form": [
-                "L",
-                "W",
-                "W",
-                "W"
               ]
             },
             {
@@ -4157,8 +4157,8 @@ window.__RESULTS__ = {
             {
               "home": "Vicars Moor 1",
               "away": "Cumberland 2",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 8,
               "date": "Mon 10/08/2026"
             },
             {
