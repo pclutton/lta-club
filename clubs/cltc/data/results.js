@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-14T13:13:40.741Z",
+  "generatedAt": "2026-08-14T16:57:56.480Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -3474,6 +3474,36 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
+              "name": "Coles Green 1",
+              "played": 7,
+              "won": 2,
+              "drawn": 2,
+              "lost": 3,
+              "rubbers": "75-93",
+              "points": 75,
+              "form": [
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 6,
+              "name": "Hazelwood 1",
+              "played": 7,
+              "won": 3,
+              "drawn": 2,
+              "lost": 2,
+              "rubbers": "75-93",
+              "points": 75,
+              "form": [
+                "W",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 7,
               "name": "Coolhurst 1",
               "played": 7,
               "won": 1,
@@ -3484,38 +3514,6 @@ window.__RESULTS__ = {
               "form": [
                 "L",
                 "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "Coles Green 1",
-              "played": 6,
-              "won": 2,
-              "drawn": 1,
-              "lost": 3,
-              "rubbers": "63-81",
-              "points": 63,
-              "form": [
-                "L",
-                "L",
-                "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 7,
-              "name": "Hazelwood 1",
-              "played": 6,
-              "won": 3,
-              "drawn": 1,
-              "lost": 2,
-              "rubbers": "63-81",
-              "points": 63,
-              "form": [
-                "L",
-                "W",
-                "W",
                 "L"
               ]
             },
@@ -3730,8 +3728,8 @@ window.__RESULTS__ = {
             {
               "home": "Coles Green 1",
               "away": "Hazelwood 1",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 12,
               "date": "Thu 13/08/2026"
             }
           ],
@@ -3908,6 +3906,36 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
+              "name": "Coles Green 1",
+              "played": 7,
+              "won": 2,
+              "drawn": 2,
+              "lost": 3,
+              "rubbers": "75-93",
+              "points": 75,
+              "form": [
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 6,
+              "name": "Hazelwood 1",
+              "played": 7,
+              "won": 3,
+              "drawn": 2,
+              "lost": 2,
+              "rubbers": "75-93",
+              "points": 75,
+              "form": [
+                "W",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 7,
               "name": "Coolhurst 1",
               "played": 7,
               "won": 1,
@@ -3918,38 +3946,6 @@ window.__RESULTS__ = {
               "form": [
                 "L",
                 "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "Coles Green 1",
-              "played": 6,
-              "won": 2,
-              "drawn": 1,
-              "lost": 3,
-              "rubbers": "63-81",
-              "points": 63,
-              "form": [
-                "L",
-                "L",
-                "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 7,
-              "name": "Hazelwood 1",
-              "played": 6,
-              "won": 3,
-              "drawn": 1,
-              "lost": 2,
-              "rubbers": "63-81",
-              "points": 63,
-              "form": [
-                "L",
-                "W",
-                "W",
                 "L"
               ]
             },
@@ -4164,8 +4160,8 @@ window.__RESULTS__ = {
             {
               "home": "Coles Green 1",
               "away": "Hazelwood 1",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 12,
               "date": "Thu 13/08/2026"
             }
           ],
