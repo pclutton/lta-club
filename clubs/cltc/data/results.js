@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-16T12:45:10.333Z",
+  "generatedAt": "2026-08-16T16:29:52.753Z",
   "sample": false,
   "health": {
     "ok": true,
