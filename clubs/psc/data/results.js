@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-17T12:51:21.595Z",
+  "generatedAt": "2026-08-17T16:32:34.416Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -187,7 +187,7 @@ window.__RESULTS__ = {
               "away": "Elmwood Lawn Tennis Club 1",
               "hs": null,
               "as": null,
-              "date": "Fri 23/10/2026"
+              "date": "Thu 15/10/2026"
             },
             {
               "home": "Finchley Manor Tennis Squash and Health Club 1",
@@ -267,22 +267,22 @@ window.__RESULTS__ = {
               "date": "Fri 22/01/2027"
             },
             {
-              "home": "Elmwood Lawn Tennis Club 1",
-              "away": "David Lloyd Club Finchley 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 12/02/2027"
-            },
-            {
               "home": "Brondesbury Sports Club 1",
               "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
               "hs": null,
               "as": null,
-              "date": "Fri 12/02/2027"
+              "date": "Tue 02/02/2027"
             },
             {
               "home": "West Heath Lawn Tennis Club Limited 1",
               "away": "Finchley Manor Tennis Squash and Health Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 12/02/2027"
+            },
+            {
+              "home": "Elmwood Lawn Tennis Club 1",
+              "away": "David Lloyd Club Finchley 1",
               "hs": null,
               "as": null,
               "date": "Fri 12/02/2027"
@@ -302,15 +302,15 @@ window.__RESULTS__ = {
               "date": "Thu 18/02/2027"
             },
             {
-              "home": "Paddington Sports Club 1",
-              "away": "Brondesbury Sports Club 1",
+              "home": "West Heath Lawn Tennis Club Limited 1",
+              "away": "Elmwood Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Fri 05/03/2027"
             },
             {
-              "home": "West Heath Lawn Tennis Club Limited 1",
-              "away": "Elmwood Lawn Tennis Club 1",
+              "home": "Paddington Sports Club 1",
+              "away": "Brondesbury Sports Club 1",
               "hs": null,
               "as": null,
               "date": "Fri 05/03/2027"
@@ -323,6 +323,20 @@ window.__RESULTS__ = {
               "date": "Fri 05/03/2027"
             },
             {
+              "home": "Brondesbury Sports Club 1",
+              "away": "David Lloyd Club Finchley 1",
+              "hs": null,
+              "as": null,
+              "date": "Thu 11/03/2027"
+            },
+            {
+              "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 19/03/2027"
+            },
+            {
               "home": "Elmwood Lawn Tennis Club 1",
               "away": "Finchley Manor Tennis Squash and Health Club 1",
               "hs": null,
@@ -332,20 +346,6 @@ window.__RESULTS__ = {
             {
               "home": "Finchley Lawn Tennis Club 1",
               "away": "West Heath Lawn Tennis Club Limited 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 19/03/2027"
-            },
-            {
-              "home": "Brondesbury Sports Club 1",
-              "away": "David Lloyd Club Finchley 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 19/03/2027"
-            },
-            {
-              "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
-              "away": "Paddington Sports Club 1",
               "hs": null,
               "as": null,
               "date": "Fri 19/03/2027"
