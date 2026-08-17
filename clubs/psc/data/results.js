@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-17T07:08:42.688Z",
+  "generatedAt": "2026-08-17T12:51:21.595Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 19,
-      "matches": 471,
-      "players": 129,
-      "stale": 0
+      "refreshed": 19,
+      "failed": 0
     },
     "competitions": [
       {
@@ -1986,18 +1986,11 @@ window.__RESULTS__ = {
               "date": "Thu 03/09/2026"
             },
             {
-              "home": "Paddington Sports Club 1",
-              "away": "Oakleigh Park Lawn Tennis & Squash Club 2",
-              "hs": null,
-              "as": null,
-              "date": "Fri 25/09/2026"
-            },
-            {
               "home": "West Heath Lawn Tennis Club Limited 1",
               "away": "Finchley Lawn Tennis Club 1",
               "hs": null,
               "as": null,
-              "date": "Fri 25/09/2026"
+              "date": "Thu 24/09/2026"
             },
             {
               "home": "Totteridge Tennis Club 1",
@@ -2007,11 +2000,11 @@ window.__RESULTS__ = {
               "date": "Fri 25/09/2026"
             },
             {
-              "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
-              "away": "Totteridge Tennis Club 2",
+              "home": "Paddington Sports Club 1",
+              "away": "Oakleigh Park Lawn Tennis & Squash Club 2",
               "hs": null,
               "as": null,
-              "date": "Fri 23/10/2026"
+              "date": "Fri 25/09/2026"
             },
             {
               "home": "Oakleigh Park Lawn Tennis & Squash Club 2",
@@ -2030,6 +2023,13 @@ window.__RESULTS__ = {
             {
               "home": "Totteridge Tennis Club 1",
               "away": "West Heath Lawn Tennis Club Limited 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 23/10/2026"
+            },
+            {
+              "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "away": "Totteridge Tennis Club 2",
               "hs": null,
               "as": null,
               "date": "Fri 23/10/2026"
