@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-18T06:53:44.149Z",
+  "generatedAt": "2026-08-18T12:53:12.172Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 5,
       "teams": 22,
-      "matches": 474,
-      "players": 170,
-      "stale": 0
+      "refreshed": 22,
+      "failed": 0
     },
     "competitions": [
       {
@@ -2815,9 +2815,9 @@ window.__RESULTS__ = {
           "division": "",
           "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/17",
-          "position": 1,
+          "position": 2,
           "of": 4,
-          "played": 5,
+          "played": 6,
           "won": 3,
           "lost": 1,
           "points": 7,
@@ -2830,22 +2830,6 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
-              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "played": 5,
-              "won": 3,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "96-64",
-              "points": 7,
-              "form": [
-                "L",
-                "W",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 2,
               "name": "Hackney Tennis 1",
               "played": 6,
               "won": 3,
@@ -2861,9 +2845,25 @@ window.__RESULTS__ = {
               ]
             },
             {
+              "rank": 2,
+              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "played": 6,
+              "won": 3,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "96-64",
+              "points": 7,
+              "form": [
+                "L",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
               "rank": 3,
               "name": "Temple Fortune Club 1",
-              "played": 4,
+              "played": 5,
               "won": 2,
               "drawn": 0,
               "lost": 2,
@@ -2947,8 +2947,8 @@ window.__RESULTS__ = {
             {
               "home": "Temple Fortune Club 1",
               "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "hs": null,
-              "as": null,
+              "hs": 0,
+              "as": 0,
               "date": "Sat 13/06/2026"
             },
             {
