@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-18T12:53:12.172Z",
+  "generatedAt": "2026-08-18T16:35:56.480Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -3398,9 +3398,9 @@ window.__RESULTS__ = {
           "position": 1,
           "of": 8,
           "played": 7,
-          "won": 5,
+          "won": 6,
           "lost": 0,
-          "points": 109,
+          "points": 124,
           "form": [
             "W",
             "W",
@@ -3412,11 +3412,11 @@ window.__RESULTS__ = {
               "rank": 1,
               "name": "Cumberland 1",
               "played": 7,
-              "won": 5,
+              "won": 6,
               "drawn": 1,
               "lost": 0,
-              "rubbers": "109-35",
-              "points": 109,
+              "rubbers": "124-35",
+              "points": 124,
               "form": [
                 "W",
                 "W",
@@ -3446,13 +3446,13 @@ window.__RESULTS__ = {
               "played": 7,
               "won": 4,
               "drawn": 1,
-              "lost": 1,
-              "rubbers": "86-58",
+              "lost": 2,
+              "rubbers": "86-73",
               "points": 86,
               "form": [
                 "W",
                 "W",
-                "W",
+                "L",
                 "W"
               ]
             },
@@ -3474,21 +3474,6 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
-              "name": "Coles Green 1",
-              "played": 7,
-              "won": 2,
-              "drawn": 2,
-              "lost": 3,
-              "rubbers": "75-93",
-              "points": 75,
-              "form": [
-                "L",
-                "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 6,
               "name": "Hazelwood 1",
               "played": 7,
               "won": 3,
@@ -3500,6 +3485,21 @@ window.__RESULTS__ = {
                 "W",
                 "W",
                 "L"
+              ]
+            },
+            {
+              "rank": 6,
+              "name": "Coles Green 1",
+              "played": 7,
+              "won": 2,
+              "drawn": 2,
+              "lost": 3,
+              "rubbers": "75-93",
+              "points": 75,
+              "form": [
+                "L",
+                "L",
+                "W"
               ]
             },
             {
@@ -3707,7 +3707,7 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland 1",
               "away": "Vicars Moor 1",
-              "hs": 0,
+              "hs": 15,
               "as": 0,
               "date": "Thu 30/07/2026"
             },
@@ -3844,11 +3844,11 @@ window.__RESULTS__ = {
               "rank": 1,
               "name": "Cumberland 1",
               "played": 7,
-              "won": 5,
+              "won": 6,
               "drawn": 1,
               "lost": 0,
-              "rubbers": "109-35",
-              "points": 109,
+              "rubbers": "124-35",
+              "points": 124,
               "form": [
                 "W",
                 "W",
@@ -3878,13 +3878,13 @@ window.__RESULTS__ = {
               "played": 7,
               "won": 4,
               "drawn": 1,
-              "lost": 1,
-              "rubbers": "86-58",
+              "lost": 2,
+              "rubbers": "86-73",
               "points": 86,
               "form": [
                 "W",
                 "W",
-                "W",
+                "L",
                 "W"
               ]
             },
@@ -3906,21 +3906,6 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
-              "name": "Coles Green 1",
-              "played": 7,
-              "won": 2,
-              "drawn": 2,
-              "lost": 3,
-              "rubbers": "75-93",
-              "points": 75,
-              "form": [
-                "L",
-                "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 6,
               "name": "Hazelwood 1",
               "played": 7,
               "won": 3,
@@ -3932,6 +3917,21 @@ window.__RESULTS__ = {
                 "W",
                 "W",
                 "L"
+              ]
+            },
+            {
+              "rank": 6,
+              "name": "Coles Green 1",
+              "played": 7,
+              "won": 2,
+              "drawn": 2,
+              "lost": 3,
+              "rubbers": "75-93",
+              "points": 75,
+              "form": [
+                "L",
+                "L",
+                "W"
               ]
             },
             {
@@ -4139,7 +4139,7 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland 1",
               "away": "Vicars Moor 1",
-              "hs": 0,
+              "hs": 15,
               "as": 0,
               "date": "Thu 30/07/2026"
             },
@@ -6565,7 +6565,7 @@ window.__RESULTS__ = {
           "division": "East Intermediate",
           "pscName": "Cumberland 3",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/64",
-          "position": 4,
+          "position": 3,
           "of": 8,
           "played": 7,
           "won": 4,
@@ -6614,22 +6614,6 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
-              "name": "Hackney 1",
-              "played": 7,
-              "won": 4,
-              "drawn": 1,
-              "lost": 2,
-              "rubbers": "89-79",
-              "points": 89,
-              "form": [
-                "W",
-                "L",
-                "W",
-                "L"
-              ]
-            },
-            {
-              "rank": 4,
               "name": "Cumberland 3",
               "played": 7,
               "won": 4,
@@ -6642,6 +6626,22 @@ window.__RESULTS__ = {
                 "W",
                 "W",
                 "W"
+              ]
+            },
+            {
+              "rank": 4,
+              "name": "Hackney 1",
+              "played": 7,
+              "won": 4,
+              "drawn": 1,
+              "lost": 2,
+              "rubbers": "89-79",
+              "points": 89,
+              "form": [
+                "W",
+                "L",
+                "W",
+                "L"
               ]
             },
             {
