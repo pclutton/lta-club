@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-19T16:36:11.274Z",
+  "generatedAt": "2026-08-19T19:30:08.003Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -239,11 +239,11 @@ window.__RESULTS__ = {
               "date": "Fri 20/11/2026"
             },
             {
-              "home": "Finchley Manor Tennis Squash and Health Club 1",
-              "away": "Brondesbury Sports Club 1",
+              "home": "David Lloyd Club Finchley 1",
+              "away": "West Heath Lawn Tennis Club Limited 1",
               "hs": null,
               "as": null,
-              "date": "Fri 22/01/2027"
+              "date": "Thu 26/11/2026"
             },
             {
               "home": "Paddington Sports Club 1",
@@ -260,8 +260,8 @@ window.__RESULTS__ = {
               "date": "Fri 22/01/2027"
             },
             {
-              "home": "David Lloyd Club Finchley 1",
-              "away": "West Heath Lawn Tennis Club Limited 1",
+              "home": "Finchley Manor Tennis Squash and Health Club 1",
+              "away": "Brondesbury Sports Club 1",
               "hs": null,
               "as": null,
               "date": "Fri 22/01/2027"
@@ -281,15 +281,15 @@ window.__RESULTS__ = {
               "date": "Fri 12/02/2027"
             },
             {
-              "home": "Elmwood Lawn Tennis Club 1",
-              "away": "David Lloyd Club Finchley 1",
+              "home": "Finchley Lawn Tennis Club 1",
+              "away": "Paddington Sports Club 1",
               "hs": null,
               "as": null,
               "date": "Fri 12/02/2027"
             },
             {
-              "home": "Finchley Lawn Tennis Club 1",
-              "away": "Paddington Sports Club 1",
+              "home": "Elmwood Lawn Tennis Club 1",
+              "away": "David Lloyd Club Finchley 1",
               "hs": null,
               "as": null,
               "date": "Fri 12/02/2027"
