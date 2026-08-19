@@ -2,49 +2,49 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-18T21:28:29.672Z",
+  "generatedAt": "2026-08-19T06:54:07.541Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 5,
       "teams": 22,
-      "refreshed": 22,
-      "failed": 0
+      "matches": 474,
+      "players": 170,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-08-18"
+        "asOf": "2026-08-19"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-08-18"
+        "asOf": "2026-08-19"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-08-18"
+        "asOf": "2026-08-19"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-08-18"
+        "asOf": "2026-08-19"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-08-18"
+        "asOf": "2026-08-19"
       }
     ]
   },
@@ -53,8 +53,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-08-18",
-      "asOf": "2026-08-18",
+      "lastSeen": "2026-08-19",
+      "asOf": "2026-08-19",
       "stale": false,
       "teams": [
         {
@@ -671,8 +671,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-08-18",
-      "asOf": "2026-08-18",
+      "lastSeen": "2026-08-19",
+      "asOf": "2026-08-19",
       "stale": false,
       "teams": [
         {
@@ -3386,8 +3386,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-08-18",
-      "asOf": "2026-08-18",
+      "lastSeen": "2026-08-19",
+      "asOf": "2026-08-19",
       "stale": false,
       "teams": [
         {
@@ -3809,9 +3809,15 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5809"
             },
             {
-              "name": "Joshua Pistorius",
+              "name": "JOSH PISTORIUS",
               "won": 1,
               "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6737"
+            },
+            {
+              "name": "Joshua Pistorius",
+              "won": 0,
+              "lost": 0,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6572"
             },
             {
@@ -7458,8 +7464,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "current",
-      "lastSeen": "2026-08-18",
-      "asOf": "2026-08-18",
+      "lastSeen": "2026-08-19",
+      "asOf": "2026-08-19",
       "stale": false,
       "teams": [
         {
@@ -7900,8 +7906,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-08-18",
-      "asOf": "2026-08-18",
+      "lastSeen": "2026-08-19",
+      "asOf": "2026-08-19",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -8928,8 +8934,8 @@ window.__RESULTS__ = {
       "played": 3
     },
     {
-      "name": "Joshua Pistorius",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6572",
+      "name": "JOSH PISTORIUS",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6737",
       "won": 1,
       "lost": 2,
       "played": 3
