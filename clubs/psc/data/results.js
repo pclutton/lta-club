@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-23T12:47:28.675Z",
+  "generatedAt": "2026-08-23T16:30:47.897Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -1081,15 +1081,15 @@ window.__RESULTS__ = {
               "date": "Tue 22/09/2026"
             },
             {
-              "home": "Paddington Sports Club 1",
-              "away": "Paddington Sports Club 2",
-              "hs": null,
-              "as": null,
-              "date": "Fri 25/09/2026"
-            },
-            {
               "home": "Lowlands Club 1",
               "away": "Eastcote Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Thu 24/09/2026"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "Paddington Sports Club 2",
               "hs": null,
               "as": null,
               "date": "Fri 25/09/2026"
@@ -1100,6 +1100,13 @@ window.__RESULTS__ = {
               "hs": null,
               "as": null,
               "date": "Mon 05/10/2026"
+            },
+            {
+              "home": "Lowlands Club 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Thu 15/10/2026"
             },
             {
               "home": "Eastcote Lawn Tennis Club 1",
@@ -1116,13 +1123,6 @@ window.__RESULTS__ = {
               "date": "Fri 23/10/2026"
             },
             {
-              "home": "Lowlands Club 1",
-              "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 23/10/2026"
-            },
-            {
               "home": "Harrow Lawn Tennis Club 1",
               "away": "Harrow Lawn Tennis Club 2",
               "hs": null,
@@ -1134,7 +1134,7 @@ window.__RESULTS__ = {
               "away": "Lowlands Club 1",
               "hs": null,
               "as": null,
-              "date": "Fri 20/11/2026"
+              "date": "Tue 17/11/2026"
             },
             {
               "home": "Pinner Lawn Tennis Club 1",
@@ -1207,11 +1207,11 @@ window.__RESULTS__ = {
               "date": "Fri 12/02/2027"
             },
             {
-              "home": "Eastcote Lawn Tennis Club 1",
-              "away": "Paddington Sports Club 2",
+              "home": "Lowlands Club 1",
+              "away": "Harrow Lawn Tennis Club 2",
               "hs": null,
               "as": null,
-              "date": "Fri 05/03/2027"
+              "date": "Thu 25/02/2027"
             },
             {
               "home": "Paddington Sports Club 1",
@@ -1221,15 +1221,15 @@ window.__RESULTS__ = {
               "date": "Fri 05/03/2027"
             },
             {
-              "home": "Lowlands Club 1",
-              "away": "Harrow Lawn Tennis Club 2",
+              "home": "Wayfarers LTC 1",
+              "away": "Pinner Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Fri 05/03/2027"
             },
             {
-              "home": "Wayfarers LTC 1",
-              "away": "Pinner Lawn Tennis Club 1",
+              "home": "Eastcote Lawn Tennis Club 1",
+              "away": "Paddington Sports Club 2",
               "hs": null,
               "as": null,
               "date": "Fri 05/03/2027"
@@ -1249,15 +1249,15 @@ window.__RESULTS__ = {
               "date": "Mon 15/03/2027"
             },
             {
-              "home": "Paddington Sports Club 2",
-              "away": "Lowlands Club 1",
+              "home": "Pinner Lawn Tennis Club 1",
+              "away": "Eastcote Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Fri 19/03/2027"
             },
             {
-              "home": "Pinner Lawn Tennis Club 1",
-              "away": "Eastcote Lawn Tennis Club 1",
+              "home": "Paddington Sports Club 2",
+              "away": "Lowlands Club 1",
               "hs": null,
               "as": null,
               "date": "Fri 19/03/2027"
@@ -1385,15 +1385,15 @@ window.__RESULTS__ = {
               "date": "Tue 22/09/2026"
             },
             {
-              "home": "Paddington Sports Club 1",
-              "away": "Paddington Sports Club 2",
-              "hs": null,
-              "as": null,
-              "date": "Fri 25/09/2026"
-            },
-            {
               "home": "Lowlands Club 1",
               "away": "Eastcote Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Thu 24/09/2026"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "Paddington Sports Club 2",
               "hs": null,
               "as": null,
               "date": "Fri 25/09/2026"
@@ -1404,6 +1404,13 @@ window.__RESULTS__ = {
               "hs": null,
               "as": null,
               "date": "Mon 05/10/2026"
+            },
+            {
+              "home": "Lowlands Club 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Thu 15/10/2026"
             },
             {
               "home": "Eastcote Lawn Tennis Club 1",
@@ -1420,13 +1427,6 @@ window.__RESULTS__ = {
               "date": "Fri 23/10/2026"
             },
             {
-              "home": "Lowlands Club 1",
-              "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 23/10/2026"
-            },
-            {
               "home": "Harrow Lawn Tennis Club 1",
               "away": "Harrow Lawn Tennis Club 2",
               "hs": null,
@@ -1438,7 +1438,7 @@ window.__RESULTS__ = {
               "away": "Lowlands Club 1",
               "hs": null,
               "as": null,
-              "date": "Fri 20/11/2026"
+              "date": "Tue 17/11/2026"
             },
             {
               "home": "Pinner Lawn Tennis Club 1",
@@ -1511,11 +1511,11 @@ window.__RESULTS__ = {
               "date": "Fri 12/02/2027"
             },
             {
-              "home": "Eastcote Lawn Tennis Club 1",
-              "away": "Paddington Sports Club 2",
+              "home": "Lowlands Club 1",
+              "away": "Harrow Lawn Tennis Club 2",
               "hs": null,
               "as": null,
-              "date": "Fri 05/03/2027"
+              "date": "Thu 25/02/2027"
             },
             {
               "home": "Paddington Sports Club 1",
@@ -1525,15 +1525,15 @@ window.__RESULTS__ = {
               "date": "Fri 05/03/2027"
             },
             {
-              "home": "Lowlands Club 1",
-              "away": "Harrow Lawn Tennis Club 2",
+              "home": "Wayfarers LTC 1",
+              "away": "Pinner Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Fri 05/03/2027"
             },
             {
-              "home": "Wayfarers LTC 1",
-              "away": "Pinner Lawn Tennis Club 1",
+              "home": "Eastcote Lawn Tennis Club 1",
+              "away": "Paddington Sports Club 2",
               "hs": null,
               "as": null,
               "date": "Fri 05/03/2027"
@@ -1553,15 +1553,15 @@ window.__RESULTS__ = {
               "date": "Mon 15/03/2027"
             },
             {
-              "home": "Paddington Sports Club 2",
-              "away": "Lowlands Club 1",
+              "home": "Pinner Lawn Tennis Club 1",
+              "away": "Eastcote Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Fri 19/03/2027"
             },
             {
-              "home": "Pinner Lawn Tennis Club 1",
-              "away": "Eastcote Lawn Tennis Club 1",
+              "home": "Paddington Sports Club 2",
+              "away": "Lowlands Club 1",
               "hs": null,
               "as": null,
               "date": "Fri 19/03/2027"
