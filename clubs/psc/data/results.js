@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-23T16:30:47.897Z",
+  "generatedAt": "2026-08-23T19:25:48.253Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -515,6 +515,13 @@ window.__RESULTS__ = {
               "date": "Fri 23/10/2026"
             },
             {
+              "home": "Totteridge Tennis Club 1",
+              "away": "Mercury LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Tue 03/11/2026"
+            },
+            {
               "home": "South Hampstead Tennis Club 1",
               "away": "Paddington Sports Club 3",
               "hs": null,
@@ -524,13 +531,6 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "away": "Temple Fortune Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 20/11/2026"
-            },
-            {
-              "home": "Totteridge Tennis Club 1",
-              "away": "Mercury LTC 1",
               "hs": null,
               "as": null,
               "date": "Fri 20/11/2026"
@@ -571,6 +571,13 @@ window.__RESULTS__ = {
               "date": "Fri 22/01/2027"
             },
             {
+              "home": "Totteridge Tennis Club 1",
+              "away": "Paddington Sports Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Thu 28/01/2027"
+            },
+            {
               "home": "Finchley Lawn Tennis Club 2",
               "away": "Paddington Sports Club 3",
               "hs": null,
@@ -587,13 +594,6 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "away": "South Hampstead Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 12/02/2027"
-            },
-            {
-              "home": "Totteridge Tennis Club 1",
-              "away": "Paddington Sports Club 2",
               "hs": null,
               "as": null,
               "date": "Fri 12/02/2027"
@@ -819,6 +819,13 @@ window.__RESULTS__ = {
               "date": "Fri 23/10/2026"
             },
             {
+              "home": "Totteridge Tennis Club 1",
+              "away": "Mercury LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Tue 03/11/2026"
+            },
+            {
               "home": "South Hampstead Tennis Club 1",
               "away": "Paddington Sports Club 3",
               "hs": null,
@@ -828,13 +835,6 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "away": "Temple Fortune Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 20/11/2026"
-            },
-            {
-              "home": "Totteridge Tennis Club 1",
-              "away": "Mercury LTC 1",
               "hs": null,
               "as": null,
               "date": "Fri 20/11/2026"
@@ -875,6 +875,13 @@ window.__RESULTS__ = {
               "date": "Fri 22/01/2027"
             },
             {
+              "home": "Totteridge Tennis Club 1",
+              "away": "Paddington Sports Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Thu 28/01/2027"
+            },
+            {
               "home": "Finchley Lawn Tennis Club 2",
               "away": "Paddington Sports Club 3",
               "hs": null,
@@ -891,13 +898,6 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "away": "South Hampstead Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 12/02/2027"
-            },
-            {
-              "home": "Totteridge Tennis Club 1",
-              "away": "Paddington Sports Club 2",
               "hs": null,
               "as": null,
               "date": "Fri 12/02/2027"
@@ -1986,18 +1986,18 @@ window.__RESULTS__ = {
               "date": "Thu 03/09/2026"
             },
             {
+              "home": "Totteridge Tennis Club 1",
+              "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Mon 14/09/2026"
+            },
+            {
               "home": "West Heath Lawn Tennis Club Limited 1",
               "away": "Finchley Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Thu 24/09/2026"
-            },
-            {
-              "home": "Totteridge Tennis Club 1",
-              "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 25/09/2026"
             },
             {
               "home": "Paddington Sports Club 1",
@@ -2007,15 +2007,15 @@ window.__RESULTS__ = {
               "date": "Fri 25/09/2026"
             },
             {
-              "home": "Oakleigh Park Lawn Tennis & Squash Club 2",
-              "away": "David Lloyd Club Finchley 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 23/10/2026"
-            },
-            {
               "home": "Totteridge Tennis Club 1",
               "away": "West Heath Lawn Tennis Club Limited 1",
+              "hs": null,
+              "as": null,
+              "date": "Thu 22/10/2026"
+            },
+            {
+              "home": "Oakleigh Park Lawn Tennis & Squash Club 2",
+              "away": "David Lloyd Club Finchley 1",
               "hs": null,
               "as": null,
               "date": "Fri 23/10/2026"
@@ -2035,18 +2035,18 @@ window.__RESULTS__ = {
               "date": "Fri 23/10/2026"
             },
             {
+              "home": "Totteridge Tennis Club 2",
+              "away": "Oakleigh Park Lawn Tennis & Squash Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Mon 09/11/2026"
+            },
+            {
               "home": "David Lloyd Club Finchley 1",
               "away": "Finchley Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Thu 19/11/2026"
-            },
-            {
-              "home": "West Heath Lawn Tennis Club Limited 1",
-              "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 20/11/2026"
             },
             {
               "home": "Paddington Sports Club 1",
@@ -2056,11 +2056,18 @@ window.__RESULTS__ = {
               "date": "Fri 20/11/2026"
             },
             {
-              "home": "Totteridge Tennis Club 2",
-              "away": "Oakleigh Park Lawn Tennis & Squash Club 2",
+              "home": "West Heath Lawn Tennis Club Limited 1",
+              "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
               "hs": null,
               "as": null,
               "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "away": "Oakleigh Park Lawn Tennis & Squash Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 22/01/2027"
             },
             {
               "home": "Totteridge Tennis Club 1",
@@ -2072,13 +2079,6 @@ window.__RESULTS__ = {
             {
               "home": "West Heath Lawn Tennis Club Limited 1",
               "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 22/01/2027"
-            },
-            {
-              "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
-              "away": "Oakleigh Park Lawn Tennis & Squash Club 2",
               "hs": null,
               "as": null,
               "date": "Fri 22/01/2027"
@@ -2119,22 +2119,15 @@ window.__RESULTS__ = {
               "date": "Fri 12/02/2027"
             },
             {
-              "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
-              "away": "Finchley Lawn Tennis Club 1",
+              "home": "Totteridge Tennis Club 1",
+              "away": "Oakleigh Park Lawn Tennis & Squash Club 2",
               "hs": null,
               "as": null,
-              "date": "Fri 05/03/2027"
+              "date": "Thu 25/02/2027"
             },
             {
               "home": "West Heath Lawn Tennis Club Limited 1",
               "away": "Totteridge Tennis Club 2",
-              "hs": null,
-              "as": null,
-              "date": "Fri 05/03/2027"
-            },
-            {
-              "home": "Totteridge Tennis Club 1",
-              "away": "Oakleigh Park Lawn Tennis & Squash Club 2",
               "hs": null,
               "as": null,
               "date": "Fri 05/03/2027"
@@ -2147,11 +2140,18 @@ window.__RESULTS__ = {
               "date": "Fri 05/03/2027"
             },
             {
+              "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "away": "Finchley Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 05/03/2027"
+            },
+            {
               "home": "Totteridge Tennis Club 2",
               "away": "Paddington Sports Club 1",
               "hs": null,
               "as": null,
-              "date": "Fri 19/03/2027"
+              "date": "Mon 15/03/2027"
             },
             {
               "home": "Oakleigh Park Lawn Tennis & Squash Club 2",
@@ -4148,7 +4148,7 @@ window.__RESULTS__ = {
           "played": 7,
           "won": 5,
           "lost": 2,
-          "points": 96,
+          "points": 89,
           "form": [
             "L",
             "W",
@@ -4215,8 +4215,8 @@ window.__RESULTS__ = {
               "won": 5,
               "drawn": 0,
               "lost": 2,
-              "rubbers": "81-72",
-              "points": 96,
+              "rubbers": "89-72",
+              "points": 89,
               "form": [
                 "L",
                 "W",
@@ -4282,7 +4282,7 @@ window.__RESULTS__ = {
               "won": 0,
               "drawn": 1,
               "lost": 6,
-              "rubbers": "32-121",
+              "rubbers": "32-129",
               "points": 32,
               "form": [
                 "L",
@@ -4464,7 +4464,7 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 3",
               "away": "David Lloyd Club Northwood 3",
-              "hs": 24,
+              "hs": 17,
               "as": 0,
               "date": "Tue 28/07/2026"
             },
