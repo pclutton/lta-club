@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-24T19:33:57.274Z",
+  "generatedAt": "2026-08-24T21:33:54.587Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -1242,18 +1242,18 @@ window.__RESULTS__ = {
               "date": "Mon 08/03/2027"
             },
             {
+              "home": "Pinner Lawn Tennis Club 1",
+              "away": "Eastcote Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Mon 08/03/2027"
+            },
+            {
               "home": "Harrow Lawn Tennis Club 1",
               "away": "Wayfarers LTC 1",
               "hs": null,
               "as": null,
               "date": "Mon 15/03/2027"
-            },
-            {
-              "home": "Pinner Lawn Tennis Club 1",
-              "away": "Eastcote Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 19/03/2027"
             },
             {
               "home": "Paddington Sports Club 2",
@@ -1546,18 +1546,18 @@ window.__RESULTS__ = {
               "date": "Mon 08/03/2027"
             },
             {
+              "home": "Pinner Lawn Tennis Club 1",
+              "away": "Eastcote Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Mon 08/03/2027"
+            },
+            {
               "home": "Harrow Lawn Tennis Club 1",
               "away": "Wayfarers LTC 1",
               "hs": null,
               "as": null,
               "date": "Mon 15/03/2027"
-            },
-            {
-              "home": "Pinner Lawn Tennis Club 1",
-              "away": "Eastcote Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 19/03/2027"
             },
             {
               "home": "Paddington Sports Club 2",
