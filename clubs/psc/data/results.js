@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-25T12:53:58.297Z",
+  "generatedAt": "2026-08-25T16:42:08.751Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -246,15 +246,15 @@ window.__RESULTS__ = {
               "date": "Thu 26/11/2026"
             },
             {
-              "home": "Paddington Sports Club 1",
-              "away": "Elmwood Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 22/01/2027"
-            },
-            {
               "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
               "away": "Finchley Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Mon 18/01/2027"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "Elmwood Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Fri 22/01/2027"
@@ -334,7 +334,7 @@ window.__RESULTS__ = {
               "away": "Paddington Sports Club 1",
               "hs": null,
               "as": null,
-              "date": "Fri 19/03/2027"
+              "date": "Tue 16/03/2027"
             },
             {
               "home": "Finchley Lawn Tennis Club 1",
@@ -2007,6 +2007,13 @@ window.__RESULTS__ = {
               "date": "Fri 25/09/2026"
             },
             {
+              "home": "Oakleigh Park Lawn Tennis & Squash Club 2",
+              "away": "David Lloyd Club Finchley 1",
+              "hs": null,
+              "as": null,
+              "date": "Tue 13/10/2026"
+            },
+            {
               "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
               "away": "Totteridge Tennis Club 2",
               "hs": null,
@@ -2019,13 +2026,6 @@ window.__RESULTS__ = {
               "hs": null,
               "as": null,
               "date": "Thu 22/10/2026"
-            },
-            {
-              "home": "Oakleigh Park Lawn Tennis & Squash Club 2",
-              "away": "David Lloyd Club Finchley 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 23/10/2026"
             },
             {
               "home": "Finchley Lawn Tennis Club 1",
@@ -2091,6 +2091,13 @@ window.__RESULTS__ = {
               "date": "Fri 22/01/2027"
             },
             {
+              "home": "Oakleigh Park Lawn Tennis & Squash Club 2",
+              "away": "Finchley Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Thu 04/02/2027"
+            },
+            {
               "home": "David Lloyd Club Finchley 1",
               "away": "West Heath Lawn Tennis Club Limited 1",
               "hs": null,
@@ -2100,13 +2107,6 @@ window.__RESULTS__ = {
             {
               "home": "Totteridge Tennis Club 2",
               "away": "Totteridge Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 12/02/2027"
-            },
-            {
-              "home": "Oakleigh Park Lawn Tennis & Squash Club 2",
-              "away": "Finchley Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Fri 12/02/2027"
@@ -2133,15 +2133,15 @@ window.__RESULTS__ = {
               "date": "Thu 25/02/2027"
             },
             {
-              "home": "Paddington Sports Club 1",
-              "away": "David Lloyd Club Finchley 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 05/03/2027"
-            },
-            {
               "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
               "away": "Finchley Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Mon 01/03/2027"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "David Lloyd Club Finchley 1",
               "hs": null,
               "as": null,
               "date": "Fri 05/03/2027"
