@@ -2,49 +2,49 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-24T21:33:11.472Z",
+  "generatedAt": "2026-08-25T06:57:54.017Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 5,
       "teams": 22,
-      "refreshed": 22,
-      "failed": 0
+      "matches": 474,
+      "players": 170,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-08-24"
+        "asOf": "2026-08-25"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-08-24"
+        "asOf": "2026-08-25"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-08-24"
+        "asOf": "2026-08-25"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-08-24"
+        "asOf": "2026-08-25"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-08-24"
+        "asOf": "2026-08-25"
       }
     ]
   },
@@ -53,8 +53,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-08-24",
-      "asOf": "2026-08-24",
+      "lastSeen": "2026-08-25",
+      "asOf": "2026-08-25",
       "stale": false,
       "teams": [
         {
@@ -671,8 +671,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-08-24",
-      "asOf": "2026-08-24",
+      "lastSeen": "2026-08-25",
+      "asOf": "2026-08-25",
       "stale": false,
       "teams": [
         {
@@ -3386,8 +3386,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-08-24",
-      "asOf": "2026-08-24",
+      "lastSeen": "2026-08-25",
+      "asOf": "2026-08-25",
       "stale": false,
       "teams": [
         {
@@ -7466,8 +7466,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "current",
-      "lastSeen": "2026-08-24",
-      "asOf": "2026-08-24",
+      "lastSeen": "2026-08-25",
+      "asOf": "2026-08-25",
       "stale": false,
       "teams": [
         {
@@ -7908,8 +7908,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-08-24",
-      "asOf": "2026-08-24",
+      "lastSeen": "2026-08-25",
+      "asOf": "2026-08-25",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -7920,7 +7920,7 @@ window.__RESULTS__ = {
           "next": {
             "opponent": "The Queens Club Limited 1",
             "home": false,
-            "date": "Sun 13/09/2026"
+            "date": "Sun 27/09/2026"
           },
           "live": true
         },
