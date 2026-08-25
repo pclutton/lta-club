@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-25T16:41:25.101Z",
+  "generatedAt": "2026-08-25T19:35:28.649Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -504,7 +504,7 @@ window.__RESULTS__ = {
               "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
               "hs": null,
               "as": null,
-              "date": "Mon 12/10/2026"
+              "date": "Thu 15/10/2026"
             },
             {
               "home": "Finchley Manor Tennis Squash and Health Club 1",
