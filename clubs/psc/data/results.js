@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-26T07:01:10.063Z",
+  "generatedAt": "2026-08-26T12:59:36.606Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 19,
-      "matches": 471,
-      "players": 129,
-      "stale": 0
+      "refreshed": 19,
+      "failed": 0
     },
     "competitions": [
       {
@@ -606,6 +606,13 @@ window.__RESULTS__ = {
               "date": "Thu 18/02/2027"
             },
             {
+              "home": "Finchley Lawn Tennis Club 2",
+              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "hs": null,
+              "as": null,
+              "date": "Mon 01/03/2027"
+            },
+            {
               "home": "Paddington Sports Club 2",
               "away": "Mercury LTC 1",
               "hs": null,
@@ -615,13 +622,6 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 3",
               "away": "Temple Fortune Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 05/03/2027"
-            },
-            {
-              "home": "Finchley Lawn Tennis Club 2",
-              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "hs": null,
               "as": null,
               "date": "Fri 05/03/2027"
@@ -910,6 +910,13 @@ window.__RESULTS__ = {
               "date": "Thu 18/02/2027"
             },
             {
+              "home": "Finchley Lawn Tennis Club 2",
+              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "hs": null,
+              "as": null,
+              "date": "Mon 01/03/2027"
+            },
+            {
               "home": "Paddington Sports Club 2",
               "away": "Mercury LTC 1",
               "hs": null,
@@ -919,13 +926,6 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 3",
               "away": "Temple Fortune Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 05/03/2027"
-            },
-            {
-              "home": "Finchley Lawn Tennis Club 2",
-              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "hs": null,
               "as": null,
               "date": "Fri 05/03/2027"
