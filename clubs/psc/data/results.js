@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-26T12:59:36.606Z",
+  "generatedAt": "2026-08-26T16:51:38.573Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -162,6 +162,13 @@ window.__RESULTS__ = {
               "date": "Tue 22/09/2026"
             },
             {
+              "home": "Elmwood Lawn Tennis Club 1",
+              "away": "Finchley Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Wed 23/09/2026"
+            },
+            {
               "home": "David Lloyd Club Finchley 1",
               "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
               "hs": null,
@@ -176,11 +183,11 @@ window.__RESULTS__ = {
               "date": "Fri 25/09/2026"
             },
             {
-              "home": "Elmwood Lawn Tennis Club 1",
-              "away": "Finchley Lawn Tennis Club 1",
+              "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "away": "West Heath Lawn Tennis Club Limited 1",
               "hs": null,
               "as": null,
-              "date": "Fri 25/09/2026"
+              "date": "Thu 15/10/2026"
             },
             {
               "home": "Brondesbury Sports Club 1",
@@ -190,22 +197,15 @@ window.__RESULTS__ = {
               "date": "Thu 15/10/2026"
             },
             {
-              "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
-              "away": "West Heath Lawn Tennis Club Limited 1",
-              "hs": null,
-              "as": null,
-              "date": "Thu 15/10/2026"
-            },
-            {
-              "home": "Paddington Sports Club 1",
-              "away": "David Lloyd Club Finchley 1",
+              "home": "Finchley Manor Tennis Squash and Health Club 1",
+              "away": "Finchley Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Fri 23/10/2026"
             },
             {
-              "home": "Finchley Manor Tennis Squash and Health Club 1",
-              "away": "Finchley Lawn Tennis Club 1",
+              "home": "Paddington Sports Club 1",
+              "away": "David Lloyd Club Finchley 1",
               "hs": null,
               "as": null,
               "date": "Fri 23/10/2026"
@@ -1703,13 +1703,6 @@ window.__RESULTS__ = {
               "date": "Fri 25/09/2026"
             },
             {
-              "home": "Virgin Active Chiswick Riverside 2",
-              "away": "Twickenham Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Tue 13/10/2026"
-            },
-            {
               "home": "Holland Park Lawn Tennis Club 2",
               "away": "Brentham Lawn Tennis Club 1",
               "hs": null,
@@ -1717,11 +1710,11 @@ window.__RESULTS__ = {
               "date": "Tue 13/10/2026"
             },
             {
-              "home": "David Lloyd Club Hampton 1",
-              "away": "Thistleworth LTC 1",
+              "home": "Virgin Active Chiswick Riverside 2",
+              "away": "Twickenham Lawn Tennis Club 1",
               "hs": null,
               "as": null,
-              "date": "Fri 23/10/2026"
+              "date": "Tue 13/10/2026"
             },
             {
               "home": "Paddington Sports Club 3",
@@ -1731,18 +1724,11 @@ window.__RESULTS__ = {
               "date": "Fri 23/10/2026"
             },
             {
-              "home": "Brentham Lawn Tennis Club 1",
-              "away": "Paddington Sports Club 3",
+              "home": "David Lloyd Club Hampton 1",
+              "away": "Thistleworth LTC 1",
               "hs": null,
               "as": null,
-              "date": "Fri 20/11/2026"
-            },
-            {
-              "home": "Thistleworth LTC 1",
-              "away": "Virgin Active Chiswick Riverside 2",
-              "hs": null,
-              "as": null,
-              "date": "Fri 20/11/2026"
+              "date": "Fri 23/10/2026"
             },
             {
               "home": "Park Sports - Lammas Park 1",
@@ -1754,6 +1740,20 @@ window.__RESULTS__ = {
             {
               "home": "Twickenham Lawn Tennis Club 1",
               "away": "Holland Park Lawn Tennis Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "Brentham Lawn Tennis Club 1",
+              "away": "Paddington Sports Club 3",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "Thistleworth LTC 1",
+              "away": "Virgin Active Chiswick Riverside 2",
               "hs": null,
               "as": null,
               "date": "Fri 20/11/2026"
@@ -1843,15 +1843,15 @@ window.__RESULTS__ = {
               "date": "Fri 05/03/2027"
             },
             {
-              "home": "Virgin Active Chiswick Riverside 2",
-              "away": "Park Sports - Lammas Park 1",
+              "home": "Holland Park Lawn Tennis Club 2",
+              "away": "Paddington Sports Club 3",
               "hs": null,
               "as": null,
               "date": "Tue 09/03/2027"
             },
             {
-              "home": "Holland Park Lawn Tennis Club 2",
-              "away": "Paddington Sports Club 3",
+              "home": "Virgin Active Chiswick Riverside 2",
+              "away": "Park Sports - Lammas Park 1",
               "hs": null,
               "as": null,
               "date": "Tue 09/03/2027"

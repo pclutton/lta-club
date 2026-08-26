@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-26T12:58:51.455Z",
+  "generatedAt": "2026-08-26T16:50:55.802Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -7130,15 +7130,14 @@ window.__RESULTS__ = {
               "rank": 7,
               "name": "Temple Fortune 2",
               "played": 7,
-              "won": 1,
-              "drawn": 0,
+              "won": 0,
+              "drawn": 1,
               "lost": 6,
-              "rubbers": "47-121",
-              "points": 47,
+              "rubbers": "41-127",
+              "points": 41,
               "form": [
                 "L",
                 "L",
-                "W",
                 "L",
                 "L"
               ]
@@ -7148,12 +7147,11 @@ window.__RESULTS__ = {
               "name": "Brondesbury 3",
               "played": 7,
               "won": 0,
-              "drawn": 0,
-              "lost": 7,
-              "rubbers": "30-138",
-              "points": 30,
+              "drawn": 1,
+              "lost": 6,
+              "rubbers": "36-132",
+              "points": 36,
               "form": [
-                "L",
                 "L",
                 "L",
                 "L",
@@ -7284,8 +7282,8 @@ window.__RESULTS__ = {
             {
               "home": "Temple Fortune 2",
               "away": "Brondesbury 3",
-              "hs": 18,
-              "as": 6,
+              "hs": 12,
+              "as": 12,
               "date": "Thu 09/07/2026"
             },
             {
