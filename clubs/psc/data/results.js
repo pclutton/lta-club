@@ -2,43 +2,43 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-26T21:44:10.411Z",
+  "generatedAt": "2026-08-27T17:38:02.328Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 19,
-      "refreshed": 19,
-      "failed": 0
+      "matches": 471,
+      "players": 129,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-08-26"
+        "asOf": "2026-08-27"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-08-26"
+        "asOf": "2026-08-27"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-08-26"
+        "asOf": "2026-08-27"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-08-26"
+        "asOf": "2026-08-27"
       }
     ]
   },
@@ -47,8 +47,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-08-26",
-      "asOf": "2026-08-26",
+      "lastSeen": "2026-08-27",
+      "asOf": "2026-08-27",
       "stale": false,
       "teams": [
         {
@@ -302,15 +302,15 @@ window.__RESULTS__ = {
               "date": "Thu 18/02/2027"
             },
             {
-              "home": "Paddington Sports Club 1",
-              "away": "Brondesbury Sports Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 05/03/2027"
-            },
-            {
               "home": "West Heath Lawn Tennis Club Limited 1",
               "away": "Elmwood Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Wed 24/02/2027"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "Brondesbury Sports Club 1",
               "hs": null,
               "as": null,
               "date": "Fri 05/03/2027"
@@ -1731,15 +1731,15 @@ window.__RESULTS__ = {
               "date": "Fri 23/10/2026"
             },
             {
-              "home": "Park Sports - Lammas Park 1",
-              "away": "David Lloyd Club Hampton 1",
+              "home": "Holland Park Lawn Tennis Club 2",
+              "away": "Twickenham Lawn Tennis Club 1",
               "hs": null,
               "as": null,
-              "date": "Fri 20/11/2026"
+              "date": "Tue 03/11/2026"
             },
             {
-              "home": "Twickenham Lawn Tennis Club 1",
-              "away": "Holland Park Lawn Tennis Club 2",
+              "home": "Park Sports - Lammas Park 1",
+              "away": "David Lloyd Club Hampton 1",
               "hs": null,
               "as": null,
               "date": "Fri 20/11/2026"
@@ -2185,8 +2185,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-08-26",
-      "asOf": "2026-08-26",
+      "lastSeen": "2026-08-27",
+      "asOf": "2026-08-27",
       "stale": false,
       "teams": [
         {
@@ -3222,8 +3222,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-08-26",
-      "asOf": "2026-08-26",
+      "lastSeen": "2026-08-27",
+      "asOf": "2026-08-27",
       "stale": false,
       "teams": [
         {
@@ -6882,8 +6882,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-08-26",
-      "asOf": "2026-08-26",
+      "lastSeen": "2026-08-27",
+      "asOf": "2026-08-27",
       "stale": false,
       "teams": [],
       "knockouts": [

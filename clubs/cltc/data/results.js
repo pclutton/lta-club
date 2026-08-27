@@ -2,49 +2,49 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-26T21:43:24.584Z",
+  "generatedAt": "2026-08-27T17:32:23.541Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 5,
       "teams": 22,
-      "refreshed": 22,
-      "failed": 0
+      "matches": 474,
+      "players": 170,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-08-26"
+        "asOf": "2026-08-27"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-08-26"
+        "asOf": "2026-08-27"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-08-26"
+        "asOf": "2026-08-27"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-08-26"
+        "asOf": "2026-08-27"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-08-26"
+        "asOf": "2026-08-27"
       }
     ]
   },
@@ -53,8 +53,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-08-26",
-      "asOf": "2026-08-26",
+      "lastSeen": "2026-08-27",
+      "asOf": "2026-08-27",
       "stale": false,
       "teams": [
         {
@@ -671,8 +671,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-08-26",
-      "asOf": "2026-08-26",
+      "lastSeen": "2026-08-27",
+      "asOf": "2026-08-27",
       "stale": false,
       "teams": [
         {
@@ -3386,8 +3386,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-08-26",
-      "asOf": "2026-08-26",
+      "lastSeen": "2026-08-27",
+      "asOf": "2026-08-27",
       "stale": false,
       "teams": [
         {
@@ -7084,8 +7084,8 @@ window.__RESULTS__ = {
               "won": 4,
               "drawn": 0,
               "lost": 3,
-              "rubbers": "94-74",
-              "points": 94,
+              "rubbers": "98-70",
+              "points": 98,
               "form": [
                 "L",
                 "W",
@@ -7133,8 +7133,8 @@ window.__RESULTS__ = {
               "won": 0,
               "drawn": 1,
               "lost": 6,
-              "rubbers": "41-127",
-              "points": 41,
+              "rubbers": "37-131",
+              "points": 37,
               "form": [
                 "L",
                 "L",
@@ -7170,8 +7170,8 @@ window.__RESULTS__ = {
             {
               "home": "Totteridge 2",
               "away": "Finchley 1",
-              "hs": 8,
-              "as": 16,
+              "hs": 4,
+              "as": 20,
               "date": "Tue 05/05/2026"
             },
             {
@@ -7324,8 +7324,8 @@ window.__RESULTS__ = {
             {
               "home": "Totteridge 2",
               "away": "Temple Fortune 2",
-              "hs": 16,
-              "as": 8,
+              "hs": 20,
+              "as": 4,
               "date": "Thu 23/07/2026"
             },
             {
@@ -7464,8 +7464,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "current",
-      "lastSeen": "2026-08-26",
-      "asOf": "2026-08-26",
+      "lastSeen": "2026-08-27",
+      "asOf": "2026-08-27",
       "stale": false,
       "teams": [
         {
@@ -7906,8 +7906,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-08-26",
-      "asOf": "2026-08-26",
+      "lastSeen": "2026-08-27",
+      "asOf": "2026-08-27",
       "stale": false,
       "teams": [],
       "knockouts": [
