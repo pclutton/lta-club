@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-27T17:38:02.328Z",
+  "generatedAt": "2026-08-27T22:00:52.902Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 19,
-      "matches": 471,
-      "players": 129,
-      "stale": 0
+      "refreshed": 19,
+      "failed": 0
     },
     "competitions": [
       {
@@ -1703,13 +1703,6 @@ window.__RESULTS__ = {
               "date": "Fri 25/09/2026"
             },
             {
-              "home": "Holland Park Lawn Tennis Club 2",
-              "away": "Brentham Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Tue 13/10/2026"
-            },
-            {
               "home": "Virgin Active Chiswick Riverside 2",
               "away": "Twickenham Lawn Tennis Club 1",
               "hs": null,
@@ -1717,15 +1710,22 @@ window.__RESULTS__ = {
               "date": "Tue 13/10/2026"
             },
             {
-              "home": "Paddington Sports Club 3",
-              "away": "Park Sports - Lammas Park 1",
+              "home": "Holland Park Lawn Tennis Club 2",
+              "away": "Brentham Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Tue 13/10/2026"
+            },
+            {
+              "home": "David Lloyd Club Hampton 1",
+              "away": "Thistleworth LTC 1",
               "hs": null,
               "as": null,
               "date": "Fri 23/10/2026"
             },
             {
-              "home": "David Lloyd Club Hampton 1",
-              "away": "Thistleworth LTC 1",
+              "home": "Paddington Sports Club 3",
+              "away": "Park Sports - Lammas Park 1",
               "hs": null,
               "as": null,
               "date": "Fri 23/10/2026"
@@ -1843,15 +1843,15 @@ window.__RESULTS__ = {
               "date": "Fri 05/03/2027"
             },
             {
-              "home": "Holland Park Lawn Tennis Club 2",
-              "away": "Paddington Sports Club 3",
+              "home": "Virgin Active Chiswick Riverside 2",
+              "away": "Park Sports - Lammas Park 1",
               "hs": null,
               "as": null,
               "date": "Tue 09/03/2027"
             },
             {
-              "home": "Virgin Active Chiswick Riverside 2",
-              "away": "Park Sports - Lammas Park 1",
+              "home": "Holland Park Lawn Tennis Club 2",
+              "away": "Paddington Sports Club 3",
               "hs": null,
               "as": null,
               "date": "Tue 09/03/2027"
