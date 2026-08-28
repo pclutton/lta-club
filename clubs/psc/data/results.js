@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-28T18:29:28.276Z",
+  "generatedAt": "2026-08-28T21:55:56.705Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 19,
-      "matches": 471,
-      "players": 129,
-      "stale": 0
+      "refreshed": 19,
+      "failed": 0
     },
     "competitions": [
       {
@@ -1682,18 +1682,18 @@ window.__RESULTS__ = {
               "date": "Thu 10/09/2026"
             },
             {
+              "home": "Brentham Lawn Tennis Club 1",
+              "away": "Virgin Active Chiswick Riverside 2",
+              "hs": null,
+              "as": null,
+              "date": "Wed 16/09/2026"
+            },
+            {
               "home": "Twickenham Lawn Tennis Club 1",
               "away": "Thistleworth LTC 1",
               "hs": null,
               "as": null,
               "date": "Sat 19/09/2026"
-            },
-            {
-              "home": "Brentham Lawn Tennis Club 1",
-              "away": "Virgin Active Chiswick Riverside 2",
-              "hs": null,
-              "as": null,
-              "date": "Fri 25/09/2026"
             },
             {
               "home": "Park Sports - Lammas Park 1",
@@ -1710,15 +1710,15 @@ window.__RESULTS__ = {
               "date": "Tue 29/09/2026"
             },
             {
-              "home": "Virgin Active Chiswick Riverside 2",
-              "away": "Twickenham Lawn Tennis Club 1",
+              "home": "Holland Park Lawn Tennis Club 2",
+              "away": "Brentham Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Tue 13/10/2026"
             },
             {
-              "home": "Holland Park Lawn Tennis Club 2",
-              "away": "Brentham Lawn Tennis Club 1",
+              "home": "Virgin Active Chiswick Riverside 2",
+              "away": "Twickenham Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Tue 13/10/2026"
@@ -1738,22 +1738,22 @@ window.__RESULTS__ = {
               "date": "Tue 03/11/2026"
             },
             {
-              "home": "Thistleworth LTC 1",
-              "away": "Virgin Active Chiswick Riverside 2",
-              "hs": null,
-              "as": null,
-              "date": "Fri 20/11/2026"
-            },
-            {
               "home": "Brentham Lawn Tennis Club 1",
               "away": "Paddington Sports Club 3",
               "hs": null,
               "as": null,
-              "date": "Fri 20/11/2026"
+              "date": "Mon 09/11/2026"
             },
             {
               "home": "Park Sports - Lammas Park 1",
               "away": "David Lloyd Club Hampton 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 20/11/2026"
+            },
+            {
+              "home": "Thistleworth LTC 1",
+              "away": "Virgin Active Chiswick Riverside 2",
               "hs": null,
               "as": null,
               "date": "Fri 20/11/2026"
@@ -1805,7 +1805,7 @@ window.__RESULTS__ = {
               "away": "David Lloyd Club Hampton 1",
               "hs": null,
               "as": null,
-              "date": "Fri 12/02/2027"
+              "date": "Mon 08/02/2027"
             },
             {
               "home": "Thistleworth LTC 1",
@@ -1815,18 +1815,18 @@ window.__RESULTS__ = {
               "date": "Fri 12/02/2027"
             },
             {
+              "home": "Brentham Lawn Tennis Club 1",
+              "away": "Twickenham Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Wed 24/02/2027"
+            },
+            {
               "home": "Paddington Sports Club 3",
               "away": "Virgin Active Chiswick Riverside 2",
               "hs": null,
               "as": null,
               "date": "Thu 25/02/2027"
-            },
-            {
-              "home": "Brentham Lawn Tennis Club 1",
-              "away": "Twickenham Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 05/03/2027"
             },
             {
               "home": "Park Sports - Lammas Park 1",
