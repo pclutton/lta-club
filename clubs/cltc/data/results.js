@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-29T12:34:22.889Z",
+  "generatedAt": "2026-08-29T16:27:03.890Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 5,
       "teams": 22,
-      "matches": 474,
-      "players": 170,
-      "stale": 0
+      "refreshed": 22,
+      "failed": 0
     },
     "competitions": [
       {
@@ -5837,8 +5837,8 @@ window.__RESULTS__ = {
               "won": 3,
               "drawn": 0,
               "lost": 3,
-              "rubbers": "67-73",
-              "points": 67,
+              "rubbers": "69-75",
+              "points": 69,
               "form": [
                 "W",
                 "L",
@@ -5854,8 +5854,8 @@ window.__RESULTS__ = {
               "won": 2,
               "drawn": 0,
               "lost": 4,
-              "rubbers": "59-81",
-              "points": 59,
+              "rubbers": "61-83",
+              "points": 61,
               "form": [
                 "L",
                 "L",
@@ -6043,8 +6043,8 @@ window.__RESULTS__ = {
             {
               "home": "Coolhurst LTC 1",
               "away": "Cumberland 2",
-              "hs": 18,
-              "as": 2,
+              "hs": 20,
+              "as": 4,
               "date": "Fri 07/08/2026"
             }
           ],
@@ -6195,7 +6195,7 @@ window.__RESULTS__ = {
           "played": 6,
           "won": 2,
           "lost": 4,
-          "points": 59,
+          "points": 61,
           "form": [
             "L",
             "L",
@@ -6260,8 +6260,8 @@ window.__RESULTS__ = {
               "won": 3,
               "drawn": 0,
               "lost": 3,
-              "rubbers": "67-73",
-              "points": 67,
+              "rubbers": "69-75",
+              "points": 69,
               "form": [
                 "W",
                 "L",
@@ -6277,8 +6277,8 @@ window.__RESULTS__ = {
               "won": 2,
               "drawn": 0,
               "lost": 4,
-              "rubbers": "59-81",
-              "points": 59,
+              "rubbers": "61-83",
+              "points": 61,
               "form": [
                 "L",
                 "L",
@@ -6466,8 +6466,8 @@ window.__RESULTS__ = {
             {
               "home": "Coolhurst LTC 1",
               "away": "Cumberland 2",
-              "hs": 18,
-              "as": 2,
+              "hs": 20,
+              "as": 4,
               "date": "Fri 07/08/2026"
             }
           ],
