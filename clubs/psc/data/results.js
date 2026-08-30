@@ -2,43 +2,43 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-29T21:35:12.035Z",
+  "generatedAt": "2026-08-30T11:41:16.959Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 19,
-      "refreshed": 19,
-      "failed": 0
+      "matches": 471,
+      "players": 129,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-08-29"
+        "asOf": "2026-08-30"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-08-29"
+        "asOf": "2026-08-30"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-08-29"
+        "asOf": "2026-08-30"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-08-29"
+        "asOf": "2026-08-30"
       }
     ]
   },
@@ -47,8 +47,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-08-29",
-      "asOf": "2026-08-29",
+      "lastSeen": "2026-08-30",
+      "asOf": "2026-08-30",
       "stale": false,
       "teams": [
         {
@@ -1728,7 +1728,7 @@ window.__RESULTS__ = {
               "away": "Thistleworth LTC 1",
               "hs": null,
               "as": null,
-              "date": "Fri 23/10/2026"
+              "date": "Mon 19/10/2026"
             },
             {
               "home": "Holland Park Lawn Tennis Club 2",
@@ -1766,6 +1766,13 @@ window.__RESULTS__ = {
               "date": "Mon 07/12/2026"
             },
             {
+              "home": "David Lloyd Club Hampton 1",
+              "away": "Virgin Active Chiswick Riverside 2",
+              "hs": null,
+              "as": null,
+              "date": "Wed 30/12/2026"
+            },
+            {
               "home": "Holland Park Lawn Tennis Club 2",
               "away": "Thistleworth LTC 1",
               "hs": null,
@@ -1775,13 +1782,6 @@ window.__RESULTS__ = {
             {
               "home": "Park Sports - Lammas Park 1",
               "away": "Brentham Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 22/01/2027"
-            },
-            {
-              "home": "David Lloyd Club Hampton 1",
-              "away": "Virgin Active Chiswick Riverside 2",
               "hs": null,
               "as": null,
               "date": "Fri 22/01/2027"
@@ -1815,6 +1815,13 @@ window.__RESULTS__ = {
               "date": "Fri 12/02/2027"
             },
             {
+              "home": "David Lloyd Club Hampton 1",
+              "away": "Holland Park Lawn Tennis Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Mon 22/02/2027"
+            },
+            {
               "home": "Brentham Lawn Tennis Club 1",
               "away": "Twickenham Lawn Tennis Club 1",
               "hs": null,
@@ -1831,13 +1838,6 @@ window.__RESULTS__ = {
             {
               "home": "Park Sports - Lammas Park 1",
               "away": "Thistleworth LTC 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 05/03/2027"
-            },
-            {
-              "home": "David Lloyd Club Hampton 1",
-              "away": "Holland Park Lawn Tennis Club 2",
               "hs": null,
               "as": null,
               "date": "Fri 05/03/2027"
@@ -2185,8 +2185,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-08-29",
-      "asOf": "2026-08-29",
+      "lastSeen": "2026-08-30",
+      "asOf": "2026-08-30",
       "stale": false,
       "teams": [
         {
@@ -3222,8 +3222,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-08-29",
-      "asOf": "2026-08-29",
+      "lastSeen": "2026-08-30",
+      "asOf": "2026-08-30",
       "stale": false,
       "teams": [
         {
@@ -6882,8 +6882,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-08-29",
-      "asOf": "2026-08-29",
+      "lastSeen": "2026-08-30",
+      "asOf": "2026-08-30",
       "stale": false,
       "teams": [],
       "knockouts": [
