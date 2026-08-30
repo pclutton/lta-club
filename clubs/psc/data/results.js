@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-30T11:41:16.959Z",
+  "generatedAt": "2026-08-30T16:21:05.652Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 19,
-      "matches": 471,
-      "players": 129,
-      "stale": 0
+      "refreshed": 19,
+      "failed": 0
     },
     "competitions": [
       {
@@ -1745,15 +1745,15 @@ window.__RESULTS__ = {
               "date": "Mon 09/11/2026"
             },
             {
-              "home": "Park Sports - Lammas Park 1",
-              "away": "David Lloyd Club Hampton 1",
+              "home": "Thistleworth LTC 1",
+              "away": "Virgin Active Chiswick Riverside 2",
               "hs": null,
               "as": null,
               "date": "Fri 20/11/2026"
             },
             {
-              "home": "Thistleworth LTC 1",
-              "away": "Virgin Active Chiswick Riverside 2",
+              "home": "Park Sports - Lammas Park 1",
+              "away": "David Lloyd Club Hampton 1",
               "hs": null,
               "as": null,
               "date": "Fri 20/11/2026"
@@ -4164,7 +4164,7 @@ window.__RESULTS__ = {
               "won": 5,
               "drawn": 0,
               "lost": 2,
-              "rubbers": "116-48",
+              "rubbers": "116-52",
               "points": 116,
               "form": [
                 "W",
@@ -4227,36 +4227,36 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
-              "name": "Lowlands Club 2",
-              "played": 7,
-              "won": 4,
-              "drawn": 0,
-              "lost": 3,
-              "rubbers": "73-89",
-              "points": 73,
-              "form": [
-                "L",
-                "W",
-                "L",
-                "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 6,
               "name": "Harrow Weald Lawn Tennis Club 1",
               "played": 7,
               "won": 2,
               "drawn": 0,
               "lost": 5,
-              "rubbers": "68-96",
-              "points": 68,
+              "rubbers": "72-96",
+              "points": 72,
               "form": [
                 "L",
                 "L",
                 "L",
                 "W",
                 "L"
+              ]
+            },
+            {
+              "rank": 6,
+              "name": "Lowlands Club 2",
+              "played": 7,
+              "won": 4,
+              "drawn": 0,
+              "lost": 3,
+              "rubbers": "71-97",
+              "points": 71,
+              "form": [
+                "L",
+                "W",
+                "L",
+                "L",
+                "W"
               ]
             },
             {
@@ -4282,8 +4282,8 @@ window.__RESULTS__ = {
               "won": 0,
               "drawn": 1,
               "lost": 6,
-              "rubbers": "24-131",
-              "points": 24,
+              "rubbers": "32-129",
+              "points": 32,
               "form": [
                 "L",
                 "L",
@@ -4443,7 +4443,7 @@ window.__RESULTS__ = {
             {
               "home": "Harrow Weald Lawn Tennis Club 1",
               "away": "Acorn Lawn Tennis Club 1",
-              "hs": 4,
+              "hs": 8,
               "as": 16,
               "date": "Tue 21/07/2026"
             },
@@ -4478,8 +4478,8 @@ window.__RESULTS__ = {
             {
               "home": "David Lloyd Club Northwood 3",
               "away": "Lowlands Club 2",
-              "hs": 2,
-              "as": 16,
+              "hs": 10,
+              "as": 14,
               "date": "Fri 07/08/2026"
             },
             {
@@ -5682,8 +5682,8 @@ window.__RESULTS__ = {
               "won": 3,
               "drawn": 0,
               "lost": 4,
-              "rubbers": "78-86",
-              "points": 78,
+              "rubbers": "82-86",
+              "points": 82,
               "form": [
                 "L",
                 "L",
@@ -5699,7 +5699,7 @@ window.__RESULTS__ = {
               "won": 3,
               "drawn": 2,
               "lost": 2,
-              "rubbers": "72-92",
+              "rubbers": "72-96",
               "points": 72,
               "form": [
                 "W",
@@ -5951,7 +5951,7 @@ window.__RESULTS__ = {
             {
               "home": "David Lloyd Club Northwood 1",
               "away": "Eastcote Lawn Tennis Club 1",
-              "hs": 20,
+              "hs": 24,
               "as": 0,
               "date": "Thu 06/08/2026"
             }
@@ -6129,7 +6129,7 @@ window.__RESULTS__ = {
               "won": 3,
               "drawn": 1,
               "lost": 2,
-              "rubbers": "72-68",
+              "rubbers": "72-72",
               "points": 72,
               "form": [
                 "W",
@@ -6141,6 +6141,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
+              "name": "Eastcote Lawn Tennis Club 2",
+              "played": 6,
+              "won": 2,
+              "drawn": 0,
+              "lost": 4,
+              "rubbers": "67-77",
+              "points": 67,
+              "form": [
+                "L",
+                "W",
+                "L",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Lowlands Club 2",
               "played": 6,
               "won": 2,
@@ -6155,7 +6172,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "David Lloyd Club Sudbury Hill 1",
               "played": 6,
               "won": 1,
@@ -6166,23 +6183,6 @@ window.__RESULTS__ = {
               "form": [
                 "L",
                 "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "Eastcote Lawn Tennis Club 2",
-              "played": 6,
-              "won": 2,
-              "drawn": 0,
-              "lost": 4,
-              "rubbers": "63-77",
-              "points": 63,
-              "form": [
-                "L",
-                "W",
-                "L",
-                "W",
                 "L"
               ]
             },
@@ -6333,7 +6333,7 @@ window.__RESULTS__ = {
               "home": "David Lloyd Club Northwood 2",
               "away": "Eastcote Lawn Tennis Club 2",
               "hs": 16,
-              "as": 4,
+              "as": 8,
               "date": "Mon 27/07/2026"
             },
             {
