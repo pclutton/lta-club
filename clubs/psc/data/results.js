@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-31T13:16:51.465Z",
+  "generatedAt": "2026-08-31T18:58:47.522Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 19,
-      "matches": 471,
-      "players": 129,
-      "stale": 0
+      "refreshed": 19,
+      "failed": 0
     },
     "competitions": [
       {
@@ -225,18 +225,18 @@ window.__RESULTS__ = {
               "date": "Wed 11/11/2026"
             },
             {
+              "home": "Finchley Lawn Tennis Club 1",
+              "away": "Brondesbury Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Fri 13/11/2026"
+            },
+            {
               "home": "West Heath Lawn Tennis Club Limited 1",
               "away": "Paddington Sports Club 1",
               "hs": null,
               "as": null,
               "date": "Thu 19/11/2026"
-            },
-            {
-              "home": "Finchley Lawn Tennis Club 1",
-              "away": "Brondesbury Sports Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 20/11/2026"
             },
             {
               "home": "David Lloyd Club Finchley 1",
