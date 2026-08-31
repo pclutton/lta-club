@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-31T18:58:47.522Z",
+  "generatedAt": "2026-08-31T23:12:07.333Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -2063,18 +2063,18 @@ window.__RESULTS__ = {
               "date": "Thu 19/11/2026"
             },
             {
+              "home": "Totteridge Tennis Club 1",
+              "away": "David Lloyd Club Finchley 1",
+              "hs": null,
+              "as": null,
+              "date": "Mon 23/11/2026"
+            },
+            {
               "home": "West Heath Lawn Tennis Club Limited 1",
               "away": "Paddington Sports Club 1",
               "hs": null,
               "as": null,
               "date": "Tue 19/01/2027"
-            },
-            {
-              "home": "Totteridge Tennis Club 1",
-              "away": "David Lloyd Club Finchley 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 22/01/2027"
             },
             {
               "home": "Finchley Lawn Tennis Club 1",
