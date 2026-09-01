@@ -2,43 +2,43 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-31T23:12:07.333Z",
+  "generatedAt": "2026-09-01T11:28:30.803Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 19,
-      "refreshed": 19,
-      "failed": 0
+      "matches": 471,
+      "players": 129,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-08-31"
+        "asOf": "2026-09-01"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-08-31"
+        "asOf": "2026-09-01"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-08-31"
+        "asOf": "2026-09-01"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-08-31"
+        "asOf": "2026-09-01"
       }
     ]
   },
@@ -47,8 +47,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-08-31",
-      "asOf": "2026-08-31",
+      "lastSeen": "2026-09-01",
+      "asOf": "2026-09-01",
       "stale": false,
       "teams": [
         {
@@ -2185,13 +2185,13 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-08-31",
-      "asOf": "2026-08-31",
+      "lastSeen": "2026-09-01",
+      "asOf": "2026-09-01",
       "stale": false,
       "teams": [
         {
-          "name": "14&U Boys Division 1",
-          "division": "",
+          "name": "14U Boys",
+          "division": "Division 1",
           "pscName": "Paddington Sports Club 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/37",
           "position": 1,
@@ -2408,8 +2408,8 @@ window.__RESULTS__ = {
           ]
         },
         {
-          "name": "16&U Boys Division 1",
-          "division": "",
+          "name": "16U Boys",
+          "division": "Division 1",
           "pscName": "Paddington Sports Club 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/40",
           "position": 3,
@@ -2644,7 +2644,7 @@ window.__RESULTS__ = {
           ]
         },
         {
-          "name": "Open Mens Division 2 onwards",
+          "name": "Open Mens",
           "division": "Division 3 West",
           "pscName": "Paddington Sports Club 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/8",
@@ -2911,8 +2911,8 @@ window.__RESULTS__ = {
           ]
         },
         {
-          "name": "Open Womens Division 1",
-          "division": "",
+          "name": "Open Ladies",
+          "division": "Open Womens Division 1",
           "pscName": "Paddington Sports Club 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/2",
           "position": 4,
@@ -3222,8 +3222,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-08-31",
-      "asOf": "2026-08-31",
+      "lastSeen": "2026-09-01",
+      "asOf": "2026-09-01",
       "stale": false,
       "teams": [
         {
@@ -6882,8 +6882,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-08-31",
-      "asOf": "2026-08-31",
+      "lastSeen": "2026-09-01",
+      "asOf": "2026-09-01",
       "stale": false,
       "teams": [],
       "knockouts": [

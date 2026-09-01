@@ -2,49 +2,49 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-08-31T23:11:23.272Z",
+  "generatedAt": "2026-09-01T11:26:11.320Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 5,
       "teams": 22,
-      "refreshed": 22,
-      "failed": 0
+      "matches": 474,
+      "players": 170,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-08-31"
+        "asOf": "2026-09-01"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-08-31"
+        "asOf": "2026-09-01"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-08-31"
+        "asOf": "2026-09-01"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-08-31"
+        "asOf": "2026-09-01"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-08-31"
+        "asOf": "2026-09-01"
       }
     ]
   },
@@ -53,8 +53,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-08-31",
-      "asOf": "2026-08-31",
+      "lastSeen": "2026-09-01",
+      "asOf": "2026-09-01",
       "stale": false,
       "teams": [
         {
@@ -671,475 +671,10 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-08-31",
-      "asOf": "2026-08-31",
+      "lastSeen": "2026-09-01",
+      "asOf": "2026-09-01",
       "stale": false,
       "teams": [
-        {
-          "name": "11&U Boys Division 1",
-          "division": "",
-          "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-          "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/22",
-          "position": 1,
-          "of": 4,
-          "played": 6,
-          "won": 5,
-          "lost": 1,
-          "points": 10,
-          "form": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "standings": [
-            {
-              "rank": 1,
-              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "played": 6,
-              "won": 5,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "54-18",
-              "points": 10,
-              "form": [
-                "W",
-                "W",
-                "W",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 2,
-              "name": "Hackney Tennis 1",
-              "played": 6,
-              "won": 5,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "50-22",
-              "points": 10,
-              "form": [
-                "W",
-                "W",
-                "L",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 3,
-              "name": "Ealing Lawn Tennis Club 1",
-              "played": 6,
-              "won": 2,
-              "drawn": 0,
-              "lost": 4,
-              "rubbers": "34-38",
-              "points": 4,
-              "form": [
-                "L",
-                "W",
-                "L",
-                "W",
-                "L"
-              ]
-            },
-            {
-              "rank": 4,
-              "name": "Hazelwood Lawn Tennis & Squash Club 1",
-              "played": 6,
-              "won": 0,
-              "drawn": 0,
-              "lost": 6,
-              "rubbers": "6-66",
-              "points": 0,
-              "form": [
-                "L",
-                "L",
-                "L",
-                "L",
-                "L"
-              ]
-            }
-          ],
-          "matches": [
-            {
-              "home": "Hackney Tennis 1",
-              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "hs": 10,
-              "as": 2,
-              "date": "Sun 26/04/2026"
-            },
-            {
-              "home": "Hazelwood Lawn Tennis & Squash Club 1",
-              "away": "Hackney Tennis 1",
-              "hs": 0,
-              "as": 12,
-              "date": "Sat 09/05/2026"
-            },
-            {
-              "home": "Ealing Lawn Tennis Club 1",
-              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "hs": 2,
-              "as": 10,
-              "date": "Sun 10/05/2026"
-            },
-            {
-              "home": "Hackney Tennis 1",
-              "away": "Ealing Lawn Tennis Club 1",
-              "hs": 8,
-              "as": 4,
-              "date": "Sat 23/05/2026"
-            },
-            {
-              "home": "Ealing Lawn Tennis Club 1",
-              "away": "Hazelwood Lawn Tennis & Squash Club 1",
-              "hs": 12,
-              "as": 0,
-              "date": "Sat 30/05/2026"
-            },
-            {
-              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "away": "Hackney Tennis 1",
-              "hs": 10,
-              "as": 2,
-              "date": "Sat 30/05/2026"
-            },
-            {
-              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "away": "Ealing Lawn Tennis Club 1",
-              "hs": 10,
-              "as": 2,
-              "date": "Sat 06/06/2026"
-            },
-            {
-              "home": "Hackney Tennis 1",
-              "away": "Hazelwood Lawn Tennis & Squash Club 1",
-              "hs": 12,
-              "as": 0,
-              "date": "Sat 06/06/2026"
-            },
-            {
-              "home": "Hazelwood Lawn Tennis & Squash Club 1",
-              "away": "Ealing Lawn Tennis Club 1",
-              "hs": 4,
-              "as": 8,
-              "date": "Sun 14/06/2026"
-            },
-            {
-              "home": "Ealing Lawn Tennis Club 1",
-              "away": "Hackney Tennis 1",
-              "hs": 6,
-              "as": 6,
-              "date": "Sat 20/06/2026"
-            },
-            {
-              "home": "Hazelwood Lawn Tennis & Squash Club 1",
-              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "hs": 0,
-              "as": 12,
-              "date": "Sun 21/06/2026"
-            },
-            {
-              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "away": "Hazelwood Lawn Tennis & Squash Club 1",
-              "hs": 10,
-              "as": 2,
-              "date": "Sat 04/07/2026"
-            }
-          ],
-          "results": [],
-          "fixtures": [],
-          "players": [
-            {
-              "name": "Jake Jacobs",
-              "won": 8,
-              "lost": 0,
-              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1228"
-            },
-            {
-              "name": "Avi Shah",
-              "won": 5,
-              "lost": 1,
-              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1227"
-            },
-            {
-              "name": "Rohan Andersson",
-              "won": 5,
-              "lost": 1,
-              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/585"
-            },
-            {
-              "name": "Rian Pacheriwala",
-              "won": 4,
-              "lost": 0,
-              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1229"
-            },
-            {
-              "name": "Zacharia Aneizi",
-              "won": 4,
-              "lost": 0,
-              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1230"
-            },
-            {
-              "name": "Fares Mechri",
-              "won": 3,
-              "lost": 1,
-              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1522"
-            },
-            {
-              "name": "Sam Mayeur Lam",
-              "won": 3,
-              "lost": 1,
-              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1523"
-            },
-            {
-              "name": "Emile Logeais",
-              "won": 2,
-              "lost": 0,
-              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1993"
-            },
-            {
-              "name": "Matthias Klimbacher",
-              "won": 1,
-              "lost": 1,
-              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1992"
-            },
-            {
-              "name": "Daniel Gronlykke Mouriz",
-              "won": 0,
-              "lost": 2,
-              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/586"
-            },
-            {
-              "name": "Paul-Emile Jalbaud",
-              "won": 0,
-              "lost": 2,
-              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/584"
-            },
-            {
-              "name": "Pietro Cardi",
-              "won": 0,
-              "lost": 2,
-              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/587"
-            }
-          ]
-        },
-        {
-          "name": "12&U Boys Division 1",
-          "division": "",
-          "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-          "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/23",
-          "position": 1,
-          "of": 5,
-          "played": 3,
-          "won": 2,
-          "lost": 1,
-          "points": 4,
-          "form": [
-            "W",
-            "W",
-            "W",
-            "L"
-          ],
-          "standings": [
-            {
-              "rank": 1,
-              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "played": 3,
-              "won": 2,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "26-10",
-              "points": 4,
-              "form": [
-                "W",
-                "W",
-                "W",
-                "L"
-              ]
-            },
-            {
-              "rank": 2,
-              "name": "Virgin Active Chiswick Riverside 1",
-              "played": 2,
-              "won": 1,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "12-12",
-              "points": 2,
-              "form": [
-                "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 3,
-              "name": "Hackney Tennis 1",
-              "played": 2,
-              "won": 1,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "10-14",
-              "points": 2,
-              "form": [
-                "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 4,
-              "name": "Coolhurst LTC 1",
-              "played": 1,
-              "won": 0,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "0-12",
-              "points": 0,
-              "form": [
-                "L"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "David Lloyd Club Finchley 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": [
-                "L"
-              ]
-            }
-          ],
-          "matches": [
-            {
-              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "away": "Hackney Tennis 1",
-              "hs": 10,
-              "as": 2,
-              "date": "Sat 25/04/2026"
-            },
-            {
-              "home": "Virgin Active Chiswick Riverside 1",
-              "away": "David Lloyd Club Finchley 1",
-              "hs": null,
-              "as": null,
-              "date": "Sat 25/04/2026"
-            },
-            {
-              "home": "Coolhurst LTC 1",
-              "away": "Virgin Active Chiswick Riverside 1",
-              "hs": null,
-              "as": null,
-              "date": "Sat 02/05/2026"
-            },
-            {
-              "home": "David Lloyd Club Finchley 1",
-              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "hs": 4,
-              "as": 8,
-              "date": "Sat 09/05/2026"
-            },
-            {
-              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "away": "Coolhurst LTC 1",
-              "hs": 12,
-              "as": 0,
-              "date": "Sat 23/05/2026"
-            },
-            {
-              "home": "Hackney Tennis 1",
-              "away": "David Lloyd Club Finchley 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 24/05/2026"
-            },
-            {
-              "home": "Coolhurst LTC 1",
-              "away": "Hackney Tennis 1",
-              "hs": null,
-              "as": null,
-              "date": "Sat 06/06/2026"
-            },
-            {
-              "home": "Hackney Tennis 1",
-              "away": "Virgin Active Chiswick Riverside 1",
-              "hs": 8,
-              "as": 4,
-              "date": "Sun 14/06/2026"
-            },
-            {
-              "home": "David Lloyd Club Finchley 1",
-              "away": "Coolhurst LTC 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 14/06/2026"
-            },
-            {
-              "home": "Virgin Active Chiswick Riverside 1",
-              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "hs": 8,
-              "as": 4,
-              "date": "Sat 27/06/2026"
-            }
-          ],
-          "results": [],
-          "fixtures": [],
-          "players": [
-            {
-              "name": "Daniel Kahan",
-              "won": 6,
-              "lost": 2,
-              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/544"
-            },
-            {
-              "name": "Paul Brunskill",
-              "won": 6,
-              "lost": 2,
-              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/541"
-            },
-            {
-              "name": "Lucas Smallwood",
-              "won": 5,
-              "lost": 1,
-              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1197"
-            },
-            {
-              "name": "Leonardo Sorrentino",
-              "won": 2,
-              "lost": 0,
-              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/543"
-            },
-            {
-              "name": "Nnaemeka Ngoka",
-              "won": 2,
-              "lost": 0,
-              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/604"
-            },
-            {
-              "name": "Paul de Saint Rapt",
-              "won": 1,
-              "lost": 1,
-              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/542"
-            },
-            {
-              "name": "Theo Petzing",
-              "won": 0,
-              "lost": 2,
-              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1926"
-            },
-            {
-              "name": "William Bynum",
-              "won": 0,
-              "lost": 2,
-              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1196"
-            }
-          ]
-        },
         {
           "name": "Open Mens Division 1",
           "division": "",
@@ -1435,7 +970,472 @@ window.__RESULTS__ = {
           ]
         },
         {
-          "name": "Open Mens Division 2 onwards",
+          "name": "11U Boys",
+          "division": "Division 1",
+          "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+          "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/22",
+          "position": 1,
+          "of": 4,
+          "played": 6,
+          "won": 5,
+          "lost": 1,
+          "points": 10,
+          "form": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "standings": [
+            {
+              "rank": 1,
+              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "played": 6,
+              "won": 5,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "54-18",
+              "points": 10,
+              "form": [
+                "W",
+                "W",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
+              "name": "Hackney Tennis 1",
+              "played": 6,
+              "won": 5,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "50-22",
+              "points": 10,
+              "form": [
+                "W",
+                "W",
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
+              "name": "Ealing Lawn Tennis Club 1",
+              "played": 6,
+              "won": 2,
+              "drawn": 0,
+              "lost": 4,
+              "rubbers": "34-38",
+              "points": 4,
+              "form": [
+                "L",
+                "W",
+                "L",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 4,
+              "name": "Hazelwood Lawn Tennis & Squash Club 1",
+              "played": 6,
+              "won": 0,
+              "drawn": 0,
+              "lost": 6,
+              "rubbers": "6-66",
+              "points": 0,
+              "form": [
+                "L",
+                "L",
+                "L",
+                "L",
+                "L"
+              ]
+            }
+          ],
+          "matches": [
+            {
+              "home": "Hackney Tennis 1",
+              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "hs": 10,
+              "as": 2,
+              "date": "Sun 26/04/2026"
+            },
+            {
+              "home": "Hazelwood Lawn Tennis & Squash Club 1",
+              "away": "Hackney Tennis 1",
+              "hs": 0,
+              "as": 12,
+              "date": "Sat 09/05/2026"
+            },
+            {
+              "home": "Ealing Lawn Tennis Club 1",
+              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "hs": 2,
+              "as": 10,
+              "date": "Sun 10/05/2026"
+            },
+            {
+              "home": "Hackney Tennis 1",
+              "away": "Ealing Lawn Tennis Club 1",
+              "hs": 8,
+              "as": 4,
+              "date": "Sat 23/05/2026"
+            },
+            {
+              "home": "Ealing Lawn Tennis Club 1",
+              "away": "Hazelwood Lawn Tennis & Squash Club 1",
+              "hs": 12,
+              "as": 0,
+              "date": "Sat 30/05/2026"
+            },
+            {
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "away": "Hackney Tennis 1",
+              "hs": 10,
+              "as": 2,
+              "date": "Sat 30/05/2026"
+            },
+            {
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "away": "Ealing Lawn Tennis Club 1",
+              "hs": 10,
+              "as": 2,
+              "date": "Sat 06/06/2026"
+            },
+            {
+              "home": "Hackney Tennis 1",
+              "away": "Hazelwood Lawn Tennis & Squash Club 1",
+              "hs": 12,
+              "as": 0,
+              "date": "Sat 06/06/2026"
+            },
+            {
+              "home": "Hazelwood Lawn Tennis & Squash Club 1",
+              "away": "Ealing Lawn Tennis Club 1",
+              "hs": 4,
+              "as": 8,
+              "date": "Sun 14/06/2026"
+            },
+            {
+              "home": "Ealing Lawn Tennis Club 1",
+              "away": "Hackney Tennis 1",
+              "hs": 6,
+              "as": 6,
+              "date": "Sat 20/06/2026"
+            },
+            {
+              "home": "Hazelwood Lawn Tennis & Squash Club 1",
+              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "hs": 0,
+              "as": 12,
+              "date": "Sun 21/06/2026"
+            },
+            {
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "away": "Hazelwood Lawn Tennis & Squash Club 1",
+              "hs": 10,
+              "as": 2,
+              "date": "Sat 04/07/2026"
+            }
+          ],
+          "results": [],
+          "fixtures": [],
+          "players": [
+            {
+              "name": "Jake Jacobs",
+              "won": 8,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1228"
+            },
+            {
+              "name": "Avi Shah",
+              "won": 5,
+              "lost": 1,
+              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1227"
+            },
+            {
+              "name": "Rohan Andersson",
+              "won": 5,
+              "lost": 1,
+              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/585"
+            },
+            {
+              "name": "Rian Pacheriwala",
+              "won": 4,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1229"
+            },
+            {
+              "name": "Zacharia Aneizi",
+              "won": 4,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1230"
+            },
+            {
+              "name": "Fares Mechri",
+              "won": 3,
+              "lost": 1,
+              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1522"
+            },
+            {
+              "name": "Sam Mayeur Lam",
+              "won": 3,
+              "lost": 1,
+              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1523"
+            },
+            {
+              "name": "Emile Logeais",
+              "won": 2,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1993"
+            },
+            {
+              "name": "Matthias Klimbacher",
+              "won": 1,
+              "lost": 1,
+              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1992"
+            },
+            {
+              "name": "Daniel Gronlykke Mouriz",
+              "won": 0,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/586"
+            },
+            {
+              "name": "Paul-Emile Jalbaud",
+              "won": 0,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/584"
+            },
+            {
+              "name": "Pietro Cardi",
+              "won": 0,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/587"
+            }
+          ]
+        },
+        {
+          "name": "12U Boys",
+          "division": "Division 1",
+          "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+          "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/23",
+          "position": 1,
+          "of": 5,
+          "played": 3,
+          "won": 2,
+          "lost": 1,
+          "points": 4,
+          "form": [
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "standings": [
+            {
+              "rank": 1,
+              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "played": 3,
+              "won": 2,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "26-10",
+              "points": 4,
+              "form": [
+                "W",
+                "W",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 2,
+              "name": "Virgin Active Chiswick Riverside 1",
+              "played": 2,
+              "won": 1,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "12-12",
+              "points": 2,
+              "form": [
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
+              "name": "Hackney Tennis 1",
+              "played": 2,
+              "won": 1,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "10-14",
+              "points": 2,
+              "form": [
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
+              "name": "Coolhurst LTC 1",
+              "played": 1,
+              "won": 0,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "0-12",
+              "points": 0,
+              "form": [
+                "L"
+              ]
+            },
+            {
+              "rank": 5,
+              "name": "David Lloyd Club Finchley 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": [
+                "L"
+              ]
+            }
+          ],
+          "matches": [
+            {
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "away": "Hackney Tennis 1",
+              "hs": 10,
+              "as": 2,
+              "date": "Sat 25/04/2026"
+            },
+            {
+              "home": "Virgin Active Chiswick Riverside 1",
+              "away": "David Lloyd Club Finchley 1",
+              "hs": null,
+              "as": null,
+              "date": "Sat 25/04/2026"
+            },
+            {
+              "home": "Coolhurst LTC 1",
+              "away": "Virgin Active Chiswick Riverside 1",
+              "hs": null,
+              "as": null,
+              "date": "Sat 02/05/2026"
+            },
+            {
+              "home": "David Lloyd Club Finchley 1",
+              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "hs": 4,
+              "as": 8,
+              "date": "Sat 09/05/2026"
+            },
+            {
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "away": "Coolhurst LTC 1",
+              "hs": 12,
+              "as": 0,
+              "date": "Sat 23/05/2026"
+            },
+            {
+              "home": "Hackney Tennis 1",
+              "away": "David Lloyd Club Finchley 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 24/05/2026"
+            },
+            {
+              "home": "Coolhurst LTC 1",
+              "away": "Hackney Tennis 1",
+              "hs": null,
+              "as": null,
+              "date": "Sat 06/06/2026"
+            },
+            {
+              "home": "Hackney Tennis 1",
+              "away": "Virgin Active Chiswick Riverside 1",
+              "hs": 8,
+              "as": 4,
+              "date": "Sun 14/06/2026"
+            },
+            {
+              "home": "David Lloyd Club Finchley 1",
+              "away": "Coolhurst LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 14/06/2026"
+            },
+            {
+              "home": "Virgin Active Chiswick Riverside 1",
+              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "hs": 8,
+              "as": 4,
+              "date": "Sat 27/06/2026"
+            }
+          ],
+          "results": [],
+          "fixtures": [],
+          "players": [
+            {
+              "name": "Daniel Kahan",
+              "won": 6,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/544"
+            },
+            {
+              "name": "Paul Brunskill",
+              "won": 6,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/541"
+            },
+            {
+              "name": "Lucas Smallwood",
+              "won": 5,
+              "lost": 1,
+              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1197"
+            },
+            {
+              "name": "Leonardo Sorrentino",
+              "won": 2,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/543"
+            },
+            {
+              "name": "Nnaemeka Ngoka",
+              "won": 2,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/604"
+            },
+            {
+              "name": "Paul de Saint Rapt",
+              "won": 1,
+              "lost": 1,
+              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/542"
+            },
+            {
+              "name": "Theo Petzing",
+              "won": 0,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1926"
+            },
+            {
+              "name": "William Bynum",
+              "won": 0,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1196"
+            }
+          ]
+        },
+        {
+          "name": "Open Mens",
           "division": "Open Mens Division 2",
           "pscName": "Cumberland Lawn Tennis Club 3",
           "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/10",
@@ -1729,8 +1729,8 @@ window.__RESULTS__ = {
           ]
         },
         {
-          "name": "14&U Girls Division 1",
-          "division": "",
+          "name": "14U Girls",
+          "division": "Division 1",
           "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/25",
           "position": 3,
@@ -1946,8 +1946,8 @@ window.__RESULTS__ = {
           ]
         },
         {
-          "name": "Open Womens Division 1",
-          "division": "",
+          "name": "Open Ladies",
+          "division": "Open Womens Division 1",
           "pscName": "Cumberland Lawn Tennis Club 2",
           "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/2",
           "position": 3,
@@ -2258,8 +2258,8 @@ window.__RESULTS__ = {
           ]
         },
         {
-          "name": "12&U Girls Division 2",
-          "division": "",
+          "name": "12U Girls",
+          "division": "Division 2",
           "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/65",
           "position": 1,
@@ -2473,8 +2473,8 @@ window.__RESULTS__ = {
           ]
         },
         {
-          "name": "10&U Mixed Division 1",
-          "division": "",
+          "name": "10U Mixed",
+          "division": "Division 1",
           "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/21",
           "position": 3,
@@ -2811,8 +2811,8 @@ window.__RESULTS__ = {
           ]
         },
         {
-          "name": "8&U Mixed Division 1",
-          "division": "",
+          "name": "8U Mixed",
+          "division": "Division 1",
           "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/17",
           "position": 2,
@@ -3034,8 +3034,8 @@ window.__RESULTS__ = {
           ]
         },
         {
-          "name": "9&U Mixed Division 1",
-          "division": "",
+          "name": "9U Mixed",
+          "division": "Division 1",
           "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/20",
           "position": 3,
@@ -3386,8 +3386,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-08-31",
-      "asOf": "2026-08-31",
+      "lastSeen": "2026-09-01",
+      "asOf": "2026-09-01",
       "stale": false,
       "teams": [
         {
@@ -7464,8 +7464,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "current",
-      "lastSeen": "2026-08-31",
-      "asOf": "2026-08-31",
+      "lastSeen": "2026-09-01",
+      "asOf": "2026-09-01",
       "stale": false,
       "teams": [
         {
@@ -7906,8 +7906,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-08-31",
-      "asOf": "2026-08-31",
+      "lastSeen": "2026-09-01",
+      "asOf": "2026-09-01",
       "stale": false,
       "teams": [],
       "knockouts": [
