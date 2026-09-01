@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-01T11:26:11.320Z",
+  "generatedAt": "2026-09-01T16:18:19.745Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 5,
       "teams": 22,
-      "matches": 474,
-      "players": 170,
-      "stale": 0
+      "refreshed": 22,
+      "failed": 0
     },
     "competitions": [
       {
@@ -203,15 +203,15 @@ window.__RESULTS__ = {
               "date": "Thu 08/10/2026"
             },
             {
-              "home": "Mercury LTC 1",
-              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 23/10/2026"
-            },
-            {
               "home": "Temple Fortune Club 1",
               "away": "Finchley Lawn Tennis Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Tue 13/10/2026"
+            },
+            {
+              "home": "Mercury LTC 1",
+              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "hs": null,
               "as": null,
               "date": "Fri 23/10/2026"
@@ -259,18 +259,18 @@ window.__RESULTS__ = {
               "date": "Tue 08/12/2026"
             },
             {
+              "home": "Temple Fortune Club 1",
+              "away": "Totteridge Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Tue 12/01/2027"
+            },
+            {
               "home": "South Hampstead Tennis Club 1",
               "away": "Finchley Lawn Tennis Club 2",
               "hs": null,
               "as": null,
               "date": "Thu 21/01/2027"
-            },
-            {
-              "home": "Temple Fortune Club 1",
-              "away": "Totteridge Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 22/01/2027"
             },
             {
               "home": "Totteridge Tennis Club 1",
@@ -336,18 +336,18 @@ window.__RESULTS__ = {
               "date": "Mon 08/03/2027"
             },
             {
+              "home": "Temple Fortune Club 1",
+              "away": "Paddington Sports Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Wed 17/03/2027"
+            },
+            {
               "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "away": "Paddington Sports Club 3",
               "hs": null,
               "as": null,
               "date": "Thu 18/03/2027"
-            },
-            {
-              "home": "Temple Fortune Club 1",
-              "away": "Paddington Sports Club 2",
-              "hs": null,
-              "as": null,
-              "date": "Fri 19/03/2027"
             },
             {
               "home": "Mercury LTC 1",
