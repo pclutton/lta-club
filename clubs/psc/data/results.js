@@ -2,43 +2,43 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-03T21:37:28.276Z",
+  "generatedAt": "2026-09-04T11:08:46.018Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 4,
       "teams": 19,
-      "refreshed": 19,
-      "failed": 0
+      "matches": 471,
+      "players": 129,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-09-03"
+        "asOf": "2026-09-04"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-09-03"
+        "asOf": "2026-09-04"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-09-03"
+        "asOf": "2026-09-04"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-09-03"
+        "asOf": "2026-09-04"
       }
     ]
   },
@@ -47,8 +47,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-09-03",
-      "asOf": "2026-09-03",
+      "lastSeen": "2026-09-04",
+      "asOf": "2026-09-04",
       "stale": false,
       "teams": [
         {
@@ -1880,7 +1880,7 @@ window.__RESULTS__ = {
           "division": "Division 1 North East",
           "pscName": "Paddington Sports Club 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/10",
-          "position": 3,
+          "position": 8,
           "of": 8,
           "played": 0,
           "won": 0,
@@ -1890,61 +1890,32 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
-              "name": "Totteridge Tennis Club 1",
-              "played": 0,
-              "won": 0,
+              "name": "David Lloyd Club Finchley 1",
+              "played": 1,
+              "won": 1,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
+              "rubbers": "10-6",
+              "points": 10,
+              "form": [
+                "W"
+              ]
             },
             {
               "rank": 2,
-              "name": "West Heath Lawn Tennis Club Limited 1",
-              "played": 0,
+              "name": "Totteridge Tennis Club 2",
+              "played": 1,
               "won": 0,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
+              "lost": 1,
+              "rubbers": "6-10",
+              "points": 6,
+              "form": [
+                "L"
+              ]
             },
             {
               "rank": 3,
-              "name": "Paddington Sports Club 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
-              "rank": 4,
-              "name": "David Lloyd Club Finchley 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
-              "rank": 5,
-              "name": "Totteridge Tennis Club 2",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
-              "rank": 6,
               "name": "Oakleigh Park Lawn Tennis & Squash Club 2",
               "played": 0,
               "won": 0,
@@ -1955,7 +1926,7 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 7,
+              "rank": 4,
               "name": "Finchley Lawn Tennis Club 1",
               "played": 0,
               "won": 0,
@@ -1966,8 +1937,41 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 8,
+              "rank": 5,
               "name": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 6,
+              "name": "Totteridge Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 7,
+              "name": "West Heath Lawn Tennis Club Limited 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 8,
+              "name": "Paddington Sports Club 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -1981,8 +1985,8 @@ window.__RESULTS__ = {
             {
               "home": "David Lloyd Club Finchley 1",
               "away": "Totteridge Tennis Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 10,
+              "as": 6,
               "date": "Thu 03/09/2026"
             },
             {
@@ -2185,8 +2189,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-09-03",
-      "asOf": "2026-09-03",
+      "lastSeen": "2026-09-04",
+      "asOf": "2026-09-04",
       "stale": false,
       "teams": [
         {
@@ -3222,8 +3226,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-09-03",
-      "asOf": "2026-09-03",
+      "lastSeen": "2026-09-04",
+      "asOf": "2026-09-04",
       "stale": false,
       "teams": [
         {
@@ -3247,23 +3251,6 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
-              "name": "West Middlesex Lawn Tennis Club Ltd 1",
-              "played": 7,
-              "won": 5,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "97-71",
-              "points": 97,
-              "form": [
-                "W",
-                "W",
-                "W",
-                "W",
-                "L"
-              ]
-            },
-            {
-              "rank": 2,
               "name": "Campden Hill Lawn Tennis Club 4",
               "played": 7,
               "won": 5,
@@ -3280,7 +3267,41 @@ window.__RESULTS__ = {
               ]
             },
             {
+              "rank": 2,
+              "name": "West Middlesex Lawn Tennis Club Ltd 1",
+              "played": 7,
+              "won": 5,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "97-71",
+              "points": 97,
+              "form": [
+                "W",
+                "W",
+                "W",
+                "W",
+                "L"
+              ]
+            },
+            {
               "rank": 3,
+              "name": "Campden Hill Lawn Tennis Club 3",
+              "played": 7,
+              "won": 5,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "94-74",
+              "points": 94,
+              "form": [
+                "W",
+                "W",
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "David Lloyd Club Acton Park 1",
               "played": 7,
               "won": 2,
@@ -3296,7 +3317,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
               "name": "Eastcote Lawn Tennis Club 1",
               "played": 7,
               "won": 2,
@@ -3313,7 +3334,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Ealing Lawn Tennis Club 2",
               "played": 7,
               "won": 2,
@@ -3323,23 +3344,6 @@ window.__RESULTS__ = {
               "points": 82,
               "form": [
                 "L",
-                "L",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "Campden Hill Lawn Tennis Club 3",
-              "played": 7,
-              "won": 5,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "94-74",
-              "points": 94,
-              "form": [
-                "W",
-                "W",
                 "L",
                 "W",
                 "W"
@@ -3714,6 +3718,22 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Brentham Lawn Tennis Club 2",
+              "played": 7,
+              "won": 5,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "120-48",
+              "points": 120,
+              "form": [
+                "L",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Teddington Lawn Tennis Club 6",
               "played": 7,
               "won": 4,
@@ -3725,22 +3745,6 @@ window.__RESULTS__ = {
                 "W",
                 "L",
                 "L",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 2,
-              "name": "Brentham Lawn Tennis Club 2",
-              "played": 7,
-              "won": 5,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "120-48",
-              "points": 120,
-              "form": [
-                "L",
-                "W",
                 "W",
                 "W"
               ]
@@ -4143,7 +4147,7 @@ window.__RESULTS__ = {
           "division": "North West Division 3",
           "pscName": "Paddington Sports Club 3",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/35",
-          "position": 5,
+          "position": 4,
           "of": 8,
           "played": 7,
           "won": 5,
@@ -4159,40 +4163,6 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
-              "name": "Kenton Lawn Tennis Club 2",
-              "played": 7,
-              "won": 5,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "114-54",
-              "points": 114,
-              "form": [
-                "W",
-                "W",
-                "W",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 2,
-              "name": "Headstone Lawn Tennis Club 2",
-              "played": 7,
-              "won": 5,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "106-62",
-              "points": 106,
-              "form": [
-                "W",
-                "L",
-                "W",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 3,
               "name": "Acorn Lawn Tennis Club 1",
               "played": 7,
               "won": 5,
@@ -4209,24 +4179,41 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
-              "name": "Lowlands Club 2",
+              "rank": 2,
+              "name": "Kenton Lawn Tennis Club 2",
               "played": 7,
-              "won": 4,
+              "won": 5,
               "drawn": 0,
-              "lost": 3,
-              "rubbers": "71-97",
-              "points": 71,
+              "lost": 2,
+              "rubbers": "114-54",
+              "points": 114,
               "form": [
-                "L",
                 "W",
-                "L",
-                "L",
+                "W",
+                "W",
+                "W",
                 "W"
               ]
             },
             {
-              "rank": 5,
+              "rank": 3,
+              "name": "Headstone Lawn Tennis Club 2",
+              "played": 7,
+              "won": 5,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "106-62",
+              "points": 106,
+              "form": [
+                "W",
+                "L",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Paddington Sports Club 3",
               "played": 7,
               "won": 5,
@@ -4243,7 +4230,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 6,
+              "rank": 5,
               "name": "Harrow Weald Lawn Tennis Club 1",
               "played": 7,
               "won": 2,
@@ -4257,6 +4244,23 @@ window.__RESULTS__ = {
                 "L",
                 "W",
                 "L"
+              ]
+            },
+            {
+              "rank": 6,
+              "name": "Lowlands Club 2",
+              "played": 7,
+              "won": 4,
+              "drawn": 0,
+              "lost": 3,
+              "rubbers": "71-97",
+              "points": 71,
+              "form": [
+                "L",
+                "W",
+                "L",
+                "L",
+                "W"
               ]
             },
             {
@@ -4592,7 +4596,7 @@ window.__RESULTS__ = {
           "division": "North West Division 5",
           "pscName": "Paddington Sports Club 4",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/4",
-          "position": 3,
+          "position": 4,
           "of": 9,
           "played": 8,
           "won": 3,
@@ -4641,22 +4645,6 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
-              "name": "Paddington Sports Club 4",
-              "played": 8,
-              "won": 3,
-              "drawn": 2,
-              "lost": 3,
-              "rubbers": "108-84",
-              "points": 107,
-              "form": [
-                "W",
-                "W",
-                "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 4,
               "name": "Hatch End Lawn Tennis Club 3",
               "played": 8,
               "won": 6,
@@ -4669,6 +4657,22 @@ window.__RESULTS__ = {
                 "L",
                 "W",
                 "W"
+              ]
+            },
+            {
+              "rank": 4,
+              "name": "Paddington Sports Club 4",
+              "played": 8,
+              "won": 3,
+              "drawn": 2,
+              "lost": 3,
+              "rubbers": "108-84",
+              "points": 107,
+              "form": [
+                "W",
+                "W",
+                "L",
+                "L"
               ]
             },
             {
@@ -5205,22 +5209,6 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
-              "name": "David Lloyd Club Acton Park 1",
-              "played": 7,
-              "won": 3,
-              "drawn": 1,
-              "lost": 3,
-              "rubbers": "84-84",
-              "points": 84,
-              "form": [
-                "W",
-                "L",
-                "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 6,
               "name": "Teddington Lawn Tennis Club 2",
               "played": 7,
               "won": 3,
@@ -5234,6 +5222,22 @@ window.__RESULTS__ = {
                 "L",
                 "W",
                 "L"
+              ]
+            },
+            {
+              "rank": 6,
+              "name": "David Lloyd Club Acton Park 1",
+              "played": 7,
+              "won": 3,
+              "drawn": 1,
+              "lost": 3,
+              "rubbers": "84-84",
+              "points": 84,
+              "form": [
+                "W",
+                "L",
+                "L",
+                "W"
               ]
             },
             {
@@ -5629,22 +5633,6 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
-              "name": "Headstone Lawn Tennis Club 1",
-              "played": 7,
-              "won": 5,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "118-50",
-              "points": 118,
-              "form": [
-                "W",
-                "W",
-                "W",
-                "L"
-              ]
-            },
-            {
-              "rank": 2,
               "name": "Teddington Lawn Tennis Club 3",
               "played": 7,
               "won": 5,
@@ -5657,6 +5645,22 @@ window.__RESULTS__ = {
                 "W",
                 "W",
                 "W"
+              ]
+            },
+            {
+              "rank": 2,
+              "name": "Headstone Lawn Tennis Club 1",
+              "played": 7,
+              "won": 5,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "118-50",
+              "points": 118,
+              "form": [
+                "W",
+                "W",
+                "W",
+                "L"
               ]
             },
             {
@@ -6076,7 +6080,7 @@ window.__RESULTS__ = {
           "division": "North West Division 2",
           "pscName": "Paddington Sports Club 4",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/34",
-          "position": 6,
+          "position": 7,
           "of": 7,
           "played": 6,
           "won": 1,
@@ -6124,6 +6128,23 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "David Lloyd Club Northwood 2",
+              "played": 6,
+              "won": 3,
+              "drawn": 1,
+              "lost": 2,
+              "rubbers": "72-72",
+              "points": 72,
+              "form": [
+                "W",
+                "W",
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Eastcote Lawn Tennis Club 2",
               "played": 6,
               "won": 2,
@@ -6140,7 +6161,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
               "name": "David Lloyd Club Sudbury Hill 1",
               "played": 6,
               "won": 1,
@@ -6155,7 +6176,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Lowlands Club 2",
               "played": 6,
               "won": 2,
@@ -6170,7 +6191,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 6,
+              "rank": 7,
               "name": "Paddington Sports Club 4",
               "played": 6,
               "won": 1,
@@ -6182,23 +6203,6 @@ window.__RESULTS__ = {
                 "L",
                 "W",
                 "L"
-              ]
-            },
-            {
-              "rank": 7,
-              "name": "David Lloyd Club Northwood 2",
-              "played": 6,
-              "won": 3,
-              "drawn": 1,
-              "lost": 2,
-              "rubbers": "72-72",
-              "points": 72,
-              "form": [
-                "W",
-                "W",
-                "L",
-                "L",
-                "W"
               ]
             }
           ],
@@ -6882,8 +6886,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-09-03",
-      "asOf": "2026-09-03",
+      "lastSeen": "2026-09-04",
+      "asOf": "2026-09-04",
       "stale": false,
       "teams": [],
       "knockouts": [

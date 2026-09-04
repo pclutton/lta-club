@@ -2,49 +2,49 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-03T21:36:42.696Z",
+  "generatedAt": "2026-09-04T11:06:17.073Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 5,
       "teams": 22,
-      "refreshed": 22,
-      "failed": 0
+      "matches": 474,
+      "players": 170,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-09-03"
+        "asOf": "2026-09-04"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-09-03"
+        "asOf": "2026-09-04"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-09-03"
+        "asOf": "2026-09-04"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-09-03"
+        "asOf": "2026-09-04"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-09-03"
+        "asOf": "2026-09-04"
       }
     ]
   },
@@ -53,8 +53,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-09-03",
-      "asOf": "2026-09-03",
+      "lastSeen": "2026-09-04",
+      "asOf": "2026-09-04",
       "stale": false,
       "teams": [
         {
@@ -671,8 +671,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-09-03",
-      "asOf": "2026-09-03",
+      "lastSeen": "2026-09-04",
+      "asOf": "2026-09-04",
       "stale": false,
       "teams": [
         {
@@ -3386,8 +3386,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-09-03",
-      "asOf": "2026-09-03",
+      "lastSeen": "2026-09-04",
+      "asOf": "2026-09-04",
       "stale": false,
       "teams": [
         {
@@ -3426,18 +3426,18 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
-              "name": "Vicars Moor 1",
+              "name": "Cumberland 2",
               "played": 7,
-              "won": 4,
+              "won": 3,
               "drawn": 1,
-              "lost": 2,
-              "rubbers": "86-73",
-              "points": 86,
+              "lost": 3,
+              "rubbers": "89-79",
+              "points": 89,
               "form": [
                 "W",
                 "W",
-                "L",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -3458,18 +3458,18 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
-              "name": "Cumberland 2",
+              "name": "Vicars Moor 1",
               "played": 7,
-              "won": 3,
+              "won": 4,
               "drawn": 1,
-              "lost": 3,
-              "rubbers": "89-79",
-              "points": 89,
+              "lost": 2,
+              "rubbers": "86-73",
+              "points": 86,
               "form": [
                 "W",
                 "W",
-                "W",
-                "L"
+                "L",
+                "W"
               ]
             },
             {
@@ -3489,21 +3489,6 @@ window.__RESULTS__ = {
             },
             {
               "rank": 6,
-              "name": "Coolhurst 1",
-              "played": 7,
-              "won": 1,
-              "drawn": 2,
-              "lost": 4,
-              "rubbers": "73-95",
-              "points": 73,
-              "form": [
-                "L",
-                "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 7,
               "name": "Hazelwood 1",
               "played": 7,
               "won": 3,
@@ -3514,6 +3499,21 @@ window.__RESULTS__ = {
               "form": [
                 "W",
                 "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 7,
+              "name": "Coolhurst 1",
+              "played": 7,
+              "won": 1,
+              "drawn": 2,
+              "lost": 4,
+              "rubbers": "73-95",
+              "points": 73,
+              "form": [
+                "L",
+                "L",
                 "L"
               ]
             },
@@ -3833,7 +3833,7 @@ window.__RESULTS__ = {
           "division": "East Premier",
           "pscName": "Cumberland 2",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/55",
-          "position": 4,
+          "position": 2,
           "of": 8,
           "played": 7,
           "won": 3,
@@ -3864,18 +3864,18 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
-              "name": "Vicars Moor 1",
+              "name": "Cumberland 2",
               "played": 7,
-              "won": 4,
+              "won": 3,
               "drawn": 1,
-              "lost": 2,
-              "rubbers": "86-73",
-              "points": 86,
+              "lost": 3,
+              "rubbers": "89-79",
+              "points": 89,
               "form": [
                 "W",
                 "W",
-                "L",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -3896,18 +3896,18 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
-              "name": "Cumberland 2",
+              "name": "Vicars Moor 1",
               "played": 7,
-              "won": 3,
+              "won": 4,
               "drawn": 1,
-              "lost": 3,
-              "rubbers": "89-79",
-              "points": 89,
+              "lost": 2,
+              "rubbers": "86-73",
+              "points": 86,
               "form": [
                 "W",
                 "W",
-                "W",
-                "L"
+                "L",
+                "W"
               ]
             },
             {
@@ -3927,21 +3927,6 @@ window.__RESULTS__ = {
             },
             {
               "rank": 6,
-              "name": "Coolhurst 1",
-              "played": 7,
-              "won": 1,
-              "drawn": 2,
-              "lost": 4,
-              "rubbers": "73-95",
-              "points": 73,
-              "form": [
-                "L",
-                "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 7,
               "name": "Hazelwood 1",
               "played": 7,
               "won": 3,
@@ -3952,6 +3937,21 @@ window.__RESULTS__ = {
               "form": [
                 "W",
                 "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 7,
+              "name": "Coolhurst 1",
+              "played": 7,
+              "won": 1,
+              "drawn": 2,
+              "lost": 4,
+              "rubbers": "73-95",
+              "points": 73,
+              "form": [
+                "L",
+                "L",
                 "L"
               ]
             },
@@ -4295,7 +4295,7 @@ window.__RESULTS__ = {
           "division": "East Intermediate",
           "pscName": "Cumberland 3",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/7",
-          "position": 3,
+          "position": 2,
           "of": 7,
           "played": 6,
           "won": 5,
@@ -4328,23 +4328,6 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
-              "name": "Globe 1",
-              "played": 6,
-              "won": 4,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "77-52",
-              "points": 92,
-              "form": [
-                "L",
-                "W",
-                "W",
-                "W",
-                "L"
-              ]
-            },
-            {
-              "rank": 3,
               "name": "Cumberland 3",
               "played": 6,
               "won": 5,
@@ -4358,6 +4341,23 @@ window.__RESULTS__ = {
                 "W",
                 "W",
                 "W"
+              ]
+            },
+            {
+              "rank": 3,
+              "name": "Globe 1",
+              "played": 6,
+              "won": 4,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "77-52",
+              "points": 92,
+              "form": [
+                "L",
+                "W",
+                "W",
+                "W",
+                "L"
               ]
             },
             {
@@ -4676,7 +4676,7 @@ window.__RESULTS__ = {
           "division": "North East Division 1",
           "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 4",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/39",
-          "position": 1,
+          "position": 2,
           "of": 9,
           "played": 8,
           "won": 6,
@@ -4692,23 +4692,6 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
-              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 4",
-              "played": 8,
-              "won": 6,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "137-55",
-              "points": 137,
-              "form": [
-                "W",
-                "L",
-                "W",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 2,
               "name": "Chandos Lawn Tennis Club 2",
               "played": 8,
               "won": 8,
@@ -4725,14 +4708,14 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
-              "name": "Finchley Manor Tennis Squash and Health Club 2",
+              "rank": 2,
+              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 4",
               "played": 8,
               "won": 6,
               "drawn": 0,
               "lost": 2,
-              "rubbers": "122-70",
-              "points": 122,
+              "rubbers": "137-55",
+              "points": 137,
               "form": [
                 "W",
                 "L",
@@ -4742,7 +4725,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 3,
               "name": "Coolhurst LTC 2",
               "played": 8,
               "won": 6,
@@ -4754,6 +4737,23 @@ window.__RESULTS__ = {
                 "W",
                 "W",
                 "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
+              "name": "Finchley Manor Tennis Squash and Health Club 2",
+              "played": 8,
+              "won": 6,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "122-70",
+              "points": 122,
+              "form": [
+                "W",
+                "L",
+                "W",
                 "W",
                 "W"
               ]
@@ -5226,23 +5226,6 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
-              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 4",
-              "played": 8,
-              "won": 6,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "137-55",
-              "points": 137,
-              "form": [
-                "W",
-                "L",
-                "W",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 2,
               "name": "Chandos Lawn Tennis Club 2",
               "played": 8,
               "won": 8,
@@ -5259,14 +5242,14 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
-              "name": "Finchley Manor Tennis Squash and Health Club 2",
+              "rank": 2,
+              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 4",
               "played": 8,
               "won": 6,
               "drawn": 0,
               "lost": 2,
-              "rubbers": "122-70",
-              "points": 122,
+              "rubbers": "137-55",
+              "points": 137,
               "form": [
                 "W",
                 "L",
@@ -5276,7 +5259,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 3,
               "name": "Coolhurst LTC 2",
               "played": 8,
               "won": 6,
@@ -5288,6 +5271,23 @@ window.__RESULTS__ = {
                 "W",
                 "W",
                 "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
+              "name": "Finchley Manor Tennis Squash and Health Club 2",
+              "played": 8,
+              "won": 6,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "122-70",
+              "points": 122,
+              "form": [
+                "W",
+                "L",
+                "W",
                 "W",
                 "W"
               ]
@@ -5768,7 +5768,7 @@ window.__RESULTS__ = {
           "division": "East Premier",
           "pscName": "Cumberland 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/51",
-          "position": 3,
+          "position": 2,
           "of": 7,
           "played": 6,
           "won": 4,
@@ -5799,6 +5799,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Cumberland 1",
+              "played": 6,
+              "won": 4,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "91-53",
+              "points": 91,
+              "form": [
+                "L",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "Hazelwood 1",
               "played": 6,
               "won": 4,
@@ -5815,40 +5831,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
-              "name": "Cumberland 1",
-              "played": 6,
-              "won": 4,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "91-53",
-              "points": 91,
-              "form": [
-                "L",
-                "W",
-                "W",
-                "W"
-              ]
-            },
-            {
               "rank": 4,
-              "name": "Cumberland 2",
-              "played": 6,
-              "won": 2,
-              "drawn": 0,
-              "lost": 4,
-              "rubbers": "61-83",
-              "points": 61,
-              "form": [
-                "L",
-                "L",
-                "W",
-                "W",
-                "L"
-              ]
-            },
-            {
-              "rank": 5,
               "name": "Coolhurst LTC 1",
               "played": 6,
               "won": 3,
@@ -5862,6 +5845,23 @@ window.__RESULTS__ = {
                 "W",
                 "L",
                 "W"
+              ]
+            },
+            {
+              "rank": 5,
+              "name": "Cumberland 2",
+              "played": 6,
+              "won": 2,
+              "drawn": 0,
+              "lost": 4,
+              "rubbers": "61-83",
+              "points": 61,
+              "form": [
+                "L",
+                "L",
+                "W",
+                "W",
+                "L"
               ]
             },
             {
@@ -6190,7 +6190,7 @@ window.__RESULTS__ = {
           "division": "East Premier",
           "pscName": "Cumberland 2",
           "leagueUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/51",
-          "position": 4,
+          "position": 5,
           "of": 7,
           "played": 6,
           "won": 2,
@@ -6222,6 +6222,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Cumberland 1",
+              "played": 6,
+              "won": 4,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "91-53",
+              "points": 91,
+              "form": [
+                "L",
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "Hazelwood 1",
               "played": 6,
               "won": 4,
@@ -6238,40 +6254,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
-              "name": "Cumberland 1",
-              "played": 6,
-              "won": 4,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "91-53",
-              "points": 91,
-              "form": [
-                "L",
-                "W",
-                "W",
-                "W"
-              ]
-            },
-            {
               "rank": 4,
-              "name": "Cumberland 2",
-              "played": 6,
-              "won": 2,
-              "drawn": 0,
-              "lost": 4,
-              "rubbers": "61-83",
-              "points": 61,
-              "form": [
-                "L",
-                "L",
-                "W",
-                "W",
-                "L"
-              ]
-            },
-            {
-              "rank": 5,
               "name": "Coolhurst LTC 1",
               "played": 6,
               "won": 3,
@@ -6285,6 +6268,23 @@ window.__RESULTS__ = {
                 "W",
                 "L",
                 "W"
+              ]
+            },
+            {
+              "rank": 5,
+              "name": "Cumberland 2",
+              "played": 6,
+              "won": 2,
+              "drawn": 0,
+              "lost": 4,
+              "rubbers": "61-83",
+              "points": 61,
+              "form": [
+                "L",
+                "L",
+                "W",
+                "W",
+                "L"
               ]
             },
             {
@@ -7079,19 +7079,19 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
-              "name": "Temple Fortune 1",
+              "name": "Finchley 1",
               "played": 7,
               "won": 4,
               "drawn": 0,
               "lost": 3,
-              "rubbers": "77-91",
-              "points": 77,
+              "rubbers": "98-70",
+              "points": 98,
               "form": [
+                "L",
                 "W",
-                "L",
-                "L",
-                "L",
-                "W"
+                "W",
+                "W",
+                "L"
               ]
             },
             {
@@ -7111,30 +7111,30 @@ window.__RESULTS__ = {
             },
             {
               "rank": 6,
-              "name": "Finchley 1",
+              "name": "Temple Fortune 1",
               "played": 7,
               "won": 4,
               "drawn": 0,
               "lost": 3,
-              "rubbers": "98-70",
-              "points": 98,
+              "rubbers": "77-91",
+              "points": 77,
               "form": [
+                "W",
                 "L",
-                "W",
-                "W",
-                "W",
-                "L"
+                "L",
+                "L",
+                "W"
               ]
             },
             {
               "rank": 7,
-              "name": "Brondesbury 3",
+              "name": "Temple Fortune 2",
               "played": 7,
               "won": 0,
               "drawn": 1,
               "lost": 6,
-              "rubbers": "36-132",
-              "points": 36,
+              "rubbers": "37-131",
+              "points": 37,
               "form": [
                 "L",
                 "L",
@@ -7144,13 +7144,13 @@ window.__RESULTS__ = {
             },
             {
               "rank": 8,
-              "name": "Temple Fortune 2",
+              "name": "Brondesbury 3",
               "played": 7,
               "won": 0,
               "drawn": 1,
               "lost": 6,
-              "rubbers": "37-131",
-              "points": 37,
+              "rubbers": "36-132",
+              "points": 36,
               "form": [
                 "L",
                 "L",
@@ -7464,8 +7464,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "current",
-      "lastSeen": "2026-09-03",
-      "asOf": "2026-09-03",
+      "lastSeen": "2026-09-04",
+      "asOf": "2026-09-04",
       "stale": false,
       "teams": [
         {
@@ -7906,8 +7906,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-09-03",
-      "asOf": "2026-09-03",
+      "lastSeen": "2026-09-04",
+      "asOf": "2026-09-04",
       "stale": false,
       "teams": [],
       "knockouts": [
