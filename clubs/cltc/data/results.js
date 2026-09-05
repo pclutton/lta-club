@@ -2,49 +2,49 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-04T21:22:45.803Z",
+  "generatedAt": "2026-09-05T10:20:00.157Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 5,
       "teams": 22,
-      "refreshed": 22,
-      "failed": 0
+      "matches": 474,
+      "players": 169,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-09-04"
+        "asOf": "2026-09-05"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-09-04"
+        "asOf": "2026-09-05"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-09-04"
+        "asOf": "2026-09-05"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-09-04"
+        "asOf": "2026-09-05"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-09-04"
+        "asOf": "2026-09-05"
       }
     ]
   },
@@ -53,8 +53,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-09-04",
-      "asOf": "2026-09-04",
+      "lastSeen": "2026-09-05",
+      "asOf": "2026-09-05",
       "stale": false,
       "teams": [
         {
@@ -671,8 +671,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-09-04",
-      "asOf": "2026-09-04",
+      "lastSeen": "2026-09-05",
+      "asOf": "2026-09-05",
       "stale": false,
       "teams": [
         {
@@ -3386,8 +3386,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-09-04",
-      "asOf": "2026-09-04",
+      "lastSeen": "2026-09-05",
+      "asOf": "2026-09-05",
       "stale": false,
       "teams": [
         {
@@ -6967,18 +6967,6 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4226"
             },
             {
-              "name": "Frances Hendry",
-              "won": 2,
-              "lost": 1,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6366"
-            },
-            {
-              "name": "Tanya Giles",
-              "won": 2,
-              "lost": 1,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/649"
-            },
-            {
               "name": "Rachel Sheridan",
               "won": 2,
               "lost": 9,
@@ -6995,6 +6983,18 @@ window.__RESULTS__ = {
               "won": 1,
               "lost": 2,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6363"
+            },
+            {
+              "name": "Frances Hendry",
+              "won": 0,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6366"
+            },
+            {
+              "name": "Tanya Giles",
+              "won": 0,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/649"
             },
             {
               "name": "Yahvi Khimasia",
@@ -7464,8 +7464,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "current",
-      "lastSeen": "2026-09-04",
-      "asOf": "2026-09-04",
+      "lastSeen": "2026-09-05",
+      "asOf": "2026-09-05",
       "stale": false,
       "teams": [
         {
@@ -7906,8 +7906,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-09-04",
-      "asOf": "2026-09-04",
+      "lastSeen": "2026-09-05",
+      "asOf": "2026-09-05",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -8493,13 +8493,6 @@ window.__RESULTS__ = {
       "played": 6
     },
     {
-      "name": "Frances Hendry",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6366",
-      "won": 4,
-      "lost": 2,
-      "played": 6
-    },
-    {
       "name": "Lauren Hewett",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1902",
       "won": 4,
@@ -8745,6 +8738,13 @@ window.__RESULTS__ = {
       "played": 2
     },
     {
+      "name": "Frances Hendry",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6366",
+      "won": 2,
+      "lost": 1,
+      "played": 3
+    },
+    {
       "name": "Kiaan Andersson",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1663",
       "won": 2,
@@ -8761,13 +8761,6 @@ window.__RESULTS__ = {
     {
       "name": "Peter Victor",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6251",
-      "won": 2,
-      "lost": 1,
-      "played": 3
-    },
-    {
-      "name": "Tanya Giles",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/649",
       "won": 2,
       "lost": 1,
       "played": 3
