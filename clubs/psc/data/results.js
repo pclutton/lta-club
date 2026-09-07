@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-07T12:07:46.533Z",
+  "generatedAt": "2026-09-07T17:34:15.321Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 5,
       "teams": 20,
-      "matches": 499,
-      "players": 129,
-      "stale": 0
+      "refreshed": 20,
+      "failed": 0
     },
     "competitions": [
       {
@@ -570,7 +570,7 @@ window.__RESULTS__ = {
               "away": "Finchley Lawn Tennis Club 1",
               "hs": null,
               "as": null,
-              "date": "Mon 18/01/2027"
+              "date": "Tue 19/01/2027"
             },
             {
               "home": "Finchley Manor Tennis Squash and Health Club 1",
@@ -633,7 +633,7 @@ window.__RESULTS__ = {
               "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
               "hs": null,
               "as": null,
-              "date": "Tue 02/03/2027"
+              "date": "Wed 03/03/2027"
             },
             {
               "home": "Paddington Sports Club 1",
@@ -1415,18 +1415,18 @@ window.__RESULTS__ = {
               "date": "Thu 24/09/2026"
             },
             {
-              "home": "Harrow Lawn Tennis Club 2",
-              "away": "Pinner Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Mon 05/10/2026"
-            },
-            {
               "home": "Paddington Sports Club 2",
               "away": "Wayfarers LTC 1",
               "hs": null,
               "as": null,
               "date": "Tue 06/10/2026"
+            },
+            {
+              "home": "Harrow Lawn Tennis Club 2",
+              "away": "Pinner Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Wed 14/10/2026"
             },
             {
               "home": "Lowlands Club 1",
@@ -1719,18 +1719,18 @@ window.__RESULTS__ = {
               "date": "Thu 24/09/2026"
             },
             {
-              "home": "Harrow Lawn Tennis Club 2",
-              "away": "Pinner Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Mon 05/10/2026"
-            },
-            {
               "home": "Paddington Sports Club 2",
               "away": "Wayfarers LTC 1",
               "hs": null,
               "as": null,
               "date": "Tue 06/10/2026"
+            },
+            {
+              "home": "Harrow Lawn Tennis Club 2",
+              "away": "Pinner Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Wed 14/10/2026"
             },
             {
               "home": "Lowlands Club 1",
@@ -2013,7 +2013,7 @@ window.__RESULTS__ = {
               "away": "Thistleworth LTC 1",
               "hs": null,
               "as": null,
-              "date": "Sat 19/09/2026"
+              "date": "Tue 22/09/2026"
             },
             {
               "home": "Park Sports - Lammas Park 1",
