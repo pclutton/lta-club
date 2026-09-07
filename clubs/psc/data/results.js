@@ -2,53 +2,373 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-06T21:10:22.898Z",
+  "generatedAt": "2026-09-07T12:07:46.533Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
-      "comps": 4,
-      "teams": 19,
-      "refreshed": 19,
-      "failed": 0
+      "comps": 5,
+      "teams": 20,
+      "matches": 499,
+      "players": 129,
+      "stale": 0
     },
     "competitions": [
+      {
+        "id": "f06aa797",
+        "name": "National Premier League 2026-27",
+        "stale": false,
+        "asOf": "2026-09-07"
+      },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-09-06"
+        "asOf": "2026-09-07"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-09-06"
+        "asOf": "2026-09-07"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-09-06"
+        "asOf": "2026-09-07"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-09-06"
+        "asOf": "2026-09-07"
       }
     ]
   },
   "competitions": [
     {
+      "id": "f06aa797",
+      "name": "National Premier League 2026-27",
+      "status": "current",
+      "lastSeen": "2026-09-07",
+      "asOf": "2026-09-07",
+      "stale": false,
+      "teams": [
+        {
+          "name": "Womens Doubles",
+          "division": "South East North",
+          "pscName": "Paddington Sports Club 1",
+          "leagueUrl": "https://competitions.lta.org.uk/league/F06AA797-DB87-4AAE-8882-A5C720EE2874/draw/11",
+          "position": 8,
+          "of": 8,
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "points": 0,
+          "form": [],
+          "standings": [
+            {
+              "rank": 1,
+              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 2,
+              "name": "Windsor Lawn Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 3,
+              "name": "Hazelwood Lawn Tennis & Squash Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 4,
+              "name": "Chandos Lawn Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 5,
+              "name": "Halton Tennis Centre 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 6,
+              "name": "St Albans Lawn Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 7,
+              "name": "Harpenden LTC 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 8,
+              "name": "Paddington Sports Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            }
+          ],
+          "matches": [
+            {
+              "home": "Windsor Lawn Tennis Club 1",
+              "away": "Harpenden LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 18/10/2026"
+            },
+            {
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 18/10/2026"
+            },
+            {
+              "home": "Chandos Lawn Tennis Club 1",
+              "away": "Halton Tennis Centre 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 18/10/2026"
+            },
+            {
+              "home": "Hazelwood Lawn Tennis & Squash Club 1",
+              "away": "St Albans Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 18/10/2026"
+            },
+            {
+              "home": "Chandos Lawn Tennis Club 1",
+              "away": "St Albans Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 08/11/2026"
+            },
+            {
+              "home": "Windsor Lawn Tennis Club 1",
+              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 08/11/2026"
+            },
+            {
+              "home": "Harpenden LTC 1",
+              "away": "Hazelwood Lawn Tennis & Squash Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 08/11/2026"
+            },
+            {
+              "home": "Halton Tennis Centre 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 08/11/2026"
+            },
+            {
+              "home": "Chandos Lawn Tennis Club 1",
+              "away": "Harpenden LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 29/11/2026"
+            },
+            {
+              "home": "Hazelwood Lawn Tennis & Squash Club 1",
+              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 29/11/2026"
+            },
+            {
+              "home": "Halton Tennis Centre 1",
+              "away": "St Albans Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 29/11/2026"
+            },
+            {
+              "home": "Windsor Lawn Tennis Club 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 29/11/2026"
+            },
+            {
+              "home": "Chandos Lawn Tennis Club 1",
+              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 06/12/2026"
+            },
+            {
+              "home": "Windsor Lawn Tennis Club 1",
+              "away": "Hazelwood Lawn Tennis & Squash Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 06/12/2026"
+            },
+            {
+              "home": "Harpenden LTC 1",
+              "away": "Halton Tennis Centre 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 06/12/2026"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "St Albans Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 06/12/2026"
+            },
+            {
+              "home": "Harpenden LTC 1",
+              "away": "St Albans Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 24/01/2027"
+            },
+            {
+              "home": "Hazelwood Lawn Tennis & Squash Club 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 24/01/2027"
+            },
+            {
+              "home": "Chandos Lawn Tennis Club 1",
+              "away": "Windsor Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 24/01/2027"
+            },
+            {
+              "home": "Halton Tennis Centre 1",
+              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 24/01/2027"
+            },
+            {
+              "home": "St Albans Lawn Tennis Club 1",
+              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 07/02/2027"
+            },
+            {
+              "home": "Hazelwood Lawn Tennis & Squash Club 1",
+              "away": "Chandos Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 07/02/2027"
+            },
+            {
+              "home": "Windsor Lawn Tennis Club 1",
+              "away": "Halton Tennis Centre 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 07/02/2027"
+            },
+            {
+              "home": "Harpenden LTC 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 07/02/2027"
+            },
+            {
+              "home": "Chandos Lawn Tennis Club 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 21/02/2027"
+            },
+            {
+              "home": "Windsor Lawn Tennis Club 1",
+              "away": "St Albans Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 21/02/2027"
+            },
+            {
+              "home": "Harpenden LTC 1",
+              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 21/02/2027"
+            },
+            {
+              "home": "Halton Tennis Centre 1",
+              "away": "Hazelwood Lawn Tennis & Squash Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 21/02/2027"
+            }
+          ],
+          "results": [],
+          "fixtures": [],
+          "players": []
+        }
+      ]
+    },
+    {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-09-06",
-      "asOf": "2026-09-06",
+      "lastSeen": "2026-09-07",
+      "asOf": "2026-09-07",
       "stale": false,
       "teams": [
         {
@@ -1759,18 +2079,18 @@ window.__RESULTS__ = {
               "date": "Fri 20/11/2026"
             },
             {
+              "home": "David Lloyd Club Hampton 1",
+              "away": "Virgin Active Chiswick Riverside 2",
+              "hs": null,
+              "as": null,
+              "date": "Mon 30/11/2026"
+            },
+            {
               "home": "Paddington Sports Club 3",
               "away": "Twickenham Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Mon 07/12/2026"
-            },
-            {
-              "home": "David Lloyd Club Hampton 1",
-              "away": "Virgin Active Chiswick Riverside 2",
-              "hs": null,
-              "as": null,
-              "date": "Wed 30/12/2026"
             },
             {
               "home": "Holland Park Lawn Tennis Club 2",
@@ -2189,8 +2509,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-09-06",
-      "asOf": "2026-09-06",
+      "lastSeen": "2026-09-07",
+      "asOf": "2026-09-07",
       "stale": false,
       "teams": [
         {
@@ -3226,8 +3546,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-09-06",
-      "asOf": "2026-09-06",
+      "lastSeen": "2026-09-07",
+      "asOf": "2026-09-07",
       "stale": false,
       "teams": [
         {
@@ -6886,8 +7206,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-09-06",
-      "asOf": "2026-09-06",
+      "lastSeen": "2026-09-07",
+      "asOf": "2026-09-07",
       "stale": false,
       "teams": [],
       "knockouts": [
