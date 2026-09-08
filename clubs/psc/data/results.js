@@ -2,49 +2,49 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-07T21:57:33.011Z",
+  "generatedAt": "2026-09-08T11:01:35.606Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 5,
       "teams": 20,
-      "refreshed": 20,
-      "failed": 0
+      "matches": 499,
+      "players": 129,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-09-07"
+        "asOf": "2026-09-08"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-09-07"
+        "asOf": "2026-09-08"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-09-07"
+        "asOf": "2026-09-08"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-09-07"
+        "asOf": "2026-09-08"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-09-07"
+        "asOf": "2026-09-08"
       }
     ]
   },
@@ -53,8 +53,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-09-07",
-      "asOf": "2026-09-07",
+      "lastSeen": "2026-09-08",
+      "asOf": "2026-09-08",
       "stale": false,
       "teams": [
         {
@@ -367,8 +367,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-09-07",
-      "asOf": "2026-09-07",
+      "lastSeen": "2026-09-08",
+      "asOf": "2026-09-08",
       "stale": false,
       "teams": [
         {
@@ -2331,6 +2331,13 @@ window.__RESULTS__ = {
               "date": "Thu 24/09/2026"
             },
             {
+              "home": "Totteridge Tennis Club 2",
+              "away": "Totteridge Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Tue 29/09/2026"
+            },
+            {
               "home": "Oakleigh Park Lawn Tennis & Squash Club 2",
               "away": "David Lloyd Club Finchley 1",
               "hs": null,
@@ -2436,13 +2443,6 @@ window.__RESULTS__ = {
               "date": "Tue 09/02/2027"
             },
             {
-              "home": "Totteridge Tennis Club 2",
-              "away": "Totteridge Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 12/02/2027"
-            },
-            {
               "home": "Paddington Sports Club 1",
               "away": "David Lloyd Club Finchley 1",
               "hs": null,
@@ -2509,8 +2509,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-09-07",
-      "asOf": "2026-09-07",
+      "lastSeen": "2026-09-08",
+      "asOf": "2026-09-08",
       "stale": false,
       "teams": [
         {
@@ -3546,8 +3546,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-09-07",
-      "asOf": "2026-09-07",
+      "lastSeen": "2026-09-08",
+      "asOf": "2026-09-08",
       "stale": false,
       "teams": [
         {
@@ -7206,8 +7206,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-09-07",
-      "asOf": "2026-09-07",
+      "lastSeen": "2026-09-08",
+      "asOf": "2026-09-08",
       "stale": false,
       "teams": [],
       "knockouts": [
