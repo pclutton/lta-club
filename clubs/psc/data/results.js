@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-08T16:19:18.459Z",
+  "generatedAt": "2026-09-08T21:43:08.344Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -1524,7 +1524,7 @@ window.__RESULTS__ = {
               "away": "Eastcote Lawn Tennis Club 1",
               "hs": null,
               "as": null,
-              "date": "Fri 12/02/2027"
+              "date": "Tue 09/02/2027"
             },
             {
               "home": "Lowlands Club 1",
@@ -1534,18 +1534,18 @@ window.__RESULTS__ = {
               "date": "Thu 25/02/2027"
             },
             {
+              "home": "Wayfarers LTC 1",
+              "away": "Pinner Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Mon 01/03/2027"
+            },
+            {
               "home": "Paddington Sports Club 1",
               "away": "Harrow Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Tue 02/03/2027"
-            },
-            {
-              "home": "Wayfarers LTC 1",
-              "away": "Pinner Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 05/03/2027"
             },
             {
               "home": "Eastcote Lawn Tennis Club 1",
@@ -1828,7 +1828,7 @@ window.__RESULTS__ = {
               "away": "Eastcote Lawn Tennis Club 1",
               "hs": null,
               "as": null,
-              "date": "Fri 12/02/2027"
+              "date": "Tue 09/02/2027"
             },
             {
               "home": "Lowlands Club 1",
@@ -1838,18 +1838,18 @@ window.__RESULTS__ = {
               "date": "Thu 25/02/2027"
             },
             {
+              "home": "Wayfarers LTC 1",
+              "away": "Pinner Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Mon 01/03/2027"
+            },
+            {
               "home": "Paddington Sports Club 1",
               "away": "Harrow Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Tue 02/03/2027"
-            },
-            {
-              "home": "Wayfarers LTC 1",
-              "away": "Pinner Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 05/03/2027"
             },
             {
               "home": "Eastcote Lawn Tennis Club 1",
