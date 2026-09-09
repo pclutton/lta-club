@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-09T11:06:15.136Z",
+  "generatedAt": "2026-09-09T16:13:49.112Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 5,
       "teams": 20,
-      "matches": 499,
-      "players": 129,
-      "stale": 0
+      "refreshed": 20,
+      "failed": 0
     },
     "competitions": [
       {
@@ -1999,7 +1999,7 @@ window.__RESULTS__ = {
               "away": "David Lloyd Club Hampton 1",
               "hs": null,
               "as": null,
-              "date": "Thu 10/09/2026"
+              "date": "Mon 14/09/2026"
             },
             {
               "home": "Brentham Lawn Tennis Club 1",
