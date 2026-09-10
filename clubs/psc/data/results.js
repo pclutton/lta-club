@@ -2,49 +2,55 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-09T21:34:15.412Z",
+  "generatedAt": "2026-09-10T11:05:26.476Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
-      "comps": 5,
-      "teams": 20,
-      "refreshed": 20,
-      "failed": 0
+      "comps": 6,
+      "teams": 24,
+      "matches": 554,
+      "players": 129,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-09-09"
+        "asOf": "2026-09-10"
+      },
+      {
+        "id": "676686eb",
+        "name": "Middlesex Youth & National League - Winter 2026",
+        "stale": false,
+        "asOf": "2026-09-10"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-09-09"
+        "asOf": "2026-09-10"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-09-09"
+        "asOf": "2026-09-10"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-09-09"
+        "asOf": "2026-09-10"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-09-09"
+        "asOf": "2026-09-10"
       }
     ]
   },
@@ -53,8 +59,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-09-09",
-      "asOf": "2026-09-09",
+      "lastSeen": "2026-09-10",
+      "asOf": "2026-09-10",
       "stale": false,
       "teams": [
         {
@@ -175,8 +181,8 @@ window.__RESULTS__ = {
               "date": "Sun 18/10/2026"
             },
             {
-              "home": "Chandos Lawn Tennis Club 1",
-              "away": "Halton Tennis Centre 1",
+              "home": "Halton Tennis Centre 1",
+              "away": "Chandos Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 18/10/2026"
@@ -287,8 +293,8 @@ window.__RESULTS__ = {
               "date": "Sun 24/01/2027"
             },
             {
-              "home": "Chandos Lawn Tennis Club 1",
-              "away": "Windsor Lawn Tennis Club 1",
+              "home": "Windsor Lawn Tennis Club 1",
+              "away": "Chandos Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 24/01/2027"
@@ -364,11 +370,739 @@ window.__RESULTS__ = {
       ]
     },
     {
+      "id": "676686eb",
+      "name": "Middlesex Youth & National League - Winter 2026",
+      "status": "current",
+      "lastSeen": "2026-09-10",
+      "asOf": "2026-09-10",
+      "stale": false,
+      "teams": [
+        {
+          "name": "14U Boys",
+          "division": "Div 1",
+          "pscName": "Paddington Sports Club 1",
+          "leagueUrl": "https://competitions.lta.org.uk/league/676686EB-7D35-4816-9BE5-DDEC7913DA16/draw/16",
+          "position": 3,
+          "of": 6,
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "points": 0,
+          "form": [],
+          "standings": [
+            {
+              "rank": 1,
+              "name": "Uxbridge LTC 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 2,
+              "name": "Brentham Lawn Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 3,
+              "name": "Paddington Sports Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 4,
+              "name": "The Queens Club Limited 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 5,
+              "name": "West Middlesex Lawn Tennis Club Ltd 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 6,
+              "name": "David Lloyd Club Finchley 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            }
+          ],
+          "matches": [
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "The Queens Club Limited 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 04/10/2026"
+            },
+            {
+              "home": "Brentham Lawn Tennis Club 1",
+              "away": "West Middlesex Lawn Tennis Club Ltd 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 04/10/2026"
+            },
+            {
+              "home": "Uxbridge LTC 1",
+              "away": "David Lloyd Club Finchley 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 04/10/2026"
+            },
+            {
+              "home": "David Lloyd Club Finchley 1",
+              "away": "The Queens Club Limited 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 08/11/2026"
+            },
+            {
+              "home": "West Middlesex Lawn Tennis Club Ltd 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 08/11/2026"
+            },
+            {
+              "home": "Uxbridge LTC 1",
+              "away": "Brentham Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 08/11/2026"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "Uxbridge LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 29/11/2026"
+            },
+            {
+              "home": "The Queens Club Limited 1",
+              "away": "West Middlesex Lawn Tennis Club Ltd 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 29/11/2026"
+            },
+            {
+              "home": "Brentham Lawn Tennis Club 1",
+              "away": "David Lloyd Club Finchley 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 29/11/2026"
+            },
+            {
+              "home": "Brentham Lawn Tennis Club 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 24/01/2027"
+            },
+            {
+              "home": "Uxbridge LTC 1",
+              "away": "The Queens Club Limited 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 24/01/2027"
+            },
+            {
+              "home": "David Lloyd Club Finchley 1",
+              "away": "West Middlesex Lawn Tennis Club Ltd 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 24/01/2027"
+            },
+            {
+              "home": "The Queens Club Limited 1",
+              "away": "Brentham Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 07/02/2027"
+            },
+            {
+              "home": "West Middlesex Lawn Tennis Club Ltd 1",
+              "away": "Uxbridge LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 07/02/2027"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "David Lloyd Club Finchley 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 07/02/2027"
+            }
+          ],
+          "results": [],
+          "fixtures": [],
+          "players": []
+        },
+        {
+          "name": "16U Boys",
+          "division": "Div 1",
+          "pscName": "Paddington Sports Club 1",
+          "leagueUrl": "https://competitions.lta.org.uk/league/676686EB-7D35-4816-9BE5-DDEC7913DA16/draw/25",
+          "position": 3,
+          "of": 5,
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "points": 0,
+          "form": [],
+          "standings": [
+            {
+              "rank": 1,
+              "name": "Coles Green LTC 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 2,
+              "name": "GALLAN TENNIS ACADEMY 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 3,
+              "name": "Paddington Sports Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 4,
+              "name": "David Lloyd Club Finchley 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 5,
+              "name": "Finchley Manor Tennis Squash and Health Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            }
+          ],
+          "matches": [
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "David Lloyd Club Finchley 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 27/09/2026"
+            },
+            {
+              "home": "GALLAN TENNIS ACADEMY 1",
+              "away": "Finchley Manor Tennis Squash and Health Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 27/09/2026"
+            },
+            {
+              "home": "Finchley Manor Tennis Squash and Health Club 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 15/11/2026"
+            },
+            {
+              "home": "Coles Green LTC 1",
+              "away": "GALLAN TENNIS ACADEMY 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 15/11/2026"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "Coles Green LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 06/12/2026"
+            },
+            {
+              "home": "David Lloyd Club Finchley 1",
+              "away": "Finchley Manor Tennis Squash and Health Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 06/12/2026"
+            },
+            {
+              "home": "GALLAN TENNIS ACADEMY 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 17/01/2027"
+            },
+            {
+              "home": "Coles Green LTC 1",
+              "away": "David Lloyd Club Finchley 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 17/01/2027"
+            },
+            {
+              "home": "David Lloyd Club Finchley 1",
+              "away": "GALLAN TENNIS ACADEMY 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 28/02/2027"
+            },
+            {
+              "home": "Finchley Manor Tennis Squash and Health Club 1",
+              "away": "Coles Green LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 28/02/2027"
+            }
+          ],
+          "results": [],
+          "fixtures": [],
+          "players": []
+        },
+        {
+          "name": "Open Mens",
+          "division": "Open Mens Div 1",
+          "pscName": "Paddington Sports Club 1",
+          "leagueUrl": "https://competitions.lta.org.uk/league/676686EB-7D35-4816-9BE5-DDEC7913DA16/draw/36",
+          "position": 3,
+          "of": 6,
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "points": 0,
+          "form": [],
+          "standings": [
+            {
+              "rank": 1,
+              "name": "Barnet Lawn Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 2,
+              "name": "The Parsons Green Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 3,
+              "name": "Paddington Sports Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 4,
+              "name": "West Middlesex Lawn Tennis Club Ltd 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 5,
+              "name": "David Lloyd Club Finchley 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 6,
+              "name": "Teddington Lawn Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            }
+          ],
+          "matches": [
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "West Middlesex Lawn Tennis Club Ltd 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 11/10/2026"
+            },
+            {
+              "home": "The Parsons Green Club 1",
+              "away": "David Lloyd Club Finchley 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 11/10/2026"
+            },
+            {
+              "home": "Barnet Lawn Tennis Club 1",
+              "away": "Teddington Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 11/10/2026"
+            },
+            {
+              "home": "Teddington Lawn Tennis Club 1",
+              "away": "West Middlesex Lawn Tennis Club Ltd 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 15/11/2026"
+            },
+            {
+              "home": "David Lloyd Club Finchley 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 15/11/2026"
+            },
+            {
+              "home": "Barnet Lawn Tennis Club 1",
+              "away": "The Parsons Green Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 15/11/2026"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "Barnet Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 06/12/2026"
+            },
+            {
+              "home": "West Middlesex Lawn Tennis Club Ltd 1",
+              "away": "David Lloyd Club Finchley 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 06/12/2026"
+            },
+            {
+              "home": "The Parsons Green Club 1",
+              "away": "Teddington Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 06/12/2026"
+            },
+            {
+              "home": "The Parsons Green Club 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 17/01/2027"
+            },
+            {
+              "home": "Barnet Lawn Tennis Club 1",
+              "away": "West Middlesex Lawn Tennis Club Ltd 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 17/01/2027"
+            },
+            {
+              "home": "Teddington Lawn Tennis Club 1",
+              "away": "David Lloyd Club Finchley 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 17/01/2027"
+            },
+            {
+              "home": "West Middlesex Lawn Tennis Club Ltd 1",
+              "away": "The Parsons Green Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 07/02/2027"
+            },
+            {
+              "home": "David Lloyd Club Finchley 1",
+              "away": "Barnet Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 07/02/2027"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "Teddington Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 07/02/2027"
+            }
+          ],
+          "results": [],
+          "fixtures": [],
+          "players": []
+        },
+        {
+          "name": "Open Womens",
+          "division": "Open Womens Div 1",
+          "pscName": "Paddington Sports Club 1",
+          "leagueUrl": "https://competitions.lta.org.uk/league/676686EB-7D35-4816-9BE5-DDEC7913DA16/draw/38",
+          "position": 2,
+          "of": 6,
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "points": 0,
+          "form": [],
+          "standings": [
+            {
+              "rank": 1,
+              "name": "Highgate Cricket and Lawn Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 2,
+              "name": "Paddington Sports Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 3,
+              "name": "Finsbury Park 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 4,
+              "name": "West Middlesex Lawn Tennis Club Ltd 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 5,
+              "name": "The Hurlingham Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 6,
+              "name": "Thistleworth LTC 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            }
+          ],
+          "matches": [
+            {
+              "home": "Finsbury Park 1",
+              "away": "West Middlesex Lawn Tennis Club Ltd 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 04/10/2026"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "The Hurlingham Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 04/10/2026"
+            },
+            {
+              "home": "Highgate Cricket and Lawn Tennis Club 1",
+              "away": "Thistleworth LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 04/10/2026"
+            },
+            {
+              "home": "Thistleworth LTC 1",
+              "away": "West Middlesex Lawn Tennis Club Ltd 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 01/11/2026"
+            },
+            {
+              "home": "The Hurlingham Club 1",
+              "away": "Finsbury Park 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 01/11/2026"
+            },
+            {
+              "home": "Highgate Cricket and Lawn Tennis Club 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 01/11/2026"
+            },
+            {
+              "home": "Finsbury Park 1",
+              "away": "Highgate Cricket and Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 22/11/2026"
+            },
+            {
+              "home": "West Middlesex Lawn Tennis Club Ltd 1",
+              "away": "The Hurlingham Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 22/11/2026"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "Thistleworth LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 22/11/2026"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "Finsbury Park 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 24/01/2027"
+            },
+            {
+              "home": "Highgate Cricket and Lawn Tennis Club 1",
+              "away": "West Middlesex Lawn Tennis Club Ltd 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 24/01/2027"
+            },
+            {
+              "home": "Thistleworth LTC 1",
+              "away": "The Hurlingham Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 24/01/2027"
+            },
+            {
+              "home": "West Middlesex Lawn Tennis Club Ltd 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 21/02/2027"
+            },
+            {
+              "home": "The Hurlingham Club 1",
+              "away": "Highgate Cricket and Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 21/02/2027"
+            },
+            {
+              "home": "Finsbury Park 1",
+              "away": "Thistleworth LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 21/02/2027"
+            }
+          ],
+          "results": [],
+          "fixtures": [],
+          "players": []
+        }
+      ]
+    },
+    {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-09-09",
-      "asOf": "2026-09-09",
+      "lastSeen": "2026-09-10",
+      "asOf": "2026-09-10",
       "stale": false,
       "teams": [
         {
@@ -804,7 +1538,7 @@ window.__RESULTS__ = {
               "away": "Mercury LTC 1",
               "hs": null,
               "as": null,
-              "date": "Fri 25/09/2026"
+              "date": "Mon 28/09/2026"
             },
             {
               "home": "Paddington Sports Club 3",
@@ -1108,7 +1842,7 @@ window.__RESULTS__ = {
               "away": "Mercury LTC 1",
               "hs": null,
               "as": null,
-              "date": "Fri 25/09/2026"
+              "date": "Mon 28/09/2026"
             },
             {
               "home": "Paddington Sports Club 3",
@@ -2321,7 +3055,7 @@ window.__RESULTS__ = {
               "away": "Finchley Lawn Tennis Club 1",
               "hs": null,
               "as": null,
-              "date": "Thu 24/09/2026"
+              "date": "Mon 21/09/2026"
             },
             {
               "home": "Paddington Sports Club 1",
@@ -2509,8 +3243,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-09-09",
-      "asOf": "2026-09-09",
+      "lastSeen": "2026-09-10",
+      "asOf": "2026-09-10",
       "stale": false,
       "teams": [
         {
@@ -3546,8 +4280,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-09-09",
-      "asOf": "2026-09-09",
+      "lastSeen": "2026-09-10",
+      "asOf": "2026-09-10",
       "stale": false,
       "teams": [
         {
@@ -7206,8 +7940,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-09-09",
-      "asOf": "2026-09-09",
+      "lastSeen": "2026-09-10",
+      "asOf": "2026-09-10",
       "stale": false,
       "teams": [],
       "knockouts": [

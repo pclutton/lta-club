@@ -2,55 +2,61 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-09T21:33:30.620Z",
+  "generatedAt": "2026-09-10T11:01:00.940Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
-      "comps": 6,
-      "teams": 24,
-      "refreshed": 24,
-      "failed": 0
+      "comps": 7,
+      "teams": 26,
+      "matches": 552,
+      "players": 169,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-09-09"
+        "asOf": "2026-09-10"
+      },
+      {
+        "id": "676686eb",
+        "name": "Middlesex Youth & National League - Winter 2026",
+        "stale": false,
+        "asOf": "2026-09-10"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-09-09"
+        "asOf": "2026-09-10"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-09-09"
+        "asOf": "2026-09-10"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-09-09"
+        "asOf": "2026-09-10"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-09-09"
+        "asOf": "2026-09-10"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-09-09"
+        "asOf": "2026-09-10"
       }
     ]
   },
@@ -59,8 +65,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-09-09",
-      "asOf": "2026-09-09",
+      "lastSeen": "2026-09-10",
+      "asOf": "2026-09-10",
       "stale": false,
       "teams": [
         {
@@ -485,8 +491,8 @@ window.__RESULTS__ = {
               "date": "Sun 18/10/2026"
             },
             {
-              "home": "Chandos Lawn Tennis Club 1",
-              "away": "Halton Tennis Centre 1",
+              "home": "Halton Tennis Centre 1",
+              "away": "Chandos Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 18/10/2026"
@@ -597,8 +603,8 @@ window.__RESULTS__ = {
               "date": "Sun 24/01/2027"
             },
             {
-              "home": "Chandos Lawn Tennis Club 1",
-              "away": "Windsor Lawn Tennis Club 1",
+              "home": "Windsor Lawn Tennis Club 1",
+              "away": "Chandos Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 24/01/2027"
@@ -674,11 +680,314 @@ window.__RESULTS__ = {
       ]
     },
     {
+      "id": "676686eb",
+      "name": "Middlesex Youth & National League - Winter 2026",
+      "status": "current",
+      "lastSeen": "2026-09-10",
+      "asOf": "2026-09-10",
+      "stale": false,
+      "teams": [
+        {
+          "name": "10U Mixed",
+          "division": "Div 1",
+          "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+          "leagueUrl": "https://competitions.lta.org.uk/league/676686EB-7D35-4816-9BE5-DDEC7913DA16/draw/5",
+          "position": 1,
+          "of": 4,
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "points": 0,
+          "form": [],
+          "standings": [
+            {
+              "rank": 1,
+              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 2,
+              "name": "Harbour Club Chelsea 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 3,
+              "name": "David Lloyd Club Northwood 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 4,
+              "name": "Wayfarers LTC 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            }
+          ],
+          "matches": [
+            {
+              "home": "Harbour Club Chelsea 1",
+              "away": "David Lloyd Club Northwood 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 18/10/2026"
+            },
+            {
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "away": "Wayfarers LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 18/10/2026"
+            },
+            {
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "away": "Harbour Club Chelsea 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 08/11/2026"
+            },
+            {
+              "home": "Wayfarers LTC 1",
+              "away": "David Lloyd Club Northwood 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 08/11/2026"
+            },
+            {
+              "home": "Harbour Club Chelsea 1",
+              "away": "Wayfarers LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 06/12/2026"
+            },
+            {
+              "home": "David Lloyd Club Northwood 1",
+              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 06/12/2026"
+            },
+            {
+              "home": "Wayfarers LTC 1",
+              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 17/01/2027"
+            },
+            {
+              "home": "David Lloyd Club Northwood 1",
+              "away": "Harbour Club Chelsea 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 17/01/2027"
+            },
+            {
+              "home": "David Lloyd Club Northwood 1",
+              "away": "Wayfarers LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 21/02/2027"
+            },
+            {
+              "home": "Harbour Club Chelsea 1",
+              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 21/02/2027"
+            },
+            {
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "away": "David Lloyd Club Northwood 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 14/03/2027"
+            },
+            {
+              "home": "Wayfarers LTC 1",
+              "away": "Harbour Club Chelsea 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 14/03/2027"
+            }
+          ],
+          "results": [],
+          "fixtures": [],
+          "players": []
+        },
+        {
+          "name": "9U Mixed",
+          "division": "Div 1",
+          "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+          "leagueUrl": "https://competitions.lta.org.uk/league/676686EB-7D35-4816-9BE5-DDEC7913DA16/draw/1",
+          "position": 2,
+          "of": 5,
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "points": 0,
+          "form": [],
+          "standings": [
+            {
+              "rank": 1,
+              "name": "Coolhurst LTC 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 2,
+              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 3,
+              "name": "David Lloyd Club Northwood 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 4,
+              "name": "Highgate Cricket and Lawn Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 5,
+              "name": "Hackney Tennis 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            }
+          ],
+          "matches": [
+            {
+              "home": "David Lloyd Club Northwood 1",
+              "away": "Highgate Cricket and Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 27/09/2026"
+            },
+            {
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "away": "Hackney Tennis 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 27/09/2026"
+            },
+            {
+              "home": "Hackney Tennis 1",
+              "away": "David Lloyd Club Northwood 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 01/11/2026"
+            },
+            {
+              "home": "Coolhurst LTC 1",
+              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 01/11/2026"
+            },
+            {
+              "home": "David Lloyd Club Northwood 1",
+              "away": "Coolhurst LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 29/11/2026"
+            },
+            {
+              "home": "Highgate Cricket and Lawn Tennis Club 1",
+              "away": "Hackney Tennis 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 29/11/2026"
+            },
+            {
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "away": "David Lloyd Club Northwood 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 24/01/2027"
+            },
+            {
+              "home": "Coolhurst LTC 1",
+              "away": "Highgate Cricket and Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 24/01/2027"
+            },
+            {
+              "home": "Highgate Cricket and Lawn Tennis Club 1",
+              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 07/02/2027"
+            },
+            {
+              "home": "Hackney Tennis 1",
+              "away": "Coolhurst LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 07/02/2027"
+            }
+          ],
+          "results": [],
+          "fixtures": [],
+          "players": []
+        }
+      ]
+    },
+    {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-09-09",
-      "asOf": "2026-09-09",
+      "lastSeen": "2026-09-10",
+      "asOf": "2026-09-10",
       "stale": false,
       "teams": [
         {
@@ -810,7 +1119,7 @@ window.__RESULTS__ = {
               "away": "Mercury LTC 1",
               "hs": null,
               "as": null,
-              "date": "Fri 25/09/2026"
+              "date": "Mon 28/09/2026"
             },
             {
               "home": "Paddington Sports Club 3",
@@ -1295,8 +1604,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-09-09",
-      "asOf": "2026-09-09",
+      "lastSeen": "2026-09-10",
+      "asOf": "2026-09-10",
       "stale": false,
       "teams": [
         {
@@ -4010,8 +4319,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-09-09",
-      "asOf": "2026-09-09",
+      "lastSeen": "2026-09-10",
+      "asOf": "2026-09-10",
       "stale": false,
       "teams": [
         {
@@ -8088,8 +8397,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "current",
-      "lastSeen": "2026-09-09",
-      "asOf": "2026-09-09",
+      "lastSeen": "2026-09-10",
+      "asOf": "2026-09-10",
       "stale": false,
       "teams": [
         {
@@ -8530,8 +8839,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-09-09",
-      "asOf": "2026-09-09",
+      "lastSeen": "2026-09-10",
+      "asOf": "2026-09-10",
       "stale": false,
       "teams": [],
       "knockouts": [
