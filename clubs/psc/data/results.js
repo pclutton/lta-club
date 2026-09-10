@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-10T11:05:26.476Z",
+  "generatedAt": "2026-09-10T16:05:43.248Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "matches": 554,
-      "players": 129,
-      "stale": 0
+      "refreshed": 24,
+      "failed": 0
     },
     "competitions": [
       {
@@ -487,15 +487,15 @@ window.__RESULTS__ = {
               "date": "Sun 08/11/2026"
             },
             {
-              "home": "West Middlesex Lawn Tennis Club Ltd 1",
-              "away": "Paddington Sports Club 1",
+              "home": "Uxbridge LTC 1",
+              "away": "Brentham Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 08/11/2026"
             },
             {
-              "home": "Uxbridge LTC 1",
-              "away": "Brentham Lawn Tennis Club 1",
+              "home": "West Middlesex Lawn Tennis Club Ltd 1",
+              "away": "Paddington Sports Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 08/11/2026"
@@ -508,15 +508,15 @@ window.__RESULTS__ = {
               "date": "Sun 29/11/2026"
             },
             {
-              "home": "The Queens Club Limited 1",
-              "away": "West Middlesex Lawn Tennis Club Ltd 1",
+              "home": "Brentham Lawn Tennis Club 1",
+              "away": "David Lloyd Club Finchley 1",
               "hs": null,
               "as": null,
               "date": "Sun 29/11/2026"
             },
             {
-              "home": "Brentham Lawn Tennis Club 1",
-              "away": "David Lloyd Club Finchley 1",
+              "home": "The Queens Club Limited 1",
+              "away": "West Middlesex Lawn Tennis Club Ltd 1",
               "hs": null,
               "as": null,
               "date": "Sun 29/11/2026"
@@ -543,6 +543,13 @@ window.__RESULTS__ = {
               "date": "Sun 24/01/2027"
             },
             {
+              "home": "Paddington Sports Club 1",
+              "away": "David Lloyd Club Finchley 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 07/02/2027"
+            },
+            {
               "home": "The Queens Club Limited 1",
               "away": "Brentham Lawn Tennis Club 1",
               "hs": null,
@@ -552,13 +559,6 @@ window.__RESULTS__ = {
             {
               "home": "West Middlesex Lawn Tennis Club Ltd 1",
               "away": "Uxbridge LTC 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 07/02/2027"
-            },
-            {
-              "home": "Paddington Sports Club 1",
-              "away": "David Lloyd Club Finchley 1",
               "hs": null,
               "as": null,
               "date": "Sun 07/02/2027"
@@ -844,15 +844,15 @@ window.__RESULTS__ = {
               "date": "Sun 06/12/2026"
             },
             {
-              "home": "West Middlesex Lawn Tennis Club Ltd 1",
-              "away": "David Lloyd Club Finchley 1",
+              "home": "The Parsons Green Club 1",
+              "away": "Teddington Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 06/12/2026"
             },
             {
-              "home": "The Parsons Green Club 1",
-              "away": "Teddington Lawn Tennis Club 1",
+              "home": "West Middlesex Lawn Tennis Club Ltd 1",
+              "away": "David Lloyd Club Finchley 1",
               "hs": null,
               "as": null,
               "date": "Sun 06/12/2026"
@@ -879,8 +879,8 @@ window.__RESULTS__ = {
               "date": "Sun 17/01/2027"
             },
             {
-              "home": "West Middlesex Lawn Tennis Club Ltd 1",
-              "away": "The Parsons Green Club 1",
+              "home": "Paddington Sports Club 1",
+              "away": "Teddington Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 07/02/2027"
@@ -893,8 +893,8 @@ window.__RESULTS__ = {
               "date": "Sun 07/02/2027"
             },
             {
-              "home": "Paddington Sports Club 1",
-              "away": "Teddington Lawn Tennis Club 1",
+              "home": "West Middlesex Lawn Tennis Club Ltd 1",
+              "away": "The Parsons Green Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 07/02/2027"
@@ -1035,15 +1035,15 @@ window.__RESULTS__ = {
               "date": "Sun 22/11/2026"
             },
             {
-              "home": "West Middlesex Lawn Tennis Club Ltd 1",
-              "away": "The Hurlingham Club 1",
+              "home": "Paddington Sports Club 1",
+              "away": "Thistleworth LTC 1",
               "hs": null,
               "as": null,
               "date": "Sun 22/11/2026"
             },
             {
-              "home": "Paddington Sports Club 1",
-              "away": "Thistleworth LTC 1",
+              "home": "West Middlesex Lawn Tennis Club Ltd 1",
+              "away": "The Hurlingham Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 22/11/2026"
@@ -1070,8 +1070,8 @@ window.__RESULTS__ = {
               "date": "Sun 24/01/2027"
             },
             {
-              "home": "West Middlesex Lawn Tennis Club Ltd 1",
-              "away": "Paddington Sports Club 1",
+              "home": "Finsbury Park 1",
+              "away": "Thistleworth LTC 1",
               "hs": null,
               "as": null,
               "date": "Sun 21/02/2027"
@@ -1084,8 +1084,8 @@ window.__RESULTS__ = {
               "date": "Sun 21/02/2027"
             },
             {
-              "home": "Finsbury Park 1",
-              "away": "Thistleworth LTC 1",
+              "home": "West Middlesex Lawn Tennis Club Ltd 1",
+              "away": "Paddington Sports Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 21/02/2027"
@@ -3079,6 +3079,13 @@ window.__RESULTS__ = {
               "date": "Tue 13/10/2026"
             },
             {
+              "home": "Finchley Lawn Tennis Club 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Tue 20/10/2026"
+            },
+            {
               "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
               "away": "Totteridge Tennis Club 2",
               "hs": null,
@@ -3091,13 +3098,6 @@ window.__RESULTS__ = {
               "hs": null,
               "as": null,
               "date": "Thu 22/10/2026"
-            },
-            {
-              "home": "Finchley Lawn Tennis Club 1",
-              "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 23/10/2026"
             },
             {
               "home": "West Heath Lawn Tennis Club Limited 1",
@@ -3135,18 +3135,18 @@ window.__RESULTS__ = {
               "date": "Mon 23/11/2026"
             },
             {
+              "home": "Finchley Lawn Tennis Club 1",
+              "away": "Totteridge Tennis Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Tue 12/01/2027"
+            },
+            {
               "home": "West Heath Lawn Tennis Club Limited 1",
               "away": "Paddington Sports Club 1",
               "hs": null,
               "as": null,
               "date": "Tue 19/01/2027"
-            },
-            {
-              "home": "Finchley Lawn Tennis Club 1",
-              "away": "Totteridge Tennis Club 2",
-              "hs": null,
-              "as": null,
-              "date": "Fri 22/01/2027"
             },
             {
               "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
@@ -3156,15 +3156,15 @@ window.__RESULTS__ = {
               "date": "Fri 22/01/2027"
             },
             {
-              "home": "Oakleigh Park Lawn Tennis & Squash Club 2",
-              "away": "Finchley Lawn Tennis Club 1",
+              "home": "David Lloyd Club Finchley 1",
+              "away": "West Heath Lawn Tennis Club Limited 1",
               "hs": null,
               "as": null,
               "date": "Thu 04/02/2027"
             },
             {
-              "home": "David Lloyd Club Finchley 1",
-              "away": "West Heath Lawn Tennis Club Limited 1",
+              "home": "Oakleigh Park Lawn Tennis & Squash Club 2",
+              "away": "Finchley Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Thu 04/02/2027"
@@ -3223,7 +3223,7 @@ window.__RESULTS__ = {
               "away": "Totteridge Tennis Club 1",
               "hs": null,
               "as": null,
-              "date": "Fri 19/03/2027"
+              "date": "Tue 16/03/2027"
             },
             {
               "home": "David Lloyd Club Finchley 1",
