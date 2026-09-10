@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-10T16:04:49.370Z",
+  "generatedAt": "2026-09-10T21:29:46.258Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -1482,6 +1482,13 @@ window.__RESULTS__ = {
               "date": "Thu 19/11/2026"
             },
             {
+              "home": "West Heath Lawn Tennis Club Limited 1",
+              "away": "David Lloyd Club Finchley 1",
+              "hs": null,
+              "as": null,
+              "date": "Thu 10/12/2026"
+            },
+            {
               "home": "Finchley Manor Tennis Squash and Health Club 1",
               "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
               "hs": null,
@@ -1494,13 +1501,6 @@ window.__RESULTS__ = {
               "hs": null,
               "as": null,
               "date": "Tue 19/01/2027"
-            },
-            {
-              "home": "West Heath Lawn Tennis Club Limited 1",
-              "away": "David Lloyd Club Finchley 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 22/01/2027"
             },
             {
               "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
