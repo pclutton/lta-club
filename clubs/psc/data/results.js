@@ -2,55 +2,55 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-10T21:30:42.052Z",
+  "generatedAt": "2026-09-11T11:01:58.984Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "refreshed": 24,
-      "failed": 0
+      "matches": 554,
+      "players": 129,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-09-10"
+        "asOf": "2026-09-11"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-09-10"
+        "asOf": "2026-09-11"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-09-10"
+        "asOf": "2026-09-11"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-09-10"
+        "asOf": "2026-09-11"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-09-10"
+        "asOf": "2026-09-11"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-09-10"
+        "asOf": "2026-09-11"
       }
     ]
   },
@@ -59,8 +59,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-09-10",
-      "asOf": "2026-09-10",
+      "lastSeen": "2026-09-11",
+      "asOf": "2026-09-11",
       "stale": false,
       "teams": [
         {
@@ -373,8 +373,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-09-10",
-      "asOf": "2026-09-10",
+      "lastSeen": "2026-09-11",
+      "asOf": "2026-09-11",
       "stale": false,
       "teams": [
         {
@@ -802,13 +802,6 @@ window.__RESULTS__ = {
               "date": "Sun 11/10/2026"
             },
             {
-              "home": "The Parsons Green Club 1",
-              "away": "David Lloyd Club Finchley 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 11/10/2026"
-            },
-            {
               "home": "Barnet Lawn Tennis Club 1",
               "away": "Teddington Lawn Tennis Club 1",
               "hs": null,
@@ -816,11 +809,11 @@ window.__RESULTS__ = {
               "date": "Sun 11/10/2026"
             },
             {
-              "home": "Teddington Lawn Tennis Club 1",
-              "away": "West Middlesex Lawn Tennis Club Ltd 1",
+              "home": "The Parsons Green Club 1",
+              "away": "David Lloyd Club Finchley 1",
               "hs": null,
               "as": null,
-              "date": "Sun 15/11/2026"
+              "date": "Sun 18/10/2026"
             },
             {
               "home": "David Lloyd Club Finchley 1",
@@ -837,15 +830,15 @@ window.__RESULTS__ = {
               "date": "Sun 15/11/2026"
             },
             {
-              "home": "Paddington Sports Club 1",
-              "away": "Barnet Lawn Tennis Club 1",
+              "home": "Teddington Lawn Tennis Club 1",
+              "away": "West Middlesex Lawn Tennis Club Ltd 1",
               "hs": null,
               "as": null,
-              "date": "Sun 06/12/2026"
+              "date": "Sun 15/11/2026"
             },
             {
-              "home": "The Parsons Green Club 1",
-              "away": "Teddington Lawn Tennis Club 1",
+              "home": "Paddington Sports Club 1",
+              "away": "Barnet Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 06/12/2026"
@@ -859,10 +852,10 @@ window.__RESULTS__ = {
             },
             {
               "home": "The Parsons Green Club 1",
-              "away": "Paddington Sports Club 1",
+              "away": "Teddington Lawn Tennis Club 1",
               "hs": null,
               "as": null,
-              "date": "Sun 17/01/2027"
+              "date": "Sun 06/12/2026"
             },
             {
               "home": "Barnet Lawn Tennis Club 1",
@@ -879,15 +872,22 @@ window.__RESULTS__ = {
               "date": "Sun 17/01/2027"
             },
             {
-              "home": "Paddington Sports Club 1",
-              "away": "Teddington Lawn Tennis Club 1",
+              "home": "The Parsons Green Club 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 24/01/2027"
+            },
+            {
+              "home": "David Lloyd Club Finchley 1",
+              "away": "Barnet Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 07/02/2027"
             },
             {
-              "home": "David Lloyd Club Finchley 1",
-              "away": "Barnet Lawn Tennis Club 1",
+              "home": "Paddington Sports Club 1",
+              "away": "Teddington Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 07/02/2027"
@@ -1101,8 +1101,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-09-10",
-      "asOf": "2026-09-10",
+      "lastSeen": "2026-09-11",
+      "asOf": "2026-09-11",
       "stale": false,
       "teams": [
         {
@@ -1304,7 +1304,7 @@ window.__RESULTS__ = {
               "away": "Finchley Lawn Tennis Club 1",
               "hs": null,
               "as": null,
-              "date": "Tue 19/01/2027"
+              "date": "Mon 18/01/2027"
             },
             {
               "home": "Finchley Manor Tennis Squash and Health Club 1",
@@ -3243,8 +3243,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-09-10",
-      "asOf": "2026-09-10",
+      "lastSeen": "2026-09-11",
+      "asOf": "2026-09-11",
       "stale": false,
       "teams": [
         {
@@ -4280,8 +4280,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-09-10",
-      "asOf": "2026-09-10",
+      "lastSeen": "2026-09-11",
+      "asOf": "2026-09-11",
       "stale": false,
       "teams": [
         {
@@ -7940,8 +7940,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-09-10",
-      "asOf": "2026-09-10",
+      "lastSeen": "2026-09-11",
+      "asOf": "2026-09-11",
       "stale": false,
       "teams": [],
       "knockouts": [
