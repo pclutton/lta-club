@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-11T10:59:10.775Z",
+  "generatedAt": "2026-09-11T16:08:25.276Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 7,
       "teams": 26,
-      "matches": 552,
-      "players": 169,
-      "stale": 0
+      "refreshed": 26,
+      "failed": 0
     },
     "competitions": [
       {
@@ -995,7 +995,7 @@ window.__RESULTS__ = {
           "division": "Division 2 North East",
           "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/14",
-          "position": 4,
+          "position": 6,
           "of": 8,
           "played": 0,
           "won": 0,
@@ -1005,29 +1005,33 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
-              "name": "Paddington Sports Club 2",
-              "played": 0,
-              "won": 0,
+              "name": "South Hampstead Tennis Club 1",
+              "played": 1,
+              "won": 1,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
+              "rubbers": "14-2",
+              "points": 14,
+              "form": [
+                "W"
+              ]
             },
             {
               "rank": 2,
-              "name": "South Hampstead Tennis Club 1",
-              "played": 0,
+              "name": "Temple Fortune Club 1",
+              "played": 1,
               "won": 0,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
+              "lost": 1,
+              "rubbers": "2-14",
+              "points": 2,
+              "form": [
+                "L"
+              ]
             },
             {
               "rank": 3,
-              "name": "Finchley Lawn Tennis Club 2",
+              "name": "Paddington Sports Club 3",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -1038,7 +1042,7 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
-              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "name": "Paddington Sports Club 2",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -1049,7 +1053,7 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
-              "name": "Totteridge Tennis Club 1",
+              "name": "Finchley Lawn Tennis Club 2",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -1060,7 +1064,7 @@ window.__RESULTS__ = {
             },
             {
               "rank": 6,
-              "name": "Mercury LTC 1",
+              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -1071,7 +1075,7 @@ window.__RESULTS__ = {
             },
             {
               "rank": 7,
-              "name": "Temple Fortune Club 1",
+              "name": "Totteridge Tennis Club 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -1082,7 +1086,7 @@ window.__RESULTS__ = {
             },
             {
               "rank": 8,
-              "name": "Paddington Sports Club 3",
+              "name": "Mercury LTC 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -1096,8 +1100,8 @@ window.__RESULTS__ = {
             {
               "home": "South Hampstead Tennis Club 1",
               "away": "Temple Fortune Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 14,
+              "as": 2,
               "date": "Thu 10/09/2026"
             },
             {
