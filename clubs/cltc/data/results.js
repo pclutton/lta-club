@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-14T12:21:23.461Z",
+  "generatedAt": "2026-09-14T17:55:53.519Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 7,
       "teams": 26,
-      "matches": 552,
-      "players": 169,
-      "stale": 0
+      "refreshed": 26,
+      "failed": 0
     },
     "competitions": [
       {
@@ -1273,6 +1273,13 @@ window.__RESULTS__ = {
               "date": "Mon 08/03/2027"
             },
             {
+              "home": "Mercury LTC 1",
+              "away": "South Hampstead Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Tue 16/03/2027"
+            },
+            {
               "home": "Temple Fortune Club 1",
               "away": "Paddington Sports Club 2",
               "hs": null,
@@ -1285,13 +1292,6 @@ window.__RESULTS__ = {
               "hs": null,
               "as": null,
               "date": "Thu 18/03/2027"
-            },
-            {
-              "home": "Mercury LTC 1",
-              "away": "South Hampstead Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 19/03/2027"
             }
           ],
           "results": [],

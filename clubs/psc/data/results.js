@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-14T12:24:18.672Z",
+  "generatedAt": "2026-09-14T17:56:44.885Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "matches": 554,
-      "players": 129,
-      "stale": 0
+      "refreshed": 24,
+      "failed": 0
     },
     "competitions": [
       {
@@ -1692,6 +1692,13 @@ window.__RESULTS__ = {
               "date": "Mon 08/03/2027"
             },
             {
+              "home": "Mercury LTC 1",
+              "away": "South Hampstead Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Tue 16/03/2027"
+            },
+            {
               "home": "Temple Fortune Club 1",
               "away": "Paddington Sports Club 2",
               "hs": null,
@@ -1704,13 +1711,6 @@ window.__RESULTS__ = {
               "hs": null,
               "as": null,
               "date": "Thu 18/03/2027"
-            },
-            {
-              "home": "Mercury LTC 1",
-              "away": "South Hampstead Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 19/03/2027"
             }
           ],
           "results": [],
@@ -2000,6 +2000,13 @@ window.__RESULTS__ = {
               "date": "Mon 08/03/2027"
             },
             {
+              "home": "Mercury LTC 1",
+              "away": "South Hampstead Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Tue 16/03/2027"
+            },
+            {
               "home": "Temple Fortune Club 1",
               "away": "Paddington Sports Club 2",
               "hs": null,
@@ -2012,13 +2019,6 @@ window.__RESULTS__ = {
               "hs": null,
               "as": null,
               "date": "Thu 18/03/2027"
-            },
-            {
-              "home": "Mercury LTC 1",
-              "away": "South Hampstead Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 19/03/2027"
             }
           ],
           "results": [],
