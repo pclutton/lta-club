@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-14T17:56:44.885Z",
+  "generatedAt": "2026-09-14T22:23:11.065Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -2965,6 +2965,28 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Totteridge Tennis Club 1",
+              "played": 1,
+              "won": 0,
+              "drawn": 1,
+              "lost": 0,
+              "rubbers": "8-8",
+              "points": 8,
+              "form": []
+            },
+            {
+              "rank": 3,
+              "name": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "played": 1,
+              "won": 0,
+              "drawn": 1,
+              "lost": 0,
+              "rubbers": "8-8",
+              "points": 8,
+              "form": []
+            },
+            {
+              "rank": 4,
               "name": "Totteridge Tennis Club 2",
               "played": 1,
               "won": 0,
@@ -2977,7 +2999,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
+              "rank": 5,
               "name": "Oakleigh Park Lawn Tennis & Squash Club 2",
               "played": 0,
               "won": 0,
@@ -2988,30 +3010,8 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 4,
-              "name": "Finchley Lawn Tennis Club 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
-              "rank": 5,
-              "name": "Oakleigh Park Lawn Tennis & Squash Club 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
               "rank": 6,
-              "name": "Totteridge Tennis Club 1",
+              "name": "Finchley Lawn Tennis Club 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -3054,8 +3054,8 @@ window.__RESULTS__ = {
             {
               "home": "Totteridge Tennis Club 1",
               "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 8,
               "date": "Mon 14/09/2026"
             },
             {
