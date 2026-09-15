@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-15T11:31:26.511Z",
+  "generatedAt": "2026-09-15T16:36:04.287Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "matches": 554,
-      "players": 129,
-      "stale": 0
+      "refreshed": 24,
+      "failed": 0
     },
     "competitions": [
       {
@@ -459,6 +459,13 @@ window.__RESULTS__ = {
           ],
           "matches": [
             {
+              "home": "Uxbridge LTC 1",
+              "away": "David Lloyd Club Finchley 1",
+              "hs": null,
+              "as": null,
+              "date": "Sat 03/10/2026"
+            },
+            {
               "home": "Paddington Sports Club 1",
               "away": "The Queens Club Limited 1",
               "hs": null,
@@ -474,21 +481,14 @@ window.__RESULTS__ = {
             },
             {
               "home": "Uxbridge LTC 1",
-              "away": "David Lloyd Club Finchley 1",
+              "away": "Brentham Lawn Tennis Club 1",
               "hs": null,
               "as": null,
-              "date": "Sun 04/10/2026"
+              "date": "Sat 07/11/2026"
             },
             {
               "home": "David Lloyd Club Finchley 1",
               "away": "The Queens Club Limited 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 08/11/2026"
-            },
-            {
-              "home": "Uxbridge LTC 1",
-              "away": "Brentham Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 08/11/2026"
@@ -522,15 +522,15 @@ window.__RESULTS__ = {
               "date": "Sun 29/11/2026"
             },
             {
-              "home": "Brentham Lawn Tennis Club 1",
-              "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 24/01/2027"
-            },
-            {
               "home": "Uxbridge LTC 1",
               "away": "The Queens Club Limited 1",
+              "hs": null,
+              "as": null,
+              "date": "Sat 23/01/2027"
+            },
+            {
+              "home": "Brentham Lawn Tennis Club 1",
+              "away": "Paddington Sports Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 24/01/2027"
@@ -695,15 +695,15 @@ window.__RESULTS__ = {
               "date": "Sun 17/01/2027"
             },
             {
-              "home": "David Lloyd Club Finchley 1",
-              "away": "GALLAN TENNIS ACADEMY 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 28/02/2027"
-            },
-            {
               "home": "Finchley Manor Tennis Squash and Health Club 1",
               "away": "Coles Green LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Sat 27/02/2027"
+            },
+            {
+              "home": "David Lloyd Club Finchley 1",
+              "away": "GALLAN TENNIS ACADEMY 1",
               "hs": null,
               "as": null,
               "date": "Sun 28/02/2027"
