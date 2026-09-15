@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-15T16:36:04.287Z",
+  "generatedAt": "2026-09-15T22:00:23.219Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -2030,39 +2030,45 @@ window.__RESULTS__ = {
           "division": "Division 1 North East",
           "pscName": "Paddington Sports Club 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/8",
-          "position": 2,
+          "position": 1,
           "of": 8,
-          "played": 0,
-          "won": 0,
+          "played": 1,
+          "won": 1,
           "lost": 0,
-          "points": 0,
-          "form": [],
+          "points": 14,
+          "form": [
+            "W"
+          ],
           "standings": [
             {
               "rank": 1,
-              "name": "Lowlands Club 1",
-              "played": 0,
-              "won": 0,
+              "name": "Paddington Sports Club 1",
+              "played": 1,
+              "won": 1,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
+              "rubbers": "14-2",
+              "points": 14,
+              "form": [
+                "W"
+              ]
             },
             {
               "rank": 2,
-              "name": "Paddington Sports Club 1",
-              "played": 0,
+              "name": "Paddington Sports Club 2",
+              "played": 1,
               "won": 0,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
+              "lost": 1,
+              "rubbers": "2-14",
+              "points": 2,
+              "form": [
+                "L"
+              ]
             },
             {
               "rank": 3,
-              "name": "Wayfarers LTC 1",
+              "name": "Eastcote Lawn Tennis Club 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -2073,7 +2079,7 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
-              "name": "Pinner Lawn Tennis Club 1",
+              "name": "Lowlands Club 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -2084,7 +2090,7 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
-              "name": "Harrow Lawn Tennis Club 1",
+              "name": "Wayfarers LTC 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -2095,7 +2101,7 @@ window.__RESULTS__ = {
             },
             {
               "rank": 6,
-              "name": "Harrow Lawn Tennis Club 2",
+              "name": "Pinner Lawn Tennis Club 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -2106,7 +2112,7 @@ window.__RESULTS__ = {
             },
             {
               "rank": 7,
-              "name": "Paddington Sports Club 2",
+              "name": "Harrow Lawn Tennis Club 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -2117,7 +2123,7 @@ window.__RESULTS__ = {
             },
             {
               "rank": 8,
-              "name": "Eastcote Lawn Tennis Club 1",
+              "name": "Harrow Lawn Tennis Club 2",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -2131,8 +2137,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 1",
               "away": "Paddington Sports Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 14,
+              "as": 2,
               "date": "Tue 15/09/2026"
             },
             {
@@ -2334,39 +2340,45 @@ window.__RESULTS__ = {
           "division": "Division 1 North East",
           "pscName": "Paddington Sports Club 2",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/8",
-          "position": 7,
+          "position": 2,
           "of": 8,
-          "played": 0,
+          "played": 1,
           "won": 0,
-          "lost": 0,
-          "points": 0,
-          "form": [],
+          "lost": 1,
+          "points": 2,
+          "form": [
+            "L"
+          ],
           "standings": [
             {
               "rank": 1,
-              "name": "Lowlands Club 1",
-              "played": 0,
-              "won": 0,
+              "name": "Paddington Sports Club 1",
+              "played": 1,
+              "won": 1,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
+              "rubbers": "14-2",
+              "points": 14,
+              "form": [
+                "W"
+              ]
             },
             {
               "rank": 2,
-              "name": "Paddington Sports Club 1",
-              "played": 0,
+              "name": "Paddington Sports Club 2",
+              "played": 1,
               "won": 0,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
+              "lost": 1,
+              "rubbers": "2-14",
+              "points": 2,
+              "form": [
+                "L"
+              ]
             },
             {
               "rank": 3,
-              "name": "Wayfarers LTC 1",
+              "name": "Eastcote Lawn Tennis Club 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -2377,7 +2389,7 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
-              "name": "Pinner Lawn Tennis Club 1",
+              "name": "Lowlands Club 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -2388,7 +2400,7 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
-              "name": "Harrow Lawn Tennis Club 1",
+              "name": "Wayfarers LTC 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -2399,7 +2411,7 @@ window.__RESULTS__ = {
             },
             {
               "rank": 6,
-              "name": "Harrow Lawn Tennis Club 2",
+              "name": "Pinner Lawn Tennis Club 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -2410,7 +2422,7 @@ window.__RESULTS__ = {
             },
             {
               "rank": 7,
-              "name": "Paddington Sports Club 2",
+              "name": "Harrow Lawn Tennis Club 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -2421,7 +2433,7 @@ window.__RESULTS__ = {
             },
             {
               "rank": 8,
-              "name": "Eastcote Lawn Tennis Club 1",
+              "name": "Harrow Lawn Tennis Club 2",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -2435,8 +2447,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 1",
               "away": "Paddington Sports Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 14,
+              "as": 2,
               "date": "Tue 15/09/2026"
             },
             {

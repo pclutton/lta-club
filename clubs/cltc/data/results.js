@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-15T16:35:12.990Z",
+  "generatedAt": "2026-09-15T21:59:29.968Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -1303,7 +1303,7 @@ window.__RESULTS__ = {
           "division": "Division 1 North East",
           "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/7",
-          "position": 8,
+          "position": 7,
           "of": 8,
           "played": 0,
           "won": 0,
@@ -1313,24 +1313,24 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
-              "name": "Finchley Manor Tennis Squash and Health Club 1",
-              "played": 0,
+              "name": "West Heath Lawn Tennis Club Limited 1",
+              "played": 1,
               "won": 0,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
+              "rubbers": "8-8",
+              "points": 8,
               "form": []
             },
             {
               "rank": 2,
               "name": "South Hampstead Tennis Club 1",
-              "played": 0,
+              "played": 1,
               "won": 0,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
+              "rubbers": "8-8",
+              "points": 8,
               "form": []
             },
             {
@@ -1379,7 +1379,7 @@ window.__RESULTS__ = {
             },
             {
               "rank": 7,
-              "name": "West Heath Lawn Tennis Club Limited 1",
+              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -1390,7 +1390,7 @@ window.__RESULTS__ = {
             },
             {
               "rank": 8,
-              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "name": "Finchley Manor Tennis Squash and Health Club 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -1404,8 +1404,8 @@ window.__RESULTS__ = {
             {
               "home": "South Hampstead Tennis Club 1",
               "away": "West Heath Lawn Tennis Club Limited 1",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 8,
               "date": "Tue 15/09/2026"
             },
             {
