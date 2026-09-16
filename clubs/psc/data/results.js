@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-16T16:28:33.061Z",
+  "generatedAt": "2026-09-16T21:59:30.348Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -2702,80 +2702,64 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/43",
           "position": 1,
           "of": 8,
-          "played": 0,
-          "won": 0,
+          "played": 1,
+          "won": 1,
           "lost": 0,
-          "points": 0,
-          "form": [],
+          "points": 16,
+          "form": [
+            "W"
+          ],
           "standings": [
             {
               "rank": 1,
               "name": "Paddington Sports Club 3",
-              "played": 0,
-              "won": 0,
+              "played": 1,
+              "won": 1,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
+              "rubbers": "16-0",
+              "points": 16,
+              "form": [
+                "W"
+              ]
             },
             {
               "rank": 2,
-              "name": "Park Sports - Lammas Park 1",
-              "played": 0,
+              "name": "Brentham Lawn Tennis Club 1",
+              "played": 1,
               "won": 0,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
+              "rubbers": "8-8",
+              "points": 8,
               "form": []
             },
             {
               "rank": 3,
-              "name": "Brentham Lawn Tennis Club 1",
-              "played": 0,
+              "name": "Virgin Active Chiswick Riverside 2",
+              "played": 1,
               "won": 0,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
+              "rubbers": "8-8",
+              "points": 8,
               "form": []
             },
             {
               "rank": 4,
-              "name": "Twickenham Lawn Tennis Club 1",
-              "played": 0,
+              "name": "David Lloyd Club Hampton 1",
+              "played": 1,
               "won": 0,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
+              "lost": 1,
+              "rubbers": "0-16",
               "points": 0,
-              "form": []
+              "form": [
+                "L"
+              ]
             },
             {
               "rank": 5,
-              "name": "Thistleworth LTC 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
-              "rank": 6,
-              "name": "Virgin Active Chiswick Riverside 2",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
-              "rank": 7,
               "name": "Holland Park Lawn Tennis Club 2",
               "played": 0,
               "won": 0,
@@ -2786,8 +2770,30 @@ window.__RESULTS__ = {
               "form": []
             },
             {
+              "rank": 6,
+              "name": "Twickenham Lawn Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 7,
+              "name": "Thistleworth LTC 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
               "rank": 8,
-              "name": "David Lloyd Club Hampton 1",
+              "name": "Park Sports - Lammas Park 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -2801,15 +2807,15 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 3",
               "away": "David Lloyd Club Hampton 1",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 0,
               "date": "Mon 14/09/2026"
             },
             {
               "home": "Brentham Lawn Tennis Club 1",
               "away": "Virgin Active Chiswick Riverside 2",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 8,
               "date": "Wed 16/09/2026"
             },
             {
