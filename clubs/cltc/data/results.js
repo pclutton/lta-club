@@ -2,61 +2,61 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-15T21:59:29.968Z",
+  "generatedAt": "2026-09-16T11:14:10.342Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 7,
       "teams": 26,
-      "refreshed": 26,
-      "failed": 0
+      "matches": 552,
+      "players": 169,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-09-15"
+        "asOf": "2026-09-16"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-09-15"
+        "asOf": "2026-09-16"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-09-15"
+        "asOf": "2026-09-16"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-09-15"
+        "asOf": "2026-09-16"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-09-15"
+        "asOf": "2026-09-16"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-09-15"
+        "asOf": "2026-09-16"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-09-15"
+        "asOf": "2026-09-16"
       }
     ]
   },
@@ -65,8 +65,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-09-15",
-      "asOf": "2026-09-15",
+      "lastSeen": "2026-09-16",
+      "asOf": "2026-09-16",
       "stale": false,
       "teams": [
         {
@@ -683,8 +683,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-09-15",
-      "asOf": "2026-09-15",
+      "lastSeen": "2026-09-16",
+      "asOf": "2026-09-16",
       "stale": false,
       "teams": [
         {
@@ -920,13 +920,6 @@ window.__RESULTS__ = {
               "date": "Sun 27/09/2026"
             },
             {
-              "home": "Coolhurst LTC 1",
-              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 01/11/2026"
-            },
-            {
               "home": "Hackney Tennis 1",
               "away": "David Lloyd Club Northwood 1",
               "hs": null,
@@ -934,11 +927,11 @@ window.__RESULTS__ = {
               "date": "Sun 01/11/2026"
             },
             {
-              "home": "Highgate Cricket and Lawn Tennis Club 1",
-              "away": "Hackney Tennis 1",
+              "home": "Coolhurst LTC 1",
+              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "hs": null,
               "as": null,
-              "date": "Sun 29/11/2026"
+              "date": "Sat 07/11/2026"
             },
             {
               "home": "David Lloyd Club Northwood 1",
@@ -948,15 +941,22 @@ window.__RESULTS__ = {
               "date": "Sun 29/11/2026"
             },
             {
-              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "away": "David Lloyd Club Northwood 1",
+              "home": "Highgate Cricket and Lawn Tennis Club 1",
+              "away": "Hackney Tennis 1",
               "hs": null,
               "as": null,
-              "date": "Sun 24/01/2027"
+              "date": "Sun 29/11/2026"
             },
             {
               "home": "Coolhurst LTC 1",
               "away": "Highgate Cricket and Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sat 23/01/2027"
+            },
+            {
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "away": "David Lloyd Club Northwood 1",
               "hs": null,
               "as": null,
               "date": "Sun 24/01/2027"
@@ -986,8 +986,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-09-15",
-      "asOf": "2026-09-15",
+      "lastSeen": "2026-09-16",
+      "asOf": "2026-09-16",
       "stale": false,
       "teams": [
         {
@@ -1303,16 +1303,31 @@ window.__RESULTS__ = {
           "division": "Division 1 North East",
           "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/7",
-          "position": 7,
+          "position": 4,
           "of": 8,
-          "played": 0,
+          "played": 1,
           "won": 0,
-          "lost": 0,
+          "lost": 1,
           "points": 0,
-          "form": [],
+          "form": [
+            "L"
+          ],
           "standings": [
             {
               "rank": 1,
+              "name": "Finchley Manor Tennis Squash and Health Club 1",
+              "played": 1,
+              "won": 1,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "16-0",
+              "points": 16,
+              "form": [
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "West Heath Lawn Tennis Club Limited 1",
               "played": 1,
               "won": 0,
@@ -1323,7 +1338,7 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 2,
+              "rank": 3,
               "name": "South Hampstead Tennis Club 1",
               "played": 1,
               "won": 0,
@@ -1334,7 +1349,20 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 3,
+              "rank": 4,
+              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "played": 1,
+              "won": 0,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "0-16",
+              "points": 0,
+              "form": [
+                "L"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Brondesbury Sports Club 1",
               "played": 0,
               "won": 0,
@@ -1345,7 +1373,7 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 4,
+              "rank": 6,
               "name": "Oakleigh Park Lawn Tennis & Squash Club 1",
               "played": 0,
               "won": 0,
@@ -1356,7 +1384,7 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 5,
+              "rank": 7,
               "name": "David Lloyd Club Finchley 1",
               "played": 0,
               "won": 0,
@@ -1367,30 +1395,8 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 6,
-              "name": "Totteridge Tennis Club 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
-              "rank": 7,
-              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
               "rank": 8,
-              "name": "Finchley Manor Tennis Squash and Health Club 1",
+              "name": "Totteridge Tennis Club 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -1411,8 +1417,8 @@ window.__RESULTS__ = {
             {
               "home": "Finchley Manor Tennis Squash and Health Club 1",
               "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 0,
               "date": "Tue 15/09/2026"
             },
             {
@@ -1600,7 +1606,32 @@ window.__RESULTS__ = {
           ],
           "results": [],
           "fixtures": [],
-          "players": []
+          "players": [
+            {
+              "name": "Alexandra Liebelt",
+              "won": 0,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/735"
+            },
+            {
+              "name": "Anastasia Argent",
+              "won": 0,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/734"
+            },
+            {
+              "name": "Matilda Parslow",
+              "won": 0,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/732"
+            },
+            {
+              "name": "Sunayna Sethi",
+              "won": 0,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/733"
+            }
+          ]
         }
       ]
     },
@@ -1608,8 +1639,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-09-15",
-      "asOf": "2026-09-15",
+      "lastSeen": "2026-09-16",
+      "asOf": "2026-09-16",
       "stale": false,
       "teams": [
         {
@@ -4323,8 +4354,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-09-15",
-      "asOf": "2026-09-15",
+      "lastSeen": "2026-09-16",
+      "asOf": "2026-09-16",
       "stale": false,
       "teams": [
         {
@@ -8401,8 +8432,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "current",
-      "lastSeen": "2026-09-15",
-      "asOf": "2026-09-15",
+      "lastSeen": "2026-09-16",
+      "asOf": "2026-09-16",
       "stale": false,
       "teams": [
         {
@@ -8843,8 +8874,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-09-15",
-      "asOf": "2026-09-15",
+      "lastSeen": "2026-09-16",
+      "asOf": "2026-09-16",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -8971,8 +9002,8 @@ window.__RESULTS__ = {
       "name": "Matilda Parslow",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2442",
       "won": 12,
-      "lost": 0,
-      "played": 12
+      "lost": 2,
+      "played": 14
     },
     {
       "name": "Shane Weston",
@@ -9031,18 +9062,18 @@ window.__RESULTS__ = {
       "played": 9
     },
     {
-      "name": "Sunayna Sethi",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5509",
-      "won": 9,
-      "lost": 0,
-      "played": 9
-    },
-    {
       "name": "Libby Lyons",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5209",
       "won": 9,
       "lost": 1,
       "played": 10
+    },
+    {
+      "name": "Sunayna Sethi",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5509",
+      "won": 9,
+      "lost": 2,
+      "played": 11
     },
     {
       "name": "Jane Fennelly",
@@ -9136,13 +9167,6 @@ window.__RESULTS__ = {
       "played": 14
     },
     {
-      "name": "Alexandra Liebelt",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2307",
-      "won": 7,
-      "lost": 2,
-      "played": 9
-    },
-    {
       "name": "Mark Woolley",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4136",
       "won": 7,
@@ -9176,6 +9200,13 @@ window.__RESULTS__ = {
       "won": 7,
       "lost": 3,
       "played": 10
+    },
+    {
+      "name": "Alexandra Liebelt",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2307",
+      "won": 7,
+      "lost": 4,
+      "played": 11
     },
     {
       "name": "James Wilkinson",
@@ -9367,13 +9398,6 @@ window.__RESULTS__ = {
       "played": 8
     },
     {
-      "name": "Anastasia Argent",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2445",
-      "won": 5,
-      "lost": 4,
-      "played": 9
-    },
-    {
       "name": "Magda Danowska",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4079",
       "won": 5,
@@ -9390,6 +9414,13 @@ window.__RESULTS__ = {
     {
       "name": "AJ O'Reilly",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/521",
+      "won": 5,
+      "lost": 6,
+      "played": 11
+    },
+    {
+      "name": "Anastasia Argent",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2445",
       "won": 5,
       "lost": 6,
       "played": 11

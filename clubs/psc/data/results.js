@@ -2,55 +2,55 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-15T22:00:23.219Z",
+  "generatedAt": "2026-09-16T11:16:54.558Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "refreshed": 24,
-      "failed": 0
+      "matches": 554,
+      "players": 130,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-09-15"
+        "asOf": "2026-09-16"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-09-15"
+        "asOf": "2026-09-16"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-09-15"
+        "asOf": "2026-09-16"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-09-15"
+        "asOf": "2026-09-16"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-09-15"
+        "asOf": "2026-09-16"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-09-15"
+        "asOf": "2026-09-16"
       }
     ]
   },
@@ -59,8 +59,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-09-15",
-      "asOf": "2026-09-15",
+      "lastSeen": "2026-09-16",
+      "asOf": "2026-09-16",
       "stale": false,
       "teams": [
         {
@@ -373,8 +373,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-09-15",
-      "asOf": "2026-09-15",
+      "lastSeen": "2026-09-16",
+      "asOf": "2026-09-16",
       "stale": false,
       "teams": [
         {
@@ -1101,8 +1101,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-09-15",
-      "asOf": "2026-09-15",
+      "lastSeen": "2026-09-16",
+      "asOf": "2026-09-16",
       "stale": false,
       "teams": [
         {
@@ -2333,7 +2333,32 @@ window.__RESULTS__ = {
           ],
           "results": [],
           "fixtures": [],
-          "players": []
+          "players": [
+            {
+              "name": "Annabelle Giles",
+              "won": 2,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/718"
+            },
+            {
+              "name": "Emily May O'Donovan",
+              "won": 2,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/717"
+            },
+            {
+              "name": "Annika Chai",
+              "won": 1,
+              "lost": 1,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/716"
+            },
+            {
+              "name": "Emma Wardle",
+              "won": 1,
+              "lost": 1,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/719"
+            }
+          ]
         },
         {
           "name": "Womens Doubles (2)",
@@ -2643,7 +2668,32 @@ window.__RESULTS__ = {
           ],
           "results": [],
           "fixtures": [],
-          "players": []
+          "players": [
+            {
+              "name": "Emily MacKay",
+              "won": 0,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/720"
+            },
+            {
+              "name": "Julie Zysman",
+              "won": 0,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/721"
+            },
+            {
+              "name": "Sam Kennedy",
+              "won": 0,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/723"
+            },
+            {
+              "name": "Zara Danesh",
+              "won": 0,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/722"
+            }
+          ]
         },
         {
           "name": "Womens Doubles",
@@ -3263,8 +3313,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-09-15",
-      "asOf": "2026-09-15",
+      "lastSeen": "2026-09-16",
+      "asOf": "2026-09-16",
       "stale": false,
       "teams": [
         {
@@ -4300,8 +4350,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-09-15",
-      "asOf": "2026-09-15",
+      "lastSeen": "2026-09-16",
+      "asOf": "2026-09-16",
       "stale": false,
       "teams": [
         {
@@ -7960,22 +8010,11 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-09-15",
-      "asOf": "2026-09-15",
+      "lastSeen": "2026-09-16",
+      "asOf": "2026-09-16",
       "stale": false,
       "teams": [],
       "knockouts": [
-        {
-          "name": "Middlesex Winter Cup 2026-27 — Mens Doubles Division 1",
-          "link": "https://competitions.lta.org.uk/league/7609542A-AB09-463F-A5B9-8FD2F5975993/draw/1",
-          "last": null,
-          "next": {
-            "opponent": "Harrow Lawn Tennis Club 1",
-            "home": true,
-            "date": "Sun 13/09/2026"
-          },
-          "live": true
-        },
         {
           "name": "Middlesex Winter Cup 2026-27 — Womens Doubles Division 1",
           "link": "https://competitions.lta.org.uk/league/7609542A-AB09-463F-A5B9-8FD2F5975993/draw/5",
@@ -7999,6 +8038,19 @@ window.__RESULTS__ = {
           },
           "next": null,
           "live": false
+        },
+        {
+          "name": "Middlesex Winter Cup 2026-27 — Mens Doubles Division 1",
+          "link": "https://competitions.lta.org.uk/league/7609542A-AB09-463F-A5B9-8FD2F5975993/draw/1",
+          "last": {
+            "opponent": "Harrow Lawn Tennis Club 1",
+            "scoreFor": 0,
+            "scoreAgainst": 9,
+            "won": false,
+            "date": "Sun 13/09/2026"
+          },
+          "next": null,
+          "live": false
         }
       ]
     }
@@ -8015,22 +8067,15 @@ window.__RESULTS__ = {
       "name": "Zara Danesh",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2485",
       "won": 18,
-      "lost": 6,
-      "played": 24
+      "lost": 8,
+      "played": 26
     },
     {
       "name": "Sam Kennedy",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2484",
       "won": 14,
-      "lost": 4,
-      "played": 18
-    },
-    {
-      "name": "Julie Zysman",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2480",
-      "won": 13,
-      "lost": 8,
-      "played": 21
+      "lost": 6,
+      "played": 20
     },
     {
       "name": "Yannick Tandy",
@@ -8047,11 +8092,18 @@ window.__RESULTS__ = {
       "played": 22
     },
     {
+      "name": "Julie Zysman",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2480",
+      "won": 13,
+      "lost": 10,
+      "played": 23
+    },
+    {
       "name": "Emily MacKay",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2481",
       "won": 12,
-      "lost": 6,
-      "played": 18
+      "lost": 8,
+      "played": 20
     },
     {
       "name": "Alessandro Gavazza",
@@ -8257,6 +8309,13 @@ window.__RESULTS__ = {
       "played": 13
     },
     {
+      "name": "Annabelle Giles",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5895",
+      "won": 5,
+      "lost": 0,
+      "played": 5
+    },
+    {
       "name": "Anna Collins",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5894",
       "won": 5,
@@ -8299,6 +8358,13 @@ window.__RESULTS__ = {
       "played": 12
     },
     {
+      "name": "Annika Chai",
+      "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/802",
+      "won": 5,
+      "lost": 7,
+      "played": 12
+    },
+    {
       "name": "Anna Vershebeniuk",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1326",
       "won": 4,
@@ -8334,8 +8400,8 @@ window.__RESULTS__ = {
       "played": 9
     },
     {
-      "name": "Annika Chai",
-      "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/802",
+      "name": "Emma Wardle",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5346",
       "won": 4,
       "lost": 6,
       "played": 10
@@ -8381,13 +8447,6 @@ window.__RESULTS__ = {
       "won": 4,
       "lost": 11,
       "played": 15
-    },
-    {
-      "name": "Annabelle Giles",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5895",
-      "won": 3,
-      "lost": 0,
-      "played": 3
     },
     {
       "name": "Francesco Camarda",
@@ -8474,13 +8533,6 @@ window.__RESULTS__ = {
       "played": 8
     },
     {
-      "name": "Emma Wardle",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5346",
-      "won": 3,
-      "lost": 5,
-      "played": 8
-    },
-    {
       "name": "Jack Fresnais",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/418",
       "won": 3,
@@ -8553,6 +8605,13 @@ window.__RESULTS__ = {
     {
       "name": "Alberto Ambrosetti",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1707",
+      "won": 2,
+      "lost": 0,
+      "played": 2
+    },
+    {
+      "name": "Emily May O'Donovan",
+      "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/717",
       "won": 2,
       "lost": 0,
       "played": 2
