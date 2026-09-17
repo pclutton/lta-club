@@ -2,55 +2,55 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-16T21:59:30.348Z",
+  "generatedAt": "2026-09-17T11:25:02.263Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "refreshed": 24,
-      "failed": 0
+      "matches": 554,
+      "players": 131,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-09-16"
+        "asOf": "2026-09-17"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-09-16"
+        "asOf": "2026-09-17"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-09-16"
+        "asOf": "2026-09-17"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-09-16"
+        "asOf": "2026-09-17"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-09-16"
+        "asOf": "2026-09-17"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-09-16"
+        "asOf": "2026-09-17"
       }
     ]
   },
@@ -59,8 +59,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-09-16",
-      "asOf": "2026-09-16",
+      "lastSeen": "2026-09-17",
+      "asOf": "2026-09-17",
       "stale": false,
       "teams": [
         {
@@ -167,8 +167,8 @@ window.__RESULTS__ = {
           ],
           "matches": [
             {
-              "home": "Windsor Lawn Tennis Club 1",
-              "away": "Harpenden LTC 1",
+              "home": "Harpenden LTC 1",
+              "away": "Windsor Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 18/10/2026"
@@ -202,8 +202,8 @@ window.__RESULTS__ = {
               "date": "Sun 08/11/2026"
             },
             {
-              "home": "Windsor Lawn Tennis Club 1",
-              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "away": "Windsor Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 08/11/2026"
@@ -293,8 +293,8 @@ window.__RESULTS__ = {
               "date": "Sun 24/01/2027"
             },
             {
-              "home": "Windsor Lawn Tennis Club 1",
-              "away": "Chandos Lawn Tennis Club 1",
+              "home": "Chandos Lawn Tennis Club 1",
+              "away": "Windsor Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 24/01/2027"
@@ -307,8 +307,8 @@ window.__RESULTS__ = {
               "date": "Sun 24/01/2027"
             },
             {
-              "home": "St Albans Lawn Tennis Club 1",
-              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "away": "St Albans Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 07/02/2027"
@@ -373,8 +373,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-09-16",
-      "asOf": "2026-09-16",
+      "lastSeen": "2026-09-17",
+      "asOf": "2026-09-17",
       "stale": false,
       "teams": [
         {
@@ -1101,8 +1101,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-09-16",
-      "asOf": "2026-09-16",
+      "lastSeen": "2026-09-17",
+      "asOf": "2026-09-17",
       "stale": false,
       "teams": [
         {
@@ -3003,7 +3003,32 @@ window.__RESULTS__ = {
           ],
           "results": [],
           "fixtures": [],
-          "players": []
+          "players": [
+            {
+              "name": "Francesca Di Pasquantonio",
+              "won": 2,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/819"
+            },
+            {
+              "name": "Izabella Repakis",
+              "won": 2,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/817"
+            },
+            {
+              "name": "Kara Hebert",
+              "won": 2,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/818"
+            },
+            {
+              "name": "Nadia Essa",
+              "won": 2,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/816"
+            }
+          ]
         },
         {
           "name": "Mixed Doubles",
@@ -3319,8 +3344,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-09-16",
-      "asOf": "2026-09-16",
+      "lastSeen": "2026-09-17",
+      "asOf": "2026-09-17",
       "stale": false,
       "teams": [
         {
@@ -4356,8 +4381,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-09-16",
-      "asOf": "2026-09-16",
+      "lastSeen": "2026-09-17",
+      "asOf": "2026-09-17",
       "stale": false,
       "teams": [
         {
@@ -8016,8 +8041,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-09-16",
-      "asOf": "2026-09-16",
+      "lastSeen": "2026-09-17",
+      "asOf": "2026-09-17",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -8119,6 +8144,13 @@ window.__RESULTS__ = {
       "played": 21
     },
     {
+      "name": "Kara Hebert",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1435",
+      "won": 10,
+      "lost": 6,
+      "played": 16
+    },
+    {
       "name": "Sushant Mehta",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/612",
       "won": 10,
@@ -8161,13 +8193,6 @@ window.__RESULTS__ = {
       "played": 12
     },
     {
-      "name": "Kara Hebert",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1435",
-      "won": 8,
-      "lost": 6,
-      "played": 14
-    },
-    {
       "name": "Alexander Smith",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4042",
       "won": 8,
@@ -8208,6 +8233,13 @@ window.__RESULTS__ = {
       "won": 7,
       "lost": 1,
       "played": 8
+    },
+    {
+      "name": "Nadia Essa",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1404",
+      "won": 7,
+      "lost": 4,
+      "played": 11
     },
     {
       "name": "Michael Yeomans",
@@ -8329,6 +8361,13 @@ window.__RESULTS__ = {
       "played": 7
     },
     {
+      "name": "Izabella Repakis",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4444",
+      "won": 5,
+      "lost": 3,
+      "played": 8
+    },
+    {
       "name": "Anne Beranger",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5181",
       "won": 5,
@@ -8338,13 +8377,6 @@ window.__RESULTS__ = {
     {
       "name": "Charlie Jenshoj",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4702",
-      "won": 5,
-      "lost": 4,
-      "played": 9
-    },
-    {
-      "name": "Nadia Essa",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1404",
       "won": 5,
       "lost": 4,
       "played": 9
@@ -8511,13 +8543,6 @@ window.__RESULTS__ = {
       "played": 6
     },
     {
-      "name": "Izabella Repakis",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4444",
-      "won": 3,
-      "lost": 3,
-      "played": 6
-    },
-    {
       "name": "Jenna Troop",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5940",
       "won": 3,
@@ -8618,6 +8643,13 @@ window.__RESULTS__ = {
     {
       "name": "Emily May O'Donovan",
       "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/717",
+      "won": 2,
+      "lost": 0,
+      "played": 2
+    },
+    {
+      "name": "Francesca Di Pasquantonio",
+      "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/819",
       "won": 2,
       "lost": 0,
       "played": 2
