@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-22T11:22:03.128Z",
+  "generatedAt": "2026-09-22T16:36:34.850Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "matches": 554,
-      "players": 131,
-      "stale": 0
+      "refreshed": 24,
+      "failed": 0
     },
     "competitions": [
       {
@@ -3076,6 +3076,19 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "West Heath Lawn Tennis Club Limited 1",
+              "played": 1,
+              "won": 1,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "16-0",
+              "points": 16,
+              "form": [
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "David Lloyd Club Finchley 1",
               "played": 1,
               "won": 1,
@@ -3088,7 +3101,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
+              "rank": 3,
               "name": "Totteridge Tennis Club 1",
               "played": 1,
               "won": 0,
@@ -3099,7 +3112,7 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "Oakleigh Park Lawn Tennis & Squash Club 1",
               "played": 1,
               "won": 0,
@@ -3110,7 +3123,7 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 4,
+              "rank": 5,
               "name": "Totteridge Tennis Club 2",
               "played": 1,
               "won": 0,
@@ -3123,30 +3136,21 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
-              "name": "Oakleigh Park Lawn Tennis & Squash Club 2",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
               "rank": 6,
               "name": "Finchley Lawn Tennis Club 1",
-              "played": 0,
+              "played": 1,
               "won": 0,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
+              "lost": 1,
+              "rubbers": "0-16",
               "points": 0,
-              "form": []
+              "form": [
+                "L"
+              ]
             },
             {
               "rank": 7,
-              "name": "West Heath Lawn Tennis Club Limited 1",
+              "name": "Oakleigh Park Lawn Tennis & Squash Club 2",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -3185,8 +3189,8 @@ window.__RESULTS__ = {
             {
               "home": "West Heath Lawn Tennis Club Limited 1",
               "away": "Finchley Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 0,
               "date": "Mon 21/09/2026"
             },
             {
