@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-22T16:36:34.850Z",
+  "generatedAt": "2026-09-22T21:54:19.222Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -1110,7 +1110,7 @@ window.__RESULTS__ = {
           "division": "Division 1 North East",
           "pscName": "Paddington Sports Club 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/3",
-          "position": 2,
+          "position": 4,
           "of": 8,
           "played": 1,
           "won": 0,
@@ -1135,6 +1135,32 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "West Heath Lawn Tennis Club Limited 1",
+              "played": 1,
+              "won": 1,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "9-7",
+              "points": 9,
+              "form": [
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
+              "name": "Brondesbury Sports Club 1",
+              "played": 1,
+              "won": 0,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "7-9",
+              "points": 7,
+              "form": [
+                "L"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Paddington Sports Club 1",
               "played": 1,
               "won": 0,
@@ -1147,7 +1173,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
+              "rank": 5,
               "name": "David Lloyd Club Finchley 1",
               "played": 0,
               "won": 0,
@@ -1158,18 +1184,7 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 4,
-              "name": "West Heath Lawn Tennis Club Limited 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
-              "rank": 5,
+              "rank": 6,
               "name": "Elmwood Lawn Tennis Club 1",
               "played": 0,
               "won": 0,
@@ -1180,19 +1195,8 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 6,
-              "name": "Finchley Lawn Tennis Club 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
               "rank": 7,
-              "name": "Brondesbury Sports Club 1",
+              "name": "Finchley Lawn Tennis Club 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -1224,8 +1228,8 @@ window.__RESULTS__ = {
             {
               "home": "West Heath Lawn Tennis Club Limited 1",
               "away": "Brondesbury Sports Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 9,
+              "as": 7,
               "date": "Tue 22/09/2026"
             },
             {
