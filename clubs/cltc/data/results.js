@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-23T11:11:33.462Z",
+  "generatedAt": "2026-09-23T16:26:09.996Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 7,
       "teams": 26,
-      "matches": 552,
-      "players": 169,
-      "stale": 0
+      "refreshed": 26,
+      "failed": 0
     },
     "competitions": [
       {
@@ -934,15 +934,15 @@ window.__RESULTS__ = {
               "date": "Sat 07/11/2026"
             },
             {
-              "home": "David Lloyd Club Northwood 1",
-              "away": "Coolhurst LTC 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 29/11/2026"
-            },
-            {
               "home": "Highgate Cricket and Lawn Tennis Club 1",
               "away": "Hackney Tennis 1",
+              "hs": null,
+              "as": null,
+              "date": "Sat 28/11/2026"
+            },
+            {
+              "home": "David Lloyd Club Northwood 1",
+              "away": "Coolhurst LTC 1",
               "hs": null,
               "as": null,
               "date": "Sun 29/11/2026"
@@ -1018,6 +1018,32 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Paddington Sports Club 2",
+              "played": 1,
+              "won": 1,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "10-6",
+              "points": 10,
+              "form": [
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
+              "name": "Paddington Sports Club 3",
+              "played": 1,
+              "won": 0,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "6-10",
+              "points": 6,
+              "form": [
+                "L"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Temple Fortune Club 1",
               "played": 1,
               "won": 0,
@@ -1028,28 +1054,6 @@ window.__RESULTS__ = {
               "form": [
                 "L"
               ]
-            },
-            {
-              "rank": 3,
-              "name": "Paddington Sports Club 3",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
-              "rank": 4,
-              "name": "Paddington Sports Club 2",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
             },
             {
               "rank": 5,
@@ -1107,8 +1111,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 2",
               "away": "Paddington Sports Club 3",
-              "hs": null,
-              "as": null,
+              "hs": 10,
+              "as": 6,
               "date": "Tue 22/09/2026"
             },
             {

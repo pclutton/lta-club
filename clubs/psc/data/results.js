@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-23T11:14:19.270Z",
+  "generatedAt": "2026-09-23T16:27:05.414Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "matches": 554,
-      "players": 131,
-      "stale": 0
+      "refreshed": 24,
+      "failed": 0
     },
     "competitions": [
       {
@@ -1449,13 +1449,15 @@ window.__RESULTS__ = {
           "division": "Division 2 North East",
           "pscName": "Paddington Sports Club 2",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/14",
-          "position": 4,
+          "position": 2,
           "of": 8,
-          "played": 0,
-          "won": 0,
+          "played": 1,
+          "won": 1,
           "lost": 0,
-          "points": 0,
-          "form": [],
+          "points": 10,
+          "form": [
+            "W"
+          ],
           "standings": [
             {
               "rank": 1,
@@ -1472,6 +1474,32 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Paddington Sports Club 2",
+              "played": 1,
+              "won": 1,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "10-6",
+              "points": 10,
+              "form": [
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
+              "name": "Paddington Sports Club 3",
+              "played": 1,
+              "won": 0,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "6-10",
+              "points": 6,
+              "form": [
+                "L"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Temple Fortune Club 1",
               "played": 1,
               "won": 0,
@@ -1482,28 +1510,6 @@ window.__RESULTS__ = {
               "form": [
                 "L"
               ]
-            },
-            {
-              "rank": 3,
-              "name": "Paddington Sports Club 3",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
-              "rank": 4,
-              "name": "Paddington Sports Club 2",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
             },
             {
               "rank": 5,
@@ -1561,8 +1567,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 2",
               "away": "Paddington Sports Club 3",
-              "hs": null,
-              "as": null,
+              "hs": 10,
+              "as": 6,
               "date": "Tue 22/09/2026"
             },
             {
@@ -1759,11 +1765,13 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/14",
           "position": 3,
           "of": 8,
-          "played": 0,
+          "played": 1,
           "won": 0,
-          "lost": 0,
-          "points": 0,
-          "form": [],
+          "lost": 1,
+          "points": 6,
+          "form": [
+            "L"
+          ],
           "standings": [
             {
               "rank": 1,
@@ -1780,6 +1788,32 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Paddington Sports Club 2",
+              "played": 1,
+              "won": 1,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "10-6",
+              "points": 10,
+              "form": [
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
+              "name": "Paddington Sports Club 3",
+              "played": 1,
+              "won": 0,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "6-10",
+              "points": 6,
+              "form": [
+                "L"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Temple Fortune Club 1",
               "played": 1,
               "won": 0,
@@ -1790,28 +1824,6 @@ window.__RESULTS__ = {
               "form": [
                 "L"
               ]
-            },
-            {
-              "rank": 3,
-              "name": "Paddington Sports Club 3",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
-              "rank": 4,
-              "name": "Paddington Sports Club 2",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
             },
             {
               "rank": 5,
@@ -1869,8 +1881,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 2",
               "away": "Paddington Sports Club 3",
-              "hs": null,
-              "as": null,
+              "hs": 10,
+              "as": 6,
               "date": "Tue 22/09/2026"
             },
             {
@@ -3212,6 +3224,13 @@ window.__RESULTS__ = {
               "date": "Wed 30/09/2026"
             },
             {
+              "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "away": "Oakleigh Park Lawn Tennis & Squash Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Fri 09/10/2026"
+            },
+            {
               "home": "Oakleigh Park Lawn Tennis & Squash Club 2",
               "away": "David Lloyd Club Finchley 1",
               "hs": null,
@@ -3287,13 +3306,6 @@ window.__RESULTS__ = {
               "hs": null,
               "as": null,
               "date": "Tue 19/01/2027"
-            },
-            {
-              "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
-              "away": "Oakleigh Park Lawn Tennis & Squash Club 2",
-              "hs": null,
-              "as": null,
-              "date": "Fri 22/01/2027"
             },
             {
               "home": "David Lloyd Club Finchley 1",
