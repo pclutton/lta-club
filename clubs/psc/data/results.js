@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-24T16:48:28.462Z",
+  "generatedAt": "2026-09-24T22:08:44.625Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -1458,7 +1458,7 @@ window.__RESULTS__ = {
           "played": 1,
           "won": 1,
           "lost": 0,
-          "points": 10,
+          "points": 11,
           "form": [
             "W"
           ],
@@ -1483,8 +1483,8 @@ window.__RESULTS__ = {
               "won": 1,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "10-6",
-              "points": 10,
+              "rubbers": "11-5",
+              "points": 11,
               "form": [
                 "W"
               ]
@@ -1496,8 +1496,8 @@ window.__RESULTS__ = {
               "won": 0,
               "drawn": 0,
               "lost": 1,
-              "rubbers": "6-10",
-              "points": 6,
+              "rubbers": "5-11",
+              "points": 5,
               "form": [
                 "L"
               ]
@@ -1571,8 +1571,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 2",
               "away": "Paddington Sports Club 3",
-              "hs": 10,
-              "as": 6,
+              "hs": 11,
+              "as": 5,
               "date": "Tue 22/09/2026"
             },
             {
@@ -1797,7 +1797,7 @@ window.__RESULTS__ = {
           "played": 1,
           "won": 0,
           "lost": 1,
-          "points": 6,
+          "points": 5,
           "form": [
             "L"
           ],
@@ -1822,8 +1822,8 @@ window.__RESULTS__ = {
               "won": 1,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "10-6",
-              "points": 10,
+              "rubbers": "11-5",
+              "points": 11,
               "form": [
                 "W"
               ]
@@ -1835,8 +1835,8 @@ window.__RESULTS__ = {
               "won": 0,
               "drawn": 0,
               "lost": 1,
-              "rubbers": "6-10",
-              "points": 6,
+              "rubbers": "5-11",
+              "points": 5,
               "form": [
                 "L"
               ]
@@ -1910,8 +1910,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 2",
               "away": "Paddington Sports Club 3",
-              "hs": 10,
-              "as": 6,
+              "hs": 11,
+              "as": 5,
               "date": "Tue 22/09/2026"
             },
             {

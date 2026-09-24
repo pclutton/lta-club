@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-24T16:47:36.443Z",
+  "generatedAt": "2026-09-24T22:07:52.299Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -1023,8 +1023,8 @@ window.__RESULTS__ = {
               "won": 1,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "10-6",
-              "points": 10,
+              "rubbers": "11-5",
+              "points": 11,
               "form": [
                 "W"
               ]
@@ -1036,8 +1036,8 @@ window.__RESULTS__ = {
               "won": 0,
               "drawn": 0,
               "lost": 1,
-              "rubbers": "6-10",
-              "points": 6,
+              "rubbers": "5-11",
+              "points": 5,
               "form": [
                 "L"
               ]
@@ -1111,8 +1111,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 2",
               "away": "Paddington Sports Club 3",
-              "hs": 10,
-              "as": 6,
+              "hs": 11,
+              "as": 5,
               "date": "Tue 22/09/2026"
             },
             {
@@ -1307,7 +1307,7 @@ window.__RESULTS__ = {
           "division": "Division 1 North East",
           "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/7",
-          "position": 4,
+          "position": 6,
           "of": 8,
           "played": 1,
           "won": 0,
@@ -1332,6 +1332,19 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Totteridge Tennis Club 1",
+              "played": 1,
+              "won": 1,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "10-6",
+              "points": 10,
+              "form": [
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "West Heath Lawn Tennis Club Limited 1",
               "played": 1,
               "won": 0,
@@ -1342,7 +1355,7 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "South Hampstead Tennis Club 1",
               "played": 1,
               "won": 0,
@@ -1353,7 +1366,20 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 4,
+              "rank": 5,
+              "name": "Brondesbury Sports Club 1",
+              "played": 1,
+              "won": 0,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "6-10",
+              "points": 6,
+              "form": [
+                "L"
+              ]
+            },
+            {
+              "rank": 6,
               "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "played": 1,
               "won": 0,
@@ -1366,18 +1392,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
-              "name": "Brondesbury Sports Club 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
-              "rank": 6,
+              "rank": 7,
               "name": "Oakleigh Park Lawn Tennis & Squash Club 1",
               "played": 0,
               "won": 0,
@@ -1388,19 +1403,8 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 7,
-              "name": "David Lloyd Club Finchley 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
               "rank": 8,
-              "name": "Totteridge Tennis Club 1",
+              "name": "David Lloyd Club Finchley 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -1435,8 +1439,8 @@ window.__RESULTS__ = {
             {
               "home": "Brondesbury Sports Club 1",
               "away": "Totteridge Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 6,
+              "as": 10,
               "date": "Thu 24/09/2026"
             },
             {
