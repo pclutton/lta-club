@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-24T11:30:56.819Z",
+  "generatedAt": "2026-09-24T16:48:28.462Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "matches": 554,
-      "players": 131,
-      "stale": 0
+      "refreshed": 24,
+      "failed": 0
     },
     "competitions": [
       {
@@ -650,7 +650,7 @@ window.__RESULTS__ = {
               "away": "Finchley Manor Tennis Squash and Health Club 1",
               "hs": null,
               "as": null,
-              "date": "Sun 27/09/2026"
+              "date": "Sun 11/10/2026"
             },
             {
               "home": "Coles Green LTC 1",
@@ -2826,6 +2826,19 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Twickenham Lawn Tennis Club 1",
+              "played": 1,
+              "won": 1,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "12-4",
+              "points": 12,
+              "form": [
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "Brentham Lawn Tennis Club 1",
               "played": 1,
               "won": 0,
@@ -2836,7 +2849,7 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "Virgin Active Chiswick Riverside 2",
               "played": 1,
               "won": 0,
@@ -2847,7 +2860,20 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 4,
+              "rank": 5,
+              "name": "Thistleworth LTC 1",
+              "played": 1,
+              "won": 0,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "4-12",
+              "points": 4,
+              "form": [
+                "L"
+              ]
+            },
+            {
+              "rank": 6,
               "name": "David Lloyd Club Hampton 1",
               "played": 1,
               "won": 0,
@@ -2860,30 +2886,8 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
-              "name": "Holland Park Lawn Tennis Club 2",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
-              "rank": 6,
-              "name": "Twickenham Lawn Tennis Club 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
               "rank": 7,
-              "name": "Thistleworth LTC 1",
+              "name": "Holland Park Lawn Tennis Club 2",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -2922,8 +2926,8 @@ window.__RESULTS__ = {
             {
               "home": "Twickenham Lawn Tennis Club 1",
               "away": "Thistleworth LTC 1",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 4,
               "date": "Tue 22/09/2026"
             },
             {
