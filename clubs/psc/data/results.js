@@ -2,55 +2,55 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-23T22:09:06.482Z",
+  "generatedAt": "2026-09-24T11:30:56.819Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "refreshed": 24,
-      "failed": 0
+      "matches": 554,
+      "players": 131,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-09-23"
+        "asOf": "2026-09-24"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-09-23"
+        "asOf": "2026-09-24"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-09-23"
+        "asOf": "2026-09-24"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-09-23"
+        "asOf": "2026-09-24"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-09-23"
+        "asOf": "2026-09-24"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-09-23"
+        "asOf": "2026-09-24"
       }
     ]
   },
@@ -59,8 +59,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-09-23",
-      "asOf": "2026-09-23",
+      "lastSeen": "2026-09-24",
+      "asOf": "2026-09-24",
       "stale": false,
       "teams": [
         {
@@ -373,8 +373,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-09-23",
-      "asOf": "2026-09-23",
+      "lastSeen": "2026-09-24",
+      "asOf": "2026-09-24",
       "stale": false,
       "teams": [
         {
@@ -1101,8 +1101,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-09-23",
-      "asOf": "2026-09-23",
+      "lastSeen": "2026-09-24",
+      "asOf": "2026-09-24",
       "stale": false,
       "teams": [
         {
@@ -1110,7 +1110,7 @@ window.__RESULTS__ = {
           "division": "Division 1 North East",
           "pscName": "Paddington Sports Club 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/3",
-          "position": 4,
+          "position": 5,
           "of": 8,
           "played": 1,
           "won": 0,
@@ -1122,6 +1122,19 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Elmwood Lawn Tennis Club 1",
+              "played": 1,
+              "won": 1,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "12-4",
+              "points": 12,
+              "form": [
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Finchley Manor Tennis Squash and Health Club 1",
               "played": 1,
               "won": 1,
@@ -1134,7 +1147,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
+              "rank": 3,
               "name": "West Heath Lawn Tennis Club Limited 1",
               "played": 1,
               "won": 1,
@@ -1147,7 +1160,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "Brondesbury Sports Club 1",
               "played": 1,
               "won": 0,
@@ -1160,7 +1173,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
               "name": "Paddington Sports Club 1",
               "played": 1,
               "won": 0,
@@ -1173,30 +1186,21 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
-              "name": "David Lloyd Club Finchley 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
               "rank": 6,
-              "name": "Elmwood Lawn Tennis Club 1",
-              "played": 0,
+              "name": "Finchley Lawn Tennis Club 1",
+              "played": 1,
               "won": 0,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
+              "lost": 1,
+              "rubbers": "4-12",
+              "points": 4,
+              "form": [
+                "L"
+              ]
             },
             {
               "rank": 7,
-              "name": "Finchley Lawn Tennis Club 1",
+              "name": "David Lloyd Club Finchley 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -1235,8 +1239,8 @@ window.__RESULTS__ = {
             {
               "home": "Elmwood Lawn Tennis Club 1",
               "away": "Finchley Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 4,
               "date": "Wed 23/09/2026"
             },
             {
@@ -1756,7 +1760,32 @@ window.__RESULTS__ = {
           ],
           "results": [],
           "fixtures": [],
-          "players": []
+          "players": [
+            {
+              "name": "Farruh Shermatov",
+              "won": 1,
+              "lost": 1,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1315"
+            },
+            {
+              "name": "Francesco Buffi",
+              "won": 1,
+              "lost": 1,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1312"
+            },
+            {
+              "name": "Sushant Mehta",
+              "won": 1,
+              "lost": 1,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1314"
+            },
+            {
+              "name": "Trystan Forrest",
+              "won": 1,
+              "lost": 1,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1313"
+            }
+          ]
         },
         {
           "name": "Mens Doubles (3)",
@@ -2070,7 +2099,32 @@ window.__RESULTS__ = {
           ],
           "results": [],
           "fixtures": [],
-          "players": []
+          "players": [
+            {
+              "name": "Jack Bishop",
+              "won": 1,
+              "lost": 1,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1317"
+            },
+            {
+              "name": "Jacky Yu",
+              "won": 1,
+              "lost": 1,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1316"
+            },
+            {
+              "name": "Patrick Ryan",
+              "won": 0,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1319"
+            },
+            {
+              "name": "Stephen Hobson",
+              "won": 0,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1318"
+            }
+          ]
         },
         {
           "name": "Womens Doubles (1)",
@@ -3395,8 +3449,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-09-23",
-      "asOf": "2026-09-23",
+      "lastSeen": "2026-09-24",
+      "asOf": "2026-09-24",
       "stale": false,
       "teams": [
         {
@@ -4432,8 +4486,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-09-23",
-      "asOf": "2026-09-23",
+      "lastSeen": "2026-09-24",
+      "asOf": "2026-09-24",
       "stale": false,
       "teams": [
         {
@@ -8092,8 +8146,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-09-23",
-      "asOf": "2026-09-23",
+      "lastSeen": "2026-09-24",
+      "asOf": "2026-09-24",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -8195,6 +8249,13 @@ window.__RESULTS__ = {
       "played": 21
     },
     {
+      "name": "Sushant Mehta",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/612",
+      "won": 11,
+      "lost": 11,
+      "played": 22
+    },
+    {
       "name": "Kara Hebert",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1435",
       "won": 10,
@@ -8202,18 +8263,18 @@ window.__RESULTS__ = {
       "played": 16
     },
     {
-      "name": "Sushant Mehta",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/612",
-      "won": 10,
-      "lost": 10,
-      "played": 20
-    },
-    {
       "name": "Aakash Vanchi Nath",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/586",
       "won": 9,
       "lost": 2,
       "played": 11
+    },
+    {
+      "name": "Francesco Buffi",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/615",
+      "won": 9,
+      "lost": 8,
+      "played": 17
     },
     {
       "name": "Niall Paterson",
@@ -8258,18 +8319,18 @@ window.__RESULTS__ = {
       "played": 15
     },
     {
-      "name": "Francesco Buffi",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/615",
-      "won": 8,
-      "lost": 7,
-      "played": 15
-    },
-    {
       "name": "Shireen Arthur",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1835",
       "won": 8,
       "lost": 7,
       "played": 15
+    },
+    {
+      "name": "Trystan Forrest",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/621",
+      "won": 8,
+      "lost": 15,
+      "played": 23
     },
     {
       "name": "Lucy Graham",
@@ -8326,13 +8387,6 @@ window.__RESULTS__ = {
       "won": 7,
       "lost": 12,
       "played": 19
-    },
-    {
-      "name": "Trystan Forrest",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/621",
-      "won": 7,
-      "lost": 14,
-      "played": 21
     },
     {
       "name": "jack li woon",
@@ -8433,6 +8487,13 @@ window.__RESULTS__ = {
       "played": 9
     },
     {
+      "name": "Jacky Yu",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5742",
+      "won": 5,
+      "lost": 6,
+      "played": 11
+    },
+    {
       "name": "Adam Chidell",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3742",
       "won": 5,
@@ -8475,25 +8536,25 @@ window.__RESULTS__ = {
       "played": 6
     },
     {
-      "name": "Jacky Yu",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5742",
-      "won": 4,
-      "lost": 5,
-      "played": 9
-    },
-    {
-      "name": "Stephen Hobson",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/979",
-      "won": 4,
-      "lost": 5,
-      "played": 9
-    },
-    {
       "name": "Emma Wardle",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5346",
       "won": 4,
       "lost": 6,
       "played": 10
+    },
+    {
+      "name": "Jack Bishop",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/980",
+      "won": 4,
+      "lost": 7,
+      "played": 11
+    },
+    {
+      "name": "Stephen Hobson",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/979",
+      "won": 4,
+      "lost": 7,
+      "played": 11
     },
     {
       "name": "Ann Scott",
@@ -8629,13 +8690,6 @@ window.__RESULTS__ = {
       "played": 9
     },
     {
-      "name": "Jack Bishop",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/980",
-      "won": 3,
-      "lost": 6,
-      "played": 9
-    },
-    {
       "name": "Johanne Arnesen",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6016",
       "won": 3,
@@ -8648,6 +8702,13 @@ window.__RESULTS__ = {
       "won": 3,
       "lost": 6,
       "played": 9
+    },
+    {
+      "name": "Farruh Shermatov",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3738",
+      "won": 3,
+      "lost": 8,
+      "played": 11
     },
     {
       "name": "Olivia Goldberg",
@@ -8769,13 +8830,6 @@ window.__RESULTS__ = {
       "played": 6
     },
     {
-      "name": "Patrick Ryan",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3741",
-      "won": 2,
-      "lost": 4,
-      "played": 6
-    },
-    {
       "name": "Seb Montgomery",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/143",
       "won": 2,
@@ -8783,11 +8837,11 @@ window.__RESULTS__ = {
       "played": 6
     },
     {
-      "name": "Farruh Shermatov",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3738",
+      "name": "Patrick Ryan",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3741",
       "won": 2,
-      "lost": 7,
-      "played": 9
+      "lost": 6,
+      "played": 8
     },
     {
       "name": "Paul Kassar",
