@@ -2,55 +2,55 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-24T22:08:44.625Z",
+  "generatedAt": "2026-09-25T11:36:58.748Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "refreshed": 24,
-      "failed": 0
+      "matches": 554,
+      "players": 131,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-09-24"
+        "asOf": "2026-09-25"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-09-24"
+        "asOf": "2026-09-25"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-09-24"
+        "asOf": "2026-09-25"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-09-24"
+        "asOf": "2026-09-25"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-09-24"
+        "asOf": "2026-09-25"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-09-24"
+        "asOf": "2026-09-25"
       }
     ]
   },
@@ -59,8 +59,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-09-24",
-      "asOf": "2026-09-24",
+      "lastSeen": "2026-09-25",
+      "asOf": "2026-09-25",
       "stale": false,
       "teams": [
         {
@@ -373,8 +373,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-09-24",
-      "asOf": "2026-09-24",
+      "lastSeen": "2026-09-25",
+      "asOf": "2026-09-25",
       "stale": false,
       "teams": [
         {
@@ -795,15 +795,15 @@ window.__RESULTS__ = {
           ],
           "matches": [
             {
-              "home": "Paddington Sports Club 1",
-              "away": "West Middlesex Lawn Tennis Club Ltd 1",
+              "home": "Barnet Lawn Tennis Club 1",
+              "away": "Teddington Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 11/10/2026"
             },
             {
-              "home": "Barnet Lawn Tennis Club 1",
-              "away": "Teddington Lawn Tennis Club 1",
+              "home": "Paddington Sports Club 1",
+              "away": "West Middlesex Lawn Tennis Club Ltd 1",
               "hs": null,
               "as": null,
               "date": "Sun 11/10/2026"
@@ -993,6 +993,13 @@ window.__RESULTS__ = {
               "date": "Sun 04/10/2026"
             },
             {
+              "home": "Highgate Cricket and Lawn Tennis Club 1",
+              "away": "Thistleworth LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 04/10/2026"
+            },
+            {
               "home": "Paddington Sports Club 1",
               "away": "The Hurlingham Club 1",
               "hs": null,
@@ -1001,21 +1008,14 @@ window.__RESULTS__ = {
             },
             {
               "home": "Highgate Cricket and Lawn Tennis Club 1",
-              "away": "Thistleworth LTC 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 04/10/2026"
-            },
-            {
-              "home": "Thistleworth LTC 1",
-              "away": "West Middlesex Lawn Tennis Club Ltd 1",
+              "away": "Paddington Sports Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 01/11/2026"
             },
             {
-              "home": "Highgate Cricket and Lawn Tennis Club 1",
-              "away": "Paddington Sports Club 1",
+              "home": "Thistleworth LTC 1",
+              "away": "West Middlesex Lawn Tennis Club Ltd 1",
               "hs": null,
               "as": null,
               "date": "Sun 01/11/2026"
@@ -1101,8 +1101,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-09-24",
-      "asOf": "2026-09-24",
+      "lastSeen": "2026-09-25",
+      "asOf": "2026-09-25",
       "stale": false,
       "teams": [
         {
@@ -3453,8 +3453,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-09-24",
-      "asOf": "2026-09-24",
+      "lastSeen": "2026-09-25",
+      "asOf": "2026-09-25",
       "stale": false,
       "teams": [
         {
@@ -4490,8 +4490,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-09-24",
-      "asOf": "2026-09-24",
+      "lastSeen": "2026-09-25",
+      "asOf": "2026-09-25",
       "stale": false,
       "teams": [
         {
@@ -8150,8 +8150,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-09-24",
-      "asOf": "2026-09-24",
+      "lastSeen": "2026-09-25",
+      "asOf": "2026-09-25",
       "stale": false,
       "teams": [],
       "knockouts": [
