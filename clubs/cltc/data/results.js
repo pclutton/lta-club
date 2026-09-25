@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-25T11:34:03.457Z",
+  "generatedAt": "2026-09-25T16:52:18.443Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 7,
       "teams": 26,
-      "matches": 552,
-      "players": 169,
-      "stale": 0
+      "refreshed": 26,
+      "failed": 0
     },
     "competitions": [
       {
@@ -5330,8 +5330,8 @@ window.__RESULTS__ = {
               "won": 4,
               "drawn": 0,
               "lost": 2,
-              "rubbers": "77-52",
-              "points": 92,
+              "rubbers": "82-52",
+              "points": 82,
               "form": [
                 "L",
                 "W",
@@ -5396,7 +5396,7 @@ window.__RESULTS__ = {
               "won": 2,
               "drawn": 0,
               "lost": 4,
-              "rubbers": "50-79",
+              "rubbers": "50-84",
               "points": 50,
               "form": [
                 "W",
@@ -5516,7 +5516,7 @@ window.__RESULTS__ = {
             {
               "home": "Globe 1",
               "away": "Hazelwood 2",
-              "hs": 24,
+              "hs": 14,
               "as": 0,
               "date": "Tue 14/07/2026"
             },
