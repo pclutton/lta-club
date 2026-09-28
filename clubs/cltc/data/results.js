@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-28T13:26:11.829Z",
+  "generatedAt": "2026-09-28T19:26:20.363Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 7,
       "teams": 26,
-      "matches": 552,
-      "players": 170,
-      "stale": 0
+      "refreshed": 26,
+      "failed": 0
     },
     "competitions": [
       {
@@ -840,38 +840,31 @@ window.__RESULTS__ = {
           "division": "Div 1",
           "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/676686EB-7D35-4816-9BE5-DDEC7913DA16/draw/1",
-          "position": 2,
+          "position": 1,
           "of": 5,
-          "played": 0,
-          "won": 0,
+          "played": 1,
+          "won": 1,
           "lost": 0,
-          "points": 0,
-          "form": [],
+          "points": 2,
+          "form": [
+            "W"
+          ],
           "standings": [
             {
               "rank": 1,
-              "name": "Coolhurst LTC 1",
-              "played": 0,
-              "won": 0,
+              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "played": 1,
+              "won": 1,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
+              "rubbers": "34-2",
+              "points": 2,
+              "form": [
+                "W"
+              ]
             },
             {
               "rank": 2,
-              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
-              "rank": 3,
               "name": "David Lloyd Club Northwood 1",
               "played": 0,
               "won": 0,
@@ -882,8 +875,19 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 4,
+              "rank": 3,
               "name": "Highgate Cricket and Lawn Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
+              "rank": 4,
+              "name": "Coolhurst LTC 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -895,13 +899,15 @@ window.__RESULTS__ = {
             {
               "rank": 5,
               "name": "Hackney Tennis 1",
-              "played": 0,
+              "played": 1,
               "won": 0,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
+              "lost": 1,
+              "rubbers": "2-34",
               "points": 0,
-              "form": []
+              "form": [
+                "L"
+              ]
             }
           ],
           "matches": [
@@ -915,8 +921,8 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "away": "Hackney Tennis 1",
-              "hs": null,
-              "as": null,
+              "hs": 34,
+              "as": 2,
               "date": "Sun 27/09/2026"
             },
             {
