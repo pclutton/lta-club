@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-29T00:53:22.843Z",
+  "generatedAt": "2026-09-29T12:31:17.906Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 7,
       "teams": 26,
-      "refreshed": 26,
-      "failed": 0
+      "matches": 552,
+      "players": 170,
+      "stale": 0
     },
     "competitions": [
       {
@@ -56,7 +56,7 @@ window.__RESULTS__ = {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-09-28"
+        "asOf": "2026-09-29"
       }
     ]
   },
@@ -984,7 +984,32 @@ window.__RESULTS__ = {
           ],
           "results": [],
           "fixtures": [],
-          "players": []
+          "players": [
+            {
+              "name": "AJ O'Reilly",
+              "won": 5,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/240"
+            },
+            {
+              "name": "Joseph Pizzanelli",
+              "won": 5,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/239"
+            },
+            {
+              "name": "Marc-Emmanuel Zoonekynd",
+              "won": 5,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/238"
+            },
+            {
+              "name": "Amelia Klimbacher",
+              "won": 4,
+              "lost": 1,
+              "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/241"
+            }
+          ]
         }
       ]
     },
@@ -8927,22 +8952,11 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-09-28",
-      "asOf": "2026-09-28",
+      "lastSeen": "2026-09-29",
+      "asOf": "2026-09-29",
       "stale": false,
       "teams": [],
       "knockouts": [
-        {
-          "name": "Middlesex Winter Cup 2026-27 — Mens Doubles Division 1",
-          "link": "https://competitions.lta.org.uk/league/7609542A-AB09-463F-A5B9-8FD2F5975993/draw/1",
-          "last": null,
-          "next": {
-            "opponent": "The Queens Club Limited 1",
-            "home": false,
-            "date": "Sun 27/09/2026"
-          },
-          "live": true
-        },
         {
           "name": "Middlesex Winter Cup 2026-27 — Womens Doubles Division 1",
           "link": "https://competitions.lta.org.uk/league/7609542A-AB09-463F-A5B9-8FD2F5975993/draw/5",
@@ -8963,6 +8977,19 @@ window.__RESULTS__ = {
             "scoreAgainst": 5,
             "won": false,
             "date": "Sat 16/05/2026"
+          },
+          "next": null,
+          "live": false
+        },
+        {
+          "name": "Middlesex Winter Cup 2026-27 — Mens Doubles Division 1",
+          "link": "https://competitions.lta.org.uk/league/7609542A-AB09-463F-A5B9-8FD2F5975993/draw/1",
+          "last": {
+            "opponent": "The Queens Club Limited 1",
+            "scoreFor": 2,
+            "scoreAgainst": 5,
+            "won": false,
+            "date": "Sun 27/09/2026"
           },
           "next": null,
           "live": false
@@ -9112,6 +9139,13 @@ window.__RESULTS__ = {
       "played": 14
     },
     {
+      "name": "AJ O'Reilly",
+      "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/521",
+      "won": 10,
+      "lost": 6,
+      "played": 16
+    },
+    {
       "name": "Benjamin Clark",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3546",
       "won": 9,
@@ -9201,6 +9235,13 @@ window.__RESULTS__ = {
       "won": 8,
       "lost": 0,
       "played": 8
+    },
+    {
+      "name": "Marc-Emmanuel Zoonekynd",
+      "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/238",
+      "won": 8,
+      "lost": 1,
+      "played": 9
     },
     {
       "name": "Rhett Purcell",
@@ -9301,6 +9342,13 @@ window.__RESULTS__ = {
       "played": 13
     },
     {
+      "name": "Amelia Klimbacher",
+      "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/516",
+      "won": 7,
+      "lost": 6,
+      "played": 13
+    },
+    {
       "name": "Gabriela Wilkinson",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4223",
       "won": 7,
@@ -9345,6 +9393,13 @@ window.__RESULTS__ = {
     {
       "name": "Daniel Kahan",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/544",
+      "won": 6,
+      "lost": 2,
+      "played": 8
+    },
+    {
+      "name": "Joseph Pizzanelli",
+      "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/239",
       "won": 6,
       "lost": 2,
       "played": 8
@@ -9467,13 +9522,6 @@ window.__RESULTS__ = {
       "won": 5,
       "lost": 5,
       "played": 10
-    },
-    {
-      "name": "AJ O'Reilly",
-      "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/521",
-      "won": 5,
-      "lost": 6,
-      "played": 11
     },
     {
       "name": "Anastasia Argent",
@@ -9616,13 +9664,6 @@ window.__RESULTS__ = {
       "played": 4
     },
     {
-      "name": "Marc-Emmanuel Zoonekynd",
-      "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1190",
-      "won": 3,
-      "lost": 1,
-      "played": 4
-    },
-    {
       "name": "Mark Kudinov",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/282",
       "won": 3,
@@ -9663,13 +9704,6 @@ window.__RESULTS__ = {
       "won": 3,
       "lost": 4,
       "played": 7
-    },
-    {
-      "name": "Amelia Klimbacher",
-      "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/516",
-      "won": 3,
-      "lost": 5,
-      "played": 8
     },
     {
       "name": "Jake Cuzin",
@@ -9940,13 +9974,6 @@ window.__RESULTS__ = {
     {
       "name": "Georgia Kohansky",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6451",
-      "won": 1,
-      "lost": 2,
-      "played": 3
-    },
-    {
-      "name": "Joseph Pizzanelli",
-      "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1683",
       "won": 1,
       "lost": 2,
       "played": 3
