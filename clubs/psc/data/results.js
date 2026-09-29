@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-28T19:27:13.462Z",
+  "generatedAt": "2026-09-29T00:54:14.078Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -20,31 +20,31 @@ window.__RESULTS__ = {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-09-28"
+        "asOf": "2026-09-29"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-09-28"
+        "asOf": "2026-09-29"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-09-28"
+        "asOf": "2026-09-29"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-09-28"
+        "asOf": "2026-09-29"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-09-28"
+        "asOf": "2026-09-29"
       },
       {
         "id": "knockouts",
@@ -59,8 +59,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-09-28",
-      "asOf": "2026-09-28",
+      "lastSeen": "2026-09-29",
+      "asOf": "2026-09-29",
       "stale": false,
       "teams": [
         {
@@ -373,8 +373,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-09-28",
-      "asOf": "2026-09-28",
+      "lastSeen": "2026-09-29",
+      "asOf": "2026-09-29",
       "stale": false,
       "teams": [
         {
@@ -1101,8 +1101,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-09-28",
-      "asOf": "2026-09-28",
+      "lastSeen": "2026-09-29",
+      "asOf": "2026-09-29",
       "stale": false,
       "teams": [
         {
@@ -1457,7 +1457,7 @@ window.__RESULTS__ = {
           "division": "Division 2 North East",
           "pscName": "Paddington Sports Club 2",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/14",
-          "position": 2,
+          "position": 4,
           "of": 8,
           "played": 1,
           "won": 1,
@@ -1482,6 +1482,32 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Totteridge Tennis Club 1",
+              "played": 1,
+              "won": 1,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "13-3",
+              "points": 13,
+              "form": [
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
+              "name": "Mercury LTC 1",
+              "played": 1,
+              "won": 1,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "12-4",
+              "points": 12,
+              "form": [
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Paddington Sports Club 2",
               "played": 1,
               "won": 1,
@@ -1494,20 +1520,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
-              "name": "Totteridge Tennis Club 1",
-              "played": 1,
-              "won": 1,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "10-2",
-              "points": 10,
-              "form": [
-                "W"
-              ]
-            },
-            {
-              "rank": 4,
+              "rank": 5,
               "name": "Paddington Sports Club 3",
               "played": 1,
               "won": 0,
@@ -1520,20 +1533,33 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
-              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "rank": 6,
+              "name": "Finchley Lawn Tennis Club 2",
               "played": 1,
               "won": 0,
               "drawn": 0,
               "lost": 1,
-              "rubbers": "2-10",
-              "points": 2,
+              "rubbers": "4-12",
+              "points": 4,
               "form": [
                 "L"
               ]
             },
             {
-              "rank": 6,
+              "rank": 7,
+              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "played": 1,
+              "won": 0,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "3-13",
+              "points": 3,
+              "form": [
+                "L"
+              ]
+            },
+            {
+              "rank": 8,
               "name": "Temple Fortune Club 1",
               "played": 1,
               "won": 0,
@@ -1544,28 +1570,6 @@ window.__RESULTS__ = {
               "form": [
                 "L"
               ]
-            },
-            {
-              "rank": 7,
-              "name": "Mercury LTC 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
-              "rank": 8,
-              "name": "Finchley Lawn Tennis Club 2",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
             }
           ],
           "matches": [
@@ -1586,15 +1590,15 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "away": "Totteridge Tennis Club 1",
-              "hs": 2,
-              "as": 10,
+              "hs": 3,
+              "as": 13,
               "date": "Thu 24/09/2026"
             },
             {
               "home": "Finchley Lawn Tennis Club 2",
               "away": "Mercury LTC 1",
-              "hs": null,
-              "as": null,
+              "hs": 4,
+              "as": 12,
               "date": "Mon 28/09/2026"
             },
             {
@@ -1800,7 +1804,7 @@ window.__RESULTS__ = {
           "division": "Division 2 North East",
           "pscName": "Paddington Sports Club 3",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/14",
-          "position": 4,
+          "position": 5,
           "of": 8,
           "played": 1,
           "won": 0,
@@ -1825,6 +1829,32 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Totteridge Tennis Club 1",
+              "played": 1,
+              "won": 1,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "13-3",
+              "points": 13,
+              "form": [
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
+              "name": "Mercury LTC 1",
+              "played": 1,
+              "won": 1,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "12-4",
+              "points": 12,
+              "form": [
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Paddington Sports Club 2",
               "played": 1,
               "won": 1,
@@ -1837,20 +1867,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
-              "name": "Totteridge Tennis Club 1",
-              "played": 1,
-              "won": 1,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "10-2",
-              "points": 10,
-              "form": [
-                "W"
-              ]
-            },
-            {
-              "rank": 4,
+              "rank": 5,
               "name": "Paddington Sports Club 3",
               "played": 1,
               "won": 0,
@@ -1863,20 +1880,33 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
-              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "rank": 6,
+              "name": "Finchley Lawn Tennis Club 2",
               "played": 1,
               "won": 0,
               "drawn": 0,
               "lost": 1,
-              "rubbers": "2-10",
-              "points": 2,
+              "rubbers": "4-12",
+              "points": 4,
               "form": [
                 "L"
               ]
             },
             {
-              "rank": 6,
+              "rank": 7,
+              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "played": 1,
+              "won": 0,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "3-13",
+              "points": 3,
+              "form": [
+                "L"
+              ]
+            },
+            {
+              "rank": 8,
               "name": "Temple Fortune Club 1",
               "played": 1,
               "won": 0,
@@ -1887,28 +1917,6 @@ window.__RESULTS__ = {
               "form": [
                 "L"
               ]
-            },
-            {
-              "rank": 7,
-              "name": "Mercury LTC 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
-              "rank": 8,
-              "name": "Finchley Lawn Tennis Club 2",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
             }
           ],
           "matches": [
@@ -1929,15 +1937,15 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "away": "Totteridge Tennis Club 1",
-              "hs": 2,
-              "as": 10,
+              "hs": 3,
+              "as": 13,
               "date": "Thu 24/09/2026"
             },
             {
               "home": "Finchley Lawn Tennis Club 2",
               "away": "Mercury LTC 1",
-              "hs": null,
-              "as": null,
+              "hs": 4,
+              "as": 12,
               "date": "Mon 28/09/2026"
             },
             {
@@ -3485,8 +3493,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-09-28",
-      "asOf": "2026-09-28",
+      "lastSeen": "2026-09-29",
+      "asOf": "2026-09-29",
       "stale": false,
       "teams": [
         {
@@ -4522,8 +4530,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-09-28",
-      "asOf": "2026-09-28",
+      "lastSeen": "2026-09-29",
+      "asOf": "2026-09-29",
       "stale": false,
       "teams": [
         {
