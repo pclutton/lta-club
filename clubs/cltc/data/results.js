@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-29T12:31:17.906Z",
+  "generatedAt": "2026-09-29T17:53:14.074Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 7,
       "teams": 26,
-      "matches": 552,
-      "players": 170,
-      "stale": 0
+      "refreshed": 26,
+      "failed": 0
     },
     "competitions": [
       {
@@ -519,18 +519,18 @@ window.__RESULTS__ = {
               "date": "Sun 08/11/2026"
             },
             {
-              "home": "Harpenden LTC 1",
-              "away": "Hazelwood Lawn Tennis & Squash Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 08/11/2026"
-            },
-            {
               "home": "Halton Tennis Centre 1",
               "away": "Paddington Sports Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 08/11/2026"
+            },
+            {
+              "home": "Harpenden LTC 1",
+              "away": "Hazelwood Lawn Tennis & Squash Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sat 21/11/2026"
             },
             {
               "home": "Chandos Lawn Tennis Club 1",
@@ -561,6 +561,20 @@ window.__RESULTS__ = {
               "date": "Sun 29/11/2026"
             },
             {
+              "home": "Harpenden LTC 1",
+              "away": "Halton Tennis Centre 1",
+              "hs": null,
+              "as": null,
+              "date": "Sat 05/12/2026"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "St Albans Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 06/12/2026"
+            },
+            {
               "home": "Chandos Lawn Tennis Club 1",
               "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "hs": null,
@@ -575,34 +589,6 @@ window.__RESULTS__ = {
               "date": "Sun 06/12/2026"
             },
             {
-              "home": "Harpenden LTC 1",
-              "away": "Halton Tennis Centre 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 06/12/2026"
-            },
-            {
-              "home": "Paddington Sports Club 1",
-              "away": "St Albans Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 06/12/2026"
-            },
-            {
-              "home": "Harpenden LTC 1",
-              "away": "St Albans Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 24/01/2027"
-            },
-            {
-              "home": "Hazelwood Lawn Tennis & Squash Club 1",
-              "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 24/01/2027"
-            },
-            {
               "home": "Chandos Lawn Tennis Club 1",
               "away": "Windsor Lawn Tennis Club 1",
               "hs": null,
@@ -615,6 +601,27 @@ window.__RESULTS__ = {
               "hs": null,
               "as": null,
               "date": "Sun 24/01/2027"
+            },
+            {
+              "home": "Hazelwood Lawn Tennis & Squash Club 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 24/01/2027"
+            },
+            {
+              "home": "Harpenden LTC 1",
+              "away": "St Albans Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sat 30/01/2027"
+            },
+            {
+              "home": "Harpenden LTC 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 07/02/2027"
             },
             {
               "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
@@ -638,20 +645,6 @@ window.__RESULTS__ = {
               "date": "Sun 07/02/2027"
             },
             {
-              "home": "Harpenden LTC 1",
-              "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 07/02/2027"
-            },
-            {
-              "home": "Chandos Lawn Tennis Club 1",
-              "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 21/02/2027"
-            },
-            {
               "home": "Windsor Lawn Tennis Club 1",
               "away": "St Albans Lawn Tennis Club 1",
               "hs": null,
@@ -668,6 +661,13 @@ window.__RESULTS__ = {
             {
               "home": "Halton Tennis Centre 1",
               "away": "Hazelwood Lawn Tennis & Squash Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 21/02/2027"
+            },
+            {
+              "home": "Chandos Lawn Tennis Club 1",
+              "away": "Paddington Sports Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 21/02/2027"
