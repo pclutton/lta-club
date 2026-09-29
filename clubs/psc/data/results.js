@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-29T17:54:12.872Z",
+  "generatedAt": "2026-09-29T22:54:18.031Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -2837,40 +2837,43 @@ window.__RESULTS__ = {
           "division": "Division 3 West",
           "pscName": "Paddington Sports Club 3",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/43",
-          "position": 1,
+          "position": 2,
           "of": 8,
-          "played": 1,
+          "played": 2,
           "won": 1,
-          "lost": 0,
-          "points": 16,
+          "lost": 1,
+          "points": 22,
           "form": [
-            "W"
+            "W",
+            "L"
           ],
           "standings": [
             {
               "rank": 1,
-              "name": "Paddington Sports Club 3",
-              "played": 1,
-              "won": 1,
+              "name": "Park Sports - Lammas Park 1",
+              "played": 2,
+              "won": 2,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "16-0",
-              "points": 16,
+              "rubbers": "24-8",
+              "points": 24,
               "form": [
+                "W",
                 "W"
               ]
             },
             {
               "rank": 2,
-              "name": "Park Sports - Lammas Park 1",
-              "played": 1,
+              "name": "Paddington Sports Club 3",
+              "played": 2,
               "won": 1,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "14-2",
-              "points": 14,
+              "lost": 1,
+              "rubbers": "22-10",
+              "points": 22,
               "form": [
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -2980,8 +2983,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 3",
               "away": "Park Sports - Lammas Park 1",
-              "hs": null,
-              "as": null,
+              "hs": 6,
+              "as": 10,
               "date": "Tue 29/09/2026"
             },
             {
@@ -3190,6 +3193,19 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Totteridge Tennis Club 1",
+              "played": 2,
+              "won": 1,
+              "drawn": 1,
+              "lost": 0,
+              "rubbers": "22-10",
+              "points": 22,
+              "form": [
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "West Heath Lawn Tennis Club Limited 1",
               "played": 1,
               "won": 1,
@@ -3202,7 +3218,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
+              "rank": 3,
               "name": "David Lloyd Club Finchley 1",
               "played": 1,
               "won": 1,
@@ -3213,17 +3229,6 @@ window.__RESULTS__ = {
               "form": [
                 "W"
               ]
-            },
-            {
-              "rank": 3,
-              "name": "Totteridge Tennis Club 1",
-              "played": 1,
-              "won": 0,
-              "drawn": 1,
-              "lost": 0,
-              "rubbers": "8-8",
-              "points": 8,
-              "form": []
             },
             {
               "rank": 4,
@@ -3239,13 +3244,14 @@ window.__RESULTS__ = {
             {
               "rank": 5,
               "name": "Totteridge Tennis Club 2",
-              "played": 1,
+              "played": 2,
               "won": 0,
               "drawn": 0,
-              "lost": 1,
-              "rubbers": "6-10",
-              "points": 6,
+              "lost": 2,
+              "rubbers": "8-24",
+              "points": 8,
               "form": [
+                "L",
                 "L"
               ]
             },
@@ -3310,8 +3316,8 @@ window.__RESULTS__ = {
             {
               "home": "Totteridge Tennis Club 2",
               "away": "Totteridge Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 2,
+              "as": 14,
               "date": "Tue 29/09/2026"
             },
             {
