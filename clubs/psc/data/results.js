@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-30T17:49:14.022Z",
+  "generatedAt": "2026-09-30T22:54:07.391Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -501,15 +501,15 @@ window.__RESULTS__ = {
               "date": "Sun 08/11/2026"
             },
             {
-              "home": "Paddington Sports Club 1",
-              "away": "Uxbridge LTC 1",
+              "home": "Brentham Lawn Tennis Club 1",
+              "away": "David Lloyd Club Finchley 1",
               "hs": null,
               "as": null,
               "date": "Sun 29/11/2026"
             },
             {
-              "home": "Brentham Lawn Tennis Club 1",
-              "away": "David Lloyd Club Finchley 1",
+              "home": "Paddington Sports Club 1",
+              "away": "Uxbridge LTC 1",
               "hs": null,
               "as": null,
               "date": "Sun 29/11/2026"
@@ -543,13 +543,6 @@ window.__RESULTS__ = {
               "date": "Sun 24/01/2027"
             },
             {
-              "home": "Paddington Sports Club 1",
-              "away": "David Lloyd Club Finchley 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 07/02/2027"
-            },
-            {
               "home": "The Queens Club Limited 1",
               "away": "Brentham Lawn Tennis Club 1",
               "hs": null,
@@ -559,6 +552,13 @@ window.__RESULTS__ = {
             {
               "home": "West Middlesex Lawn Tennis Club Ltd 1",
               "away": "Uxbridge LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 07/02/2027"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "David Lloyd Club Finchley 1",
               "hs": null,
               "as": null,
               "date": "Sun 07/02/2027"
@@ -1035,15 +1035,15 @@ window.__RESULTS__ = {
               "date": "Sun 22/11/2026"
             },
             {
-              "home": "Paddington Sports Club 1",
-              "away": "Thistleworth LTC 1",
+              "home": "West Middlesex Lawn Tennis Club Ltd 1",
+              "away": "The Hurlingham Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 22/11/2026"
             },
             {
-              "home": "West Middlesex Lawn Tennis Club Ltd 1",
-              "away": "The Hurlingham Club 1",
+              "home": "Paddington Sports Club 1",
+              "away": "Thistleworth LTC 1",
               "hs": null,
               "as": null,
               "date": "Sun 22/11/2026"
@@ -3195,13 +3195,15 @@ window.__RESULTS__ = {
           "division": "Division 1 North East",
           "pscName": "Paddington Sports Club 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/10",
-          "position": 8,
+          "position": 2,
           "of": 8,
-          "played": 0,
-          "won": 0,
+          "played": 1,
+          "won": 1,
           "lost": 0,
-          "points": 0,
-          "form": [],
+          "points": 16,
+          "form": [
+            "W"
+          ],
           "standings": [
             {
               "rank": 1,
@@ -3218,7 +3220,7 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
-              "name": "West Heath Lawn Tennis Club Limited 1",
+              "name": "Paddington Sports Club 1",
               "played": 1,
               "won": 1,
               "drawn": 0,
@@ -3231,6 +3233,19 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "West Heath Lawn Tennis Club Limited 1",
+              "played": 1,
+              "won": 1,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "16-0",
+              "points": 16,
+              "form": [
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "David Lloyd Club Finchley 1",
               "played": 1,
               "won": 1,
@@ -3243,7 +3258,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
               "name": "Oakleigh Park Lawn Tennis & Squash Club 1",
               "played": 1,
               "won": 0,
@@ -3254,7 +3269,7 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Totteridge Tennis Club 2",
               "played": 2,
               "won": 0,
@@ -3268,7 +3283,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 6,
+              "rank": 7,
               "name": "Finchley Lawn Tennis Club 1",
               "played": 1,
               "won": 0,
@@ -3281,26 +3296,17 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 7,
-              "name": "Oakleigh Park Lawn Tennis & Squash Club 2",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
               "rank": 8,
-              "name": "Paddington Sports Club 1",
-              "played": 0,
+              "name": "Oakleigh Park Lawn Tennis & Squash Club 2",
+              "played": 1,
               "won": 0,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
+              "lost": 1,
+              "rubbers": "0-16",
               "points": 0,
-              "form": []
+              "form": [
+                "L"
+              ]
             }
           ],
           "matches": [
@@ -3335,8 +3341,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 1",
               "away": "Oakleigh Park Lawn Tennis & Squash Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 0,
               "date": "Wed 30/09/2026"
             },
             {
