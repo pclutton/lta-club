@@ -2,55 +2,55 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-30T22:54:07.391Z",
+  "generatedAt": "2026-10-01T12:53:26.824Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "refreshed": 24,
-      "failed": 0
+      "matches": 554,
+      "players": 131,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-09-30"
+        "asOf": "2026-10-01"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-09-30"
+        "asOf": "2026-10-01"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-09-30"
+        "asOf": "2026-10-01"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-09-30"
+        "asOf": "2026-10-01"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-09-30"
+        "asOf": "2026-10-01"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-09-30"
+        "asOf": "2026-10-01"
       }
     ]
   },
@@ -59,8 +59,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-09-30",
-      "asOf": "2026-09-30",
+      "lastSeen": "2026-10-01",
+      "asOf": "2026-10-01",
       "stale": false,
       "teams": [
         {
@@ -167,20 +167,6 @@ window.__RESULTS__ = {
           ],
           "matches": [
             {
-              "home": "Harpenden LTC 1",
-              "away": "Windsor Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 18/10/2026"
-            },
-            {
-              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 18/10/2026"
-            },
-            {
               "home": "Halton Tennis Centre 1",
               "away": "Chandos Lawn Tennis Club 1",
               "hs": null,
@@ -195,6 +181,20 @@ window.__RESULTS__ = {
               "date": "Sun 18/10/2026"
             },
             {
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 18/10/2026"
+            },
+            {
+              "home": "Halton Tennis Centre 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 08/11/2026"
+            },
+            {
               "home": "Chandos Lawn Tennis Club 1",
               "away": "St Albans Lawn Tennis Club 1",
               "hs": null,
@@ -204,13 +204,6 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "away": "Windsor Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 08/11/2026"
-            },
-            {
-              "home": "Halton Tennis Centre 1",
-              "away": "Paddington Sports Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 08/11/2026"
@@ -230,15 +223,15 @@ window.__RESULTS__ = {
               "date": "Sun 29/11/2026"
             },
             {
-              "home": "Hazelwood Lawn Tennis & Squash Club 1",
-              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "home": "Halton Tennis Centre 1",
+              "away": "St Albans Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 29/11/2026"
             },
             {
-              "home": "Halton Tennis Centre 1",
-              "away": "St Albans Lawn Tennis Club 1",
+              "home": "Hazelwood Lawn Tennis & Squash Club 1",
+              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "hs": null,
               "as": null,
               "date": "Sun 29/11/2026"
@@ -258,13 +251,6 @@ window.__RESULTS__ = {
               "date": "Sat 05/12/2026"
             },
             {
-              "home": "Paddington Sports Club 1",
-              "away": "St Albans Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 06/12/2026"
-            },
-            {
               "home": "Chandos Lawn Tennis Club 1",
               "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "hs": null,
@@ -277,6 +263,20 @@ window.__RESULTS__ = {
               "hs": null,
               "as": null,
               "date": "Sun 06/12/2026"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "St Albans Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 06/12/2026"
+            },
+            {
+              "home": "Hazelwood Lawn Tennis & Squash Club 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 24/01/2027"
             },
             {
               "home": "Chandos Lawn Tennis Club 1",
@@ -293,25 +293,11 @@ window.__RESULTS__ = {
               "date": "Sun 24/01/2027"
             },
             {
-              "home": "Hazelwood Lawn Tennis & Squash Club 1",
-              "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 24/01/2027"
-            },
-            {
               "home": "Harpenden LTC 1",
               "away": "St Albans Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Sat 30/01/2027"
-            },
-            {
-              "home": "Harpenden LTC 1",
-              "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 07/02/2027"
             },
             {
               "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
@@ -335,6 +321,27 @@ window.__RESULTS__ = {
               "date": "Sun 07/02/2027"
             },
             {
+              "home": "Harpenden LTC 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 07/02/2027"
+            },
+            {
+              "home": "Chandos Lawn Tennis Club 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 21/02/2027"
+            },
+            {
+              "home": "Halton Tennis Centre 1",
+              "away": "Hazelwood Lawn Tennis & Squash Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 21/02/2027"
+            },
+            {
               "home": "Windsor Lawn Tennis Club 1",
               "away": "St Albans Lawn Tennis Club 1",
               "hs": null,
@@ -349,18 +356,11 @@ window.__RESULTS__ = {
               "date": "Sun 21/02/2027"
             },
             {
-              "home": "Halton Tennis Centre 1",
-              "away": "Hazelwood Lawn Tennis & Squash Club 1",
+              "home": "Harpenden LTC 1",
+              "away": "Windsor Lawn Tennis Club 1",
               "hs": null,
               "as": null,
-              "date": "Sun 21/02/2027"
-            },
-            {
-              "home": "Chandos Lawn Tennis Club 1",
-              "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 21/02/2027"
+              "date": "Sat 27/02/2027"
             }
           ],
           "results": [],
@@ -373,8 +373,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-09-30",
-      "asOf": "2026-09-30",
+      "lastSeen": "2026-10-01",
+      "asOf": "2026-10-01",
       "stale": false,
       "teams": [
         {
@@ -1101,8 +1101,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-09-30",
-      "asOf": "2026-09-30",
+      "lastSeen": "2026-10-01",
+      "asOf": "2026-10-01",
       "stale": false,
       "teams": [
         {
@@ -3509,7 +3509,32 @@ window.__RESULTS__ = {
           ],
           "results": [],
           "fixtures": [],
-          "players": []
+          "players": [
+            {
+              "name": "Alan Wilson",
+              "won": 2,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1954"
+            },
+            {
+              "name": "Arabella Moen",
+              "won": 2,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1953"
+            },
+            {
+              "name": "Irene Ouyang",
+              "won": 2,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1952"
+            },
+            {
+              "name": "Yannick Tandy",
+              "won": 2,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/941"
+            }
+          ]
         }
       ]
     },
@@ -3517,8 +3542,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-09-30",
-      "asOf": "2026-09-30",
+      "lastSeen": "2026-10-01",
+      "asOf": "2026-10-01",
       "stale": false,
       "teams": [
         {
@@ -4554,8 +4579,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-09-30",
-      "asOf": "2026-09-30",
+      "lastSeen": "2026-10-01",
+      "asOf": "2026-10-01",
       "stale": false,
       "teams": [
         {
@@ -8214,8 +8239,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-09-30",
-      "asOf": "2026-09-30",
+      "lastSeen": "2026-10-01",
+      "asOf": "2026-10-01",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -8265,9 +8290,9 @@ window.__RESULTS__ = {
     {
       "name": "Irene Ouyang",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4440",
-      "won": 21,
+      "won": 23,
       "lost": 9,
-      "played": 30
+      "played": 32
     },
     {
       "name": "Zara Danesh",
@@ -8277,18 +8302,18 @@ window.__RESULTS__ = {
       "played": 26
     },
     {
+      "name": "Yannick Tandy",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/616",
+      "won": 16,
+      "lost": 9,
+      "played": 25
+    },
+    {
       "name": "Sam Kennedy",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2484",
       "won": 14,
       "lost": 6,
       "played": 20
-    },
-    {
-      "name": "Yannick Tandy",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/616",
-      "won": 14,
-      "lost": 9,
-      "played": 23
     },
     {
       "name": "Isaac Havu",
@@ -8368,6 +8393,13 @@ window.__RESULTS__ = {
       "played": 8
     },
     {
+      "name": "Arabella Moen",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5345",
+      "won": 8,
+      "lost": 1,
+      "played": 9
+    },
+    {
       "name": "Supriya Dadlani",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1834",
       "won": 8,
@@ -8445,6 +8477,13 @@ window.__RESULTS__ = {
       "played": 13
     },
     {
+      "name": "Alan Wilson",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2791",
+      "won": 7,
+      "lost": 7,
+      "played": 14
+    },
+    {
       "name": "David Kane",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2405",
       "won": 7,
@@ -8478,13 +8517,6 @@ window.__RESULTS__ = {
       "won": 6,
       "lost": 0,
       "played": 6
-    },
-    {
-      "name": "Arabella Moen",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5345",
-      "won": 6,
-      "lost": 1,
-      "played": 7
     },
     {
       "name": "Lucas Daminescu",
@@ -8566,13 +8598,6 @@ window.__RESULTS__ = {
     {
       "name": "Adam Chidell",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3742",
-      "won": 5,
-      "lost": 7,
-      "played": 12
-    },
-    {
-      "name": "Alan Wilson",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2791",
       "won": 5,
       "lost": 7,
       "played": 12

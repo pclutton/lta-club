@@ -2,61 +2,61 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-09-30T22:53:11.077Z",
+  "generatedAt": "2026-10-01T12:50:41.719Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 7,
       "teams": 26,
-      "refreshed": 26,
-      "failed": 0
+      "matches": 552,
+      "players": 170,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-09-30"
+        "asOf": "2026-10-01"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-09-30"
+        "asOf": "2026-10-01"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-09-30"
+        "asOf": "2026-10-01"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-09-30"
+        "asOf": "2026-10-01"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-09-30"
+        "asOf": "2026-10-01"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-09-30"
+        "asOf": "2026-10-01"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-09-30"
+        "asOf": "2026-10-01"
       }
     ]
   },
@@ -65,8 +65,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-09-30",
-      "asOf": "2026-09-30",
+      "lastSeen": "2026-10-01",
+      "asOf": "2026-10-01",
       "stale": false,
       "teams": [
         {
@@ -477,20 +477,6 @@ window.__RESULTS__ = {
           ],
           "matches": [
             {
-              "home": "Harpenden LTC 1",
-              "away": "Windsor Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 18/10/2026"
-            },
-            {
-              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 18/10/2026"
-            },
-            {
               "home": "Halton Tennis Centre 1",
               "away": "Chandos Lawn Tennis Club 1",
               "hs": null,
@@ -505,6 +491,20 @@ window.__RESULTS__ = {
               "date": "Sun 18/10/2026"
             },
             {
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 18/10/2026"
+            },
+            {
+              "home": "Halton Tennis Centre 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 08/11/2026"
+            },
+            {
               "home": "Chandos Lawn Tennis Club 1",
               "away": "St Albans Lawn Tennis Club 1",
               "hs": null,
@@ -514,13 +514,6 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "away": "Windsor Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 08/11/2026"
-            },
-            {
-              "home": "Halton Tennis Centre 1",
-              "away": "Paddington Sports Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 08/11/2026"
@@ -540,15 +533,15 @@ window.__RESULTS__ = {
               "date": "Sun 29/11/2026"
             },
             {
-              "home": "Hazelwood Lawn Tennis & Squash Club 1",
-              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "home": "Halton Tennis Centre 1",
+              "away": "St Albans Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 29/11/2026"
             },
             {
-              "home": "Halton Tennis Centre 1",
-              "away": "St Albans Lawn Tennis Club 1",
+              "home": "Hazelwood Lawn Tennis & Squash Club 1",
+              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "hs": null,
               "as": null,
               "date": "Sun 29/11/2026"
@@ -568,13 +561,6 @@ window.__RESULTS__ = {
               "date": "Sat 05/12/2026"
             },
             {
-              "home": "Paddington Sports Club 1",
-              "away": "St Albans Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 06/12/2026"
-            },
-            {
               "home": "Chandos Lawn Tennis Club 1",
               "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "hs": null,
@@ -587,6 +573,20 @@ window.__RESULTS__ = {
               "hs": null,
               "as": null,
               "date": "Sun 06/12/2026"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "St Albans Lawn Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 06/12/2026"
+            },
+            {
+              "home": "Hazelwood Lawn Tennis & Squash Club 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 24/01/2027"
             },
             {
               "home": "Chandos Lawn Tennis Club 1",
@@ -603,25 +603,11 @@ window.__RESULTS__ = {
               "date": "Sun 24/01/2027"
             },
             {
-              "home": "Hazelwood Lawn Tennis & Squash Club 1",
-              "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 24/01/2027"
-            },
-            {
               "home": "Harpenden LTC 1",
               "away": "St Albans Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Sat 30/01/2027"
-            },
-            {
-              "home": "Harpenden LTC 1",
-              "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 07/02/2027"
             },
             {
               "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
@@ -645,6 +631,27 @@ window.__RESULTS__ = {
               "date": "Sun 07/02/2027"
             },
             {
+              "home": "Harpenden LTC 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 07/02/2027"
+            },
+            {
+              "home": "Chandos Lawn Tennis Club 1",
+              "away": "Paddington Sports Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 21/02/2027"
+            },
+            {
+              "home": "Halton Tennis Centre 1",
+              "away": "Hazelwood Lawn Tennis & Squash Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 21/02/2027"
+            },
+            {
               "home": "Windsor Lawn Tennis Club 1",
               "away": "St Albans Lawn Tennis Club 1",
               "hs": null,
@@ -659,18 +666,11 @@ window.__RESULTS__ = {
               "date": "Sun 21/02/2027"
             },
             {
-              "home": "Halton Tennis Centre 1",
-              "away": "Hazelwood Lawn Tennis & Squash Club 1",
+              "home": "Harpenden LTC 1",
+              "away": "Windsor Lawn Tennis Club 1",
               "hs": null,
               "as": null,
-              "date": "Sun 21/02/2027"
-            },
-            {
-              "home": "Chandos Lawn Tennis Club 1",
-              "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 21/02/2027"
+              "date": "Sat 27/02/2027"
             }
           ],
           "results": [],
@@ -683,8 +683,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-09-30",
-      "asOf": "2026-09-30",
+      "lastSeen": "2026-10-01",
+      "asOf": "2026-10-01",
       "stale": false,
       "teams": [
         {
@@ -1017,8 +1017,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-09-30",
-      "asOf": "2026-09-30",
+      "lastSeen": "2026-10-01",
+      "asOf": "2026-10-01",
       "stale": false,
       "teams": [
         {
@@ -1717,8 +1717,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-09-30",
-      "asOf": "2026-09-30",
+      "lastSeen": "2026-10-01",
+      "asOf": "2026-10-01",
       "stale": false,
       "teams": [
         {
@@ -4432,8 +4432,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-09-30",
-      "asOf": "2026-09-30",
+      "lastSeen": "2026-10-01",
+      "asOf": "2026-10-01",
       "stale": false,
       "teams": [
         {
@@ -4787,7 +4787,7 @@ window.__RESULTS__ = {
           "players": [
             {
               "name": "Jacob Coenraad de klerk",
-              "won": 16,
+              "won": 15,
               "lost": 1,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3550"
             },
@@ -4804,22 +4804,16 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3546"
             },
             {
-              "name": "John Thompson",
-              "won": 8,
-              "lost": 0,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4373"
-            },
-            {
               "name": "Rhett Purcell",
               "won": 8,
               "lost": 1,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3549"
             },
             {
-              "name": "Michael Clarkson",
-              "won": 5,
-              "lost": 3,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4374"
+              "name": "John Thompson",
+              "won": 7,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4373"
             },
             {
               "name": "Neel Khimasia",
@@ -4828,16 +4822,16 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2089"
             },
             {
+              "name": "Michael Clarkson",
+              "won": 4,
+              "lost": 3,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4374"
+            },
+            {
               "name": "Jack Long-Martinez",
               "won": 4,
               "lost": 5,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3548"
-            },
-            {
-              "name": "Adam Woodall",
-              "won": 3,
-              "lost": 2,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5667"
             },
             {
               "name": "Mark Keothavong",
@@ -4846,10 +4840,10 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3545"
             },
             {
-              "name": "Cameron Lambden",
-              "won": 1,
-              "lost": 1,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6563"
+              "name": "Adam Woodall",
+              "won": 2,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5667"
             },
             {
               "name": "Dom Hemy",
@@ -4858,16 +4852,22 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5809"
             },
             {
-              "name": "JOSH PISTORIUS",
-              "won": 1,
-              "lost": 2,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6737"
-            },
-            {
               "name": "Joshua Pistorius",
               "won": 0,
               "lost": 0,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6572"
+            },
+            {
+              "name": "Cameron Lambden",
+              "won": 0,
+              "lost": 1,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6563"
+            },
+            {
+              "name": "JOSH PISTORIUS",
+              "won": 0,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6737"
             },
             {
               "name": "Peter Whight",
@@ -8515,8 +8515,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "current",
-      "lastSeen": "2026-09-30",
-      "asOf": "2026-09-30",
+      "lastSeen": "2026-10-01",
+      "asOf": "2026-10-01",
       "stale": false,
       "teams": [
         {
@@ -8957,8 +8957,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-09-30",
-      "asOf": "2026-09-30",
+      "lastSeen": "2026-10-01",
+      "asOf": "2026-10-01",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -9039,18 +9039,18 @@ window.__RESULTS__ = {
       "played": 27
     },
     {
-      "name": "Jacob Coenraad de klerk",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3550",
-      "won": 16,
-      "lost": 1,
-      "played": 17
-    },
-    {
       "name": "Iain Gannon",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1385",
       "won": 16,
       "lost": 7,
       "played": 23
+    },
+    {
+      "name": "Jacob Coenraad de klerk",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3550",
+      "won": 15,
+      "lost": 1,
+      "played": 16
     },
     {
       "name": "Tom Winters",
@@ -9235,13 +9235,6 @@ window.__RESULTS__ = {
       "played": 8
     },
     {
-      "name": "John Thompson",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4373",
-      "won": 8,
-      "lost": 0,
-      "played": 8
-    },
-    {
       "name": "Marc-Emmanuel Zoonekynd",
       "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/238",
       "won": 8,
@@ -9268,6 +9261,13 @@ window.__RESULTS__ = {
       "won": 8,
       "lost": 6,
       "played": 14
+    },
+    {
+      "name": "John Thompson",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4373",
+      "won": 7,
+      "lost": 0,
+      "played": 7
     },
     {
       "name": "Mark Woolley",
@@ -9321,13 +9321,6 @@ window.__RESULTS__ = {
     {
       "name": "Logan Boyd",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/515",
-      "won": 7,
-      "lost": 4,
-      "played": 11
-    },
-    {
-      "name": "Michael Clarkson",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4374",
       "won": 7,
       "lost": 4,
       "played": 11
@@ -9431,6 +9424,13 @@ window.__RESULTS__ = {
       "played": 9
     },
     {
+      "name": "Michael Clarkson",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4374",
+      "won": 6,
+      "lost": 4,
+      "played": 10
+    },
+    {
       "name": "Fergus O Connell",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2091",
       "won": 6,
@@ -9501,13 +9501,6 @@ window.__RESULTS__ = {
       "played": 6
     },
     {
-      "name": "Adam Woodall",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5667",
-      "won": 5,
-      "lost": 3,
-      "played": 8
-    },
-    {
       "name": "Olivia Parson",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1898",
       "won": 5,
@@ -9576,6 +9569,13 @@ window.__RESULTS__ = {
       "won": 4,
       "lost": 2,
       "played": 6
+    },
+    {
+      "name": "Adam Woodall",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5667",
+      "won": 4,
+      "lost": 3,
+      "played": 7
     },
     {
       "name": "Sara Nabi",
@@ -9921,13 +9921,6 @@ window.__RESULTS__ = {
       "played": 17
     },
     {
-      "name": "Cameron Lambden",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6563",
-      "won": 1,
-      "lost": 1,
-      "played": 2
-    },
-    {
       "name": "Emma Boniek",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1871",
       "won": 1,
@@ -9979,13 +9972,6 @@ window.__RESULTS__ = {
     {
       "name": "Georgia Kohansky",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6451",
-      "won": 1,
-      "lost": 2,
-      "played": 3
-    },
-    {
-      "name": "JOSH PISTORIUS",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6737",
       "won": 1,
       "lost": 2,
       "played": 3
@@ -10047,6 +10033,13 @@ window.__RESULTS__ = {
       "played": 14
     },
     {
+      "name": "Cameron Lambden",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6563",
+      "won": 0,
+      "lost": 1,
+      "played": 1
+    },
+    {
       "name": "Alexander Panin",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1541",
       "won": 0,
@@ -10077,6 +10070,13 @@ window.__RESULTS__ = {
     {
       "name": "Daniel Gronlykke Mouriz",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/586",
+      "won": 0,
+      "lost": 2,
+      "played": 2
+    },
+    {
+      "name": "JOSH PISTORIUS",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6737",
       "won": 0,
       "lost": 2,
       "played": 2
