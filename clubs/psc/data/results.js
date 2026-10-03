@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-03T15:58:56.821Z",
+  "generatedAt": "2026-10-03T19:11:26.677Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -392,14 +392,16 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
-              "name": "Uxbridge LTC 1",
-              "played": 0,
-              "won": 0,
+              "name": "David Lloyd Club Finchley 1",
+              "played": 1,
+              "won": 1,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
+              "rubbers": "6-6",
+              "points": 2,
+              "form": [
+                "W"
+              ]
             },
             {
               "rank": 2,
@@ -447,22 +449,24 @@ window.__RESULTS__ = {
             },
             {
               "rank": 6,
-              "name": "David Lloyd Club Finchley 1",
-              "played": 0,
+              "name": "Uxbridge LTC 1",
+              "played": 1,
               "won": 0,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
+              "lost": 1,
+              "rubbers": "6-6",
               "points": 0,
-              "form": []
+              "form": [
+                "L"
+              ]
             }
           ],
           "matches": [
             {
               "home": "Uxbridge LTC 1",
               "away": "David Lloyd Club Finchley 1",
-              "hs": null,
-              "as": null,
+              "hs": 6,
+              "as": 6,
               "date": "Sat 03/10/2026"
             },
             {
