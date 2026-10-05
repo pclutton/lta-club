@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-05T14:12:16.198Z",
+  "generatedAt": "2026-10-05T20:24:12.911Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "matches": 554,
-      "players": 131,
-      "stale": 0
+      "refreshed": 24,
+      "failed": 0
     },
     "competitions": [
       {
@@ -392,6 +392,19 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Brentham Lawn Tennis Club 1",
+              "played": 1,
+              "won": 1,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "8-4",
+              "points": 2,
+              "form": [
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "David Lloyd Club Finchley 1",
               "played": 1,
               "won": 1,
@@ -402,17 +415,6 @@ window.__RESULTS__ = {
               "form": [
                 "W"
               ]
-            },
-            {
-              "rank": 2,
-              "name": "Brentham Lawn Tennis Club 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
             },
             {
               "rank": 3,
@@ -438,23 +440,25 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
-              "name": "West Middlesex Lawn Tennis Club Ltd 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
-              "rank": 6,
               "name": "Uxbridge LTC 1",
               "played": 1,
               "won": 0,
               "drawn": 0,
               "lost": 1,
               "rubbers": "6-6",
+              "points": 0,
+              "form": [
+                "L"
+              ]
+            },
+            {
+              "rank": 6,
+              "name": "West Middlesex Lawn Tennis Club Ltd 1",
+              "played": 1,
+              "won": 0,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "4-8",
               "points": 0,
               "form": [
                 "L"
@@ -479,8 +483,8 @@ window.__RESULTS__ = {
             {
               "home": "Brentham Lawn Tennis Club 1",
               "away": "West Middlesex Lawn Tennis Club Ltd 1",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 4,
               "date": "Sun 04/10/2026"
             },
             {
@@ -913,38 +917,31 @@ window.__RESULTS__ = {
           "division": "Open Womens Div 1",
           "pscName": "Paddington Sports Club 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/676686EB-7D35-4816-9BE5-DDEC7913DA16/draw/38",
-          "position": 2,
+          "position": 1,
           "of": 6,
-          "played": 0,
-          "won": 0,
+          "played": 1,
+          "won": 1,
           "lost": 0,
-          "points": 0,
-          "form": [],
+          "points": 2,
+          "form": [
+            "W"
+          ],
           "standings": [
             {
               "rank": 1,
-              "name": "Highgate Cricket and Lawn Tennis Club 1",
-              "played": 0,
-              "won": 0,
+              "name": "Paddington Sports Club 1",
+              "played": 1,
+              "won": 1,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
+              "rubbers": "12-0",
+              "points": 2,
+              "form": [
+                "W"
+              ]
             },
             {
               "rank": 2,
-              "name": "Paddington Sports Club 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
-              "rank": 3,
               "name": "Finsbury Park 1",
               "played": 0,
               "won": 0,
@@ -955,7 +952,7 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 4,
+              "rank": 3,
               "name": "West Middlesex Lawn Tennis Club Ltd 1",
               "played": 0,
               "won": 0,
@@ -966,8 +963,19 @@ window.__RESULTS__ = {
               "form": []
             },
             {
+              "rank": 4,
+              "name": "Highgate Cricket and Lawn Tennis Club 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
               "rank": 5,
-              "name": "The Hurlingham Club 1",
+              "name": "Thistleworth LTC 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -978,14 +986,16 @@ window.__RESULTS__ = {
             },
             {
               "rank": 6,
-              "name": "Thistleworth LTC 1",
-              "played": 0,
+              "name": "The Hurlingham Club 1",
+              "played": 1,
               "won": 0,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
+              "lost": 1,
+              "rubbers": "0-12",
               "points": 0,
-              "form": []
+              "form": [
+                "L"
+              ]
             }
           ],
           "matches": [
@@ -1006,8 +1016,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 1",
               "away": "The Hurlingham Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 0,
               "date": "Sun 04/10/2026"
             },
             {
