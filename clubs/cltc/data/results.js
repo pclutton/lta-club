@@ -2,61 +2,61 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-04T22:15:59.356Z",
+  "generatedAt": "2026-10-05T14:09:28.441Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 7,
       "teams": 26,
-      "refreshed": 26,
-      "failed": 0
+      "matches": 552,
+      "players": 170,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-10-04"
+        "asOf": "2026-10-05"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-10-04"
+        "asOf": "2026-10-05"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-10-04"
+        "asOf": "2026-10-05"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-10-04"
+        "asOf": "2026-10-05"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-10-04"
+        "asOf": "2026-10-05"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-10-04"
+        "asOf": "2026-10-05"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-10-04"
+        "asOf": "2026-10-05"
       }
     ]
   },
@@ -65,8 +65,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-04",
-      "asOf": "2026-10-04",
+      "lastSeen": "2026-10-05",
+      "asOf": "2026-10-05",
       "stale": false,
       "teams": [
         {
@@ -683,8 +683,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-10-04",
-      "asOf": "2026-10-04",
+      "lastSeen": "2026-10-05",
+      "asOf": "2026-10-05",
       "stale": false,
       "teams": [
         {
@@ -1017,8 +1017,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-04",
-      "asOf": "2026-10-04",
+      "lastSeen": "2026-10-05",
+      "asOf": "2026-10-05",
       "stale": false,
       "teams": [
         {
@@ -1038,6 +1038,20 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Totteridge Tennis Club 1",
+              "played": 2,
+              "won": 2,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "25-7",
+              "points": 25,
+              "form": [
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "South Hampstead Tennis Club 1",
               "played": 1,
               "won": 1,
@@ -1045,19 +1059,6 @@ window.__RESULTS__ = {
               "lost": 0,
               "rubbers": "14-2",
               "points": 14,
-              "form": [
-                "W"
-              ]
-            },
-            {
-              "rank": 2,
-              "name": "Totteridge Tennis Club 1",
-              "played": 1,
-              "won": 1,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "13-3",
-              "points": 13,
               "form": [
                 "W"
               ]
@@ -1091,13 +1092,14 @@ window.__RESULTS__ = {
             {
               "rank": 5,
               "name": "Paddington Sports Club 3",
-              "played": 1,
+              "played": 2,
               "won": 0,
               "drawn": 0,
-              "lost": 1,
-              "rubbers": "5-11",
-              "points": 5,
+              "lost": 2,
+              "rubbers": "9-23",
+              "points": 9,
               "form": [
+                "L",
                 "L"
               ]
             },
@@ -1173,8 +1175,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 3",
               "away": "Totteridge Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 4,
+              "as": 12,
               "date": "Thu 01/10/2026"
             },
             {
@@ -1717,8 +1719,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "current",
-      "lastSeen": "2026-10-04",
-      "asOf": "2026-10-04",
+      "lastSeen": "2026-10-05",
+      "asOf": "2026-10-05",
       "stale": false,
       "teams": [
         {
@@ -4432,8 +4434,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "current",
-      "lastSeen": "2026-10-04",
-      "asOf": "2026-10-04",
+      "lastSeen": "2026-10-05",
+      "asOf": "2026-10-05",
       "stale": false,
       "teams": [
         {
@@ -8515,8 +8517,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "current",
-      "lastSeen": "2026-10-04",
-      "asOf": "2026-10-04",
+      "lastSeen": "2026-10-05",
+      "asOf": "2026-10-05",
       "stale": false,
       "teams": [
         {
@@ -8957,8 +8959,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-10-04",
-      "asOf": "2026-10-04",
+      "lastSeen": "2026-10-05",
+      "asOf": "2026-10-05",
       "stale": false,
       "teams": [],
       "knockouts": [
