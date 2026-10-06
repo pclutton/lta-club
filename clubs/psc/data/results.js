@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-06T21:44:48.180Z",
+  "generatedAt": "2026-10-06T22:05:56.070Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -12,7 +12,7 @@ window.__RESULTS__ = {
       "comps": 6,
       "teams": 24,
       "matches": 554,
-      "players": 131,
+      "players": 129,
       "stale": 0
     },
     "competitions": [
@@ -8327,34 +8327,1173 @@ window.__RESULTS__ = {
       ]
     }
   ],
+  "seasons": [
+    {
+      "key": "2026-W",
+      "label": "Winter 2026-27",
+      "start": "2026-09-27",
+      "finished": false,
+      "players": [
+        {
+          "name": "Yannick Tandy",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/941",
+          "won": 3,
+          "lost": 1,
+          "played": 4
+        },
+        {
+          "name": "Annabelle Giles",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/718",
+          "won": 2,
+          "lost": 0,
+          "played": 2
+        },
+        {
+          "name": "Arabella Moen",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1953",
+          "won": 2,
+          "lost": 0,
+          "played": 2
+        },
+        {
+          "name": "Emily May O'Donovan",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/717",
+          "won": 2,
+          "lost": 0,
+          "played": 2
+        },
+        {
+          "name": "Francesca Di Pasquantonio",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/819",
+          "won": 2,
+          "lost": 0,
+          "played": 2
+        },
+        {
+          "name": "Irene Ouyang",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1952",
+          "won": 2,
+          "lost": 0,
+          "played": 2
+        },
+        {
+          "name": "Izabella Repakis",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/817",
+          "won": 2,
+          "lost": 0,
+          "played": 2
+        },
+        {
+          "name": "Alan Wilson",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1954",
+          "won": 2,
+          "lost": 2,
+          "played": 4
+        },
+        {
+          "name": "Kara Hebert",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/818",
+          "won": 2,
+          "lost": 2,
+          "played": 4
+        },
+        {
+          "name": "Nadia Essa",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/816",
+          "won": 2,
+          "lost": 2,
+          "played": 4
+        },
+        {
+          "name": "Annika Chai",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/716",
+          "won": 1,
+          "lost": 1,
+          "played": 2
+        },
+        {
+          "name": "Emma Wardle",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/719",
+          "won": 1,
+          "lost": 1,
+          "played": 2
+        },
+        {
+          "name": "Francesco Buffi",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1312",
+          "won": 1,
+          "lost": 1,
+          "played": 2
+        },
+        {
+          "name": "Jack Bishop",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1317",
+          "won": 1,
+          "lost": 1,
+          "played": 2
+        },
+        {
+          "name": "Paul Kassar",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/943",
+          "won": 1,
+          "lost": 1,
+          "played": 2
+        },
+        {
+          "name": "Sushant Mehta",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1314",
+          "won": 1,
+          "lost": 1,
+          "played": 2
+        },
+        {
+          "name": "Trystan Forrest",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1313",
+          "won": 1,
+          "lost": 1,
+          "played": 2
+        },
+        {
+          "name": "Farruh Shermatov",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1315",
+          "won": 1,
+          "lost": 3,
+          "played": 4
+        },
+        {
+          "name": "Jacky Yu",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1316",
+          "won": 1,
+          "lost": 3,
+          "played": 4
+        },
+        {
+          "name": "Aakash Vanchi Nath",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2098",
+          "won": 0,
+          "lost": 2,
+          "played": 2
+        },
+        {
+          "name": "Arun Ranganathan",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/944",
+          "won": 0,
+          "lost": 2,
+          "played": 2
+        },
+        {
+          "name": "Emily MacKay",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/720",
+          "won": 0,
+          "lost": 2,
+          "played": 2
+        },
+        {
+          "name": "Julie Zysman",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/721",
+          "won": 0,
+          "lost": 2,
+          "played": 2
+        },
+        {
+          "name": "Marina Campbell",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1906",
+          "won": 0,
+          "lost": 2,
+          "played": 2
+        },
+        {
+          "name": "Patrick Ryan",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1319",
+          "won": 0,
+          "lost": 2,
+          "played": 2
+        },
+        {
+          "name": "Sam Kennedy",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/723",
+          "won": 0,
+          "lost": 2,
+          "played": 2
+        },
+        {
+          "name": "Stephen Hobson",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1318",
+          "won": 0,
+          "lost": 2,
+          "played": 2
+        },
+        {
+          "name": "Supriya Dadlani",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1907",
+          "won": 0,
+          "lost": 2,
+          "played": 2
+        },
+        {
+          "name": "Vasileios Ventouris",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/945",
+          "won": 0,
+          "lost": 2,
+          "played": 2
+        },
+        {
+          "name": "Zara Danesh",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/722",
+          "won": 0,
+          "lost": 2,
+          "played": 2
+        }
+      ]
+    },
+    {
+      "key": "2026-S",
+      "label": "Summer 2026",
+      "start": "2026-04-19",
+      "finished": true,
+      "players": [
+        {
+          "name": "Irene Ouyang",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4440",
+          "won": 21,
+          "lost": 9,
+          "played": 30
+        },
+        {
+          "name": "Zara Danesh",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2485",
+          "won": 18,
+          "lost": 6,
+          "played": 24
+        },
+        {
+          "name": "Sam Kennedy",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2484",
+          "won": 14,
+          "lost": 4,
+          "played": 18
+        },
+        {
+          "name": "Julie Zysman",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2480",
+          "won": 13,
+          "lost": 8,
+          "played": 21
+        },
+        {
+          "name": "Yannick Tandy",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/616",
+          "won": 13,
+          "lost": 8,
+          "played": 21
+        },
+        {
+          "name": "Isaac Havu",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2406",
+          "won": 13,
+          "lost": 9,
+          "played": 22
+        },
+        {
+          "name": "Emily MacKay",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2481",
+          "won": 12,
+          "lost": 6,
+          "played": 18
+        },
+        {
+          "name": "Alessandro Gavazza",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/589",
+          "won": 11,
+          "lost": 10,
+          "played": 21
+        },
+        {
+          "name": "Sushant Mehta",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/612",
+          "won": 10,
+          "lost": 10,
+          "played": 20
+        },
+        {
+          "name": "Aakash Vanchi Nath",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/586",
+          "won": 9,
+          "lost": 2,
+          "played": 11
+        },
+        {
+          "name": "Niall Paterson",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/614",
+          "won": 9,
+          "lost": 12,
+          "played": 21
+        },
+        {
+          "name": "Alexander Stannard",
+          "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/322",
+          "won": 8,
+          "lost": 0,
+          "played": 8
+        },
+        {
+          "name": "Victor Wiles",
+          "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/320",
+          "won": 8,
+          "lost": 0,
+          "played": 8
+        },
+        {
+          "name": "Supriya Dadlani",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1834",
+          "won": 8,
+          "lost": 4,
+          "played": 12
+        },
+        {
+          "name": "Kara Hebert",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1435",
+          "won": 8,
+          "lost": 6,
+          "played": 14
+        },
+        {
+          "name": "Alexander Smith",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4042",
+          "won": 8,
+          "lost": 7,
+          "played": 15
+        },
+        {
+          "name": "Christian Howells",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/588",
+          "won": 8,
+          "lost": 7,
+          "played": 15
+        },
+        {
+          "name": "Francesco Buffi",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/615",
+          "won": 8,
+          "lost": 7,
+          "played": 15
+        },
+        {
+          "name": "Shireen Arthur",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1835",
+          "won": 8,
+          "lost": 7,
+          "played": 15
+        },
+        {
+          "name": "Lucy Graham",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2483",
+          "won": 8,
+          "lost": 16,
+          "played": 24
+        },
+        {
+          "name": "George Fotakakis",
+          "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/951",
+          "won": 7,
+          "lost": 1,
+          "played": 8
+        },
+        {
+          "name": "Michael Yeomans",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/585",
+          "won": 7,
+          "lost": 5,
+          "played": 12
+        },
+        {
+          "name": "Raphaela Waschnig",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5348",
+          "won": 7,
+          "lost": 5,
+          "played": 12
+        },
+        {
+          "name": "Stacie Alex",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4442",
+          "won": 7,
+          "lost": 5,
+          "played": 12
+        },
+        {
+          "name": "David Kane",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2405",
+          "won": 7,
+          "lost": 8,
+          "played": 15
+        },
+        {
+          "name": "Marina Campbell",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1397",
+          "won": 7,
+          "lost": 12,
+          "played": 19
+        },
+        {
+          "name": "Trystan Forrest",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/621",
+          "won": 7,
+          "lost": 14,
+          "played": 21
+        },
+        {
+          "name": "jack li woon",
+          "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1080",
+          "won": 6,
+          "lost": 0,
+          "played": 6
+        },
+        {
+          "name": "Oliver Plaskett",
+          "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/319",
+          "won": 6,
+          "lost": 0,
+          "played": 6
+        },
+        {
+          "name": "Theo Aydinoglu",
+          "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1079",
+          "won": 6,
+          "lost": 0,
+          "played": 6
+        },
+        {
+          "name": "Arabella Moen",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5345",
+          "won": 6,
+          "lost": 1,
+          "played": 7
+        },
+        {
+          "name": "Lucas Daminescu",
+          "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1542",
+          "won": 6,
+          "lost": 2,
+          "played": 8
+        },
+        {
+          "name": "Vasileios Ventouris",
+          "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/321",
+          "won": 6,
+          "lost": 2,
+          "played": 8
+        },
+        {
+          "name": "Benjamin Carreau",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/611",
+          "won": 6,
+          "lost": 6,
+          "played": 12
+        },
+        {
+          "name": "Vincenzo Di nicola",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/613",
+          "won": 6,
+          "lost": 6,
+          "played": 12
+        },
+        {
+          "name": "James Notaras",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/982",
+          "won": 6,
+          "lost": 7,
+          "played": 13
+        },
+        {
+          "name": "Anna Collins",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5894",
+          "won": 5,
+          "lost": 2,
+          "played": 7
+        },
+        {
+          "name": "Anne Beranger",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5181",
+          "won": 5,
+          "lost": 4,
+          "played": 9
+        },
+        {
+          "name": "Charlie Jenshoj",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4702",
+          "won": 5,
+          "lost": 4,
+          "played": 9
+        },
+        {
+          "name": "Nadia Essa",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1404",
+          "won": 5,
+          "lost": 4,
+          "played": 9
+        },
+        {
+          "name": "Adam Chidell",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3742",
+          "won": 5,
+          "lost": 7,
+          "played": 12
+        },
+        {
+          "name": "Alan Wilson",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2791",
+          "won": 5,
+          "lost": 7,
+          "played": 12
+        },
+        {
+          "name": "Anna Vershebeniuk",
+          "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1326",
+          "won": 4,
+          "lost": 2,
+          "played": 6
+        },
+        {
+          "name": "Kate Storey",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6015",
+          "won": 4,
+          "lost": 2,
+          "played": 6
+        },
+        {
+          "name": "Stacey Towfighi",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2482",
+          "won": 4,
+          "lost": 2,
+          "played": 6
+        },
+        {
+          "name": "Jacky Yu",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5742",
+          "won": 4,
+          "lost": 5,
+          "played": 9
+        },
+        {
+          "name": "Stephen Hobson",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/979",
+          "won": 4,
+          "lost": 5,
+          "played": 9
+        },
+        {
+          "name": "Annika Chai",
+          "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/802",
+          "won": 4,
+          "lost": 6,
+          "played": 10
+        },
+        {
+          "name": "Ann Scott",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1400",
+          "won": 4,
+          "lost": 8,
+          "played": 12
+        },
+        {
+          "name": "Charlotte Henderson",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1401",
+          "won": 4,
+          "lost": 8,
+          "played": 12
+        },
+        {
+          "name": "Henry Court",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2792",
+          "won": 4,
+          "lost": 10,
+          "played": 14
+        },
+        {
+          "name": "Kathryn Brill",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4661",
+          "won": 4,
+          "lost": 10,
+          "played": 14
+        },
+        {
+          "name": "Olivia Marsden",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4342",
+          "won": 4,
+          "lost": 10,
+          "played": 14
+        },
+        {
+          "name": "Konstantinos Pagonis",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2793",
+          "won": 4,
+          "lost": 11,
+          "played": 15
+        },
+        {
+          "name": "Annabelle Giles",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5895",
+          "won": 3,
+          "lost": 0,
+          "played": 3
+        },
+        {
+          "name": "Francesco Camarda",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/590",
+          "won": 3,
+          "lost": 0,
+          "played": 3
+        },
+        {
+          "name": "Harry Fottrell-Kingstone",
+          "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1545",
+          "won": 3,
+          "lost": 0,
+          "played": 3
+        },
+        {
+          "name": "Patrick Taylor",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5214",
+          "won": 3,
+          "lost": 0,
+          "played": 3
+        },
+        {
+          "name": "Christopher Landor",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5501",
+          "won": 3,
+          "lost": 2,
+          "played": 5
+        },
+        {
+          "name": "Alex Angelopoulos",
+          "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/420",
+          "won": 3,
+          "lost": 3,
+          "played": 6
+        },
+        {
+          "name": "Alix Aubry",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4443",
+          "won": 3,
+          "lost": 3,
+          "played": 6
+        },
+        {
+          "name": "Constance Pelet",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4445",
+          "won": 3,
+          "lost": 3,
+          "played": 6
+        },
+        {
+          "name": "Florus Plantenga",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2789",
+          "won": 3,
+          "lost": 3,
+          "played": 6
+        },
+        {
+          "name": "Izabella Repakis",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4444",
+          "won": 3,
+          "lost": 3,
+          "played": 6
+        },
+        {
+          "name": "Jenna Troop",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5940",
+          "won": 3,
+          "lost": 3,
+          "played": 6
+        },
+        {
+          "name": "Jens Vanbrabant",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5034",
+          "won": 3,
+          "lost": 3,
+          "played": 6
+        },
+        {
+          "name": "Cathrine Hogh",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5347",
+          "won": 3,
+          "lost": 5,
+          "played": 8
+        },
+        {
+          "name": "Emma Wardle",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5346",
+          "won": 3,
+          "lost": 5,
+          "played": 8
+        },
+        {
+          "name": "Jack Fresnais",
+          "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/418",
+          "won": 3,
+          "lost": 5,
+          "played": 8
+        },
+        {
+          "name": "Herve Lagadec",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5246",
+          "won": 3,
+          "lost": 6,
+          "played": 9
+        },
+        {
+          "name": "Jack Bishop",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/980",
+          "won": 3,
+          "lost": 6,
+          "played": 9
+        },
+        {
+          "name": "Johanne Arnesen",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6016",
+          "won": 3,
+          "lost": 6,
+          "played": 9
+        },
+        {
+          "name": "Tom Sharples",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/981",
+          "won": 3,
+          "lost": 6,
+          "played": 9
+        },
+        {
+          "name": "Arun Ranganathan",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2418",
+          "won": 3,
+          "lost": 9,
+          "played": 12
+        },
+        {
+          "name": "Olivia Goldberg",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3810",
+          "won": 3,
+          "lost": 9,
+          "played": 12
+        },
+        {
+          "name": "Samantha Morris",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5025",
+          "won": 3,
+          "lost": 9,
+          "played": 12
+        },
+        {
+          "name": "steven clutton",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/587",
+          "won": 3,
+          "lost": 9,
+          "played": 12
+        },
+        {
+          "name": "Vilma Anusaite",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1844",
+          "won": 3,
+          "lost": 12,
+          "played": 15
+        },
+        {
+          "name": "Alberto Ambrosetti",
+          "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1707",
+          "won": 2,
+          "lost": 0,
+          "played": 2
+        },
+        {
+          "name": "Kenza Mekouar",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6334",
+          "won": 2,
+          "lost": 0,
+          "played": 2
+        },
+        {
+          "name": "Rahul Padam Mehta",
+          "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1137",
+          "won": 2,
+          "lost": 0,
+          "played": 2
+        },
+        {
+          "name": "Alexandra Reyes",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5893",
+          "won": 2,
+          "lost": 1,
+          "played": 3
+        },
+        {
+          "name": "Amanda Baker",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6222",
+          "won": 2,
+          "lost": 1,
+          "played": 3
+        },
+        {
+          "name": "Brendan Handley",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5582",
+          "won": 2,
+          "lost": 1,
+          "played": 3
+        },
+        {
+          "name": "India Storey",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6374",
+          "won": 2,
+          "lost": 1,
+          "played": 3
+        },
+        {
+          "name": "Zak Sawyer",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6265",
+          "won": 2,
+          "lost": 1,
+          "played": 3
+        },
+        {
+          "name": "Elda Kalbian",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6014",
+          "won": 2,
+          "lost": 3,
+          "played": 5
+        },
+        {
+          "name": "Edward Haygarth",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6252",
+          "won": 2,
+          "lost": 4,
+          "played": 6
+        },
+        {
+          "name": "Patrick Ryan",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3741",
+          "won": 2,
+          "lost": 4,
+          "played": 6
+        },
+        {
+          "name": "Seb Montgomery",
+          "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/143",
+          "won": 2,
+          "lost": 4,
+          "played": 6
+        },
+        {
+          "name": "Farruh Shermatov",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3738",
+          "won": 2,
+          "lost": 7,
+          "played": 9
+        },
+        {
+          "name": "Lucas Baker",
+          "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/952",
+          "won": 1,
+          "lost": 1,
+          "played": 2
+        },
+        {
+          "name": "Lukas Hederer",
+          "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1937",
+          "won": 1,
+          "lost": 1,
+          "played": 2
+        },
+        {
+          "name": "Megumi Aoyagi",
+          "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/2051",
+          "won": 1,
+          "lost": 1,
+          "played": 2
+        },
+        {
+          "name": "Bruce Trewhella",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6629",
+          "won": 1,
+          "lost": 2,
+          "played": 3
+        },
+        {
+          "name": "Louisa Smythe",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1849",
+          "won": 1,
+          "lost": 2,
+          "played": 3
+        },
+        {
+          "name": "Mark Alfred Yap",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6628",
+          "won": 1,
+          "lost": 2,
+          "played": 3
+        },
+        {
+          "name": "Mary Strub",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1845",
+          "won": 1,
+          "lost": 2,
+          "played": 3
+        },
+        {
+          "name": "Sabrina Wilson",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6630",
+          "won": 1,
+          "lost": 2,
+          "played": 3
+        },
+        {
+          "name": "Victor Voulgaropoulos",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5216",
+          "won": 1,
+          "lost": 2,
+          "played": 3
+        },
+        {
+          "name": "Victoria Rees",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5363",
+          "won": 1,
+          "lost": 2,
+          "played": 3
+        },
+        {
+          "name": "Ben White",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5502",
+          "won": 1,
+          "lost": 4,
+          "played": 5
+        },
+        {
+          "name": "Harry Naden-Caldwell",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5771",
+          "won": 1,
+          "lost": 4,
+          "played": 5
+        },
+        {
+          "name": "Mary Carson",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4246",
+          "won": 1,
+          "lost": 5,
+          "played": 6
+        },
+        {
+          "name": "Oscar Garland",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5158",
+          "won": 1,
+          "lost": 5,
+          "played": 6
+        },
+        {
+          "name": "Veronica Moroz",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6420",
+          "won": 1,
+          "lost": 5,
+          "played": 6
+        },
+        {
+          "name": "Marta Chojnowska",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4663",
+          "won": 1,
+          "lost": 6,
+          "played": 7
+        },
+        {
+          "name": "Paul Kassar",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4703",
+          "won": 1,
+          "lost": 7,
+          "played": 8
+        },
+        {
+          "name": "Sylvia Herzog",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1396",
+          "won": 1,
+          "lost": 7,
+          "played": 8
+        },
+        {
+          "name": "Ben Wareing",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2407",
+          "won": 1,
+          "lost": 8,
+          "played": 9
+        },
+        {
+          "name": "Flora King",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1850",
+          "won": 1,
+          "lost": 8,
+          "played": 9
+        },
+        {
+          "name": "Zoe de Beco",
+          "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1860",
+          "won": 0,
+          "lost": 1,
+          "played": 1
+        },
+        {
+          "name": "Aditya Mohan",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6626",
+          "won": 0,
+          "lost": 2,
+          "played": 2
+        },
+        {
+          "name": "Alexander Lenior-Emanuel",
+          "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/419",
+          "won": 0,
+          "lost": 2,
+          "played": 2
+        },
+        {
+          "name": "Joan Park",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6335",
+          "won": 0,
+          "lost": 2,
+          "played": 2
+        },
+        {
+          "name": "Max Daminescu",
+          "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1543",
+          "won": 0,
+          "lost": 2,
+          "played": 2
+        },
+        {
+          "name": "Zico Melwani",
+          "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1706",
+          "won": 0,
+          "lost": 2,
+          "played": 2
+        },
+        {
+          "name": "Alison De Santos",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6569",
+          "won": 0,
+          "lost": 3,
+          "played": 3
+        },
+        {
+          "name": "bari shaffran",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5261",
+          "won": 0,
+          "lost": 3,
+          "played": 3
+        },
+        {
+          "name": "Claudia Danser",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6232",
+          "won": 0,
+          "lost": 3,
+          "played": 3
+        },
+        {
+          "name": "Constantinos Repakis",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6158",
+          "won": 0,
+          "lost": 3,
+          "played": 3
+        },
+        {
+          "name": "Guillaume Jammes",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4358",
+          "won": 0,
+          "lost": 3,
+          "played": 3
+        },
+        {
+          "name": "Janet Shim",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6571",
+          "won": 0,
+          "lost": 3,
+          "played": 3
+        },
+        {
+          "name": "Rebecca Manuel",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5262",
+          "won": 0,
+          "lost": 3,
+          "played": 3
+        },
+        {
+          "name": "Shpresa Duro",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6558",
+          "won": 0,
+          "lost": 3,
+          "played": 3
+        },
+        {
+          "name": "Sophie Solomon",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6292",
+          "won": 0,
+          "lost": 3,
+          "played": 3
+        },
+        {
+          "name": "Thomas Sharples",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/6706",
+          "won": 0,
+          "lost": 3,
+          "played": 3
+        },
+        {
+          "name": "Thurai Sitham",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5247",
+          "won": 0,
+          "lost": 3,
+          "played": 3
+        },
+        {
+          "name": "Murat Varol",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4701",
+          "won": 0,
+          "lost": 5,
+          "played": 5
+        }
+      ]
+    }
+  ],
+  "defaultSeason": "2026-S",
   "players": [
     {
       "name": "Irene Ouyang",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4440",
-      "won": 23,
+      "won": 21,
       "lost": 9,
-      "played": 32
+      "played": 30
     },
     {
       "name": "Zara Danesh",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2485",
       "won": 18,
-      "lost": 8,
-      "played": 26
-    },
-    {
-      "name": "Yannick Tandy",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/616",
-      "won": 16,
-      "lost": 9,
-      "played": 25
+      "lost": 6,
+      "played": 24
     },
     {
       "name": "Sam Kennedy",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2484",
       "won": 14,
-      "lost": 6,
-      "played": 20
+      "lost": 4,
+      "played": 18
+    },
+    {
+      "name": "Julie Zysman",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2480",
+      "won": 13,
+      "lost": 8,
+      "played": 21
+    },
+    {
+      "name": "Yannick Tandy",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/616",
+      "won": 13,
+      "lost": 8,
+      "played": 21
     },
     {
       "name": "Isaac Havu",
@@ -8364,18 +9503,11 @@ window.__RESULTS__ = {
       "played": 22
     },
     {
-      "name": "Julie Zysman",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2480",
-      "won": 13,
-      "lost": 10,
-      "played": 23
-    },
-    {
       "name": "Emily MacKay",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2481",
       "won": 12,
-      "lost": 8,
-      "played": 20
+      "lost": 6,
+      "played": 18
     },
     {
       "name": "Alessandro Gavazza",
@@ -8387,30 +9519,16 @@ window.__RESULTS__ = {
     {
       "name": "Sushant Mehta",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/612",
-      "won": 11,
-      "lost": 11,
-      "played": 22
-    },
-    {
-      "name": "Kara Hebert",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1435",
       "won": 10,
-      "lost": 8,
-      "played": 18
+      "lost": 10,
+      "played": 20
     },
     {
       "name": "Aakash Vanchi Nath",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/586",
       "won": 9,
-      "lost": 4,
-      "played": 13
-    },
-    {
-      "name": "Francesco Buffi",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/615",
-      "won": 9,
-      "lost": 8,
-      "played": 17
+      "lost": 2,
+      "played": 11
     },
     {
       "name": "Niall Paterson",
@@ -8434,15 +9552,15 @@ window.__RESULTS__ = {
       "played": 8
     },
     {
-      "name": "Arabella Moen",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5345",
-      "won": 8,
-      "lost": 1,
-      "played": 9
-    },
-    {
       "name": "Supriya Dadlani",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1834",
+      "won": 8,
+      "lost": 4,
+      "played": 12
+    },
+    {
+      "name": "Kara Hebert",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1435",
       "won": 8,
       "lost": 6,
       "played": 14
@@ -8462,18 +9580,18 @@ window.__RESULTS__ = {
       "played": 15
     },
     {
-      "name": "Shireen Arthur",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1835",
+      "name": "Francesco Buffi",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/615",
       "won": 8,
       "lost": 7,
       "played": 15
     },
     {
-      "name": "Trystan Forrest",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/621",
+      "name": "Shireen Arthur",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1835",
       "won": 8,
-      "lost": 15,
-      "played": 23
+      "lost": 7,
+      "played": 15
     },
     {
       "name": "Lucy Graham",
@@ -8511,13 +9629,6 @@ window.__RESULTS__ = {
       "played": 12
     },
     {
-      "name": "Nadia Essa",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1404",
-      "won": 7,
-      "lost": 6,
-      "played": 13
-    },
-    {
       "name": "David Kane",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2405",
       "won": 7,
@@ -8525,15 +9636,15 @@ window.__RESULTS__ = {
       "played": 15
     },
     {
-      "name": "Alan Wilson",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2791",
-      "won": 7,
-      "lost": 9,
-      "played": 16
-    },
-    {
       "name": "Marina Campbell",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1397",
+      "won": 7,
+      "lost": 12,
+      "played": 19
+    },
+    {
+      "name": "Trystan Forrest",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/621",
       "won": 7,
       "lost": 14,
       "played": 21
@@ -8560,6 +9671,13 @@ window.__RESULTS__ = {
       "played": 6
     },
     {
+      "name": "Arabella Moen",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5345",
+      "won": 6,
+      "lost": 1,
+      "played": 7
+    },
+    {
       "name": "Lucas Daminescu",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1542",
       "won": 6,
@@ -8570,8 +9688,8 @@ window.__RESULTS__ = {
       "name": "Vasileios Ventouris",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/321",
       "won": 6,
-      "lost": 4,
-      "played": 10
+      "lost": 2,
+      "played": 8
     },
     {
       "name": "Benjamin Carreau",
@@ -8595,25 +9713,11 @@ window.__RESULTS__ = {
       "played": 13
     },
     {
-      "name": "Annabelle Giles",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5895",
-      "won": 5,
-      "lost": 0,
-      "played": 5
-    },
-    {
       "name": "Anna Collins",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5894",
       "won": 5,
       "lost": 2,
       "played": 7
-    },
-    {
-      "name": "Izabella Repakis",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4444",
-      "won": 5,
-      "lost": 3,
-      "played": 8
     },
     {
       "name": "Anne Beranger",
@@ -8630,6 +9734,13 @@ window.__RESULTS__ = {
       "played": 9
     },
     {
+      "name": "Nadia Essa",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1404",
+      "won": 5,
+      "lost": 4,
+      "played": 9
+    },
+    {
       "name": "Adam Chidell",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3742",
       "won": 5,
@@ -8637,18 +9748,11 @@ window.__RESULTS__ = {
       "played": 12
     },
     {
-      "name": "Annika Chai",
-      "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/802",
+      "name": "Alan Wilson",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2791",
       "won": 5,
       "lost": 7,
       "played": 12
-    },
-    {
-      "name": "Jacky Yu",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5742",
-      "won": 5,
-      "lost": 8,
-      "played": 13
     },
     {
       "name": "Anna Vershebeniuk",
@@ -8672,25 +9776,25 @@ window.__RESULTS__ = {
       "played": 6
     },
     {
-      "name": "Emma Wardle",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5346",
+      "name": "Jacky Yu",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5742",
       "won": 4,
-      "lost": 6,
-      "played": 10
-    },
-    {
-      "name": "Jack Bishop",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/980",
-      "won": 4,
-      "lost": 7,
-      "played": 11
+      "lost": 5,
+      "played": 9
     },
     {
       "name": "Stephen Hobson",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/979",
       "won": 4,
-      "lost": 7,
-      "played": 11
+      "lost": 5,
+      "played": 9
+    },
+    {
+      "name": "Annika Chai",
+      "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/802",
+      "won": 4,
+      "lost": 6,
+      "played": 10
     },
     {
       "name": "Ann Scott",
@@ -8733,6 +9837,13 @@ window.__RESULTS__ = {
       "won": 4,
       "lost": 11,
       "played": 15
+    },
+    {
+      "name": "Annabelle Giles",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5895",
+      "won": 3,
+      "lost": 0,
+      "played": 3
     },
     {
       "name": "Francesco Camarda",
@@ -8791,6 +9902,13 @@ window.__RESULTS__ = {
       "played": 6
     },
     {
+      "name": "Izabella Repakis",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4444",
+      "won": 3,
+      "lost": 3,
+      "played": 6
+    },
+    {
       "name": "Jenna Troop",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5940",
       "won": 3,
@@ -8812,6 +9930,13 @@ window.__RESULTS__ = {
       "played": 8
     },
     {
+      "name": "Emma Wardle",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5346",
+      "won": 3,
+      "lost": 5,
+      "played": 8
+    },
+    {
       "name": "Jack Fresnais",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/418",
       "won": 3,
@@ -8821,6 +9946,13 @@ window.__RESULTS__ = {
     {
       "name": "Herve Lagadec",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5246",
+      "won": 3,
+      "lost": 6,
+      "played": 9
+    },
+    {
+      "name": "Jack Bishop",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/980",
       "won": 3,
       "lost": 6,
       "played": 9
@@ -8838,6 +9970,13 @@ window.__RESULTS__ = {
       "won": 3,
       "lost": 6,
       "played": 9
+    },
+    {
+      "name": "Arun Ranganathan",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2418",
+      "won": 3,
+      "lost": 9,
+      "played": 12
     },
     {
       "name": "Olivia Goldberg",
@@ -8861,20 +10000,6 @@ window.__RESULTS__ = {
       "played": 12
     },
     {
-      "name": "Farruh Shermatov",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3738",
-      "won": 3,
-      "lost": 10,
-      "played": 13
-    },
-    {
-      "name": "Arun Ranganathan",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2418",
-      "won": 3,
-      "lost": 11,
-      "played": 14
-    },
-    {
       "name": "Vilma Anusaite",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1844",
       "won": 3,
@@ -8884,20 +10009,6 @@ window.__RESULTS__ = {
     {
       "name": "Alberto Ambrosetti",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/1707",
-      "won": 2,
-      "lost": 0,
-      "played": 2
-    },
-    {
-      "name": "Emily May O'Donovan",
-      "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/717",
-      "won": 2,
-      "lost": 0,
-      "played": 2
-    },
-    {
-      "name": "Francesca Di Pasquantonio",
-      "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/819",
       "won": 2,
       "lost": 0,
       "played": 2
@@ -8966,6 +10077,13 @@ window.__RESULTS__ = {
       "played": 6
     },
     {
+      "name": "Patrick Ryan",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3741",
+      "won": 2,
+      "lost": 4,
+      "played": 6
+    },
+    {
       "name": "Seb Montgomery",
       "url": "https://competitions.lta.org.uk/league/61ce80d5-7d2d-4175-be5e-940840be294d/player/143",
       "won": 2,
@@ -8973,18 +10091,11 @@ window.__RESULTS__ = {
       "played": 6
     },
     {
-      "name": "Patrick Ryan",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3741",
+      "name": "Farruh Shermatov",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/3738",
       "won": 2,
-      "lost": 6,
-      "played": 8
-    },
-    {
-      "name": "Paul Kassar",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4703",
-      "won": 2,
-      "lost": 8,
-      "played": 10
+      "lost": 7,
+      "played": 9
     },
     {
       "name": "Lucas Baker",
@@ -9097,6 +10208,13 @@ window.__RESULTS__ = {
       "won": 1,
       "lost": 6,
       "played": 7
+    },
+    {
+      "name": "Paul Kassar",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/4703",
+      "won": 1,
+      "lost": 7,
+      "played": 8
     },
     {
       "name": "Sylvia Herzog",
