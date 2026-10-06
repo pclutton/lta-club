@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-06T18:07:04.253Z",
+  "generatedAt": "2026-10-06T21:41:49.338Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 7,
       "teams": 26,
-      "refreshed": 26,
-      "failed": 0
+      "matches": 552,
+      "players": 170,
+      "stale": 0
     },
     "competitions": [
       {
@@ -35,6 +35,12 @@ window.__RESULTS__ = {
         "asOf": "2026-10-06"
       },
       {
+        "id": "knockouts",
+        "name": "Knockout Competitions",
+        "stale": false,
+        "asOf": "2026-10-06"
+      },
+      {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
@@ -49,12 +55,6 @@ window.__RESULTS__ = {
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
-        "stale": false,
-        "asOf": "2026-10-06"
-      },
-      {
-        "id": "knockouts",
-        "name": "Knockout Competitions",
         "stale": false,
         "asOf": "2026-10-06"
       }
@@ -1716,9 +1716,64 @@ window.__RESULTS__ = {
       ]
     },
     {
+      "id": "knockouts",
+      "name": "Knockout Competitions",
+      "status": "current",
+      "lastSeen": "2026-10-06",
+      "asOf": "2026-10-06",
+      "stale": false,
+      "teams": [],
+      "knockouts": [
+        {
+          "name": "Middlesex Winter Cup 2026-27 — Womens Doubles Division 1",
+          "link": "https://competitions.lta.org.uk/league/7609542A-AB09-463F-A5B9-8FD2F5975993/draw/5",
+          "last": null,
+          "next": {
+            "opponent": "Muswell Hill Methodist LTC 1",
+            "home": true,
+            "date": "Sun 08/11/2026"
+          },
+          "live": true
+        },
+        {
+          "name": "Middlesex Summer Cup 2026 — Mixed Doubles Division 1",
+          "link": "https://competitions.lta.org.uk/league/C9F24F13-B399-4FB1-A171-8CCED75F85B1/draw/1",
+          "last": {
+            "opponent": "The Queens Club Limited 1",
+            "scoreFor": 4,
+            "scoreAgainst": 5,
+            "won": false,
+            "date": "Sat 16/05/2026"
+          },
+          "next": null,
+          "live": false
+        },
+        {
+          "name": "Middlesex Winter Cup 2026-27 — Mens Doubles Division 1",
+          "link": "https://competitions.lta.org.uk/league/7609542A-AB09-463F-A5B9-8FD2F5975993/draw/1",
+          "last": {
+            "opponent": "The Queens Club Limited 1",
+            "scoreFor": 2,
+            "scoreAgainst": 5,
+            "won": false,
+            "date": "Sun 27/09/2026"
+          },
+          "next": null,
+          "live": false
+        },
+        {
+          "name": "NPL — National Premier League",
+          "link": "https://npltennis.com/results",
+          "last": null,
+          "live": null,
+          "linkOnly": true
+        }
+      ]
+    },
+    {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
-      "status": "current",
+      "status": "completed",
       "lastSeen": "2026-10-06",
       "asOf": "2026-10-06",
       "stale": false,
@@ -4433,7 +4488,7 @@ window.__RESULTS__ = {
     {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
-      "status": "current",
+      "status": "completed",
       "lastSeen": "2026-10-06",
       "asOf": "2026-10-06",
       "stale": false,
@@ -8516,7 +8571,7 @@ window.__RESULTS__ = {
     {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
-      "status": "current",
+      "status": "completed",
       "lastSeen": "2026-10-06",
       "asOf": "2026-10-06",
       "stale": false,
@@ -8952,61 +9007,6 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/3057a6b7-c664-4833-a537-3321aadcba44/player/680"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "knockouts",
-      "name": "Knockout Competitions",
-      "status": "current",
-      "lastSeen": "2026-10-06",
-      "asOf": "2026-10-06",
-      "stale": false,
-      "teams": [],
-      "knockouts": [
-        {
-          "name": "Middlesex Winter Cup 2026-27 — Womens Doubles Division 1",
-          "link": "https://competitions.lta.org.uk/league/7609542A-AB09-463F-A5B9-8FD2F5975993/draw/5",
-          "last": null,
-          "next": {
-            "opponent": "Muswell Hill Methodist LTC 1",
-            "home": true,
-            "date": "Sun 08/11/2026"
-          },
-          "live": true
-        },
-        {
-          "name": "Middlesex Summer Cup 2026 — Mixed Doubles Division 1",
-          "link": "https://competitions.lta.org.uk/league/C9F24F13-B399-4FB1-A171-8CCED75F85B1/draw/1",
-          "last": {
-            "opponent": "The Queens Club Limited 1",
-            "scoreFor": 4,
-            "scoreAgainst": 5,
-            "won": false,
-            "date": "Sat 16/05/2026"
-          },
-          "next": null,
-          "live": false
-        },
-        {
-          "name": "Middlesex Winter Cup 2026-27 — Mens Doubles Division 1",
-          "link": "https://competitions.lta.org.uk/league/7609542A-AB09-463F-A5B9-8FD2F5975993/draw/1",
-          "last": {
-            "opponent": "The Queens Club Limited 1",
-            "scoreFor": 2,
-            "scoreAgainst": 5,
-            "won": false,
-            "date": "Sun 27/09/2026"
-          },
-          "next": null,
-          "live": false
-        },
-        {
-          "name": "NPL — National Premier League",
-          "link": "https://npltennis.com/results",
-          "last": null,
-          "live": null,
-          "linkOnly": true
         }
       ]
     }

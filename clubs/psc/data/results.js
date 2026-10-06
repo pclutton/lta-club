@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-06T18:07:59.310Z",
+  "generatedAt": "2026-10-06T21:44:48.180Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "refreshed": 24,
-      "failed": 0
+      "matches": 554,
+      "players": 131,
+      "stale": 0
     },
     "competitions": [
       {
@@ -35,6 +35,12 @@ window.__RESULTS__ = {
         "asOf": "2026-10-06"
       },
       {
+        "id": "knockouts",
+        "name": "Knockout Competitions",
+        "stale": false,
+        "asOf": "2026-10-06"
+      },
+      {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
@@ -43,12 +49,6 @@ window.__RESULTS__ = {
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
-        "stale": false,
-        "asOf": "2026-10-06"
-      },
-      {
-        "id": "knockouts",
-        "name": "Knockout Competitions",
         "stale": false,
         "asOf": "2026-10-06"
       }
@@ -3580,9 +3580,59 @@ window.__RESULTS__ = {
       ]
     },
     {
+      "id": "knockouts",
+      "name": "Knockout Competitions",
+      "status": "current",
+      "lastSeen": "2026-10-06",
+      "asOf": "2026-10-06",
+      "stale": false,
+      "teams": [],
+      "knockouts": [
+        {
+          "name": "Middlesex Summer Cup 2026 — Mixed Doubles Division 1",
+          "link": "https://competitions.lta.org.uk/league/C9F24F13-B399-4FB1-A171-8CCED75F85B1/draw/1",
+          "last": {
+            "opponent": "Ealing Lawn Tennis Club 1",
+            "scoreFor": 1,
+            "scoreAgainst": 5,
+            "won": false,
+            "date": "Sat 25/04/2026"
+          },
+          "next": null,
+          "live": false
+        },
+        {
+          "name": "Middlesex Winter Cup 2026-27 — Mens Doubles Division 1",
+          "link": "https://competitions.lta.org.uk/league/7609542A-AB09-463F-A5B9-8FD2F5975993/draw/1",
+          "last": {
+            "opponent": "Harrow Lawn Tennis Club 1",
+            "scoreFor": 0,
+            "scoreAgainst": 9,
+            "won": false,
+            "date": "Sun 13/09/2026"
+          },
+          "next": null,
+          "live": false
+        },
+        {
+          "name": "Middlesex Winter Cup 2026-27 — Womens Doubles Division 1",
+          "link": "https://competitions.lta.org.uk/league/7609542A-AB09-463F-A5B9-8FD2F5975993/draw/5",
+          "last": {
+            "opponent": "Ealing Lawn Tennis Club 1",
+            "scoreFor": 0,
+            "scoreAgainst": 5,
+            "won": false,
+            "date": "Sun 27/09/2026"
+          },
+          "next": null,
+          "live": false
+        }
+      ]
+    },
+    {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
-      "status": "current",
+      "status": "completed",
       "lastSeen": "2026-10-06",
       "asOf": "2026-10-06",
       "stale": false,
@@ -4619,7 +4669,7 @@ window.__RESULTS__ = {
     {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
-      "status": "current",
+      "status": "completed",
       "lastSeen": "2026-10-06",
       "asOf": "2026-10-06",
       "stale": false,
@@ -8273,56 +8323,6 @@ window.__RESULTS__ = {
           ],
           "displayName": "Womens Team 2",
           "renamed": true
-        }
-      ]
-    },
-    {
-      "id": "knockouts",
-      "name": "Knockout Competitions",
-      "status": "current",
-      "lastSeen": "2026-10-06",
-      "asOf": "2026-10-06",
-      "stale": false,
-      "teams": [],
-      "knockouts": [
-        {
-          "name": "Middlesex Summer Cup 2026 — Mixed Doubles Division 1",
-          "link": "https://competitions.lta.org.uk/league/C9F24F13-B399-4FB1-A171-8CCED75F85B1/draw/1",
-          "last": {
-            "opponent": "Ealing Lawn Tennis Club 1",
-            "scoreFor": 1,
-            "scoreAgainst": 5,
-            "won": false,
-            "date": "Sat 25/04/2026"
-          },
-          "next": null,
-          "live": false
-        },
-        {
-          "name": "Middlesex Winter Cup 2026-27 — Mens Doubles Division 1",
-          "link": "https://competitions.lta.org.uk/league/7609542A-AB09-463F-A5B9-8FD2F5975993/draw/1",
-          "last": {
-            "opponent": "Harrow Lawn Tennis Club 1",
-            "scoreFor": 0,
-            "scoreAgainst": 9,
-            "won": false,
-            "date": "Sun 13/09/2026"
-          },
-          "next": null,
-          "live": false
-        },
-        {
-          "name": "Middlesex Winter Cup 2026-27 — Womens Doubles Division 1",
-          "link": "https://competitions.lta.org.uk/league/7609542A-AB09-463F-A5B9-8FD2F5975993/draw/5",
-          "last": {
-            "opponent": "Ealing Lawn Tennis Club 1",
-            "scoreFor": 0,
-            "scoreAgainst": 5,
-            "won": false,
-            "date": "Sun 27/09/2026"
-          },
-          "next": null,
-          "live": false
         }
       ]
     }
