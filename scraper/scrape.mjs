@@ -254,16 +254,33 @@ async function scrapeDrawOnce(page, link) {
   return data;
 }
 
-// Decide if a league is still running from its name's season + year vs today.
-// Rough active windows: summer ~Apr–Sep of its year; winter ~Oct of its year to
-// Apr of the next. Anything clearly past is "completed" (shown with a Finished tag).
-function leagueStatus(name) {
+// A season spanning the new year: "Winter", "Floodlit", or a "2026-27" style name
+// (e.g. the National Premier League).
+const isWinterName = (name) => /winter|floodlit|\b20\d\d\s*[-\/]\s*(20)?\d\d\b/i.test(name || "");
+
+// Decide if a league is still running. Prefer the fixtures themselves: once the
+// latest scheduled fixture is more than FINISHED_GRACE_DAYS ago the season is over
+// (a few never-played fixtures don't keep it open). Without dated fixtures, fall
+// back to the name's season + year: summer ~Apr–Sep of its year; winter ~Oct of its
+// year to Apr of the next. "completed" shows a Season finished tag.
+const FINISHED_GRACE_DAYS = 14;
+// "Sat 17/10/2026" → epoch ms (UTC midnight), or null.
+function parseUKDate(s) {
+  const m = String(s || "").match(/(\d{1,2})\/(\d{1,2})\/(\d{4})/);
+  return m ? Date.UTC(+m[3], +m[2] - 1, +m[1]) : null;
+}
+function leagueStatus(name, teams) {
+  const dates = (teams || []).flatMap((t) => (t.matches || []).map((m) => parseUKDate(m.date))).filter(Boolean);
+  if (dates.length) {
+    const latest = Math.max(...dates);
+    return (Date.now() - latest) / 86400000 > FINISHED_GRACE_DAYS ? "completed" : "current";
+  }
   const n = (name || "").toLowerCase();
   const now = new Date();
   const y = now.getFullYear();
   const month = now.getMonth() + 1; // 1–12
   const yr = +((n.match(/\b(20\d\d)\b/) || [])[1] || y);
-  if (/winter|floodlit/.test(n)) {
+  if (isWinterName(n)) {
     // Winter YR runs into YR+1; done once we're past spring of the following year.
     return (y < yr + 1 || (y === yr + 1 && month <= 4)) ? "current" : "completed";
   }
@@ -378,7 +395,7 @@ async function discoverSources(page) {
           }
           return res;
         });
-        if (tgt.winterOnly) leagues = leagues.filter((l) => /winter|floodlit/i.test(l.name));
+        if (tgt.winterOnly) leagues = leagues.filter((l) => isWinterName(l.name));
         log(`discovery: ${leagues.length} leagues for ${tgt.year}${tgt.winterOnly ? " (winter only)" : ""}`);
         for (const lg of leagues) await addLeague(lg);
       }
@@ -681,7 +698,7 @@ async function scrapeClub(page, club) {
         competitions.push({
           id: src.leagueId.slice(0, 8).toLowerCase(),
           name: src.leagueName,
-          status: leagueStatus(src.leagueName),
+          status: leagueStatus(src.leagueName, teams),
           lastSeen: TODAY,
           asOf: TODAY,
           stale: false,
@@ -769,7 +786,7 @@ async function scrapeClub(page, club) {
       if (degraded) {
         log(`  degraded "${cur.name}" (now ${richness(cur)} vs ${richness(old)}) — keeping last-good (as of ${asOfOf(old)})`);
         warnings.push(`"${cur.name}" came back incomplete — kept last-good (as of ${asOfOf(old)})`);
-        competitions[i] = { ...old, lastSeen: TODAY, stale: true, asOf: asOfOf(old) };
+        competitions[i] = { ...old, status: leagueStatus(old.name, old.teams), lastSeen: TODAY, stale: true, asOf: asOfOf(old) };
       }
     }
     // (b) Retain a competition absent from this run if seen recently (transient miss, or
@@ -783,6 +800,7 @@ async function scrapeClub(page, club) {
       const age = daysSince(pc.lastSeen);
       if (age <= RETAIN_DAYS) {
         log(`  retained (missing this run, last seen ${pc.lastSeen || "unknown"}): ${pc.name}`);
+        if (!pc.link && !pc.knockouts) pc.status = leagueStatus(pc.name, pc.teams);
         competitions.push({ ...pc, stale: true, asOf: asOfOf(pc) });
         // A current league vanishing from discovery is a problem worth an alert; a
         // finished league rolling off at season end is expected, so don't alert on it.
@@ -791,6 +809,9 @@ async function scrapeClub(page, club) {
         log(`  retired (missing ${Math.round(age)}d, past ${RETAIN_DAYS}d window): ${pc.name}`);
       }
     }
+
+    // Finished seasons go to the end of the tab row (stable: otherwise LTA's order).
+    competitions.sort((a, b) => (a.status === "completed") - (b.status === "completed"));
 
     const totalTeams = competitions.reduce((n, c) => n + c.teams.length, 0);
     if (competitions.length === 0) {
