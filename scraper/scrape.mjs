@@ -601,8 +601,79 @@ function buildLeaderboard(competitions) {
       (b.won / (b.played || 1)) - (a.won / (a.played || 1)) ||
       a.lost - b.lost ||
       a.name.localeCompare(b.name));
-  log(`leaderboard: ${players.length} players`);
   return players;
+}
+
+// Which season a competition belongs to, from its fixture dates: fixtures crossing New
+// Year, or starting Aug–Dec, make a winter season (labelled by its start year);
+// otherwise summer. The name is the fallback when there are no dated fixtures.
+const fixtureDates = (c) =>
+  (c.teams || []).flatMap((t) => (t.matches || []).map((m) => parseUKDate(m.date))).filter(Boolean);
+function seasonOf(c) {
+  const ds = fixtureDates(c);
+  let y, winter;
+  if (ds.length) {
+    const a = new Date(Math.min(...ds)), b = new Date(Math.max(...ds));
+    y = a.getUTCFullYear();
+    winter = b.getUTCFullYear() > y || a.getUTCMonth() + 1 >= 8;
+    if (!winter && b.getUTCMonth() + 1 <= 3) { winter = true; y -= 1; } // Jan–Mar only: tail of last winter
+  } else {
+    winter = isWinterName(c.name);
+    y = +(((c.name || "").match(/\b(20\d\d)\b/) || [])[1] || new Date().getFullYear());
+  }
+  return winter
+    ? { key: `${y}-W`, label: `Winter ${y}-${String((y + 1) % 100).padStart(2, "0")}` }
+    : { key: `${y}-S`, label: `Summer ${y}` };
+}
+
+// One players leaderboard per season (newest first), so summer and winter results never
+// mix. A season's board survives its leagues rolling off LTA discovery (carried from
+// last-good, frozen) until the next season of the same kind starts — Summer 2026 stays
+// until Summer 2027 has results. A finished season never loses results to a partial
+// roll-off. `start` is the median of its leagues' first fixtures (when most have begun).
+function buildSeasons(competitions, prevSeasons) {
+  const groups = new Map();
+  for (const c of competitions) {
+    if (c.link || c.knockouts || !(c.teams?.length)) continue;
+    const s = seasonOf(c);
+    const g = groups.get(s.key) || { ...s, comps: [] };
+    g.comps.push(c);
+    groups.set(s.key, g);
+  }
+  const byKey = new Map();
+  for (const g of groups.values()) {
+    const firsts = g.comps.map((c) => fixtureDates(c)).filter((d) => d.length).map((d) => Math.min(...d)).sort((a, b) => a - b);
+    const players = buildLeaderboard(g.comps);
+    if (!players.length) continue;
+    byKey.set(g.key, {
+      key: g.key, label: g.label,
+      start: firsts.length ? new Date(firsts[Math.floor((firsts.length - 1) / 2)]).toISOString().slice(0, 10) : null,
+      finished: g.comps.every((c) => c.status === "completed"),
+      players,
+    });
+  }
+  const total = (s) => s.players.reduce((n, p) => n + p.played, 0);
+  for (const p of prevSeasons || []) {
+    const cur = byKey.get(p.key);
+    if (!cur) byKey.set(p.key, { ...p, finished: true });
+    else if (cur.finished && total(cur) < total(p)) byKey.set(p.key, { ...p, finished: true });
+  }
+  const all = [...byKey.values()];
+  const superseded = (s) => all.some((o) => o.key.slice(-1) === s.key.slice(-1) && o.key > s.key);
+  const seasons = all.filter((s) => !superseded(s)).sort((a, b) => b.key.localeCompare(a.key));
+  log(`leaderboards: ${seasons.map((s) => `${s.label} (${s.players.length}${s.finished ? ", finished" : ""})`).join(", ") || "none"}`);
+  return seasons;
+}
+
+// Which season's board the page opens on: the newest, once the previous season has
+// finished and most of the new season's leagues have been under way for 4 weeks —
+// until then the just-finished season (so early-season boards aren't shown half-empty).
+const SEASON_SWITCH_DAYS = 28;
+function pickDefaultSeason(seasons) {
+  if (seasons.length < 2) return seasons[0]?.key || null;
+  const [n, p] = seasons;
+  const days = n.start ? (Date.now() - Date.parse(n.start)) / 86400000 : 0;
+  return (p.finished && days >= SEASON_SWITCH_DAYS) ? n.key : p.key;
 }
 
 // Load the previously-published data (the committed results.js), if any.
@@ -829,7 +900,9 @@ async function scrapeClub(page, club) {
       throw new Error(`Continuing-league team count collapsed (${curOverlap} vs ${prevOverlap} previously) — keeping existing results.js untouched.`);
     }
 
-    const players = buildLeaderboard(competitions);
+    const seasons = buildSeasons(competitions, prev?.seasons);
+    const defaultSeason = pickDefaultSeason(seasons);
+    const players = seasons.find((x) => x.key === defaultSeason)?.players || [];
     const staleCount = competitions.filter((c) => c.stale).length;
     const health = {
       ok: true,
@@ -848,7 +921,9 @@ async function scrapeClub(page, club) {
       sample: false,
       health,
       competitions,
-      players,
+      seasons,
+      defaultSeason,
+      players,   // the default season's board (kept for older page builds)
     };
     // Written as a JS global (not bare JSON) so the page also works from file://
     await mkdir(dirname(OUT), { recursive: true });
@@ -912,7 +987,10 @@ async function scrapeClubIncremental(page, club) {
     return { slug: club.slug, ok: true, degraded: false, warnings: [] };
   }
 
-  const players = prev.players || buildLeaderboard(competitions);
+  // Player stats only change on the full run; carry the boards, re-pick the default.
+  const seasons = prev.seasons || buildSeasons(competitions, null);
+  const defaultSeason = pickDefaultSeason(seasons);
+  const players = seasons.find((x) => x.key === defaultSeason)?.players || prev.players || [];
   const totalTeams = competitions.reduce((n, c) => n + (c.teams?.length || 0), 0);
   const health = {
     ok: true, degraded: false, mode: "results", warnings: [],
@@ -925,7 +1003,7 @@ async function scrapeClubIncremental(page, club) {
     season: prev.season || String(new Date().getFullYear()),
     sourceUrl: groupSrc ? groupSrc.url : s.baseUrl,
     generatedAt: new Date().toISOString(),
-    sample: false, health, competitions, players,
+    sample: false, health, competitions, seasons, defaultSeason, players,
   };
   await mkdir(dirname(OUT), { recursive: true });
   await writeFile(OUT, "window.__RESULTS__ = " + JSON.stringify(out, null, 2) + ";\n", "utf8");

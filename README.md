@@ -25,6 +25,13 @@ app/index.html + clubs/<slug>/{club.json, teams.yaml} ────────�
   `window.__CLUB__`, the data from `window.__RESULTS__`. Tabs: one per competition
   (standings · head-to-head matrix · team players), **Upcoming Matches**, **Recent
   Matches**, grouped **Knockout Competitions**, and a **Players** leaderboard.
+  Season rollover: a league is *finished* once its last fixture is 14+ days past (finished
+  tabs move to the end). The Players leaderboard is **per season** (Summer YYYY / Winter
+  YYYY-YY, decided by fixture dates), so summer and winter results never mix. A finished
+  season's board is frozen in the data and kept until the next season of the same kind
+  has results. The page opens on the newest board once the previous season is finished
+  and most of the new season's leagues have been running for 4 weeks; otherwise it opens
+  on the just-finished one, and a toggle switches between them.
 - **`clubs/<slug>/`** — everything specific to one club:
   - `club.json` — branding **and** the scraper `scrape` block (plus knobs like `upcomingDays`).
   - `teams.yaml` *(optional)* — rename LTA events to your own team labels (below).

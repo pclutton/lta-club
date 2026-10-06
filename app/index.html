@@ -216,6 +216,8 @@
   .sec .hint{font-weight:400;text-transform:none;letter-spacing:0;color:var(--muted);font-size:12px}
   #playerSearch{width:100%;max-width:340px;padding:9px 12px;border:1px solid var(--line);border-radius:10px;font-size:14px;font-family:inherit;margin-bottom:12px}
   #playerSearch:focus{outline:none;border-color:var(--brand-navy);box-shadow:0 0 0 3px var(--brand-navy-tint)}
+  #seasonToggle{display:flex;width:max-content;margin:0 0 12px}
+  #seasonToggle[hidden]{display:none}
   .players-scroll{max-height:520px;overflow:auto;border:1px solid var(--line);border-radius:var(--radius)}
   table.players thead th{position:sticky;top:0;background:var(--surface);z-index:1}
   table.players td.pname a{color:var(--brand-navy);text-decoration:none;font-weight:500}
@@ -446,7 +448,8 @@
   </section>
 
   <section class="block" id="playersBlock" hidden>
-    <h2 class="sec">Player leaderboard <span class="hint">— ranked by wins, across all teams</span></h2>
+    <h2 class="sec">Player leaderboard <span class="hint" id="playersHint">— ranked by wins, across all teams</span></h2>
+    <div class="seg" id="seasonToggle" role="tablist" aria-label="Season" hidden></div>
     <input id="playerSearch" type="search" placeholder="Find your name…" aria-label="Search players by name" />
     <div class="players-scroll">
       <table class="players">
@@ -504,7 +507,7 @@ function renderTabs(){
   const right = [];
   if(UPCOMING.length) right.push(`<button class="tab tab--upcoming" role="tab" data-view="upcoming" aria-selected="false">🗓️ Upcoming Matches</button>`);
   if(RECENT.length) right.push(`<button class="tab tab--recent" role="tab" data-view="recent" aria-selected="false">🕑 Recent Matches</button>`);
-  if((DATA.players||[]).length) right.push(`<button class="tab tab--players" role="tab" data-view="players" aria-selected="false">🏆 Players</button>`);
+  if((DATA.players||[]).length || SEASONS().some(s=>s.players.length)) right.push(`<button class="tab tab--players" role="tab" data-view="players" aria-selected="false">🏆 Players</button>`);
   if(right.length) html += `<span class="tabright">${right.join("")}</span>`;
   $("#tabs").innerHTML = html;
   document.querySelectorAll(".tab").forEach(tab=>{
@@ -862,9 +865,31 @@ function titleCaseName(s){
     .replace(/\bMc([a-z])/g, (m, ch) => "Mc" + ch.toUpperCase());
 }
 
+// One leaderboard per season (summer/winter never mixed). Opens on the scraper's
+// chosen default; the toggle shows the other live/just-finished season.
+const SEASONS = () => DATA.seasons || [];
+let seasonKey = null;
+function currentPlayers(){
+  const s = SEASONS().find(x=>x.key===seasonKey);
+  return s ? s.players : (DATA.players || []);
+}
+function renderSeasonToggle(){
+  const ss = SEASONS(), tg = $("#seasonToggle");
+  if(!tg) return;
+  tg.hidden = ss.length < 2;
+  tg.innerHTML = ss.slice().reverse().map(s=>
+    `<button class="seg-btn" role="tab" data-key="${s.key}" aria-selected="${s.key===seasonKey}">${s.label}</button>`).join("");
+  tg.querySelectorAll(".seg-btn").forEach(b=>b.addEventListener("click", ()=>{
+    seasonKey = b.dataset.key; renderSeasonToggle(); renderPlayers();
+    filterPlayers(($("#playerSearch")||{}).value);
+  }));
+  const cur = ss.find(x=>x.key===seasonKey);
+  const hint = $("#playersHint");
+  if(hint) hint.textContent = cur ? `— ${cur.label}${cur.finished ? " (finished)" : ""}, ranked by wins across all teams` : "— ranked by wins, across all teams";
+}
 function renderPlayers(){
-  const players = (DATA.players || []);
-  if(!players.length) return; // no players → no tab, block stays hidden
+  const players = currentPlayers();
+  if(!players.length){ $("#players").innerHTML = ""; return; }
   const medals = ["🥇","🥈","🥉"];
   $("#players").innerHTML = players.map((p,i)=>{
     const name = titleCaseName(p.name);
@@ -939,6 +964,8 @@ function boot(data){
   const pool = comps.some(c=>c.status!=="completed") ? comps.filter(c=>c.status!=="completed") : comps;
   const biggest = pool.reduce((a,b)=> b.teams.length > a.teams.length ? b : a);
   selectComp(comps.indexOf(biggest));
+  seasonKey = data.defaultSeason || (SEASONS()[0] || {}).key || null;
+  renderSeasonToggle();
   renderPlayers();
   const search = $("#playerSearch");
   if(search) search.addEventListener("input", e=>filterPlayers(e.target.value));
