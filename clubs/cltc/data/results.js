@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-06T01:42:35.691Z",
+  "generatedAt": "2026-10-06T13:07:45.759Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 7,
       "teams": 26,
-      "refreshed": 26,
-      "failed": 0
+      "matches": 552,
+      "players": 170,
+      "stale": 0
     },
     "competitions": [
       {
@@ -56,7 +56,7 @@ window.__RESULTS__ = {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-10-05"
+        "asOf": "2026-10-06"
       }
     ]
   },
@@ -751,7 +751,7 @@ window.__RESULTS__ = {
               "away": "Wayfarers LTC 1",
               "hs": null,
               "as": null,
-              "date": "Sun 18/10/2026"
+              "date": "Sat 17/10/2026"
             },
             {
               "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
@@ -1516,6 +1516,13 @@ window.__RESULTS__ = {
               "date": "Thu 24/09/2026"
             },
             {
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "away": "David Lloyd Club Finchley 1",
+              "hs": null,
+              "as": null,
+              "date": "Tue 06/10/2026"
+            },
+            {
               "home": "West Heath Lawn Tennis Club Limited 1",
               "away": "Brondesbury Sports Club 1",
               "hs": null,
@@ -1535,13 +1542,6 @@ window.__RESULTS__ = {
               "hs": null,
               "as": null,
               "date": "Tue 20/10/2026"
-            },
-            {
-              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "away": "David Lloyd Club Finchley 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 23/10/2026"
             },
             {
               "home": "Brondesbury Sports Club 1",
@@ -1597,7 +1597,7 @@ window.__RESULTS__ = {
               "away": "Totteridge Tennis Club 1",
               "hs": null,
               "as": null,
-              "date": "Fri 22/01/2027"
+              "date": "Tue 19/01/2027"
             },
             {
               "home": "Brondesbury Sports Club 1",
@@ -1628,6 +1628,13 @@ window.__RESULTS__ = {
               "date": "Thu 11/02/2027"
             },
             {
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "away": "West Heath Lawn Tennis Club Limited 1",
+              "hs": null,
+              "as": null,
+              "date": "Mon 22/02/2027"
+            },
+            {
               "home": "Brondesbury Sports Club 1",
               "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
               "hs": null,
@@ -1654,13 +1661,6 @@ window.__RESULTS__ = {
               "hs": null,
               "as": null,
               "date": "Thu 04/03/2027"
-            },
-            {
-              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "away": "West Heath Lawn Tennis Club Limited 1",
-              "hs": null,
-              "as": null,
-              "date": "Fri 05/03/2027"
             },
             {
               "home": "Totteridge Tennis Club 1",
@@ -8959,8 +8959,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-10-05",
-      "asOf": "2026-10-05",
+      "lastSeen": "2026-10-06",
+      "asOf": "2026-10-06",
       "stale": false,
       "teams": [],
       "knockouts": [
