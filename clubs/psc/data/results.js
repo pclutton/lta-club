@@ -2,55 +2,55 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-06T22:57:10.191Z",
+  "generatedAt": "2026-10-07T13:05:01.421Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 554,
+      "players": 129,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-10-06"
+        "asOf": "2026-10-07"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-10-06"
+        "asOf": "2026-10-07"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-10-06"
+        "asOf": "2026-10-07"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-10-06"
+        "asOf": "2026-10-07"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-10-06"
+        "asOf": "2026-10-07"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-10-06"
+        "asOf": "2026-10-07"
       }
     ]
   },
@@ -59,8 +59,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-06",
-      "asOf": "2026-10-06",
+      "lastSeen": "2026-10-07",
+      "asOf": "2026-10-07",
       "stale": false,
       "teams": [
         {
@@ -373,8 +373,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-10-06",
-      "asOf": "2026-10-06",
+      "lastSeen": "2026-10-07",
+      "asOf": "2026-10-07",
       "stale": false,
       "teams": [
         {
@@ -1119,8 +1119,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-06",
-      "asOf": "2026-10-06",
+      "lastSeen": "2026-10-07",
+      "asOf": "2026-10-07",
       "stale": false,
       "teams": [
         {
@@ -2217,6 +2217,20 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Wayfarers LTC 1",
+              "played": 2,
+              "won": 1,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "14-10",
+              "points": 14,
+              "form": [
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "Lowlands Club 1",
               "played": 1,
               "won": 1,
@@ -2229,7 +2243,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "Pinner Lawn Tennis Club 1",
               "played": 1,
               "won": 0,
@@ -2240,7 +2254,7 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 4,
+              "rank": 5,
               "name": "Harrow Lawn Tennis Club 1",
               "played": 1,
               "won": 0,
@@ -2251,7 +2265,7 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Harrow Lawn Tennis Club 2",
               "played": 1,
               "won": 1,
@@ -2264,7 +2278,21 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 6,
+              "rank": 7,
+              "name": "Paddington Sports Club 2",
+              "played": 2,
+              "won": 0,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "6-26",
+              "points": 6,
+              "form": [
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 8,
               "name": "Eastcote Lawn Tennis Club 1",
               "played": 1,
               "won": 0,
@@ -2272,32 +2300,6 @@ window.__RESULTS__ = {
               "lost": 1,
               "rubbers": "4-12",
               "points": 4,
-              "form": [
-                "L"
-              ]
-            },
-            {
-              "rank": 7,
-              "name": "Wayfarers LTC 1",
-              "played": 1,
-              "won": 0,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "2-6",
-              "points": 2,
-              "form": [
-                "L"
-              ]
-            },
-            {
-              "rank": 8,
-              "name": "Paddington Sports Club 2",
-              "played": 1,
-              "won": 0,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "2-14",
-              "points": 2,
               "form": [
                 "L"
               ]
@@ -2335,8 +2337,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 2",
               "away": "Wayfarers LTC 1",
-              "hs": null,
-              "as": null,
+              "hs": 4,
+              "as": 12,
               "date": "Tue 06/10/2026"
             },
             {
@@ -2535,13 +2537,14 @@ window.__RESULTS__ = {
           "division": "Division 1 North West",
           "pscName": "Paddington Sports Club 2",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/8",
-          "position": 8,
+          "position": 7,
           "of": 8,
-          "played": 1,
+          "played": 2,
           "won": 0,
-          "lost": 1,
-          "points": 2,
+          "lost": 2,
+          "points": 6,
           "form": [
+            "L",
             "L"
           ],
           "standings": [
@@ -2560,6 +2563,20 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Wayfarers LTC 1",
+              "played": 2,
+              "won": 1,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "14-10",
+              "points": 14,
+              "form": [
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "Lowlands Club 1",
               "played": 1,
               "won": 1,
@@ -2572,7 +2589,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "Pinner Lawn Tennis Club 1",
               "played": 1,
               "won": 0,
@@ -2583,7 +2600,7 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 4,
+              "rank": 5,
               "name": "Harrow Lawn Tennis Club 1",
               "played": 1,
               "won": 0,
@@ -2594,7 +2611,7 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Harrow Lawn Tennis Club 2",
               "played": 1,
               "won": 1,
@@ -2607,7 +2624,21 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 6,
+              "rank": 7,
+              "name": "Paddington Sports Club 2",
+              "played": 2,
+              "won": 0,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "6-26",
+              "points": 6,
+              "form": [
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 8,
               "name": "Eastcote Lawn Tennis Club 1",
               "played": 1,
               "won": 0,
@@ -2615,32 +2646,6 @@ window.__RESULTS__ = {
               "lost": 1,
               "rubbers": "4-12",
               "points": 4,
-              "form": [
-                "L"
-              ]
-            },
-            {
-              "rank": 7,
-              "name": "Wayfarers LTC 1",
-              "played": 1,
-              "won": 0,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "2-6",
-              "points": 2,
-              "form": [
-                "L"
-              ]
-            },
-            {
-              "rank": 8,
-              "name": "Paddington Sports Club 2",
-              "played": 1,
-              "won": 0,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "2-14",
-              "points": 2,
               "form": [
                 "L"
               ]
@@ -2678,8 +2683,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 2",
               "away": "Wayfarers LTC 1",
-              "hs": null,
-              "as": null,
+              "hs": 4,
+              "as": 12,
               "date": "Tue 06/10/2026"
             },
             {
@@ -2848,6 +2853,12 @@ window.__RESULTS__ = {
           "fixtures": [],
           "players": [
             {
+              "name": "Anne Beranger",
+              "won": 0,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2189"
+            },
+            {
               "name": "Emily MacKay",
               "won": 0,
               "lost": 2,
@@ -2860,15 +2871,21 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/721"
             },
             {
-              "name": "Sam Kennedy",
+              "name": "Shpresa Duro",
               "won": 0,
               "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2190"
+            },
+            {
+              "name": "Sam Kennedy",
+              "won": 0,
+              "lost": 4,
               "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/723"
             },
             {
               "name": "Zara Danesh",
               "won": 0,
-              "lost": 2,
+              "lost": 4,
               "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/722"
             }
           ]
@@ -3583,8 +3600,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-10-06",
-      "asOf": "2026-10-06",
+      "lastSeen": "2026-10-07",
+      "asOf": "2026-10-07",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -3633,8 +3650,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "completed",
-      "lastSeen": "2026-10-06",
-      "asOf": "2026-10-06",
+      "lastSeen": "2026-10-07",
+      "asOf": "2026-10-07",
       "stale": false,
       "teams": [
         {
@@ -4670,8 +4687,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "completed",
-      "lastSeen": "2026-10-06",
-      "asOf": "2026-10-06",
+      "lastSeen": "2026-10-07",
+      "asOf": "2026-10-07",
       "stale": false,
       "teams": [
         {
@@ -8475,6 +8492,13 @@ window.__RESULTS__ = {
           "played": 2
         },
         {
+          "name": "Anne Beranger",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2189",
+          "won": 0,
+          "lost": 2,
+          "played": 2
+        },
+        {
           "name": "Arun Ranganathan",
           "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/944",
           "won": 0,
@@ -8510,8 +8534,8 @@ window.__RESULTS__ = {
           "played": 2
         },
         {
-          "name": "Sam Kennedy",
-          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/723",
+          "name": "Shpresa Duro",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2190",
           "won": 0,
           "lost": 2,
           "played": 2
@@ -8538,11 +8562,18 @@ window.__RESULTS__ = {
           "played": 2
         },
         {
+          "name": "Sam Kennedy",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/723",
+          "won": 0,
+          "lost": 4,
+          "played": 4
+        },
+        {
           "name": "Zara Danesh",
           "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/722",
           "won": 0,
-          "lost": 2,
-          "played": 2
+          "lost": 4,
+          "played": 4
         }
       ]
     },
