@@ -2,61 +2,61 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-07T23:30:22.612Z",
+  "generatedAt": "2026-10-08T13:09:55.092Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 7,
       "teams": 26,
-      "refreshed": 6,
-      "failed": 0
+      "matches": 552,
+      "players": 166,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-10-07"
+        "asOf": "2026-10-08"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-10-07"
+        "asOf": "2026-10-08"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-10-07"
+        "asOf": "2026-10-08"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-10-07"
+        "asOf": "2026-10-08"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-10-07"
+        "asOf": "2026-10-08"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-10-07"
+        "asOf": "2026-10-08"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-10-07"
+        "asOf": "2026-10-08"
       }
     ]
   },
@@ -65,8 +65,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-07",
-      "asOf": "2026-10-07",
+      "lastSeen": "2026-10-08",
+      "asOf": "2026-10-08",
       "stale": false,
       "teams": [
         {
@@ -421,7 +421,7 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
-              "name": "Chandos Lawn Tennis Club 1",
+              "name": "Coolhurst LTC 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -478,7 +478,7 @@ window.__RESULTS__ = {
           "matches": [
             {
               "home": "Halton Tennis Centre 1",
-              "away": "Chandos Lawn Tennis Club 1",
+              "away": "Coolhurst LTC 1",
               "hs": null,
               "as": null,
               "date": "Sun 18/10/2026"
@@ -505,8 +505,8 @@ window.__RESULTS__ = {
               "date": "Sun 08/11/2026"
             },
             {
-              "home": "Chandos Lawn Tennis Club 1",
-              "away": "St Albans Lawn Tennis Club 1",
+              "home": "St Albans Lawn Tennis Club 1",
+              "away": "Coolhurst LTC 1",
               "hs": null,
               "as": null,
               "date": "Sun 08/11/2026"
@@ -526,7 +526,7 @@ window.__RESULTS__ = {
               "date": "Sat 21/11/2026"
             },
             {
-              "home": "Chandos Lawn Tennis Club 1",
+              "home": "Coolhurst LTC 1",
               "away": "Harpenden LTC 1",
               "hs": null,
               "as": null,
@@ -561,8 +561,8 @@ window.__RESULTS__ = {
               "date": "Sat 05/12/2026"
             },
             {
-              "home": "Chandos Lawn Tennis Club 1",
-              "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "away": "Coolhurst LTC 1",
               "hs": null,
               "as": null,
               "date": "Sun 06/12/2026"
@@ -589,8 +589,8 @@ window.__RESULTS__ = {
               "date": "Sun 24/01/2027"
             },
             {
-              "home": "Chandos Lawn Tennis Club 1",
-              "away": "Windsor Lawn Tennis Club 1",
+              "home": "Windsor Lawn Tennis Club 1",
+              "away": "Coolhurst LTC 1",
               "hs": null,
               "as": null,
               "date": "Sun 24/01/2027"
@@ -618,7 +618,7 @@ window.__RESULTS__ = {
             },
             {
               "home": "Hazelwood Lawn Tennis & Squash Club 1",
-              "away": "Chandos Lawn Tennis Club 1",
+              "away": "Coolhurst LTC 1",
               "hs": null,
               "as": null,
               "date": "Sun 07/02/2027"
@@ -638,8 +638,8 @@ window.__RESULTS__ = {
               "date": "Sun 07/02/2027"
             },
             {
-              "home": "Chandos Lawn Tennis Club 1",
-              "away": "Paddington Sports Club 1",
+              "home": "Paddington Sports Club 1",
+              "away": "Coolhurst LTC 1",
               "hs": null,
               "as": null,
               "date": "Sun 21/02/2027"
@@ -683,8 +683,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-10-07",
-      "asOf": "2026-10-07",
+      "lastSeen": "2026-10-08",
+      "asOf": "2026-10-08",
       "stale": false,
       "teams": [
         {
@@ -754,15 +754,15 @@ window.__RESULTS__ = {
               "date": "Sat 17/10/2026"
             },
             {
-              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "away": "Harbour Club Chelsea 1",
+              "home": "Wayfarers LTC 1",
+              "away": "David Lloyd Club Northwood 1",
               "hs": null,
               "as": null,
               "date": "Sun 08/11/2026"
             },
             {
-              "home": "Wayfarers LTC 1",
-              "away": "David Lloyd Club Northwood 1",
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "away": "Harbour Club Chelsea 1",
               "hs": null,
               "as": null,
               "date": "Sun 08/11/2026"
@@ -1017,8 +1017,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-07",
-      "asOf": "2026-10-07",
+      "lastSeen": "2026-10-08",
+      "asOf": "2026-10-08",
       "stale": false,
       "teams": [
         {
@@ -1387,6 +1387,20 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Brondesbury Sports Club 1",
+              "played": 2,
+              "won": 1,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "20-12",
+              "points": 20,
+              "form": [
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Finchley Manor Tennis Squash and Health Club 1",
               "played": 1,
               "won": 1,
@@ -1399,7 +1413,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
+              "rank": 3,
               "name": "Oakleigh Park Lawn Tennis & Squash Club 1",
               "played": 1,
               "won": 1,
@@ -1412,7 +1426,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "Totteridge Tennis Club 1",
               "played": 1,
               "won": 1,
@@ -1425,18 +1439,20 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
               "name": "West Heath Lawn Tennis Club Limited 1",
-              "played": 1,
+              "played": 2,
               "won": 0,
               "drawn": 1,
-              "lost": 0,
-              "rubbers": "8-8",
-              "points": 8,
-              "form": []
+              "lost": 1,
+              "rubbers": "10-22",
+              "points": 10,
+              "form": [
+                "L"
+              ]
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "South Hampstead Tennis Club 1",
               "played": 1,
               "won": 0,
@@ -1445,19 +1461,6 @@ window.__RESULTS__ = {
               "rubbers": "8-8",
               "points": 8,
               "form": []
-            },
-            {
-              "rank": 6,
-              "name": "Brondesbury Sports Club 1",
-              "played": 1,
-              "won": 0,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "6-10",
-              "points": 6,
-              "form": [
-                "L"
-              ]
             },
             {
               "rank": 7,
@@ -1525,8 +1528,8 @@ window.__RESULTS__ = {
             {
               "home": "West Heath Lawn Tennis Club Limited 1",
               "away": "Brondesbury Sports Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 2,
+              "as": 14,
               "date": "Wed 07/10/2026"
             },
             {
@@ -1719,8 +1722,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-10-07",
-      "asOf": "2026-10-07",
+      "lastSeen": "2026-10-08",
+      "asOf": "2026-10-08",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -1774,8 +1777,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "completed",
-      "lastSeen": "2026-10-07",
-      "asOf": "2026-10-07",
+      "lastSeen": "2026-10-08",
+      "asOf": "2026-10-08",
       "stale": false,
       "teams": [
         {
@@ -4489,8 +4492,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "completed",
-      "lastSeen": "2026-10-07",
-      "asOf": "2026-10-07",
+      "lastSeen": "2026-10-08",
+      "asOf": "2026-10-08",
       "stale": false,
       "teams": [
         {
@@ -8572,8 +8575,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "completed",
-      "lastSeen": "2026-10-07",
-      "asOf": "2026-10-07",
+      "lastSeen": "2026-10-08",
+      "asOf": "2026-10-08",
       "stale": false,
       "teams": [
         {
