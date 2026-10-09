@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-09T12:59:16.051Z",
+  "generatedAt": "2026-10-09T18:09:19.974Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "matches": 554,
-      "players": 129,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
@@ -2192,7 +2192,7 @@ window.__RESULTS__ = {
           "division": "Division 1 North West",
           "pscName": "Paddington Sports Club 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/8",
-          "position": 1,
+          "position": 2,
           "of": 8,
           "played": 1,
           "won": 1,
@@ -2204,6 +2204,20 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Wayfarers LTC 1",
+              "played": 2,
+              "won": 1,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "18-14",
+              "points": 18,
+              "form": [
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Paddington Sports Club 1",
               "played": 1,
               "won": 1,
@@ -2212,20 +2226,6 @@ window.__RESULTS__ = {
               "rubbers": "14-2",
               "points": 14,
               "form": [
-                "W"
-              ]
-            },
-            {
-              "rank": 2,
-              "name": "Wayfarers LTC 1",
-              "played": 2,
-              "won": 1,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "14-10",
-              "points": 14,
-              "form": [
-                "L",
                 "W"
               ]
             },
@@ -2244,6 +2244,19 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
+              "name": "Harrow Lawn Tennis Club 2",
+              "played": 1,
+              "won": 1,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "10-6",
+              "points": 10,
+              "form": [
+                "W"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Pinner Lawn Tennis Club 1",
               "played": 1,
               "won": 0,
@@ -2254,7 +2267,7 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Harrow Lawn Tennis Club 1",
               "played": 1,
               "won": 0,
@@ -2263,19 +2276,6 @@ window.__RESULTS__ = {
               "rubbers": "8-8",
               "points": 8,
               "form": []
-            },
-            {
-              "rank": 6,
-              "name": "Harrow Lawn Tennis Club 2",
-              "played": 1,
-              "won": 1,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "6-2",
-              "points": 6,
-              "form": [
-                "W"
-              ]
             },
             {
               "rank": 7,
@@ -2323,8 +2323,8 @@ window.__RESULTS__ = {
             {
               "home": "Wayfarers LTC 1",
               "away": "Harrow Lawn Tennis Club 2",
-              "hs": 2,
-              "as": 6,
+              "hs": 6,
+              "as": 10,
               "date": "Tue 22/09/2026"
             },
             {
@@ -2550,6 +2550,20 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Wayfarers LTC 1",
+              "played": 2,
+              "won": 1,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "18-14",
+              "points": 18,
+              "form": [
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Paddington Sports Club 1",
               "played": 1,
               "won": 1,
@@ -2558,20 +2572,6 @@ window.__RESULTS__ = {
               "rubbers": "14-2",
               "points": 14,
               "form": [
-                "W"
-              ]
-            },
-            {
-              "rank": 2,
-              "name": "Wayfarers LTC 1",
-              "played": 2,
-              "won": 1,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "14-10",
-              "points": 14,
-              "form": [
-                "L",
                 "W"
               ]
             },
@@ -2590,6 +2590,19 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
+              "name": "Harrow Lawn Tennis Club 2",
+              "played": 1,
+              "won": 1,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "10-6",
+              "points": 10,
+              "form": [
+                "W"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Pinner Lawn Tennis Club 1",
               "played": 1,
               "won": 0,
@@ -2600,7 +2613,7 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Harrow Lawn Tennis Club 1",
               "played": 1,
               "won": 0,
@@ -2609,19 +2622,6 @@ window.__RESULTS__ = {
               "rubbers": "8-8",
               "points": 8,
               "form": []
-            },
-            {
-              "rank": 6,
-              "name": "Harrow Lawn Tennis Club 2",
-              "played": 1,
-              "won": 1,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "6-2",
-              "points": 6,
-              "form": [
-                "W"
-              ]
             },
             {
               "rank": 7,
@@ -2669,8 +2669,8 @@ window.__RESULTS__ = {
             {
               "home": "Wayfarers LTC 1",
               "away": "Harrow Lawn Tennis Club 2",
-              "hs": 2,
-              "as": 6,
+              "hs": 6,
+              "as": 10,
               "date": "Tue 22/09/2026"
             },
             {
