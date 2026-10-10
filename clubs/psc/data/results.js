@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-10T17:08:51.709Z",
+  "generatedAt": "2026-10-10T22:19:29.455Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -1475,12 +1475,12 @@ window.__RESULTS__ = {
           "division": "Division 2 North East",
           "pscName": "Paddington Sports Club 2",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/14",
-          "position": 4,
+          "position": 3,
           "of": 8,
-          "played": 1,
+          "played": 2,
           "won": 1,
           "lost": 0,
-          "points": 11,
+          "points": 19,
           "form": [
             "W"
           ],
@@ -1502,18 +1502,31 @@ window.__RESULTS__ = {
             {
               "rank": 2,
               "name": "South Hampstead Tennis Club 1",
-              "played": 1,
+              "played": 2,
               "won": 1,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 0,
-              "rubbers": "14-2",
-              "points": 14,
+              "rubbers": "22-10",
+              "points": 22,
               "form": [
                 "W"
               ]
             },
             {
               "rank": 3,
+              "name": "Paddington Sports Club 2",
+              "played": 2,
+              "won": 1,
+              "drawn": 1,
+              "lost": 0,
+              "rubbers": "19-13",
+              "points": 19,
+              "form": [
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Mercury LTC 1",
               "played": 1,
               "won": 1,
@@ -1521,19 +1534,6 @@ window.__RESULTS__ = {
               "lost": 0,
               "rubbers": "12-4",
               "points": 12,
-              "form": [
-                "W"
-              ]
-            },
-            {
-              "rank": 4,
-              "name": "Paddington Sports Club 2",
-              "played": 1,
-              "won": 1,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "11-5",
-              "points": 11,
               "form": [
                 "W"
               ]
@@ -1631,8 +1631,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 2",
               "away": "South Hampstead Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 8,
               "date": "Thu 08/10/2026"
             },
             {
@@ -1852,18 +1852,31 @@ window.__RESULTS__ = {
             {
               "rank": 2,
               "name": "South Hampstead Tennis Club 1",
-              "played": 1,
+              "played": 2,
               "won": 1,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 0,
-              "rubbers": "14-2",
-              "points": 14,
+              "rubbers": "22-10",
+              "points": 22,
               "form": [
                 "W"
               ]
             },
             {
               "rank": 3,
+              "name": "Paddington Sports Club 2",
+              "played": 2,
+              "won": 1,
+              "drawn": 1,
+              "lost": 0,
+              "rubbers": "19-13",
+              "points": 19,
+              "form": [
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Mercury LTC 1",
               "played": 1,
               "won": 1,
@@ -1871,19 +1884,6 @@ window.__RESULTS__ = {
               "lost": 0,
               "rubbers": "12-4",
               "points": 12,
-              "form": [
-                "W"
-              ]
-            },
-            {
-              "rank": 4,
-              "name": "Paddington Sports Club 2",
-              "played": 1,
-              "won": 1,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "11-5",
-              "points": 11,
               "form": [
                 "W"
               ]
@@ -1981,8 +1981,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 2",
               "away": "South Hampstead Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 8,
               "date": "Thu 08/10/2026"
             },
             {
