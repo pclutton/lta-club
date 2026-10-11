@@ -2,55 +2,55 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-10T22:19:29.455Z",
+  "generatedAt": "2026-10-11T12:31:45.461Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 554,
+      "players": 129,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-10-10"
+        "asOf": "2026-10-11"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-10-10"
+        "asOf": "2026-10-11"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-10-10"
+        "asOf": "2026-10-11"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-10-10"
+        "asOf": "2026-10-11"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-10-10"
+        "asOf": "2026-10-11"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-10-10"
+        "asOf": "2026-10-11"
       }
     ]
   },
@@ -59,8 +59,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-10",
-      "asOf": "2026-10-10",
+      "lastSeen": "2026-10-11",
+      "asOf": "2026-10-11",
       "stale": false,
       "teams": [
         {
@@ -373,8 +373,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-10-10",
-      "asOf": "2026-10-10",
+      "lastSeen": "2026-10-11",
+      "asOf": "2026-10-11",
       "stale": false,
       "teams": [
         {
@@ -1119,8 +1119,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-10",
-      "asOf": "2026-10-10",
+      "lastSeen": "2026-10-11",
+      "asOf": "2026-10-11",
       "stale": false,
       "teams": [
         {
@@ -1794,28 +1794,40 @@ window.__RESULTS__ = {
           "fixtures": [],
           "players": [
             {
+              "name": "Francesco Buffi",
+              "won": 2,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1312"
+            },
+            {
+              "name": "Sushant Mehta",
+              "won": 2,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1314"
+            },
+            {
               "name": "Farruh Shermatov",
               "won": 1,
               "lost": 1,
               "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1315"
             },
             {
-              "name": "Francesco Buffi",
+              "name": "Jens Vanbrabant",
               "won": 1,
               "lost": 1,
-              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1312"
-            },
-            {
-              "name": "Sushant Mehta",
-              "won": 1,
-              "lost": 1,
-              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1314"
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2269"
             },
             {
               "name": "Trystan Forrest",
               "won": 1,
               "lost": 1,
               "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1313"
+            },
+            {
+              "name": "Vincenzo Di nicola",
+              "won": 1,
+              "lost": 1,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2268"
             }
           ]
         },
@@ -3603,8 +3615,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-10-10",
-      "asOf": "2026-10-10",
+      "lastSeen": "2026-10-11",
+      "asOf": "2026-10-11",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -3653,8 +3665,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "completed",
-      "lastSeen": "2026-10-10",
-      "asOf": "2026-10-10",
+      "lastSeen": "2026-10-11",
+      "asOf": "2026-10-11",
       "stale": false,
       "teams": [
         {
@@ -4690,8 +4702,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "completed",
-      "lastSeen": "2026-10-10",
-      "asOf": "2026-10-10",
+      "lastSeen": "2026-10-11",
+      "asOf": "2026-10-11",
       "stale": false,
       "teams": [
         {
@@ -8411,6 +8423,13 @@ window.__RESULTS__ = {
           "played": 4
         },
         {
+          "name": "Francesco Buffi",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1312",
+          "won": 2,
+          "lost": 2,
+          "played": 4
+        },
+        {
           "name": "Kara Hebert",
           "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/818",
           "won": 2,
@@ -8420,6 +8439,13 @@ window.__RESULTS__ = {
         {
           "name": "Nadia Essa",
           "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/816",
+          "won": 2,
+          "lost": 2,
+          "played": 4
+        },
+        {
+          "name": "Sushant Mehta",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1314",
           "won": 2,
           "lost": 2,
           "played": 4
@@ -8439,15 +8465,15 @@ window.__RESULTS__ = {
           "played": 2
         },
         {
-          "name": "Francesco Buffi",
-          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1312",
+          "name": "Jack Bishop",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1317",
           "won": 1,
           "lost": 1,
           "played": 2
         },
         {
-          "name": "Jack Bishop",
-          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1317",
+          "name": "Jens Vanbrabant",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2269",
           "won": 1,
           "lost": 1,
           "played": 2
@@ -8460,15 +8486,15 @@ window.__RESULTS__ = {
           "played": 2
         },
         {
-          "name": "Sushant Mehta",
-          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1314",
+          "name": "Trystan Forrest",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1313",
           "won": 1,
           "lost": 1,
           "played": 2
         },
         {
-          "name": "Trystan Forrest",
-          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1313",
+          "name": "Vincenzo Di nicola",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2268",
           "won": 1,
           "lost": 1,
           "played": 2
