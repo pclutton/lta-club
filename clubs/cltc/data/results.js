@@ -2,61 +2,61 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-11T22:44:02.245Z",
+  "generatedAt": "2026-10-12T14:58:16.585Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 7,
       "teams": 26,
-      "refreshed": 6,
-      "failed": 0
+      "matches": 552,
+      "players": 166,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-10-11"
+        "asOf": "2026-10-12"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-10-11"
+        "asOf": "2026-10-12"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-10-11"
+        "asOf": "2026-10-12"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-10-11"
+        "asOf": "2026-10-12"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-10-11"
+        "asOf": "2026-10-12"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-10-11"
+        "asOf": "2026-10-12"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-10-11"
+        "asOf": "2026-10-12"
       }
     ]
   },
@@ -65,8 +65,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-11",
-      "asOf": "2026-10-11",
+      "lastSeen": "2026-10-12",
+      "asOf": "2026-10-12",
       "stale": false,
       "teams": [
         {
@@ -371,7 +371,98 @@ window.__RESULTS__ = {
           ],
           "results": [],
           "fixtures": [],
-          "players": []
+          "players": [
+            {
+              "name": "Ben Jones",
+              "won": 0,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/395"
+            },
+            {
+              "name": "Benjamin Clark",
+              "won": 0,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/389"
+            },
+            {
+              "name": "Filip Peliwo",
+              "won": 0,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/394"
+            },
+            {
+              "name": "Jacob Coenraad de klerk",
+              "won": 0,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/390"
+            },
+            {
+              "name": "John Thompson",
+              "won": 0,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/392"
+            },
+            {
+              "name": "Mark Keothavong",
+              "won": 0,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/402"
+            },
+            {
+              "name": "Matthew Kirby",
+              "won": 0,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/391"
+            },
+            {
+              "name": "Michael Clarkson",
+              "won": 0,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/396"
+            },
+            {
+              "name": "Rhett Purcell",
+              "won": 0,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/388"
+            },
+            {
+              "name": "Richard Wire",
+              "won": 0,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/401"
+            },
+            {
+              "name": "Robert Blythe",
+              "won": 0,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/393"
+            },
+            {
+              "name": "Sam Ashcroft",
+              "won": 0,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/399"
+            },
+            {
+              "name": "Sebastian Darke",
+              "won": 0,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/398"
+            },
+            {
+              "name": "Thomas Brennan",
+              "won": 0,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/397"
+            },
+            {
+              "name": "Tom Skinner",
+              "won": 0,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/400"
+            }
+          ]
         },
         {
           "name": "Womens Doubles",
@@ -683,8 +774,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-10-11",
-      "asOf": "2026-10-11",
+      "lastSeen": "2026-10-12",
+      "asOf": "2026-10-12",
       "stale": false,
       "teams": [
         {
@@ -1017,8 +1108,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-11",
-      "asOf": "2026-10-11",
+      "lastSeen": "2026-10-12",
+      "asOf": "2026-10-12",
       "stale": false,
       "teams": [
         {
@@ -1737,8 +1828,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-10-11",
-      "asOf": "2026-10-11",
+      "lastSeen": "2026-10-12",
+      "asOf": "2026-10-12",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -1792,8 +1883,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "completed",
-      "lastSeen": "2026-10-11",
-      "asOf": "2026-10-11",
+      "lastSeen": "2026-10-12",
+      "asOf": "2026-10-12",
       "stale": false,
       "teams": [
         {
@@ -4507,8 +4598,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "completed",
-      "lastSeen": "2026-10-11",
-      "asOf": "2026-10-11",
+      "lastSeen": "2026-10-12",
+      "asOf": "2026-10-12",
       "stale": false,
       "teams": [
         {
@@ -8590,8 +8681,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "completed",
-      "lastSeen": "2026-10-11",
-      "asOf": "2026-10-11",
+      "lastSeen": "2026-10-12",
+      "asOf": "2026-10-12",
       "stale": false,
       "teams": [
         {
