@@ -2,61 +2,61 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-12T21:04:38.609Z",
+  "generatedAt": "2026-10-13T13:56:01.292Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 7,
       "teams": 26,
-      "refreshed": 6,
-      "failed": 0
+      "matches": 552,
+      "players": 166,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-10-12"
+        "asOf": "2026-10-13"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-10-12"
+        "asOf": "2026-10-13"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-10-12"
+        "asOf": "2026-10-13"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-10-12"
+        "asOf": "2026-10-13"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-10-12"
+        "asOf": "2026-10-13"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-10-12"
+        "asOf": "2026-10-13"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-10-12"
+        "asOf": "2026-10-13"
       }
     ]
   },
@@ -65,8 +65,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-12",
-      "asOf": "2026-10-12",
+      "lastSeen": "2026-10-13",
+      "asOf": "2026-10-13",
       "stale": false,
       "teams": [
         {
@@ -774,8 +774,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-10-12",
-      "asOf": "2026-10-12",
+      "lastSeen": "2026-10-13",
+      "asOf": "2026-10-13",
       "stale": false,
       "teams": [
         {
@@ -1108,8 +1108,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-12",
-      "asOf": "2026-10-12",
+      "lastSeen": "2026-10-13",
+      "asOf": "2026-10-13",
       "stale": false,
       "teams": [
         {
@@ -1828,8 +1828,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-10-12",
-      "asOf": "2026-10-12",
+      "lastSeen": "2026-10-13",
+      "asOf": "2026-10-13",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -1883,8 +1883,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "completed",
-      "lastSeen": "2026-10-12",
-      "asOf": "2026-10-12",
+      "lastSeen": "2026-10-13",
+      "asOf": "2026-10-13",
       "stale": false,
       "teams": [
         {
@@ -4598,8 +4598,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "completed",
-      "lastSeen": "2026-10-12",
-      "asOf": "2026-10-12",
+      "lastSeen": "2026-10-13",
+      "asOf": "2026-10-13",
       "stale": false,
       "teams": [
         {
@@ -4656,6 +4656,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Vicars Moor 1",
+              "played": 7,
+              "won": 4,
+              "drawn": 1,
+              "lost": 2,
+              "rubbers": "90-69",
+              "points": 90,
+              "form": [
+                "W",
+                "W",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Chandos 1",
               "played": 7,
               "won": 3,
@@ -4671,35 +4687,18 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
-              "name": "Vicars Moor 1",
-              "played": 7,
-              "won": 4,
-              "drawn": 1,
-              "lost": 2,
-              "rubbers": "86-73",
-              "points": 86,
-              "form": [
-                "W",
-                "W",
-                "L",
-                "W"
-              ]
-            },
-            {
               "rank": 5,
-              "name": "Coles Green 1",
+              "name": "Coolhurst 1",
               "played": 7,
-              "won": 3,
-              "drawn": 1,
-              "lost": 3,
+              "won": 1,
+              "drawn": 2,
+              "lost": 4,
               "rubbers": "76-92",
               "points": 76,
               "form": [
                 "L",
                 "L",
-                "W",
-                "W"
+                "L"
               ]
             },
             {
@@ -4719,17 +4718,18 @@ window.__RESULTS__ = {
             },
             {
               "rank": 7,
-              "name": "Coolhurst 1",
+              "name": "Coles Green 1",
               "played": 7,
-              "won": 1,
-              "drawn": 2,
-              "lost": 4,
-              "rubbers": "74-94",
-              "points": 74,
+              "won": 3,
+              "drawn": 1,
+              "lost": 3,
+              "rubbers": "70-98",
+              "points": 70,
               "form": [
                 "L",
                 "L",
-                "L"
+                "W",
+                "W"
               ]
             },
             {
@@ -4803,8 +4803,8 @@ window.__RESULTS__ = {
             {
               "home": "Coolhurst 1",
               "away": "Coles Green 1",
-              "hs": 17,
-              "as": 7,
+              "hs": 19,
+              "as": 5,
               "date": "Thu 28/05/2026"
             },
             {
@@ -4852,8 +4852,8 @@ window.__RESULTS__ = {
             {
               "home": "Coles Green 1",
               "away": "Vicars Moor 1",
-              "hs": 10,
-              "as": 14,
+              "hs": 6,
+              "as": 18,
               "date": "Fri 26/06/2026"
             },
             {
@@ -5096,6 +5096,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Vicars Moor 1",
+              "played": 7,
+              "won": 4,
+              "drawn": 1,
+              "lost": 2,
+              "rubbers": "90-69",
+              "points": 90,
+              "form": [
+                "W",
+                "W",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Chandos 1",
               "played": 7,
               "won": 3,
@@ -5111,35 +5127,18 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
-              "name": "Vicars Moor 1",
-              "played": 7,
-              "won": 4,
-              "drawn": 1,
-              "lost": 2,
-              "rubbers": "86-73",
-              "points": 86,
-              "form": [
-                "W",
-                "W",
-                "L",
-                "W"
-              ]
-            },
-            {
               "rank": 5,
-              "name": "Coles Green 1",
+              "name": "Coolhurst 1",
               "played": 7,
-              "won": 3,
-              "drawn": 1,
-              "lost": 3,
+              "won": 1,
+              "drawn": 2,
+              "lost": 4,
               "rubbers": "76-92",
               "points": 76,
               "form": [
                 "L",
                 "L",
-                "W",
-                "W"
+                "L"
               ]
             },
             {
@@ -5159,17 +5158,18 @@ window.__RESULTS__ = {
             },
             {
               "rank": 7,
-              "name": "Coolhurst 1",
+              "name": "Coles Green 1",
               "played": 7,
-              "won": 1,
-              "drawn": 2,
-              "lost": 4,
-              "rubbers": "74-94",
-              "points": 74,
+              "won": 3,
+              "drawn": 1,
+              "lost": 3,
+              "rubbers": "70-98",
+              "points": 70,
               "form": [
                 "L",
                 "L",
-                "L"
+                "W",
+                "W"
               ]
             },
             {
@@ -5243,8 +5243,8 @@ window.__RESULTS__ = {
             {
               "home": "Coolhurst 1",
               "away": "Coles Green 1",
-              "hs": 17,
-              "as": 7,
+              "hs": 19,
+              "as": 5,
               "date": "Thu 28/05/2026"
             },
             {
@@ -5292,8 +5292,8 @@ window.__RESULTS__ = {
             {
               "home": "Coles Green 1",
               "away": "Vicars Moor 1",
-              "hs": 10,
-              "as": 14,
+              "hs": 6,
+              "as": 18,
               "date": "Fri 26/06/2026"
             },
             {
@@ -5411,8 +5411,8 @@ window.__RESULTS__ = {
             },
             {
               "name": "Neel Khimasia",
-              "won": 5,
-              "lost": 10,
+              "won": 6,
+              "lost": 9,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2089"
             },
             {
@@ -5428,6 +5428,12 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2092"
             },
             {
+              "name": "Adam Woodall",
+              "won": 3,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5667"
+            },
+            {
               "name": "Filip Peliwo",
               "won": 3,
               "lost": 0,
@@ -5438,12 +5444,6 @@ window.__RESULTS__ = {
               "won": 3,
               "lost": 5,
               "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2090"
-            },
-            {
-              "name": "Adam Woodall",
-              "won": 2,
-              "lost": 1,
-              "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5667"
             },
             {
               "name": "Jack Long-Martinez",
@@ -8681,8 +8681,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "completed",
-      "lastSeen": "2026-10-12",
-      "asOf": "2026-10-12",
+      "lastSeen": "2026-10-13",
+      "asOf": "2026-10-13",
       "stale": false,
       "teams": [
         {
@@ -9304,6 +9304,13 @@ window.__RESULTS__ = {
           "played": 26
         },
         {
+          "name": "Neel Khimasia",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2089",
+          "won": 13,
+          "lost": 14,
+          "played": 27
+        },
+        {
           "name": "Matilda Parslow",
           "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2442",
           "won": 12,
@@ -9323,13 +9330,6 @@ window.__RESULTS__ = {
           "won": 12,
           "lost": 13,
           "played": 25
-        },
-        {
-          "name": "Neel Khimasia",
-          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2089",
-          "won": 12,
-          "lost": 15,
-          "played": 27
         },
         {
           "name": "Eva Klute",
@@ -9682,6 +9682,13 @@ window.__RESULTS__ = {
           "played": 6
         },
         {
+          "name": "Adam Woodall",
+          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5667",
+          "won": 5,
+          "lost": 2,
+          "played": 7
+        },
+        {
           "name": "Olivia Parson",
           "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1898",
           "won": 5,
@@ -9764,13 +9771,6 @@ window.__RESULTS__ = {
           "won": 4,
           "lost": 2,
           "played": 6
-        },
-        {
-          "name": "Adam Woodall",
-          "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5667",
-          "won": 4,
-          "lost": 3,
-          "played": 7
         },
         {
           "name": "Javier Gonzalez Lastra",
@@ -10471,6 +10471,13 @@ window.__RESULTS__ = {
       "played": 26
     },
     {
+      "name": "Neel Khimasia",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2089",
+      "won": 13,
+      "lost": 14,
+      "played": 27
+    },
+    {
       "name": "Matilda Parslow",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2442",
       "won": 12,
@@ -10490,13 +10497,6 @@ window.__RESULTS__ = {
       "won": 12,
       "lost": 13,
       "played": 25
-    },
-    {
-      "name": "Neel Khimasia",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/2089",
-      "won": 12,
-      "lost": 15,
-      "played": 27
     },
     {
       "name": "Eva Klute",
@@ -10849,6 +10849,13 @@ window.__RESULTS__ = {
       "played": 6
     },
     {
+      "name": "Adam Woodall",
+      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5667",
+      "won": 5,
+      "lost": 2,
+      "played": 7
+    },
+    {
       "name": "Olivia Parson",
       "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/1898",
       "won": 5,
@@ -10931,13 +10938,6 @@ window.__RESULTS__ = {
       "won": 4,
       "lost": 2,
       "played": 6
-    },
-    {
-      "name": "Adam Woodall",
-      "url": "https://competitions.lta.org.uk/league/90416c0a-a17c-4e71-93c5-7c8a860df1cf/player/5667",
-      "won": 4,
-      "lost": 3,
-      "played": 7
     },
     {
       "name": "Javier Gonzalez Lastra",
