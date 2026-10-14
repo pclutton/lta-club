@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-13T19:03:48.591Z",
+  "generatedAt": "2026-10-14T00:12:38.646Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -20,19 +20,19 @@ window.__RESULTS__ = {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-10-13"
+        "asOf": "2026-10-14"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-10-13"
+        "asOf": "2026-10-14"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-10-13"
+        "asOf": "2026-10-14"
       },
       {
         "id": "knockouts",
@@ -59,8 +59,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-13",
-      "asOf": "2026-10-13",
+      "lastSeen": "2026-10-14",
+      "asOf": "2026-10-14",
       "stale": false,
       "teams": [
         {
@@ -373,8 +373,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-10-13",
-      "asOf": "2026-10-13",
+      "lastSeen": "2026-10-14",
+      "asOf": "2026-10-14",
       "stale": false,
       "teams": [
         {
@@ -1123,8 +1123,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-13",
-      "asOf": "2026-10-13",
+      "lastSeen": "2026-10-14",
+      "asOf": "2026-10-14",
       "stale": false,
       "teams": [
         {
@@ -1295,7 +1295,7 @@ window.__RESULTS__ = {
               "away": "Finchley Lawn Tennis Club 1",
               "hs": null,
               "as": null,
-              "date": "Thu 15/10/2026"
+              "date": "Fri 16/10/2026"
             },
             {
               "home": "Paddington Sports Club 1",
@@ -1531,6 +1531,20 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
+              "name": "Temple Fortune Club 1",
+              "played": 2,
+              "won": 1,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "18-14",
+              "points": 18,
+              "form": [
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Mercury LTC 1",
               "played": 1,
               "won": 1,
@@ -1543,7 +1557,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Paddington Sports Club 3",
               "played": 2,
               "won": 0,
@@ -1557,20 +1571,21 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 6,
+              "rank": 7,
               "name": "Finchley Lawn Tennis Club 2",
-              "played": 1,
+              "played": 2,
               "won": 0,
               "drawn": 0,
-              "lost": 1,
-              "rubbers": "4-12",
+              "lost": 2,
+              "rubbers": "4-28",
               "points": 4,
               "form": [
+                "L",
                 "L"
               ]
             },
             {
-              "rank": 7,
+              "rank": 8,
               "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "played": 1,
               "won": 0,
@@ -1578,19 +1593,6 @@ window.__RESULTS__ = {
               "lost": 1,
               "rubbers": "3-13",
               "points": 3,
-              "form": [
-                "L"
-              ]
-            },
-            {
-              "rank": 8,
-              "name": "Temple Fortune Club 1",
-              "played": 1,
-              "won": 0,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "2-14",
-              "points": 2,
               "form": [
                 "L"
               ]
@@ -1642,8 +1644,8 @@ window.__RESULTS__ = {
             {
               "home": "Temple Fortune Club 1",
               "away": "Finchley Lawn Tennis Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 0,
               "date": "Tue 13/10/2026"
             },
             {
@@ -1840,7 +1842,7 @@ window.__RESULTS__ = {
           "division": "Division 2 North East",
           "pscName": "Paddington Sports Club 3",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/14",
-          "position": 5,
+          "position": 6,
           "of": 8,
           "played": 2,
           "won": 0,
@@ -1893,6 +1895,20 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
+              "name": "Temple Fortune Club 1",
+              "played": 2,
+              "won": 1,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "18-14",
+              "points": 18,
+              "form": [
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Mercury LTC 1",
               "played": 1,
               "won": 1,
@@ -1905,7 +1921,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Paddington Sports Club 3",
               "played": 2,
               "won": 0,
@@ -1919,20 +1935,21 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 6,
+              "rank": 7,
               "name": "Finchley Lawn Tennis Club 2",
-              "played": 1,
+              "played": 2,
               "won": 0,
               "drawn": 0,
-              "lost": 1,
-              "rubbers": "4-12",
+              "lost": 2,
+              "rubbers": "4-28",
               "points": 4,
               "form": [
+                "L",
                 "L"
               ]
             },
             {
-              "rank": 7,
+              "rank": 8,
               "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "played": 1,
               "won": 0,
@@ -1940,19 +1957,6 @@ window.__RESULTS__ = {
               "lost": 1,
               "rubbers": "3-13",
               "points": 3,
-              "form": [
-                "L"
-              ]
-            },
-            {
-              "rank": 8,
-              "name": "Temple Fortune Club 1",
-              "played": 1,
-              "won": 0,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "2-14",
-              "points": 2,
               "form": [
                 "L"
               ]
@@ -2004,8 +2008,8 @@ window.__RESULTS__ = {
             {
               "home": "Temple Fortune Club 1",
               "away": "Finchley Lawn Tennis Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 0,
               "date": "Tue 13/10/2026"
             },
             {
@@ -3269,7 +3273,7 @@ window.__RESULTS__ = {
           "division": "Division 1 North East",
           "pscName": "Paddington Sports Club 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/10",
-          "position": 3,
+          "position": 4,
           "of": 8,
           "played": 1,
           "won": 1,
@@ -3307,6 +3311,19 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "David Lloyd Club Finchley 1",
+              "played": 2,
+              "won": 1,
+              "drawn": 1,
+              "lost": 0,
+              "rubbers": "18-14",
+              "points": 18,
+              "form": [
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Paddington Sports Club 1",
               "played": 1,
               "won": 1,
@@ -3319,7 +3336,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
               "name": "West Heath Lawn Tennis Club Limited 1",
               "played": 1,
               "won": 1,
@@ -3332,27 +3349,14 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
-              "name": "David Lloyd Club Finchley 1",
-              "played": 1,
-              "won": 1,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "10-6",
-              "points": 10,
-              "form": [
-                "W"
-              ]
-            },
-            {
               "rank": 6,
-              "name": "Totteridge Tennis Club 2",
-              "played": 2,
+              "name": "Oakleigh Park Lawn Tennis & Squash Club 2",
+              "played": 3,
               "won": 0,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 2,
-              "rubbers": "8-24",
-              "points": 8,
+              "rubbers": "12-36",
+              "points": 12,
               "form": [
                 "L",
                 "L"
@@ -3360,13 +3364,13 @@ window.__RESULTS__ = {
             },
             {
               "rank": 7,
-              "name": "Oakleigh Park Lawn Tennis & Squash Club 2",
+              "name": "Totteridge Tennis Club 2",
               "played": 2,
               "won": 0,
               "drawn": 0,
               "lost": 2,
-              "rubbers": "4-28",
-              "points": 4,
+              "rubbers": "8-24",
+              "points": 8,
               "form": [
                 "L",
                 "L"
@@ -3432,8 +3436,8 @@ window.__RESULTS__ = {
             {
               "home": "Oakleigh Park Lawn Tennis & Squash Club 2",
               "away": "David Lloyd Club Finchley 1",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 8,
               "date": "Tue 13/10/2026"
             },
             {

@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-13T19:03:23.444Z",
+  "generatedAt": "2026-10-14T00:12:15.342Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -20,19 +20,19 @@ window.__RESULTS__ = {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-10-13"
+        "asOf": "2026-10-14"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-10-13"
+        "asOf": "2026-10-14"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-10-13"
+        "asOf": "2026-10-14"
       },
       {
         "id": "knockouts",
@@ -65,8 +65,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-13",
-      "asOf": "2026-10-13",
+      "lastSeen": "2026-10-14",
+      "asOf": "2026-10-14",
       "stale": false,
       "teams": [
         {
@@ -774,8 +774,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-10-13",
-      "asOf": "2026-10-13",
+      "lastSeen": "2026-10-14",
+      "asOf": "2026-10-14",
       "stale": false,
       "teams": [
         {
@@ -1108,8 +1108,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-13",
-      "asOf": "2026-10-13",
+      "lastSeen": "2026-10-14",
+      "asOf": "2026-10-14",
       "stale": false,
       "teams": [
         {
@@ -1117,7 +1117,7 @@ window.__RESULTS__ = {
           "division": "Division 2 North East",
           "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/14",
-          "position": 7,
+          "position": 8,
           "of": 8,
           "played": 1,
           "won": 0,
@@ -1169,6 +1169,20 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
+              "name": "Temple Fortune Club 1",
+              "played": 2,
+              "won": 1,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "18-14",
+              "points": 18,
+              "form": [
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Mercury LTC 1",
               "played": 1,
               "won": 1,
@@ -1181,7 +1195,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Paddington Sports Club 3",
               "played": 2,
               "won": 0,
@@ -1195,20 +1209,21 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 6,
+              "rank": 7,
               "name": "Finchley Lawn Tennis Club 2",
-              "played": 1,
+              "played": 2,
               "won": 0,
               "drawn": 0,
-              "lost": 1,
-              "rubbers": "4-12",
+              "lost": 2,
+              "rubbers": "4-28",
               "points": 4,
               "form": [
+                "L",
                 "L"
               ]
             },
             {
-              "rank": 7,
+              "rank": 8,
               "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "played": 1,
               "won": 0,
@@ -1216,19 +1231,6 @@ window.__RESULTS__ = {
               "lost": 1,
               "rubbers": "3-13",
               "points": 3,
-              "form": [
-                "L"
-              ]
-            },
-            {
-              "rank": 8,
-              "name": "Temple Fortune Club 1",
-              "played": 1,
-              "won": 0,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "2-14",
-              "points": 2,
               "form": [
                 "L"
               ]
@@ -1280,8 +1282,8 @@ window.__RESULTS__ = {
             {
               "home": "Temple Fortune Club 1",
               "away": "Finchley Lawn Tennis Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 0,
               "date": "Tue 13/10/2026"
             },
             {
