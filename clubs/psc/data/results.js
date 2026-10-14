@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-14T11:36:27.359Z",
+  "generatedAt": "2026-10-14T16:49:28.923Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "matches": 554,
-      "players": 129,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
@@ -828,15 +828,15 @@ window.__RESULTS__ = {
               "date": "Sun 18/10/2026"
             },
             {
-              "home": "David Lloyd Club Finchley 1",
-              "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 15/11/2026"
-            },
-            {
               "home": "Barnet Lawn Tennis Club 1",
               "away": "The Parsons Green Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Sat 14/11/2026"
+            },
+            {
+              "home": "David Lloyd Club Finchley 1",
+              "away": "Paddington Sports Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 15/11/2026"
@@ -849,15 +849,15 @@ window.__RESULTS__ = {
               "date": "Sun 15/11/2026"
             },
             {
-              "home": "Paddington Sports Club 1",
-              "away": "Barnet Lawn Tennis Club 1",
+              "home": "West Middlesex Lawn Tennis Club Ltd 1",
+              "away": "David Lloyd Club Finchley 1",
               "hs": null,
               "as": null,
               "date": "Sun 06/12/2026"
             },
             {
-              "home": "West Middlesex Lawn Tennis Club Ltd 1",
-              "away": "David Lloyd Club Finchley 1",
+              "home": "Paddington Sports Club 1",
+              "away": "Barnet Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 06/12/2026"
