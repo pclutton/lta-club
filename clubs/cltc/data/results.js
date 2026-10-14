@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-14T00:12:15.342Z",
+  "generatedAt": "2026-10-14T11:33:31.216Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 7,
       "teams": 26,
-      "refreshed": 6,
-      "failed": 0
+      "matches": 552,
+      "players": 166,
+      "stale": 0
     },
     "competitions": [
       {
@@ -38,25 +38,25 @@ window.__RESULTS__ = {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-10-13"
+        "asOf": "2026-10-14"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-10-13"
+        "asOf": "2026-10-14"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-10-13"
+        "asOf": "2026-10-14"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-10-13"
+        "asOf": "2026-10-14"
       }
     ]
   },
@@ -1830,8 +1830,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-10-13",
-      "asOf": "2026-10-13",
+      "lastSeen": "2026-10-14",
+      "asOf": "2026-10-14",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -1885,8 +1885,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "completed",
-      "lastSeen": "2026-10-13",
-      "asOf": "2026-10-13",
+      "lastSeen": "2026-10-14",
+      "asOf": "2026-10-14",
       "stale": false,
       "teams": [
         {
@@ -4600,8 +4600,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "completed",
-      "lastSeen": "2026-10-13",
-      "asOf": "2026-10-13",
+      "lastSeen": "2026-10-14",
+      "asOf": "2026-10-14",
       "stale": false,
       "teams": [
         {
@@ -8683,8 +8683,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "completed",
-      "lastSeen": "2026-10-13",
-      "asOf": "2026-10-13",
+      "lastSeen": "2026-10-14",
+      "asOf": "2026-10-14",
       "stale": false,
       "teams": [
         {

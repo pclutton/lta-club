@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-14T00:12:38.646Z",
+  "generatedAt": "2026-10-14T11:36:27.359Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 554,
+      "players": 129,
+      "stale": 0
     },
     "competitions": [
       {
@@ -38,19 +38,19 @@ window.__RESULTS__ = {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-10-13"
+        "asOf": "2026-10-14"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-10-13"
+        "asOf": "2026-10-14"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-10-13"
+        "asOf": "2026-10-14"
       }
     ]
   },
@@ -2956,6 +2956,20 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Holland Park Lawn Tennis Club 2",
+              "played": 2,
+              "won": 1,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "18-14",
+              "points": 18,
+              "form": [
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Twickenham Lawn Tennis Club 1",
               "played": 1,
               "won": 1,
@@ -2966,17 +2980,6 @@ window.__RESULTS__ = {
               "form": [
                 "W"
               ]
-            },
-            {
-              "rank": 4,
-              "name": "Brentham Lawn Tennis Club 1",
-              "played": 1,
-              "won": 0,
-              "drawn": 1,
-              "lost": 0,
-              "rubbers": "8-8",
-              "points": 8,
-              "form": []
             },
             {
               "rank": 5,
@@ -2991,6 +2994,19 @@ window.__RESULTS__ = {
             },
             {
               "rank": 6,
+              "name": "Brentham Lawn Tennis Club 1",
+              "played": 2,
+              "won": 0,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "8-24",
+              "points": 8,
+              "form": [
+                "L"
+              ]
+            },
+            {
+              "rank": 7,
               "name": "Thistleworth LTC 1",
               "played": 1,
               "won": 0,
@@ -2998,19 +3014,6 @@ window.__RESULTS__ = {
               "lost": 1,
               "rubbers": "4-12",
               "points": 4,
-              "form": [
-                "L"
-              ]
-            },
-            {
-              "rank": 7,
-              "name": "Holland Park Lawn Tennis Club 2",
-              "played": 1,
-              "won": 0,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "2-14",
-              "points": 2,
               "form": [
                 "L"
               ]
@@ -3068,8 +3071,8 @@ window.__RESULTS__ = {
             {
               "home": "Holland Park Lawn Tennis Club 2",
               "away": "Brentham Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 0,
               "date": "Tue 13/10/2026"
             },
             {
@@ -3623,8 +3626,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-10-13",
-      "asOf": "2026-10-13",
+      "lastSeen": "2026-10-14",
+      "asOf": "2026-10-14",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -3673,8 +3676,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "completed",
-      "lastSeen": "2026-10-13",
-      "asOf": "2026-10-13",
+      "lastSeen": "2026-10-14",
+      "asOf": "2026-10-14",
       "stale": false,
       "teams": [
         {
@@ -4710,8 +4713,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "completed",
-      "lastSeen": "2026-10-13",
-      "asOf": "2026-10-13",
+      "lastSeen": "2026-10-14",
+      "asOf": "2026-10-14",
       "stale": false,
       "teams": [
         {
