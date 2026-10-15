@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-15T11:14:00.730Z",
+  "generatedAt": "2026-10-15T16:34:58.867Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "matches": 554,
-      "players": 129,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
@@ -596,7 +596,7 @@ window.__RESULTS__ = {
               "won": 1,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "10-2",
+              "rubbers": "8-4",
               "points": 2,
               "form": [
                 "W"
@@ -642,7 +642,7 @@ window.__RESULTS__ = {
               "won": 0,
               "drawn": 0,
               "lost": 1,
-              "rubbers": "2-10",
+              "rubbers": "4-8",
               "points": 0,
               "form": [
                 "L"
@@ -660,8 +660,8 @@ window.__RESULTS__ = {
             {
               "home": "GALLAN TENNIS ACADEMY 1",
               "away": "Finchley Manor Tennis Squash and Health Club 1",
-              "hs": 2,
-              "as": 10,
+              "hs": 4,
+              "as": 8,
               "date": "Sun 11/10/2026"
             },
             {
