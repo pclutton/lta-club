@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-15T16:34:58.867Z",
+  "generatedAt": "2026-10-15T22:00:49.437Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -1144,6 +1144,20 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "West Heath Lawn Tennis Club Limited 1",
+              "played": 2,
+              "won": 2,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "19-13",
+              "points": 19,
+              "form": [
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "David Lloyd Club Finchley 1",
               "played": 1,
               "won": 1,
@@ -1156,7 +1170,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
+              "rank": 3,
               "name": "Elmwood Lawn Tennis Club 1",
               "played": 1,
               "won": 1,
@@ -1169,7 +1183,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "Finchley Manor Tennis Squash and Health Club 1",
               "played": 1,
               "won": 1,
@@ -1177,19 +1191,6 @@ window.__RESULTS__ = {
               "lost": 0,
               "rubbers": "10-6",
               "points": 10,
-              "form": [
-                "W"
-              ]
-            },
-            {
-              "rank": 4,
-              "name": "West Heath Lawn Tennis Club Limited 1",
-              "played": 1,
-              "won": 1,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "9-7",
-              "points": 9,
               "form": [
                 "W"
               ]
@@ -1222,6 +1223,20 @@ window.__RESULTS__ = {
             },
             {
               "rank": 7,
+              "name": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "played": 2,
+              "won": 0,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "6-26",
+              "points": 6,
+              "form": [
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 8,
               "name": "Finchley Lawn Tennis Club 1",
               "played": 1,
               "won": 0,
@@ -1229,19 +1244,6 @@ window.__RESULTS__ = {
               "lost": 1,
               "rubbers": "4-12",
               "points": 4,
-              "form": [
-                "L"
-              ]
-            },
-            {
-              "rank": 8,
-              "name": "Oakleigh Park Lawn Tennis & Squash Club 1",
-              "played": 1,
-              "won": 0,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "0-16",
-              "points": 0,
               "form": [
                 "L"
               ]
@@ -1279,8 +1281,8 @@ window.__RESULTS__ = {
             {
               "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
               "away": "West Heath Lawn Tennis Club Limited 1",
-              "hs": null,
-              "as": null,
+              "hs": 6,
+              "as": 10,
               "date": "Thu 15/10/2026"
             },
             {
@@ -2212,7 +2214,7 @@ window.__RESULTS__ = {
           "division": "Division 1 North West",
           "pscName": "Paddington Sports Club 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/8",
-          "position": 2,
+          "position": 3,
           "of": 8,
           "played": 1,
           "won": 1,
@@ -2224,6 +2226,19 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Pinner Lawn Tennis Club 1",
+              "played": 2,
+              "won": 1,
+              "drawn": 1,
+              "lost": 0,
+              "rubbers": "20-12",
+              "points": 20,
+              "form": [
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Wayfarers LTC 1",
               "played": 2,
               "won": 1,
@@ -2237,7 +2252,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
+              "rank": 3,
               "name": "Paddington Sports Club 1",
               "played": 1,
               "won": 1,
@@ -2250,7 +2265,21 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
+              "rank": 4,
+              "name": "Harrow Lawn Tennis Club 2",
+              "played": 2,
+              "won": 1,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "14-18",
+              "points": 14,
+              "form": [
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Lowlands Club 1",
               "played": 1,
               "won": 1,
@@ -2261,30 +2290,6 @@ window.__RESULTS__ = {
               "form": [
                 "W"
               ]
-            },
-            {
-              "rank": 4,
-              "name": "Harrow Lawn Tennis Club 2",
-              "played": 1,
-              "won": 1,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "10-6",
-              "points": 10,
-              "form": [
-                "W"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "Pinner Lawn Tennis Club 1",
-              "played": 1,
-              "won": 0,
-              "drawn": 1,
-              "lost": 0,
-              "rubbers": "8-8",
-              "points": 8,
-              "form": []
             },
             {
               "rank": 6,
@@ -2364,8 +2369,8 @@ window.__RESULTS__ = {
             {
               "home": "Harrow Lawn Tennis Club 2",
               "away": "Pinner Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 4,
+              "as": 12,
               "date": "Wed 14/10/2026"
             },
             {
@@ -2570,6 +2575,19 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Pinner Lawn Tennis Club 1",
+              "played": 2,
+              "won": 1,
+              "drawn": 1,
+              "lost": 0,
+              "rubbers": "20-12",
+              "points": 20,
+              "form": [
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Wayfarers LTC 1",
               "played": 2,
               "won": 1,
@@ -2583,7 +2601,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
+              "rank": 3,
               "name": "Paddington Sports Club 1",
               "played": 1,
               "won": 1,
@@ -2596,7 +2614,21 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
+              "rank": 4,
+              "name": "Harrow Lawn Tennis Club 2",
+              "played": 2,
+              "won": 1,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "14-18",
+              "points": 14,
+              "form": [
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Lowlands Club 1",
               "played": 1,
               "won": 1,
@@ -2607,30 +2639,6 @@ window.__RESULTS__ = {
               "form": [
                 "W"
               ]
-            },
-            {
-              "rank": 4,
-              "name": "Harrow Lawn Tennis Club 2",
-              "played": 1,
-              "won": 1,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "10-6",
-              "points": 10,
-              "form": [
-                "W"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "Pinner Lawn Tennis Club 1",
-              "played": 1,
-              "won": 0,
-              "drawn": 1,
-              "lost": 0,
-              "rubbers": "8-8",
-              "points": 8,
-              "form": []
             },
             {
               "rank": 6,
@@ -2710,8 +2718,8 @@ window.__RESULTS__ = {
             {
               "home": "Harrow Lawn Tennis Club 2",
               "away": "Pinner Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 4,
+              "as": 12,
               "date": "Wed 14/10/2026"
             },
             {

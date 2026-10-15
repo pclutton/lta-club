@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-15T16:34:32.907Z",
+  "generatedAt": "2026-10-15T22:00:24.756Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -1468,7 +1468,7 @@ window.__RESULTS__ = {
           "division": "Division 1 North East",
           "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/7",
-          "position": 4,
+          "position": 5,
           "of": 8,
           "played": 2,
           "won": 1,
@@ -1481,6 +1481,20 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Totteridge Tennis Club 1",
+              "played": 2,
+              "won": 2,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "22-10",
+              "points": 22,
+              "form": [
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Brondesbury Sports Club 1",
               "played": 2,
               "won": 1,
@@ -1494,7 +1508,21 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
+              "rank": 3,
+              "name": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "played": 2,
+              "won": 1,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "20-12",
+              "points": 20,
+              "form": [
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Finchley Manor Tennis Squash and Health Club 1",
               "played": 1,
               "won": 1,
@@ -1507,20 +1535,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
-              "name": "Oakleigh Park Lawn Tennis & Squash Club 1",
-              "played": 1,
-              "won": 1,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "16-0",
-              "points": 16,
-              "form": [
-                "W"
-              ]
-            },
-            {
-              "rank": 4,
+              "rank": 5,
               "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "played": 2,
               "won": 1,
@@ -1530,19 +1545,6 @@ window.__RESULTS__ = {
               "points": 14,
               "form": [
                 "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "Totteridge Tennis Club 1",
-              "played": 1,
-              "won": 1,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "10-6",
-              "points": 10,
-              "form": [
                 "W"
               ]
             },
@@ -1631,8 +1633,8 @@ window.__RESULTS__ = {
             {
               "home": "Totteridge Tennis Club 1",
               "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 4,
               "date": "Thu 15/10/2026"
             },
             {
