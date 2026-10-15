@@ -2,55 +2,55 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-14T22:08:40.591Z",
+  "generatedAt": "2026-10-15T11:14:00.730Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 554,
+      "players": 129,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-10-14"
+        "asOf": "2026-10-15"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-10-14"
+        "asOf": "2026-10-15"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-10-14"
+        "asOf": "2026-10-15"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-10-14"
+        "asOf": "2026-10-15"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-10-14"
+        "asOf": "2026-10-15"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-10-14"
+        "asOf": "2026-10-15"
       }
     ]
   },
@@ -59,8 +59,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-14",
-      "asOf": "2026-10-14",
+      "lastSeen": "2026-10-15",
+      "asOf": "2026-10-15",
       "stale": false,
       "teams": [
         {
@@ -373,8 +373,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-10-14",
-      "asOf": "2026-10-14",
+      "lastSeen": "2026-10-15",
+      "asOf": "2026-10-15",
       "stale": false,
       "teams": [
         {
@@ -1123,8 +1123,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-14",
-      "asOf": "2026-10-14",
+      "lastSeen": "2026-10-15",
+      "asOf": "2026-10-15",
       "stale": false,
       "teams": [
         {
@@ -2956,6 +2956,20 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Twickenham Lawn Tennis Club 1",
+              "played": 2,
+              "won": 2,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "22-10",
+              "points": 22,
+              "form": [
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Holland Park Lawn Tennis Club 2",
               "played": 2,
               "won": 1,
@@ -2969,28 +2983,17 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
-              "name": "Twickenham Lawn Tennis Club 1",
-              "played": 1,
-              "won": 1,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "12-4",
-              "points": 12,
-              "form": [
-                "W"
-              ]
-            },
-            {
               "rank": 5,
               "name": "Virgin Active Chiswick Riverside 2",
-              "played": 1,
+              "played": 2,
               "won": 0,
               "drawn": 1,
-              "lost": 0,
-              "rubbers": "8-8",
-              "points": 8,
-              "form": []
+              "lost": 1,
+              "rubbers": "14-18",
+              "points": 14,
+              "form": [
+                "L"
+              ]
             },
             {
               "rank": 6,
@@ -3078,8 +3081,8 @@ window.__RESULTS__ = {
             {
               "home": "Virgin Active Chiswick Riverside 2",
               "away": "Twickenham Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 6,
+              "as": 10,
               "date": "Tue 13/10/2026"
             },
             {
@@ -3626,8 +3629,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-10-14",
-      "asOf": "2026-10-14",
+      "lastSeen": "2026-10-15",
+      "asOf": "2026-10-15",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -3676,8 +3679,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "completed",
-      "lastSeen": "2026-10-14",
-      "asOf": "2026-10-14",
+      "lastSeen": "2026-10-15",
+      "asOf": "2026-10-15",
       "stale": false,
       "teams": [
         {
@@ -4713,8 +4716,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "completed",
-      "lastSeen": "2026-10-14",
-      "asOf": "2026-10-14",
+      "lastSeen": "2026-10-15",
+      "asOf": "2026-10-15",
       "stale": false,
       "teams": [
         {
