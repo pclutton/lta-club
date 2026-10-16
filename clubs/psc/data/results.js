@@ -2,55 +2,55 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-15T22:00:49.437Z",
+  "generatedAt": "2026-10-16T11:08:38.841Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 554,
+      "players": 129,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-10-15"
+        "asOf": "2026-10-16"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-10-15"
+        "asOf": "2026-10-16"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-10-15"
+        "asOf": "2026-10-16"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-10-15"
+        "asOf": "2026-10-16"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-10-15"
+        "asOf": "2026-10-16"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-10-15"
+        "asOf": "2026-10-16"
       }
     ]
   },
@@ -59,8 +59,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-15",
-      "asOf": "2026-10-15",
+      "lastSeen": "2026-10-16",
+      "asOf": "2026-10-16",
       "stale": false,
       "teams": [
         {
@@ -167,20 +167,6 @@ window.__RESULTS__ = {
           ],
           "matches": [
             {
-              "home": "Halton Tennis Centre 1",
-              "away": "Coolhurst LTC 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 18/10/2026"
-            },
-            {
-              "home": "Hazelwood Lawn Tennis & Squash Club 1",
-              "away": "St Albans Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 18/10/2026"
-            },
-            {
               "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "away": "Paddington Sports Club 1",
               "hs": null,
@@ -189,7 +175,14 @@ window.__RESULTS__ = {
             },
             {
               "home": "Halton Tennis Centre 1",
-              "away": "Paddington Sports Club 1",
+              "away": "Coolhurst LTC 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 18/10/2026"
+            },
+            {
+              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "away": "Windsor Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 08/11/2026"
@@ -202,8 +195,8 @@ window.__RESULTS__ = {
               "date": "Sun 08/11/2026"
             },
             {
-              "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "away": "Windsor Lawn Tennis Club 1",
+              "home": "Halton Tennis Centre 1",
+              "away": "Paddington Sports Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 08/11/2026"
@@ -223,8 +216,8 @@ window.__RESULTS__ = {
               "date": "Sun 29/11/2026"
             },
             {
-              "home": "Halton Tennis Centre 1",
-              "away": "St Albans Lawn Tennis Club 1",
+              "home": "Windsor Lawn Tennis Club 1",
+              "away": "Paddington Sports Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 29/11/2026"
@@ -237,8 +230,8 @@ window.__RESULTS__ = {
               "date": "Sun 29/11/2026"
             },
             {
-              "home": "Windsor Lawn Tennis Club 1",
-              "away": "Paddington Sports Club 1",
+              "home": "Halton Tennis Centre 1",
+              "away": "St Albans Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 29/11/2026"
@@ -273,10 +266,10 @@ window.__RESULTS__ = {
             },
             {
               "home": "Hazelwood Lawn Tennis & Squash Club 1",
-              "away": "Paddington Sports Club 1",
+              "away": "St Albans Lawn Tennis Club 1",
               "hs": null,
               "as": null,
-              "date": "Sun 24/01/2027"
+              "date": "Sun 17/01/2027"
             },
             {
               "home": "Windsor Lawn Tennis Club 1",
@@ -288,6 +281,13 @@ window.__RESULTS__ = {
             {
               "home": "Halton Tennis Centre 1",
               "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 24/01/2027"
+            },
+            {
+              "home": "Hazelwood Lawn Tennis & Squash Club 1",
+              "away": "Paddington Sports Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 24/01/2027"
@@ -335,13 +335,6 @@ window.__RESULTS__ = {
               "date": "Sun 21/02/2027"
             },
             {
-              "home": "Halton Tennis Centre 1",
-              "away": "Hazelwood Lawn Tennis & Squash Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 21/02/2027"
-            },
-            {
               "home": "Windsor Lawn Tennis Club 1",
               "away": "St Albans Lawn Tennis Club 1",
               "hs": null,
@@ -351,6 +344,13 @@ window.__RESULTS__ = {
             {
               "home": "Harpenden LTC 1",
               "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 21/02/2027"
+            },
+            {
+              "home": "Halton Tennis Centre 1",
+              "away": "Hazelwood Lawn Tennis & Squash Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 21/02/2027"
@@ -373,8 +373,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-10-15",
-      "asOf": "2026-10-15",
+      "lastSeen": "2026-10-16",
+      "asOf": "2026-10-16",
       "stale": false,
       "teams": [
         {
@@ -1123,8 +1123,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-15",
-      "asOf": "2026-10-15",
+      "lastSeen": "2026-10-16",
+      "asOf": "2026-10-16",
       "stale": false,
       "teams": [
         {
@@ -2214,18 +2214,33 @@ window.__RESULTS__ = {
           "division": "Division 1 North West",
           "pscName": "Paddington Sports Club 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/8",
-          "position": 3,
+          "position": 1,
           "of": 8,
-          "played": 1,
-          "won": 1,
+          "played": 2,
+          "won": 2,
           "lost": 0,
-          "points": 14,
+          "points": 26,
           "form": [
+            "W",
             "W"
           ],
           "standings": [
             {
               "rank": 1,
+              "name": "Paddington Sports Club 1",
+              "played": 2,
+              "won": 2,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "26-2",
+              "points": 26,
+              "form": [
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Pinner Lawn Tennis Club 1",
               "played": 2,
               "won": 1,
@@ -2238,7 +2253,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
+              "rank": 3,
               "name": "Wayfarers LTC 1",
               "played": 2,
               "won": 1,
@@ -2248,19 +2263,6 @@ window.__RESULTS__ = {
               "points": 18,
               "form": [
                 "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 3,
-              "name": "Paddington Sports Club 1",
-              "played": 1,
-              "won": 1,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "14-2",
-              "points": 14,
-              "form": [
                 "W"
               ]
             },
@@ -2281,14 +2283,15 @@ window.__RESULTS__ = {
             {
               "rank": 5,
               "name": "Lowlands Club 1",
-              "played": 1,
+              "played": 2,
               "won": 1,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "12-4",
+              "lost": 1,
+              "rubbers": "12-16",
               "points": 12,
               "form": [
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -2376,8 +2379,8 @@ window.__RESULTS__ = {
             {
               "home": "Lowlands Club 1",
               "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 0,
+              "as": 12,
               "date": "Thu 15/10/2026"
             },
             {
@@ -2532,6 +2535,12 @@ window.__RESULTS__ = {
           "fixtures": [],
           "players": [
             {
+              "name": "Anna Vershebeniuk",
+              "won": 2,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2433"
+            },
+            {
               "name": "Annabelle Giles",
               "won": 2,
               "lost": 0,
@@ -2542,6 +2551,24 @@ window.__RESULTS__ = {
               "won": 2,
               "lost": 0,
               "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/717"
+            },
+            {
+              "name": "Irene Ouyang",
+              "won": 2,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1952"
+            },
+            {
+              "name": "Constance Pelet",
+              "won": 1,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2434"
+            },
+            {
+              "name": "Marta Chojnowska",
+              "won": 1,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2435"
             },
             {
               "name": "Annika Chai",
@@ -2575,6 +2602,20 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Paddington Sports Club 1",
+              "played": 2,
+              "won": 2,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "26-2",
+              "points": 26,
+              "form": [
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Pinner Lawn Tennis Club 1",
               "played": 2,
               "won": 1,
@@ -2587,7 +2628,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
+              "rank": 3,
               "name": "Wayfarers LTC 1",
               "played": 2,
               "won": 1,
@@ -2597,19 +2638,6 @@ window.__RESULTS__ = {
               "points": 18,
               "form": [
                 "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 3,
-              "name": "Paddington Sports Club 1",
-              "played": 1,
-              "won": 1,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "14-2",
-              "points": 14,
-              "form": [
                 "W"
               ]
             },
@@ -2630,14 +2658,15 @@ window.__RESULTS__ = {
             {
               "rank": 5,
               "name": "Lowlands Club 1",
-              "played": 1,
+              "played": 2,
               "won": 1,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "12-4",
+              "lost": 1,
+              "rubbers": "12-16",
               "points": 12,
               "form": [
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -2725,8 +2754,8 @@ window.__RESULTS__ = {
             {
               "home": "Lowlands Club 1",
               "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 0,
+              "as": 12,
               "date": "Thu 15/10/2026"
             },
             {
@@ -3637,8 +3666,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-10-15",
-      "asOf": "2026-10-15",
+      "lastSeen": "2026-10-16",
+      "asOf": "2026-10-16",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -3687,8 +3716,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "completed",
-      "lastSeen": "2026-10-15",
-      "asOf": "2026-10-15",
+      "lastSeen": "2026-10-16",
+      "asOf": "2026-10-16",
       "stale": false,
       "teams": [
         {
@@ -4724,8 +4753,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "completed",
-      "lastSeen": "2026-10-15",
-      "asOf": "2026-10-15",
+      "lastSeen": "2026-10-16",
+      "asOf": "2026-10-16",
       "stale": false,
       "teams": [
         {
@@ -8389,11 +8418,25 @@ window.__RESULTS__ = {
       "finished": false,
       "players": [
         {
+          "name": "Irene Ouyang",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1952",
+          "won": 4,
+          "lost": 0,
+          "played": 4
+        },
+        {
           "name": "Yannick Tandy",
           "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/941",
           "won": 3,
           "lost": 1,
           "played": 4
+        },
+        {
+          "name": "Anna Vershebeniuk",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2433",
+          "won": 2,
+          "lost": 0,
+          "played": 2
         },
         {
           "name": "Annabelle Giles",
@@ -8419,13 +8462,6 @@ window.__RESULTS__ = {
         {
           "name": "Francesca Di Pasquantonio",
           "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/819",
-          "won": 2,
-          "lost": 0,
-          "played": 2
-        },
-        {
-          "name": "Irene Ouyang",
-          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1952",
           "won": 2,
           "lost": 0,
           "played": 2
@@ -8471,6 +8507,20 @@ window.__RESULTS__ = {
           "won": 2,
           "lost": 2,
           "played": 4
+        },
+        {
+          "name": "Constance Pelet",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2434",
+          "won": 1,
+          "lost": 0,
+          "played": 1
+        },
+        {
+          "name": "Marta Chojnowska",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2435",
+          "won": 1,
+          "lost": 0,
+          "played": 1
         },
         {
           "name": "Annika Chai",
