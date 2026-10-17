@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-17T15:14:32.563Z",
+  "generatedAt": "2026-10-17T18:17:38.299Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -1132,7 +1132,7 @@ window.__RESULTS__ = {
           "division": "Division 1 North East",
           "pscName": "Paddington Sports Club 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/3",
-          "position": 6,
+          "position": 7,
           "of": 8,
           "played": 1,
           "won": 0,
@@ -1158,6 +1158,19 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Finchley Manor Tennis Squash and Health Club 1",
+              "played": 2,
+              "won": 1,
+              "drawn": 1,
+              "lost": 0,
+              "rubbers": "18-14",
+              "points": 18,
+              "form": [
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "David Lloyd Club Finchley 1",
               "played": 1,
               "won": 1,
@@ -1170,7 +1183,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "Elmwood Lawn Tennis Club 1",
               "played": 1,
               "won": 1,
@@ -1183,20 +1196,20 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
-              "name": "Finchley Manor Tennis Squash and Health Club 1",
-              "played": 1,
-              "won": 1,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "10-6",
-              "points": 10,
+              "rank": 5,
+              "name": "Finchley Lawn Tennis Club 1",
+              "played": 2,
+              "won": 0,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "12-20",
+              "points": 12,
               "form": [
-                "W"
+                "L"
               ]
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Brondesbury Sports Club 1",
               "played": 1,
               "won": 0,
@@ -1209,7 +1222,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 6,
+              "rank": 7,
               "name": "Paddington Sports Club 1",
               "played": 1,
               "won": 0,
@@ -1222,7 +1235,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 7,
+              "rank": 8,
               "name": "Oakleigh Park Lawn Tennis & Squash Club 1",
               "played": 2,
               "won": 0,
@@ -1232,19 +1245,6 @@ window.__RESULTS__ = {
               "points": 6,
               "form": [
                 "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 8,
-              "name": "Finchley Lawn Tennis Club 1",
-              "played": 1,
-              "won": 0,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "4-12",
-              "points": 4,
-              "form": [
                 "L"
               ]
             }
@@ -1295,8 +1295,8 @@ window.__RESULTS__ = {
             {
               "home": "Finchley Manor Tennis Squash and Health Club 1",
               "away": "Finchley Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 8,
               "date": "Fri 16/10/2026"
             },
             {
