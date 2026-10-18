@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-18T18:31:03.755Z",
+  "generatedAt": "2026-10-18T21:19:23.346Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -74,16 +74,31 @@ window.__RESULTS__ = {
           "division": "South East North",
           "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/F06AA797-DB87-4AAE-8882-A5C720EE2874/draw/7",
-          "position": 4,
+          "position": 1,
           "of": 8,
-          "played": 0,
-          "won": 0,
+          "played": 1,
+          "won": 1,
           "lost": 0,
-          "points": 0,
-          "form": [],
+          "points": 5,
+          "form": [
+            "W"
+          ],
           "standings": [
             {
               "rank": 1,
+              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "played": 1,
+              "won": 1,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "4-0",
+              "points": 5,
+              "form": [
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Berkhamsted Lawn Tennis & Squash Rackets Club 1",
               "played": 0,
               "won": 0,
@@ -94,7 +109,7 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 2,
+              "rank": 3,
               "name": "The Queens Club Limited 1",
               "played": 0,
               "won": 0,
@@ -105,7 +120,7 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "Stoke Poges LTC 1",
               "played": 0,
               "won": 0,
@@ -116,29 +131,7 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 4,
-              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
               "rank": 5,
-              "name": "Windsor Lawn Tennis Club 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
-              "rank": 6,
               "name": "Harpenden LTC 1",
               "played": 0,
               "won": 0,
@@ -149,7 +142,7 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 7,
+              "rank": 6,
               "name": "Campden Hill Lawn Tennis Club 1",
               "played": 0,
               "won": 0,
@@ -160,7 +153,7 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 8,
+              "rank": 7,
               "name": "Halton Tennis Centre 1",
               "played": 0,
               "won": 0,
@@ -169,6 +162,19 @@ window.__RESULTS__ = {
               "rubbers": "0-0",
               "points": 0,
               "form": []
+            },
+            {
+              "rank": 8,
+              "name": "Windsor Lawn Tennis Club 1",
+              "played": 1,
+              "won": 0,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "0-4",
+              "points": 0,
+              "form": [
+                "L"
+              ]
             }
           ],
           "matches": [
@@ -189,8 +195,8 @@ window.__RESULTS__ = {
             {
               "home": "Windsor Lawn Tennis Club 1",
               "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "hs": null,
-              "as": null,
+              "hs": 0,
+              "as": 4,
               "date": "Sun 18/10/2026"
             },
             {
