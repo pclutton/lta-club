@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-19T18:31:09.783Z",
+  "generatedAt": "2026-10-19T22:50:06.952Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -1127,18 +1127,33 @@ window.__RESULTS__ = {
           "division": "Division 2 North East",
           "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/14",
-          "position": 8,
+          "position": 7,
           "of": 8,
-          "played": 1,
+          "played": 2,
           "won": 0,
-          "lost": 1,
-          "points": 3,
+          "lost": 2,
+          "points": 7,
           "form": [
+            "L",
             "L"
           ],
           "standings": [
             {
               "rank": 1,
+              "name": "Mercury LTC 1",
+              "played": 2,
+              "won": 2,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "26-8",
+              "points": 26,
+              "form": [
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Totteridge Tennis Club 1",
               "played": 2,
               "won": 2,
@@ -1152,7 +1167,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
+              "rank": 3,
               "name": "South Hampstead Tennis Club 1",
               "played": 2,
               "won": 1,
@@ -1165,7 +1180,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "Paddington Sports Club 2",
               "played": 2,
               "won": 1,
@@ -1178,7 +1193,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
               "name": "Temple Fortune Club 1",
               "played": 2,
               "won": 1,
@@ -1188,19 +1203,6 @@ window.__RESULTS__ = {
               "points": 18,
               "form": [
                 "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "Mercury LTC 1",
-              "played": 1,
-              "won": 1,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "12-4",
-              "points": 12,
-              "form": [
                 "W"
               ]
             },
@@ -1220,6 +1222,20 @@ window.__RESULTS__ = {
             },
             {
               "rank": 7,
+              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "played": 2,
+              "won": 0,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "7-27",
+              "points": 7,
+              "form": [
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 8,
               "name": "Finchley Lawn Tennis Club 2",
               "played": 2,
               "won": 0,
@@ -1229,19 +1245,6 @@ window.__RESULTS__ = {
               "points": 4,
               "form": [
                 "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 8,
-              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "played": 1,
-              "won": 0,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "3-13",
-              "points": 3,
-              "form": [
                 "L"
               ]
             }
@@ -1299,8 +1302,8 @@ window.__RESULTS__ = {
             {
               "home": "Mercury LTC 1",
               "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "hs": null,
-              "as": null,
+              "hs": 14,
+              "as": 4,
               "date": "Mon 19/10/2026"
             },
             {
