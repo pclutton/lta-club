@@ -2,61 +2,61 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-18T21:19:23.346Z",
+  "generatedAt": "2026-10-19T12:43:08.284Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 7,
       "teams": 26,
-      "refreshed": 6,
-      "failed": 0
+      "matches": 552,
+      "players": 166,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-10-18"
+        "asOf": "2026-10-19"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-10-18"
+        "asOf": "2026-10-19"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-10-18"
+        "asOf": "2026-10-19"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-10-18"
+        "asOf": "2026-10-19"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-10-18"
+        "asOf": "2026-10-19"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-10-18"
+        "asOf": "2026-10-19"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-10-18"
+        "asOf": "2026-10-19"
       }
     ]
   },
@@ -65,8 +65,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-18",
-      "asOf": "2026-10-18",
+      "lastSeen": "2026-10-19",
+      "asOf": "2026-10-19",
       "stale": false,
       "teams": [
         {
@@ -379,28 +379,40 @@ window.__RESULTS__ = {
           "fixtures": [],
           "players": [
             {
+              "name": "Benjamin Clark",
+              "won": 2,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/389"
+            },
+            {
+              "name": "Jacob Coenraad de klerk",
+              "won": 2,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/390"
+            },
+            {
+              "name": "Rhett Purcell",
+              "won": 2,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/388"
+            },
+            {
+              "name": "Thomas Brennan",
+              "won": 2,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/397"
+            },
+            {
               "name": "Ben Jones",
               "won": 0,
               "lost": 0,
               "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/395"
             },
             {
-              "name": "Benjamin Clark",
-              "won": 0,
-              "lost": 0,
-              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/389"
-            },
-            {
               "name": "Filip Peliwo",
               "won": 0,
               "lost": 0,
               "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/394"
-            },
-            {
-              "name": "Jacob Coenraad de klerk",
-              "won": 0,
-              "lost": 0,
-              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/390"
             },
             {
               "name": "John Thompson",
@@ -427,12 +439,6 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/396"
             },
             {
-              "name": "Rhett Purcell",
-              "won": 0,
-              "lost": 0,
-              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/388"
-            },
-            {
               "name": "Richard Wire",
               "won": 0,
               "lost": 0,
@@ -455,12 +461,6 @@ window.__RESULTS__ = {
               "won": 0,
               "lost": 0,
               "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/398"
-            },
-            {
-              "name": "Thomas Brennan",
-              "won": 0,
-              "lost": 0,
-              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/397"
             },
             {
               "name": "Tom Skinner",
@@ -780,8 +780,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-10-18",
-      "asOf": "2026-10-18",
+      "lastSeen": "2026-10-19",
+      "asOf": "2026-10-19",
       "stale": false,
       "teams": [
         {
@@ -1114,8 +1114,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-18",
-      "asOf": "2026-10-18",
+      "lastSeen": "2026-10-19",
+      "asOf": "2026-10-19",
       "stale": false,
       "teams": [
         {
@@ -1838,8 +1838,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-10-18",
-      "asOf": "2026-10-18",
+      "lastSeen": "2026-10-19",
+      "asOf": "2026-10-19",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -1893,8 +1893,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "completed",
-      "lastSeen": "2026-10-18",
-      "asOf": "2026-10-18",
+      "lastSeen": "2026-10-19",
+      "asOf": "2026-10-19",
       "stale": false,
       "teams": [
         {
@@ -4608,8 +4608,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "completed",
-      "lastSeen": "2026-10-18",
-      "asOf": "2026-10-18",
+      "lastSeen": "2026-10-19",
+      "asOf": "2026-10-19",
       "stale": false,
       "teams": [
         {
@@ -8691,8 +8691,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "completed",
-      "lastSeen": "2026-10-18",
-      "asOf": "2026-10-18",
+      "lastSeen": "2026-10-19",
+      "asOf": "2026-10-19",
       "stale": false,
       "teams": [
         {
@@ -9164,6 +9164,34 @@ window.__RESULTS__ = {
           "won": 4,
           "lost": 1,
           "played": 5
+        },
+        {
+          "name": "Benjamin Clark",
+          "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/389",
+          "won": 2,
+          "lost": 0,
+          "played": 2
+        },
+        {
+          "name": "Jacob Coenraad de klerk",
+          "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/390",
+          "won": 2,
+          "lost": 0,
+          "played": 2
+        },
+        {
+          "name": "Rhett Purcell",
+          "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/388",
+          "won": 2,
+          "lost": 0,
+          "played": 2
+        },
+        {
+          "name": "Thomas Brennan",
+          "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/397",
+          "won": 2,
+          "lost": 0,
+          "played": 2
         },
         {
           "name": "Alexandra Liebelt",
