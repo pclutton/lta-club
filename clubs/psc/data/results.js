@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-19T12:46:06.850Z",
+  "generatedAt": "2026-10-19T18:31:32.537Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "matches": 554,
-      "players": 129,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
@@ -2219,7 +2219,7 @@ window.__RESULTS__ = {
           "played": 2,
           "won": 2,
           "lost": 0,
-          "points": 26,
+          "points": 29,
           "form": [
             "W",
             "W"
@@ -2232,8 +2232,8 @@ window.__RESULTS__ = {
               "won": 2,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "26-2",
-              "points": 26,
+              "rubbers": "29-3",
+              "points": 29,
               "form": [
                 "W",
                 "W"
@@ -2268,7 +2268,7 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
-              "name": "Harrow Lawn Tennis Club 2",
+              "name": "Lowlands Club 1",
               "played": 2,
               "won": 1,
               "drawn": 0,
@@ -2282,13 +2282,13 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
-              "name": "Lowlands Club 1",
+              "name": "Harrow Lawn Tennis Club 2",
               "played": 2,
               "won": 1,
               "drawn": 0,
               "lost": 1,
-              "rubbers": "12-16",
-              "points": 12,
+              "rubbers": "14-18",
+              "points": 14,
               "form": [
                 "W",
                 "L"
@@ -2326,8 +2326,8 @@ window.__RESULTS__ = {
               "won": 0,
               "drawn": 0,
               "lost": 1,
-              "rubbers": "4-12",
-              "points": 4,
+              "rubbers": "3-13",
+              "points": 3,
               "form": [
                 "L"
               ]
@@ -2358,8 +2358,8 @@ window.__RESULTS__ = {
             {
               "home": "Lowlands Club 1",
               "away": "Eastcote Lawn Tennis Club 1",
-              "hs": 12,
-              "as": 4,
+              "hs": 13,
+              "as": 3,
               "date": "Thu 24/09/2026"
             },
             {
@@ -2379,8 +2379,8 @@ window.__RESULTS__ = {
             {
               "home": "Lowlands Club 1",
               "away": "Paddington Sports Club 1",
-              "hs": 0,
-              "as": 12,
+              "hs": 1,
+              "as": 15,
               "date": "Thu 15/10/2026"
             },
             {
@@ -2391,18 +2391,18 @@ window.__RESULTS__ = {
               "date": "Tue 20/10/2026"
             },
             {
-              "home": "Harrow Lawn Tennis Club 1",
-              "away": "Harrow Lawn Tennis Club 2",
-              "hs": null,
-              "as": null,
-              "date": "Mon 26/10/2026"
-            },
-            {
               "home": "Pinner Lawn Tennis Club 1",
               "away": "Paddington Sports Club 2",
               "hs": null,
               "as": null,
               "date": "Tue 27/10/2026"
+            },
+            {
+              "home": "Harrow Lawn Tennis Club 1",
+              "away": "Harrow Lawn Tennis Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Tue 03/11/2026"
             },
             {
               "home": "Paddington Sports Club 1",
@@ -2607,8 +2607,8 @@ window.__RESULTS__ = {
               "won": 2,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "26-2",
-              "points": 26,
+              "rubbers": "29-3",
+              "points": 29,
               "form": [
                 "W",
                 "W"
@@ -2643,7 +2643,7 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
-              "name": "Harrow Lawn Tennis Club 2",
+              "name": "Lowlands Club 1",
               "played": 2,
               "won": 1,
               "drawn": 0,
@@ -2657,13 +2657,13 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
-              "name": "Lowlands Club 1",
+              "name": "Harrow Lawn Tennis Club 2",
               "played": 2,
               "won": 1,
               "drawn": 0,
               "lost": 1,
-              "rubbers": "12-16",
-              "points": 12,
+              "rubbers": "14-18",
+              "points": 14,
               "form": [
                 "W",
                 "L"
@@ -2701,8 +2701,8 @@ window.__RESULTS__ = {
               "won": 0,
               "drawn": 0,
               "lost": 1,
-              "rubbers": "4-12",
-              "points": 4,
+              "rubbers": "3-13",
+              "points": 3,
               "form": [
                 "L"
               ]
@@ -2733,8 +2733,8 @@ window.__RESULTS__ = {
             {
               "home": "Lowlands Club 1",
               "away": "Eastcote Lawn Tennis Club 1",
-              "hs": 12,
-              "as": 4,
+              "hs": 13,
+              "as": 3,
               "date": "Thu 24/09/2026"
             },
             {
@@ -2754,8 +2754,8 @@ window.__RESULTS__ = {
             {
               "home": "Lowlands Club 1",
               "away": "Paddington Sports Club 1",
-              "hs": 0,
-              "as": 12,
+              "hs": 1,
+              "as": 15,
               "date": "Thu 15/10/2026"
             },
             {
@@ -2766,18 +2766,18 @@ window.__RESULTS__ = {
               "date": "Tue 20/10/2026"
             },
             {
-              "home": "Harrow Lawn Tennis Club 1",
-              "away": "Harrow Lawn Tennis Club 2",
-              "hs": null,
-              "as": null,
-              "date": "Mon 26/10/2026"
-            },
-            {
               "home": "Pinner Lawn Tennis Club 1",
               "away": "Paddington Sports Club 2",
               "hs": null,
               "as": null,
               "date": "Tue 27/10/2026"
+            },
+            {
+              "home": "Harrow Lawn Tennis Club 1",
+              "away": "Harrow Lawn Tennis Club 2",
+              "hs": null,
+              "as": null,
+              "date": "Tue 03/11/2026"
             },
             {
               "home": "Paddington Sports Club 1",
