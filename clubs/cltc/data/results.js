@@ -2,61 +2,61 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-19T22:50:06.952Z",
+  "generatedAt": "2026-10-20T11:14:45.724Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 7,
       "teams": 26,
-      "refreshed": 6,
-      "failed": 0
+      "matches": 552,
+      "players": 166,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-10-19"
+        "asOf": "2026-10-20"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-10-19"
+        "asOf": "2026-10-20"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-10-19"
+        "asOf": "2026-10-20"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-10-19"
+        "asOf": "2026-10-20"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-10-19"
+        "asOf": "2026-10-20"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-10-19"
+        "asOf": "2026-10-20"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-10-19"
+        "asOf": "2026-10-20"
       }
     ]
   },
@@ -65,8 +65,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-19",
-      "asOf": "2026-10-19",
+      "lastSeen": "2026-10-20",
+      "asOf": "2026-10-20",
       "stale": false,
       "teams": [
         {
@@ -784,8 +784,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-10-19",
-      "asOf": "2026-10-19",
+      "lastSeen": "2026-10-20",
+      "asOf": "2026-10-20",
       "stale": false,
       "teams": [
         {
@@ -1118,8 +1118,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-19",
-      "asOf": "2026-10-19",
+      "lastSeen": "2026-10-20",
+      "asOf": "2026-10-20",
       "stale": false,
       "teams": [
         {
@@ -1451,28 +1451,40 @@ window.__RESULTS__ = {
           "fixtures": [],
           "players": [
             {
-              "name": "Asher Raybould",
-              "won": 0,
-              "lost": 1,
-              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1664"
-            },
-            {
-              "name": "Marcello Arona",
-              "won": 0,
-              "lost": 1,
-              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1665"
-            },
-            {
               "name": "Jamie Gregory",
               "won": 0,
               "lost": 2,
               "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1666"
             },
             {
+              "name": "Jason Chainey",
+              "won": 0,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2519"
+            },
+            {
+              "name": "Masood Moghul",
+              "won": 0,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2518"
+            },
+            {
               "name": "Mohammed Ameen",
               "won": 0,
               "lost": 2,
               "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1667"
+            },
+            {
+              "name": "Asher Raybould",
+              "won": 0,
+              "lost": 3,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1664"
+            },
+            {
+              "name": "Marcello Arona",
+              "won": 0,
+              "lost": 3,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1665"
             }
           ]
         },
@@ -1845,8 +1857,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-10-19",
-      "asOf": "2026-10-19",
+      "lastSeen": "2026-10-20",
+      "asOf": "2026-10-20",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -1900,8 +1912,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "completed",
-      "lastSeen": "2026-10-19",
-      "asOf": "2026-10-19",
+      "lastSeen": "2026-10-20",
+      "asOf": "2026-10-20",
       "stale": false,
       "teams": [
         {
@@ -4615,8 +4627,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "completed",
-      "lastSeen": "2026-10-19",
-      "asOf": "2026-10-19",
+      "lastSeen": "2026-10-20",
+      "asOf": "2026-10-20",
       "stale": false,
       "teams": [
         {
@@ -8698,8 +8710,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "completed",
-      "lastSeen": "2026-10-19",
-      "asOf": "2026-10-19",
+      "lastSeen": "2026-10-20",
+      "asOf": "2026-10-20",
       "stale": false,
       "teams": [
         {
@@ -9229,20 +9241,6 @@ window.__RESULTS__ = {
           "played": 2
         },
         {
-          "name": "Asher Raybould",
-          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1664",
-          "won": 0,
-          "lost": 1,
-          "played": 1
-        },
-        {
-          "name": "Marcello Arona",
-          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1665",
-          "won": 0,
-          "lost": 1,
-          "played": 1
-        },
-        {
           "name": "Anastasia Argent",
           "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/734",
           "won": 0,
@@ -9252,6 +9250,20 @@ window.__RESULTS__ = {
         {
           "name": "Jamie Gregory",
           "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1666",
+          "won": 0,
+          "lost": 2,
+          "played": 2
+        },
+        {
+          "name": "Jason Chainey",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2519",
+          "won": 0,
+          "lost": 2,
+          "played": 2
+        },
+        {
+          "name": "Masood Moghul",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2518",
           "won": 0,
           "lost": 2,
           "played": 2
@@ -9269,6 +9281,20 @@ window.__RESULTS__ = {
           "won": 0,
           "lost": 2,
           "played": 2
+        },
+        {
+          "name": "Asher Raybould",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1664",
+          "won": 0,
+          "lost": 3,
+          "played": 3
+        },
+        {
+          "name": "Marcello Arona",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1665",
+          "won": 0,
+          "lost": 3,
+          "played": 3
         }
       ]
     },

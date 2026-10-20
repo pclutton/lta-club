@@ -2,55 +2,55 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-19T22:50:31.997Z",
+  "generatedAt": "2026-10-20T11:17:38.167Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 554,
+      "players": 129,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-10-19"
+        "asOf": "2026-10-20"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-10-19"
+        "asOf": "2026-10-20"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-10-19"
+        "asOf": "2026-10-20"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-10-19"
+        "asOf": "2026-10-20"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-10-19"
+        "asOf": "2026-10-20"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-10-19"
+        "asOf": "2026-10-20"
       }
     ]
   },
@@ -59,8 +59,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-19",
-      "asOf": "2026-10-19",
+      "lastSeen": "2026-10-20",
+      "asOf": "2026-10-20",
       "stale": false,
       "teams": [
         {
@@ -373,8 +373,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-10-19",
-      "asOf": "2026-10-19",
+      "lastSeen": "2026-10-20",
+      "asOf": "2026-10-20",
       "stale": false,
       "teams": [
         {
@@ -1123,8 +1123,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-19",
-      "asOf": "2026-10-19",
+      "lastSeen": "2026-10-20",
+      "asOf": "2026-10-20",
       "stale": false,
       "teams": [
         {
@@ -3038,6 +3038,20 @@ window.__RESULTS__ = {
             },
             {
               "rank": 6,
+              "name": "Thistleworth LTC 1",
+              "played": 2,
+              "won": 1,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "14-18",
+              "points": 14,
+              "form": [
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 7,
               "name": "Brentham Lawn Tennis Club 1",
               "played": 2,
               "won": 0,
@@ -3050,28 +3064,16 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 7,
-              "name": "Thistleworth LTC 1",
-              "played": 1,
-              "won": 0,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "4-12",
-              "points": 4,
-              "form": [
-                "L"
-              ]
-            },
-            {
               "rank": 8,
               "name": "David Lloyd Club Hampton 1",
-              "played": 1,
+              "played": 2,
               "won": 0,
               "drawn": 0,
-              "lost": 1,
-              "rubbers": "0-16",
-              "points": 0,
+              "lost": 2,
+              "rubbers": "6-26",
+              "points": 6,
               "form": [
+                "L",
                 "L"
               ]
             }
@@ -3129,8 +3131,8 @@ window.__RESULTS__ = {
             {
               "home": "David Lloyd Club Hampton 1",
               "away": "Thistleworth LTC 1",
-              "hs": null,
-              "as": null,
+              "hs": 6,
+              "as": 10,
               "date": "Mon 19/10/2026"
             },
             {
@@ -3670,8 +3672,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-10-19",
-      "asOf": "2026-10-19",
+      "lastSeen": "2026-10-20",
+      "asOf": "2026-10-20",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -3720,8 +3722,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "completed",
-      "lastSeen": "2026-10-19",
-      "asOf": "2026-10-19",
+      "lastSeen": "2026-10-20",
+      "asOf": "2026-10-20",
       "stale": false,
       "teams": [
         {
@@ -4757,8 +4759,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "completed",
-      "lastSeen": "2026-10-19",
-      "asOf": "2026-10-19",
+      "lastSeen": "2026-10-20",
+      "asOf": "2026-10-20",
       "stale": false,
       "teams": [
         {
