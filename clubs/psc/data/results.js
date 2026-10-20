@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-20T11:17:38.167Z",
+  "generatedAt": "2026-10-20T16:34:37.548Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "matches": 554,
-      "players": 129,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
@@ -474,13 +474,6 @@ window.__RESULTS__ = {
               "date": "Sat 03/10/2026"
             },
             {
-              "home": "Paddington Sports Club 1",
-              "away": "The Queens Club Limited 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 04/10/2026"
-            },
-            {
               "home": "Brentham Lawn Tennis Club 1",
               "away": "West Middlesex Lawn Tennis Club Ltd 1",
               "hs": 8,
@@ -507,6 +500,13 @@ window.__RESULTS__ = {
               "hs": null,
               "as": null,
               "date": "Sun 08/11/2026"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "The Queens Club Limited 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 15/11/2026"
             },
             {
               "home": "Brentham Lawn Tennis Club 1",
@@ -1158,6 +1158,20 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "Elmwood Lawn Tennis Club 1",
+              "played": 2,
+              "won": 1,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "19-13",
+              "points": 19,
+              "form": [
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "Finchley Manor Tennis Squash and Health Club 1",
               "played": 2,
               "won": 1,
@@ -1170,7 +1184,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "David Lloyd Club Finchley 1",
               "played": 1,
               "won": 1,
@@ -1183,20 +1197,21 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
-              "name": "Elmwood Lawn Tennis Club 1",
-              "played": 1,
+              "rank": 5,
+              "name": "Brondesbury Sports Club 1",
+              "played": 2,
               "won": 1,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "12-4",
-              "points": 12,
+              "lost": 1,
+              "rubbers": "16-16",
+              "points": 16,
               "form": [
+                "L",
                 "W"
               ]
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Finchley Lawn Tennis Club 1",
               "played": 2,
               "won": 0,
@@ -1204,19 +1219,6 @@ window.__RESULTS__ = {
               "lost": 1,
               "rubbers": "12-20",
               "points": 12,
-              "form": [
-                "L"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "Brondesbury Sports Club 1",
-              "played": 1,
-              "won": 0,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "7-9",
-              "points": 7,
               "form": [
                 "L"
               ]
@@ -1288,8 +1290,8 @@ window.__RESULTS__ = {
             {
               "home": "Brondesbury Sports Club 1",
               "away": "Elmwood Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 9,
+              "as": 7,
               "date": "Thu 15/10/2026"
             },
             {
