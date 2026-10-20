@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-20T16:34:12.308Z",
+  "generatedAt": "2026-10-20T22:10:37.173Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -481,22 +481,26 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/F06AA797-DB87-4AAE-8882-A5C720EE2874/draw/11",
           "position": 1,
           "of": 8,
-          "played": 0,
-          "won": 0,
+          "played": 1,
+          "won": 1,
           "lost": 0,
-          "points": 0,
-          "form": [],
+          "points": 4,
+          "form": [
+            "W"
+          ],
           "standings": [
             {
               "rank": 1,
               "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "played": 0,
-              "won": 0,
+              "played": 1,
+              "won": 1,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
+              "rubbers": "3-0",
+              "points": 4,
+              "form": [
+                "W"
+              ]
             },
             {
               "rank": 2,
@@ -567,21 +571,23 @@ window.__RESULTS__ = {
             {
               "rank": 8,
               "name": "Paddington Sports Club 1",
-              "played": 0,
+              "played": 1,
               "won": 0,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
+              "lost": 1,
+              "rubbers": "0-3",
               "points": 0,
-              "form": []
+              "form": [
+                "L"
+              ]
             }
           ],
           "matches": [
             {
               "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 3,
+              "as": 0,
               "date": "Sun 18/10/2026"
             },
             {
@@ -1506,6 +1512,20 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Finchley Manor Tennis Squash and Health Club 1",
+              "played": 2,
+              "won": 2,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "32-0",
+              "points": 32,
+              "form": [
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Totteridge Tennis Club 1",
               "played": 2,
               "won": 2,
@@ -1519,7 +1539,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
+              "rank": 3,
               "name": "Brondesbury Sports Club 1",
               "played": 2,
               "won": 1,
@@ -1533,7 +1553,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
+              "rank": 4,
               "name": "Oakleigh Park Lawn Tennis & Squash Club 1",
               "played": 2,
               "won": 1,
@@ -1544,19 +1564,6 @@ window.__RESULTS__ = {
               "form": [
                 "W",
                 "L"
-              ]
-            },
-            {
-              "rank": 4,
-              "name": "Finchley Manor Tennis Squash and Health Club 1",
-              "played": 1,
-              "won": 1,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "16-0",
-              "points": 16,
-              "form": [
-                "W"
               ]
             },
             {
@@ -1589,13 +1596,15 @@ window.__RESULTS__ = {
             {
               "rank": 7,
               "name": "South Hampstead Tennis Club 1",
-              "played": 1,
+              "played": 2,
               "won": 0,
               "drawn": 1,
-              "lost": 0,
-              "rubbers": "8-8",
+              "lost": 1,
+              "rubbers": "8-24",
               "points": 8,
-              "form": []
+              "form": [
+                "L"
+              ]
             },
             {
               "rank": 8,
@@ -1665,8 +1674,8 @@ window.__RESULTS__ = {
             {
               "home": "Finchley Manor Tennis Squash and Health Club 1",
               "away": "South Hampstead Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 0,
               "date": "Tue 20/10/2026"
             },
             {
