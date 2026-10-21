@@ -2,61 +2,61 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-20T22:10:37.173Z",
+  "generatedAt": "2026-10-21T11:30:32.613Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 7,
       "teams": 26,
-      "refreshed": 6,
-      "failed": 0
+      "matches": 552,
+      "players": 166,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-10-20"
+        "asOf": "2026-10-21"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-10-20"
+        "asOf": "2026-10-21"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-10-20"
+        "asOf": "2026-10-21"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-10-20"
+        "asOf": "2026-10-21"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-10-20"
+        "asOf": "2026-10-21"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-10-20"
+        "asOf": "2026-10-21"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-10-20"
+        "asOf": "2026-10-21"
       }
     ]
   },
@@ -65,8 +65,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-20",
-      "asOf": "2026-10-20",
+      "lastSeen": "2026-10-21",
+      "asOf": "2026-10-21",
       "stale": false,
       "teams": [
         {
@@ -782,7 +782,38 @@ window.__RESULTS__ = {
           ],
           "results": [],
           "fixtures": [],
-          "players": []
+          "players": [
+            {
+              "name": "Georgie Walker",
+              "won": 2,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/792"
+            },
+            {
+              "name": "Jane Fennelly",
+              "won": 2,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/793"
+            },
+            {
+              "name": "Georgia Craven",
+              "won": 1,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/790"
+            },
+            {
+              "name": "Sophie Williamson",
+              "won": 1,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/791"
+            },
+            {
+              "name": "Hollie Smart",
+              "won": 0,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/777"
+            }
+          ]
         }
       ]
     },
@@ -790,8 +821,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-10-20",
-      "asOf": "2026-10-20",
+      "lastSeen": "2026-10-21",
+      "asOf": "2026-10-21",
       "stale": false,
       "teams": [
         {
@@ -1124,8 +1155,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-20",
-      "asOf": "2026-10-20",
+      "lastSeen": "2026-10-21",
+      "asOf": "2026-10-21",
       "stale": false,
       "teams": [
         {
@@ -1866,8 +1897,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-10-20",
-      "asOf": "2026-10-20",
+      "lastSeen": "2026-10-21",
+      "asOf": "2026-10-21",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -1921,8 +1952,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "completed",
-      "lastSeen": "2026-10-20",
-      "asOf": "2026-10-20",
+      "lastSeen": "2026-10-21",
+      "asOf": "2026-10-21",
       "stale": false,
       "teams": [
         {
@@ -4636,8 +4667,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "completed",
-      "lastSeen": "2026-10-20",
-      "asOf": "2026-10-20",
+      "lastSeen": "2026-10-21",
+      "asOf": "2026-10-21",
       "stale": false,
       "teams": [
         {
@@ -8719,8 +8750,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "completed",
-      "lastSeen": "2026-10-20",
-      "asOf": "2026-10-20",
+      "lastSeen": "2026-10-21",
+      "asOf": "2026-10-21",
       "stale": false,
       "teams": [
         {
@@ -9201,8 +9232,22 @@ window.__RESULTS__ = {
           "played": 2
         },
         {
+          "name": "Georgie Walker",
+          "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/792",
+          "won": 2,
+          "lost": 0,
+          "played": 2
+        },
+        {
           "name": "Jacob Coenraad de klerk",
           "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/390",
+          "won": 2,
+          "lost": 0,
+          "played": 2
+        },
+        {
+          "name": "Jane Fennelly",
+          "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/793",
           "won": 2,
           "lost": 0,
           "played": 2
@@ -9234,6 +9279,20 @@ window.__RESULTS__ = {
           "won": 2,
           "lost": 2,
           "played": 4
+        },
+        {
+          "name": "Georgia Craven",
+          "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/790",
+          "won": 1,
+          "lost": 0,
+          "played": 1
+        },
+        {
+          "name": "Sophie Williamson",
+          "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/791",
+          "won": 1,
+          "lost": 0,
+          "played": 1
         },
         {
           "name": "Allison Green",
