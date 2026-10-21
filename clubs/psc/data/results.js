@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-21T11:33:21.286Z",
+  "generatedAt": "2026-10-21T16:52:23.583Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "matches": 554,
-      "players": 129,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
@@ -1175,6 +1175,19 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Elmwood Lawn Tennis Club 1",
+              "played": 2,
+              "won": 1,
+              "drawn": 1,
+              "lost": 0,
+              "rubbers": "20-12",
+              "points": 20,
+              "form": [
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "West Heath Lawn Tennis Club Limited 1",
               "played": 2,
               "won": 2,
@@ -1185,20 +1198,6 @@ window.__RESULTS__ = {
               "form": [
                 "W",
                 "W"
-              ]
-            },
-            {
-              "rank": 2,
-              "name": "Elmwood Lawn Tennis Club 1",
-              "played": 2,
-              "won": 1,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "19-13",
-              "points": 19,
-              "form": [
-                "W",
-                "L"
               ]
             },
             {
@@ -1231,14 +1230,13 @@ window.__RESULTS__ = {
               "rank": 5,
               "name": "Brondesbury Sports Club 1",
               "played": 2,
-              "won": 1,
-              "drawn": 0,
+              "won": 0,
+              "drawn": 1,
               "lost": 1,
-              "rubbers": "16-16",
-              "points": 16,
+              "rubbers": "15-17",
+              "points": 15,
               "form": [
-                "L",
-                "W"
+                "L"
               ]
             },
             {
@@ -1321,8 +1319,8 @@ window.__RESULTS__ = {
             {
               "home": "Brondesbury Sports Club 1",
               "away": "Elmwood Lawn Tennis Club 1",
-              "hs": 9,
-              "as": 7,
+              "hs": 8,
+              "as": 8,
               "date": "Thu 15/10/2026"
             },
             {
