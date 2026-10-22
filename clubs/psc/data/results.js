@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-22T16:52:24.408Z",
+  "generatedAt": "2026-10-22T22:12:31.566Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -3359,7 +3359,7 @@ window.__RESULTS__ = {
           "division": "Division 1 North East",
           "pscName": "Paddington Sports Club 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/10",
-          "position": 1,
+          "position": 2,
           "of": 8,
           "played": 2,
           "won": 2,
@@ -3372,6 +3372,20 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Totteridge Tennis Club 1",
+              "played": 3,
+              "won": 2,
+              "drawn": 1,
+              "lost": 0,
+              "rubbers": "28-12",
+              "points": 28,
+              "form": [
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Paddington Sports Club 1",
               "played": 2,
               "won": 2,
@@ -3385,7 +3399,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
+              "rank": 3,
               "name": "Oakleigh Park Lawn Tennis & Squash Club 1",
               "played": 3,
               "won": 1,
@@ -3399,20 +3413,21 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
-              "name": "Totteridge Tennis Club 1",
+              "rank": 4,
+              "name": "West Heath Lawn Tennis Club Limited 1",
               "played": 2,
               "won": 1,
-              "drawn": 1,
-              "lost": 0,
-              "rubbers": "22-10",
-              "points": 22,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "18-6",
+              "points": 18,
               "form": [
-                "W"
+                "W",
+                "L"
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
               "name": "David Lloyd Club Finchley 1",
               "played": 2,
               "won": 1,
@@ -3425,7 +3440,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "Totteridge Tennis Club 2",
               "played": 3,
               "won": 1,
@@ -3436,19 +3451,6 @@ window.__RESULTS__ = {
               "form": [
                 "L",
                 "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "West Heath Lawn Tennis Club Limited 1",
-              "played": 1,
-              "won": 1,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "16-0",
-              "points": 16,
-              "form": [
                 "W"
               ]
             },
@@ -3548,8 +3550,8 @@ window.__RESULTS__ = {
             {
               "home": "Totteridge Tennis Club 1",
               "away": "West Heath Lawn Tennis Club Limited 1",
-              "hs": null,
-              "as": null,
+              "hs": 6,
+              "as": 2,
               "date": "Thu 22/10/2026"
             },
             {
