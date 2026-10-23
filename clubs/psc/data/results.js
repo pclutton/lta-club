@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-23T11:23:46.488Z",
+  "generatedAt": "2026-10-23T16:43:55.363Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "matches": 554,
-      "players": 129,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
@@ -3377,8 +3377,8 @@ window.__RESULTS__ = {
               "won": 2,
               "drawn": 1,
               "lost": 0,
-              "rubbers": "28-12",
-              "points": 28,
+              "rubbers": "32-14",
+              "points": 32,
               "form": [
                 "W",
                 "W"
@@ -3419,8 +3419,8 @@ window.__RESULTS__ = {
               "won": 1,
               "drawn": 0,
               "lost": 1,
-              "rubbers": "18-6",
-              "points": 18,
+              "rubbers": "20-10",
+              "points": 20,
               "form": [
                 "W",
                 "L"
@@ -3550,8 +3550,8 @@ window.__RESULTS__ = {
             {
               "home": "Totteridge Tennis Club 1",
               "away": "West Heath Lawn Tennis Club Limited 1",
-              "hs": 6,
-              "as": 2,
+              "hs": 10,
+              "as": 4,
               "date": "Thu 22/10/2026"
             },
             {
