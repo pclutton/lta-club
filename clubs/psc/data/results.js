@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-01T17:46:53.066Z",
+  "generatedAt": "2026-11-01T22:38:09.127Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -954,24 +954,26 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/676686EB-7D35-4816-9BE5-DDEC7913DA16/draw/38",
           "position": 1,
           "of": 6,
-          "played": 1,
-          "won": 1,
+          "played": 2,
+          "won": 2,
           "lost": 0,
-          "points": 2,
+          "points": 4,
           "form": [
+            "W",
             "W"
           ],
           "standings": [
             {
               "rank": 1,
               "name": "Paddington Sports Club 1",
-              "played": 1,
-              "won": 1,
+              "played": 2,
+              "won": 2,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "12-0",
-              "points": 2,
+              "rubbers": "22-2",
+              "points": 4,
               "form": [
+                "W",
                 "W"
               ]
             },
@@ -1004,7 +1006,7 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
-              "name": "Highgate Cricket and Lawn Tennis Club 1",
+              "name": "Thistleworth LTC 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -1015,14 +1017,16 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
-              "name": "Thistleworth LTC 1",
-              "played": 0,
+              "name": "Highgate Cricket and Lawn Tennis Club 1",
+              "played": 1,
               "won": 0,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
+              "lost": 1,
+              "rubbers": "2-10",
               "points": 0,
-              "form": []
+              "form": [
+                "L"
+              ]
             },
             {
               "rank": 6,
@@ -1057,8 +1061,8 @@ window.__RESULTS__ = {
             {
               "home": "Highgate Cricket and Lawn Tennis Club 1",
               "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 2,
+              "as": 10,
               "date": "Sun 01/11/2026"
             },
             {
