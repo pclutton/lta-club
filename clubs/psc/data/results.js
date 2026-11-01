@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-01T13:03:20.075Z",
+  "generatedAt": "2026-11-01T17:46:53.066Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "matches": 554,
-      "players": 41,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
@@ -990,6 +990,20 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Finsbury Park 1",
+              "played": 2,
+              "won": 1,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "12-12",
+              "points": 2,
+              "form": [
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Highgate Cricket and Lawn Tennis Club 1",
               "played": 0,
               "won": 0,
@@ -1000,7 +1014,7 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 4,
+              "rank": 5,
               "name": "Thistleworth LTC 1",
               "played": 0,
               "won": 0,
@@ -1011,28 +1025,16 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 5,
-              "name": "Finsbury Park 1",
-              "played": 1,
-              "won": 0,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "2-10",
-              "points": 0,
-              "form": [
-                "L"
-              ]
-            },
-            {
               "rank": 6,
               "name": "The Hurlingham Club 1",
-              "played": 1,
+              "played": 2,
               "won": 0,
               "drawn": 0,
-              "lost": 1,
-              "rubbers": "0-12",
+              "lost": 2,
+              "rubbers": "2-22",
               "points": 0,
               "form": [
+                "L",
                 "L"
               ]
             }
@@ -1069,8 +1071,8 @@ window.__RESULTS__ = {
             {
               "home": "The Hurlingham Club 1",
               "away": "Finsbury Park 1",
-              "hs": null,
-              "as": null,
+              "hs": 2,
+              "as": 10,
               "date": "Sun 01/11/2026"
             },
             {
