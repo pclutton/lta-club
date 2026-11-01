@@ -2,55 +2,55 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-10-31T22:20:35.631Z",
+  "generatedAt": "2026-11-01T13:03:20.075Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 554,
+      "players": 41,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-10-31"
+        "asOf": "2026-11-01"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-10-31"
+        "asOf": "2026-11-01"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-10-31"
+        "asOf": "2026-11-01"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-10-31"
+        "asOf": "2026-11-01"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-10-31"
+        "asOf": "2026-11-01"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-10-31"
+        "asOf": "2026-11-01"
       }
     ]
   },
@@ -59,8 +59,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-31",
-      "asOf": "2026-10-31",
+      "lastSeen": "2026-11-01",
+      "asOf": "2026-11-01",
       "stale": false,
       "teams": [
         {
@@ -404,8 +404,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-10-31",
-      "asOf": "2026-10-31",
+      "lastSeen": "2026-11-01",
+      "asOf": "2026-11-01",
       "stale": false,
       "teams": [
         {
@@ -1154,8 +1154,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-10-31",
-      "asOf": "2026-10-31",
+      "lastSeen": "2026-11-01",
+      "asOf": "2026-11-01",
       "stale": false,
       "teams": [
         {
@@ -2956,6 +2956,12 @@ window.__RESULTS__ = {
           "fixtures": [],
           "players": [
             {
+              "name": "Amanda Baker",
+              "won": 0,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2720"
+            },
+            {
               "name": "Anne Beranger",
               "won": 0,
               "lost": 2,
@@ -2966,6 +2972,12 @@ window.__RESULTS__ = {
               "won": 0,
               "lost": 2,
               "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/720"
+            },
+            {
+              "name": "Giovanna Bellemo",
+              "won": 0,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2721"
             },
             {
               "name": "Shpresa Duro",
@@ -3742,8 +3754,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-10-31",
-      "asOf": "2026-10-31",
+      "lastSeen": "2026-11-01",
+      "asOf": "2026-11-01",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -3792,8 +3804,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "completed",
-      "lastSeen": "2026-10-31",
-      "asOf": "2026-10-31",
+      "lastSeen": "2026-11-01",
+      "asOf": "2026-11-01",
       "stale": false,
       "teams": [
         {
@@ -4829,8 +4841,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "completed",
-      "lastSeen": "2026-10-31",
-      "asOf": "2026-10-31",
+      "lastSeen": "2026-11-01",
+      "asOf": "2026-11-01",
       "stale": false,
       "teams": [
         {
@@ -8669,6 +8681,13 @@ window.__RESULTS__ = {
           "played": 2
         },
         {
+          "name": "Amanda Baker",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2720",
+          "won": 0,
+          "lost": 2,
+          "played": 2
+        },
+        {
           "name": "Anne Beranger",
           "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2189",
           "won": 0,
@@ -8685,6 +8704,13 @@ window.__RESULTS__ = {
         {
           "name": "Emily MacKay",
           "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/720",
+          "won": 0,
+          "lost": 2,
+          "played": 2
+        },
+        {
+          "name": "Giovanna Bellemo",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2721",
           "won": 0,
           "lost": 2,
           "played": 2
@@ -9858,6 +9884,13 @@ window.__RESULTS__ = {
       "played": 2
     },
     {
+      "name": "Amanda Baker",
+      "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2720",
+      "won": 0,
+      "lost": 2,
+      "played": 2
+    },
+    {
       "name": "Anne Beranger",
       "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2189",
       "won": 0,
@@ -9874,6 +9907,13 @@ window.__RESULTS__ = {
     {
       "name": "Emily MacKay",
       "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/720",
+      "won": 0,
+      "lost": 2,
+      "played": 2
+    },
+    {
+      "name": "Giovanna Bellemo",
+      "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2721",
       "won": 0,
       "lost": 2,
       "played": 2
