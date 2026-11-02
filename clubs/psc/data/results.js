@@ -2,55 +2,55 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-01T22:38:09.127Z",
+  "generatedAt": "2026-11-02T15:20:00.896Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 554,
+      "players": 41,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-11-01"
+        "asOf": "2026-11-02"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-11-01"
+        "asOf": "2026-11-02"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-11-01"
+        "asOf": "2026-11-02"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-11-01"
+        "asOf": "2026-11-02"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-11-01"
+        "asOf": "2026-11-02"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-11-01"
+        "asOf": "2026-11-02"
       }
     ]
   },
@@ -59,8 +59,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-01",
-      "asOf": "2026-11-01",
+      "lastSeen": "2026-11-02",
+      "asOf": "2026-11-02",
       "stale": false,
       "teams": [
         {
@@ -404,8 +404,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-11-01",
-      "asOf": "2026-11-01",
+      "lastSeen": "2026-11-02",
+      "asOf": "2026-11-02",
       "stale": false,
       "teams": [
         {
@@ -1152,7 +1152,32 @@ window.__RESULTS__ = {
           ],
           "results": [],
           "fixtures": [],
-          "players": []
+          "players": [
+            {
+              "name": "Emily MacKay",
+              "won": 2,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/605"
+            },
+            {
+              "name": "Julie Zysman",
+              "won": 2,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/604"
+            },
+            {
+              "name": "Zara Danesh",
+              "won": 2,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/602"
+            },
+            {
+              "name": "Giovanna Bellemo",
+              "won": 1,
+              "lost": 1,
+              "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/606"
+            }
+          ]
         }
       ]
     },
@@ -1160,8 +1185,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-01",
-      "asOf": "2026-11-01",
+      "lastSeen": "2026-11-02",
+      "asOf": "2026-11-02",
       "stale": false,
       "teams": [
         {
@@ -3760,8 +3785,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-11-01",
-      "asOf": "2026-11-01",
+      "lastSeen": "2026-11-02",
+      "asOf": "2026-11-02",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -3810,8 +3835,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "completed",
-      "lastSeen": "2026-11-01",
-      "asOf": "2026-11-01",
+      "lastSeen": "2026-11-02",
+      "asOf": "2026-11-02",
       "stale": false,
       "teams": [
         {
@@ -4847,8 +4872,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "completed",
-      "lastSeen": "2026-11-01",
-      "asOf": "2026-11-01",
+      "lastSeen": "2026-11-02",
+      "asOf": "2026-11-02",
       "stale": false,
       "teams": [
         {
@@ -8561,6 +8586,13 @@ window.__RESULTS__ = {
           "played": 3
         },
         {
+          "name": "Emily MacKay",
+          "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/605",
+          "won": 2,
+          "lost": 2,
+          "played": 4
+        },
+        {
           "name": "Francesco Buffi",
           "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1312",
           "won": 2,
@@ -8601,6 +8633,20 @@ window.__RESULTS__ = {
           "won": 2,
           "lost": 4,
           "played": 6
+        },
+        {
+          "name": "Julie Zysman",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/721",
+          "won": 2,
+          "lost": 4,
+          "played": 6
+        },
+        {
+          "name": "Zara Danesh",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/722",
+          "won": 2,
+          "lost": 6,
+          "played": 8
         },
         {
           "name": "Constance Pelet",
@@ -8673,6 +8719,13 @@ window.__RESULTS__ = {
           "played": 4
         },
         {
+          "name": "Giovanna Bellemo",
+          "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/606",
+          "won": 1,
+          "lost": 3,
+          "played": 4
+        },
+        {
           "name": "Jacky Yu",
           "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1316",
           "won": 1,
@@ -8703,20 +8756,6 @@ window.__RESULTS__ = {
         {
           "name": "Arun Ranganathan",
           "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/944",
-          "won": 0,
-          "lost": 2,
-          "played": 2
-        },
-        {
-          "name": "Emily MacKay",
-          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/720",
-          "won": 0,
-          "lost": 2,
-          "played": 2
-        },
-        {
-          "name": "Giovanna Bellemo",
-          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2721",
           "won": 0,
           "lost": 2,
           "played": 2
@@ -8778,25 +8817,11 @@ window.__RESULTS__ = {
           "played": 2
         },
         {
-          "name": "Julie Zysman",
-          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/721",
-          "won": 0,
-          "lost": 4,
-          "played": 4
-        },
-        {
           "name": "Sam Kennedy",
           "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/723",
           "won": 0,
           "lost": 4,
           "played": 4
-        },
-        {
-          "name": "Zara Danesh",
-          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/722",
-          "won": 0,
-          "lost": 6,
-          "played": 6
         }
       ]
     },
@@ -9764,6 +9789,13 @@ window.__RESULTS__ = {
       "played": 3
     },
     {
+      "name": "Emily MacKay",
+      "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/605",
+      "won": 2,
+      "lost": 2,
+      "played": 4
+    },
+    {
       "name": "Francesco Buffi",
       "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1312",
       "won": 2,
@@ -9804,6 +9836,20 @@ window.__RESULTS__ = {
       "won": 2,
       "lost": 4,
       "played": 6
+    },
+    {
+      "name": "Julie Zysman",
+      "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/721",
+      "won": 2,
+      "lost": 4,
+      "played": 6
+    },
+    {
+      "name": "Zara Danesh",
+      "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/722",
+      "won": 2,
+      "lost": 6,
+      "played": 8
     },
     {
       "name": "Constance Pelet",
@@ -9876,6 +9922,13 @@ window.__RESULTS__ = {
       "played": 4
     },
     {
+      "name": "Giovanna Bellemo",
+      "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/606",
+      "won": 1,
+      "lost": 3,
+      "played": 4
+    },
+    {
       "name": "Jacky Yu",
       "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1316",
       "won": 1,
@@ -9906,20 +9959,6 @@ window.__RESULTS__ = {
     {
       "name": "Arun Ranganathan",
       "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/944",
-      "won": 0,
-      "lost": 2,
-      "played": 2
-    },
-    {
-      "name": "Emily MacKay",
-      "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/720",
-      "won": 0,
-      "lost": 2,
-      "played": 2
-    },
-    {
-      "name": "Giovanna Bellemo",
-      "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2721",
       "won": 0,
       "lost": 2,
       "played": 2
@@ -9981,25 +10020,11 @@ window.__RESULTS__ = {
       "played": 2
     },
     {
-      "name": "Julie Zysman",
-      "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/721",
-      "won": 0,
-      "lost": 4,
-      "played": 4
-    },
-    {
       "name": "Sam Kennedy",
       "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/723",
       "won": 0,
       "lost": 4,
       "played": 4
-    },
-    {
-      "name": "Zara Danesh",
-      "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/722",
-      "won": 0,
-      "lost": 6,
-      "played": 6
     }
   ]
 };
