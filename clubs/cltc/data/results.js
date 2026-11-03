@@ -2,61 +2,61 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-02T21:31:52.186Z",
+  "generatedAt": "2026-11-03T13:56:38.764Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 7,
       "teams": 26,
-      "refreshed": 6,
-      "failed": 0
+      "matches": 552,
+      "players": 24,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-11-02"
+        "asOf": "2026-11-03"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-11-02"
+        "asOf": "2026-11-03"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-11-02"
+        "asOf": "2026-11-03"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-11-02"
+        "asOf": "2026-11-03"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-11-02"
+        "asOf": "2026-11-03"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-11-02"
+        "asOf": "2026-11-03"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-11-02"
+        "asOf": "2026-11-03"
       }
     ]
   },
@@ -65,8 +65,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-02",
-      "asOf": "2026-11-02",
+      "lastSeen": "2026-11-03",
+      "asOf": "2026-11-03",
       "stale": false,
       "teams": [
         {
@@ -821,8 +821,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-11-02",
-      "asOf": "2026-11-02",
+      "lastSeen": "2026-11-03",
+      "asOf": "2026-11-03",
       "stale": false,
       "teams": [
         {
@@ -1155,8 +1155,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-02",
-      "asOf": "2026-11-02",
+      "lastSeen": "2026-11-03",
+      "asOf": "2026-11-03",
       "stale": false,
       "teams": [
         {
@@ -1544,19 +1544,35 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "Finchley Manor Tennis Squash and Health Club 1",
-              "played": 2,
-              "won": 2,
+              "played": 3,
+              "won": 3,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "32-0",
-              "points": 32,
+              "rubbers": "44-4",
+              "points": 44,
               "form": [
+                "W",
                 "W",
                 "W"
               ]
             },
             {
               "rank": 2,
+              "name": "Brondesbury Sports Club 1",
+              "played": 3,
+              "won": 1,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "24-24",
+              "points": 24,
+              "form": [
+                "L",
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "Totteridge Tennis Club 1",
               "played": 2,
               "won": 2,
@@ -1566,20 +1582,6 @@ window.__RESULTS__ = {
               "points": 22,
               "form": [
                 "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 3,
-              "name": "Brondesbury Sports Club 1",
-              "played": 2,
-              "won": 1,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "20-12",
-              "points": 20,
-              "form": [
-                "L",
                 "W"
               ]
             },
@@ -1712,8 +1714,8 @@ window.__RESULTS__ = {
             {
               "home": "Brondesbury Sports Club 1",
               "away": "Finchley Manor Tennis Squash and Health Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 4,
+              "as": 12,
               "date": "Mon 02/11/2026"
             },
             {
@@ -1897,8 +1899,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-11-02",
-      "asOf": "2026-11-02",
+      "lastSeen": "2026-11-03",
+      "asOf": "2026-11-03",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -1952,8 +1954,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "completed",
-      "lastSeen": "2026-11-02",
-      "asOf": "2026-11-02",
+      "lastSeen": "2026-11-03",
+      "asOf": "2026-11-03",
       "stale": false,
       "teams": [
         {
@@ -4667,8 +4669,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "completed",
-      "lastSeen": "2026-11-02",
-      "asOf": "2026-11-02",
+      "lastSeen": "2026-11-03",
+      "asOf": "2026-11-03",
       "stale": false,
       "teams": [
         {
@@ -8750,8 +8752,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "completed",
-      "lastSeen": "2026-11-02",
-      "asOf": "2026-11-02",
+      "lastSeen": "2026-11-03",
+      "asOf": "2026-11-03",
       "stale": false,
       "teams": [
         {
