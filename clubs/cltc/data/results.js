@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-03T19:16:03.544Z",
+  "generatedAt": "2026-11-04T01:06:40.407Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -20,19 +20,19 @@ window.__RESULTS__ = {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-11-03"
+        "asOf": "2026-11-04"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-11-03"
+        "asOf": "2026-11-04"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-11-03"
+        "asOf": "2026-11-04"
       },
       {
         "id": "knockouts",
@@ -65,8 +65,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-03",
-      "asOf": "2026-11-03",
+      "lastSeen": "2026-11-04",
+      "asOf": "2026-11-04",
       "stale": false,
       "teams": [
         {
@@ -821,8 +821,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-11-03",
-      "asOf": "2026-11-03",
+      "lastSeen": "2026-11-04",
+      "asOf": "2026-11-04",
       "stale": false,
       "teams": [
         {
@@ -1155,8 +1155,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-03",
-      "asOf": "2026-11-03",
+      "lastSeen": "2026-11-04",
+      "asOf": "2026-11-04",
       "stale": false,
       "teams": [
         {
@@ -1178,13 +1178,14 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "Totteridge Tennis Club 1",
-              "played": 2,
-              "won": 2,
+              "played": 3,
+              "won": 3,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "25-7",
-              "points": 25,
+              "rubbers": "41-7",
+              "points": 41,
               "form": [
+                "W",
                 "W",
                 "W"
               ]
@@ -1192,15 +1193,16 @@ window.__RESULTS__ = {
             {
               "rank": 2,
               "name": "Mercury LTC 1",
-              "played": 2,
+              "played": 3,
               "won": 2,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "25-7",
+              "lost": 1,
+              "rubbers": "25-23",
               "points": 25,
               "form": [
                 "W",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -1346,8 +1348,8 @@ window.__RESULTS__ = {
             {
               "home": "Totteridge Tennis Club 1",
               "away": "Mercury LTC 1",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 0,
               "date": "Tue 03/11/2026"
             },
             {

@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-03T19:16:27.710Z",
+  "generatedAt": "2026-11-04T01:07:03.027Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -20,19 +20,19 @@ window.__RESULTS__ = {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-11-03"
+        "asOf": "2026-11-04"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-11-03"
+        "asOf": "2026-11-04"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-11-03"
+        "asOf": "2026-11-04"
       },
       {
         "id": "knockouts",
@@ -59,8 +59,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-03",
-      "asOf": "2026-11-03",
+      "lastSeen": "2026-11-04",
+      "asOf": "2026-11-04",
       "stale": false,
       "teams": [
         {
@@ -404,8 +404,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-11-03",
-      "asOf": "2026-11-03",
+      "lastSeen": "2026-11-04",
+      "asOf": "2026-11-04",
       "stale": false,
       "teams": [
         {
@@ -1185,8 +1185,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-03",
-      "asOf": "2026-11-03",
+      "lastSeen": "2026-11-04",
+      "asOf": "2026-11-04",
       "stale": false,
       "teams": [
         {
@@ -1556,13 +1556,14 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "Totteridge Tennis Club 1",
-              "played": 2,
-              "won": 2,
+              "played": 3,
+              "won": 3,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "25-7",
-              "points": 25,
+              "rubbers": "41-7",
+              "points": 41,
               "form": [
+                "W",
                 "W",
                 "W"
               ]
@@ -1570,15 +1571,16 @@ window.__RESULTS__ = {
             {
               "rank": 2,
               "name": "Mercury LTC 1",
-              "played": 2,
+              "played": 3,
               "won": 2,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "25-7",
+              "lost": 1,
+              "rubbers": "25-23",
               "points": 25,
               "form": [
                 "W",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -1724,8 +1726,8 @@ window.__RESULTS__ = {
             {
               "home": "Totteridge Tennis Club 1",
               "away": "Mercury LTC 1",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 0,
               "date": "Tue 03/11/2026"
             },
             {
@@ -1922,13 +1924,14 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "Totteridge Tennis Club 1",
-              "played": 2,
-              "won": 2,
+              "played": 3,
+              "won": 3,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "25-7",
-              "points": 25,
+              "rubbers": "41-7",
+              "points": 41,
               "form": [
+                "W",
                 "W",
                 "W"
               ]
@@ -1936,15 +1939,16 @@ window.__RESULTS__ = {
             {
               "rank": 2,
               "name": "Mercury LTC 1",
-              "played": 2,
+              "played": 3,
               "won": 2,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "25-7",
+              "lost": 1,
+              "rubbers": "25-23",
               "points": 25,
               "form": [
                 "W",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -2090,8 +2094,8 @@ window.__RESULTS__ = {
             {
               "home": "Totteridge Tennis Club 1",
               "away": "Mercury LTC 1",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 0,
               "date": "Tue 03/11/2026"
             },
             {
@@ -3407,7 +3411,7 @@ window.__RESULTS__ = {
           "division": "Division 1 North East",
           "pscName": "Paddington Sports Club 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/10",
-          "position": 1,
+          "position": 2,
           "of": 8,
           "played": 3,
           "won": 3,
@@ -3421,6 +3425,22 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "West Heath Lawn Tennis Club Limited 1",
+              "played": 4,
+              "won": 2,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "40-24",
+              "points": 40,
+              "form": [
+                "W",
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Paddington Sports Club 1",
               "played": 3,
               "won": 3,
@@ -3435,7 +3455,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
+              "rank": 3,
               "name": "Totteridge Tennis Club 1",
               "played": 3,
               "won": 2,
@@ -3449,31 +3469,17 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
-              "name": "West Heath Lawn Tennis Club Limited 1",
-              "played": 3,
+              "rank": 4,
+              "name": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "played": 4,
               "won": 1,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 2,
-              "rubbers": "28-20",
-              "points": 28,
+              "rubbers": "30-34",
+              "points": 30,
               "form": [
                 "W",
                 "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 4,
-              "name": "Oakleigh Park Lawn Tennis & Squash Club 1",
-              "played": 3,
-              "won": 1,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "26-22",
-              "points": 26,
-              "form": [
-                "W",
                 "L"
               ]
             },
@@ -3615,8 +3621,8 @@ window.__RESULTS__ = {
             {
               "home": "West Heath Lawn Tennis Club Limited 1",
               "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 4,
               "date": "Tue 03/11/2026"
             },
             {
