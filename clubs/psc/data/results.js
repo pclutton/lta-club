@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-04T14:08:11.407Z",
+  "generatedAt": "2026-11-04T19:32:20.456Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "matches": 554,
-      "players": 41,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
@@ -852,13 +852,6 @@ window.__RESULTS__ = {
               "date": "Sun 11/10/2026"
             },
             {
-              "home": "The Parsons Green Club 1",
-              "away": "David Lloyd Club Finchley 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 18/10/2026"
-            },
-            {
               "home": "Barnet Lawn Tennis Club 1",
               "away": "The Parsons Green Club 1",
               "hs": null,
@@ -901,6 +894,13 @@ window.__RESULTS__ = {
               "date": "Sun 06/12/2026"
             },
             {
+              "home": "The Parsons Green Club 1",
+              "away": "David Lloyd Club Finchley 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 13/12/2026"
+            },
+            {
               "home": "Barnet Lawn Tennis Club 1",
               "away": "West Middlesex Lawn Tennis Club Ltd 1",
               "hs": null,
@@ -929,15 +929,15 @@ window.__RESULTS__ = {
               "date": "Sun 07/02/2027"
             },
             {
-              "home": "Paddington Sports Club 1",
-              "away": "Teddington Lawn Tennis Club 1",
+              "home": "West Middlesex Lawn Tennis Club Ltd 1",
+              "away": "The Parsons Green Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 07/02/2027"
             },
             {
-              "home": "West Middlesex Lawn Tennis Club Ltd 1",
-              "away": "The Parsons Green Club 1",
+              "home": "Paddington Sports Club 1",
+              "away": "Teddington Lawn Tennis Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 07/02/2027"
@@ -980,13 +980,14 @@ window.__RESULTS__ = {
             {
               "rank": 2,
               "name": "West Middlesex Lawn Tennis Club Ltd 1",
-              "played": 1,
-              "won": 1,
+              "played": 2,
+              "won": 2,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "10-2",
-              "points": 2,
+              "rubbers": "20-4",
+              "points": 4,
               "form": [
+                "W",
                 "W"
               ]
             },
@@ -1006,18 +1007,20 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
-              "name": "Thistleworth LTC 1",
-              "played": 0,
+              "name": "Highgate Cricket and Lawn Tennis Club 1",
+              "played": 1,
               "won": 0,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
+              "lost": 1,
+              "rubbers": "2-10",
               "points": 0,
-              "form": []
+              "form": [
+                "L"
+              ]
             },
             {
               "rank": 5,
-              "name": "Highgate Cricket and Lawn Tennis Club 1",
+              "name": "Thistleworth LTC 1",
               "played": 1,
               "won": 0,
               "drawn": 0,
@@ -1068,8 +1071,8 @@ window.__RESULTS__ = {
             {
               "home": "Thistleworth LTC 1",
               "away": "West Middlesex Lawn Tennis Club Ltd 1",
-              "hs": null,
-              "as": null,
+              "hs": 2,
+              "as": 10,
               "date": "Sun 01/11/2026"
             },
             {
