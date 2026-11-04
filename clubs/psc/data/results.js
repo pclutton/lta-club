@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-04T01:07:03.027Z",
+  "generatedAt": "2026-11-04T14:08:11.407Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 554,
+      "players": 41,
+      "stale": 0
     },
     "competitions": [
       {
@@ -38,19 +38,19 @@ window.__RESULTS__ = {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-11-03"
+        "asOf": "2026-11-04"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-11-03"
+        "asOf": "2026-11-04"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-11-03"
+        "asOf": "2026-11-04"
       }
     ]
   },
@@ -866,15 +866,15 @@ window.__RESULTS__ = {
               "date": "Sat 14/11/2026"
             },
             {
-              "home": "David Lloyd Club Finchley 1",
-              "away": "Paddington Sports Club 1",
+              "home": "Teddington Lawn Tennis Club 1",
+              "away": "West Middlesex Lawn Tennis Club Ltd 1",
               "hs": null,
               "as": null,
               "date": "Sun 15/11/2026"
             },
             {
-              "home": "Teddington Lawn Tennis Club 1",
-              "away": "West Middlesex Lawn Tennis Club Ltd 1",
+              "home": "David Lloyd Club Finchley 1",
+              "away": "Paddington Sports Club 1",
               "hs": null,
               "as": null,
               "date": "Sun 15/11/2026"
@@ -2325,6 +2325,35 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Harrow Lawn Tennis Club 1",
+              "played": 3,
+              "won": 1,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "24-24",
+              "points": 24,
+              "form": [
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
+              "name": "Harrow Lawn Tennis Club 2",
+              "played": 3,
+              "won": 1,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "20-28",
+              "points": 20,
+              "form": [
+                "W",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Wayfarers LTC 1",
               "played": 2,
               "won": 1,
@@ -2338,35 +2367,8 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
-              "name": "Lowlands Club 1",
-              "played": 2,
-              "won": 1,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "14-18",
-              "points": 14,
-              "form": [
-                "W",
-                "L"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "Harrow Lawn Tennis Club 1",
-              "played": 2,
-              "won": 0,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "14-18",
-              "points": 14,
-              "form": [
-                "L"
-              ]
-            },
-            {
               "rank": 6,
-              "name": "Harrow Lawn Tennis Club 2",
+              "name": "Lowlands Club 1",
               "played": 2,
               "won": 1,
               "drawn": 0,
@@ -2475,8 +2477,8 @@ window.__RESULTS__ = {
             {
               "home": "Harrow Lawn Tennis Club 1",
               "away": "Harrow Lawn Tennis Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 10,
+              "as": 6,
               "date": "Tue 03/11/2026"
             },
             {
@@ -2706,6 +2708,35 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Harrow Lawn Tennis Club 1",
+              "played": 3,
+              "won": 1,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "24-24",
+              "points": 24,
+              "form": [
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
+              "name": "Harrow Lawn Tennis Club 2",
+              "played": 3,
+              "won": 1,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "20-28",
+              "points": 20,
+              "form": [
+                "W",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Wayfarers LTC 1",
               "played": 2,
               "won": 1,
@@ -2719,35 +2750,8 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
-              "name": "Lowlands Club 1",
-              "played": 2,
-              "won": 1,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "14-18",
-              "points": 14,
-              "form": [
-                "W",
-                "L"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "Harrow Lawn Tennis Club 1",
-              "played": 2,
-              "won": 0,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "14-18",
-              "points": 14,
-              "form": [
-                "L"
-              ]
-            },
-            {
               "rank": 6,
-              "name": "Harrow Lawn Tennis Club 2",
+              "name": "Lowlands Club 1",
               "played": 2,
               "won": 1,
               "drawn": 0,
@@ -2856,8 +2860,8 @@ window.__RESULTS__ = {
             {
               "home": "Harrow Lawn Tennis Club 1",
               "away": "Harrow Lawn Tennis Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 10,
+              "as": 6,
               "date": "Tue 03/11/2026"
             },
             {
@@ -3045,7 +3049,7 @@ window.__RESULTS__ = {
           "division": "Division 3 West",
           "pscName": "Paddington Sports Club 3",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/43",
-          "position": 2,
+          "position": 3,
           "of": 8,
           "played": 2,
           "won": 1,
@@ -3058,6 +3062,21 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Twickenham Lawn Tennis Club 1",
+              "played": 3,
+              "won": 3,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "36-12",
+              "points": 36,
+              "form": [
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Park Sports - Lammas Park 1",
               "played": 2,
               "won": 2,
@@ -3071,7 +3090,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
+              "rank": 3,
               "name": "Paddington Sports Club 3",
               "played": 2,
               "won": 1,
@@ -3085,31 +3104,18 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
-              "name": "Twickenham Lawn Tennis Club 1",
-              "played": 2,
-              "won": 2,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "22-10",
-              "points": 22,
-              "form": [
-                "W",
-                "W"
-              ]
-            },
-            {
               "rank": 4,
               "name": "Holland Park Lawn Tennis Club 2",
-              "played": 2,
+              "played": 3,
               "won": 1,
               "drawn": 0,
-              "lost": 1,
-              "rubbers": "18-14",
-              "points": 18,
+              "lost": 2,
+              "rubbers": "20-28",
+              "points": 20,
               "form": [
                 "L",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -3227,8 +3233,8 @@ window.__RESULTS__ = {
             {
               "home": "Holland Park Lawn Tennis Club 2",
               "away": "Twickenham Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 2,
+              "as": 14,
               "date": "Tue 03/11/2026"
             },
             {
@@ -3791,8 +3797,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-11-03",
-      "asOf": "2026-11-03",
+      "lastSeen": "2026-11-04",
+      "asOf": "2026-11-04",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -3841,8 +3847,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "completed",
-      "lastSeen": "2026-11-03",
-      "asOf": "2026-11-03",
+      "lastSeen": "2026-11-04",
+      "asOf": "2026-11-04",
       "stale": false,
       "teams": [
         {
@@ -4878,8 +4884,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "completed",
-      "lastSeen": "2026-11-03",
-      "asOf": "2026-11-03",
+      "lastSeen": "2026-11-04",
+      "asOf": "2026-11-04",
       "stale": false,
       "teams": [
         {
