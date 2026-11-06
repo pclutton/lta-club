@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-05T19:41:51.453Z",
+  "generatedAt": "2026-11-06T01:25:45.641Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -20,19 +20,19 @@ window.__RESULTS__ = {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-11-05"
+        "asOf": "2026-11-06"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-11-05"
+        "asOf": "2026-11-06"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-11-05"
+        "asOf": "2026-11-06"
       },
       {
         "id": "knockouts",
@@ -59,8 +59,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-05",
-      "asOf": "2026-11-05",
+      "lastSeen": "2026-11-06",
+      "asOf": "2026-11-06",
       "stale": false,
       "teams": [
         {
@@ -404,8 +404,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-11-05",
-      "asOf": "2026-11-05",
+      "lastSeen": "2026-11-06",
+      "asOf": "2026-11-06",
       "stale": false,
       "teams": [
         {
@@ -1188,8 +1188,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-05",
-      "asOf": "2026-11-05",
+      "lastSeen": "2026-11-06",
+      "asOf": "2026-11-06",
       "stale": false,
       "teams": [
         {
@@ -1209,6 +1209,20 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Finchley Manor Tennis Squash and Health Club 1",
+              "played": 3,
+              "won": 2,
+              "drawn": 1,
+              "lost": 0,
+              "rubbers": "32-16",
+              "points": 32,
+              "form": [
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Elmwood Lawn Tennis Club 1",
               "played": 2,
               "won": 1,
@@ -1221,7 +1235,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
+              "rank": 3,
               "name": "West Heath Lawn Tennis Club Limited 1",
               "played": 2,
               "won": 2,
@@ -1235,29 +1249,17 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 3,
-              "name": "Finchley Manor Tennis Squash and Health Club 1",
+              "rank": 4,
+              "name": "David Lloyd Club Finchley 1",
               "played": 2,
               "won": 1,
-              "drawn": 1,
-              "lost": 0,
+              "drawn": 0,
+              "lost": 1,
               "rubbers": "18-14",
               "points": 18,
               "form": [
-                "W"
-              ]
-            },
-            {
-              "rank": 4,
-              "name": "David Lloyd Club Finchley 1",
-              "played": 1,
-              "won": 1,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "16-0",
-              "points": 16,
-              "form": [
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -1374,8 +1376,8 @@ window.__RESULTS__ = {
             {
               "home": "David Lloyd Club Finchley 1",
               "away": "Finchley Manor Tennis Squash and Health Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 2,
+              "as": 14,
               "date": "Thu 29/10/2026"
             },
             {
