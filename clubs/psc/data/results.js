@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-07T00:42:51.263Z",
+  "generatedAt": "2026-11-07T12:49:15.197Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 554,
+      "players": 41,
+      "stale": 0
     },
     "competitions": [
       {
@@ -38,19 +38,19 @@ window.__RESULTS__ = {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-11-06"
+        "asOf": "2026-11-07"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-11-06"
+        "asOf": "2026-11-07"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-11-06"
+        "asOf": "2026-11-07"
       }
     ]
   },
@@ -3802,8 +3802,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-11-06",
-      "asOf": "2026-11-06",
+      "lastSeen": "2026-11-07",
+      "asOf": "2026-11-07",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -3852,8 +3852,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "completed",
-      "lastSeen": "2026-11-06",
-      "asOf": "2026-11-06",
+      "lastSeen": "2026-11-07",
+      "asOf": "2026-11-07",
       "stale": false,
       "teams": [
         {
@@ -4889,8 +4889,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "completed",
-      "lastSeen": "2026-11-06",
-      "asOf": "2026-11-06",
+      "lastSeen": "2026-11-07",
+      "asOf": "2026-11-07",
       "stale": false,
       "teams": [
         {
