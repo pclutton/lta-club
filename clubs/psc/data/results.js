@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-08T17:47:11.069Z",
+  "generatedAt": "2026-11-08T22:42:40.357Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -413,13 +413,15 @@ window.__RESULTS__ = {
           "division": "Div 1",
           "pscName": "Paddington Sports Club 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/676686EB-7D35-4816-9BE5-DDEC7913DA16/draw/16",
-          "position": 3,
+          "position": 5,
           "of": 6,
-          "played": 0,
+          "played": 1,
           "won": 0,
-          "lost": 0,
+          "lost": 1,
           "points": 0,
-          "form": [],
+          "form": [
+            "L"
+          ],
           "standings": [
             {
               "rank": 1,
@@ -450,14 +452,17 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
-              "name": "Paddington Sports Club 1",
-              "played": 0,
-              "won": 0,
+              "name": "West Middlesex Lawn Tennis Club Ltd 1",
+              "played": 2,
+              "won": 1,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
+              "lost": 1,
+              "rubbers": "16-8",
+              "points": 2,
+              "form": [
+                "L",
+                "W"
+              ]
             },
             {
               "rank": 4,
@@ -472,12 +477,12 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
-              "name": "West Middlesex Lawn Tennis Club Ltd 1",
+              "name": "Paddington Sports Club 1",
               "played": 1,
               "won": 0,
               "drawn": 0,
               "lost": 1,
-              "rubbers": "4-8",
+              "rubbers": "0-12",
               "points": 0,
               "form": [
                 "L"
@@ -530,8 +535,8 @@ window.__RESULTS__ = {
             {
               "home": "West Middlesex Lawn Tennis Club Ltd 1",
               "away": "Paddington Sports Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 0,
               "date": "Sun 08/11/2026"
             },
             {
