@@ -2,55 +2,55 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-07T22:32:23.724Z",
+  "generatedAt": "2026-11-08T13:06:46.452Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 554,
+      "players": 41,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-11-07"
+        "asOf": "2026-11-08"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-11-07"
+        "asOf": "2026-11-08"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-11-07"
+        "asOf": "2026-11-08"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-11-07"
+        "asOf": "2026-11-08"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-11-07"
+        "asOf": "2026-11-08"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-11-07"
+        "asOf": "2026-11-08"
       }
     ]
   },
@@ -59,8 +59,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-07",
-      "asOf": "2026-11-07",
+      "lastSeen": "2026-11-08",
+      "asOf": "2026-11-08",
       "stale": false,
       "teams": [
         {
@@ -404,8 +404,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-11-07",
-      "asOf": "2026-11-07",
+      "lastSeen": "2026-11-08",
+      "asOf": "2026-11-08",
       "stale": false,
       "teams": [
         {
@@ -424,13 +424,14 @@ window.__RESULTS__ = {
             {
               "rank": 1,
               "name": "Brentham Lawn Tennis Club 1",
-              "played": 1,
-              "won": 1,
+              "played": 2,
+              "won": 2,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "8-4",
-              "points": 2,
+              "rubbers": "16-8",
+              "points": 4,
               "form": [
+                "W",
                 "W"
               ]
             },
@@ -471,19 +472,6 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
-              "name": "Uxbridge LTC 1",
-              "played": 1,
-              "won": 0,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "6-6",
-              "points": 0,
-              "form": [
-                "L"
-              ]
-            },
-            {
-              "rank": 6,
               "name": "West Middlesex Lawn Tennis Club Ltd 1",
               "played": 1,
               "won": 0,
@@ -492,6 +480,20 @@ window.__RESULTS__ = {
               "rubbers": "4-8",
               "points": 0,
               "form": [
+                "L"
+              ]
+            },
+            {
+              "rank": 6,
+              "name": "Uxbridge LTC 1",
+              "played": 2,
+              "won": 0,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "10-14",
+              "points": 0,
+              "form": [
+                "L",
                 "L"
               ]
             }
@@ -514,8 +516,8 @@ window.__RESULTS__ = {
             {
               "home": "Uxbridge LTC 1",
               "away": "Brentham Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 4,
+              "as": 8,
               "date": "Sat 07/11/2026"
             },
             {
@@ -1188,8 +1190,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-07",
-      "asOf": "2026-11-07",
+      "lastSeen": "2026-11-08",
+      "asOf": "2026-11-08",
       "stale": false,
       "teams": [
         {
@@ -3802,8 +3804,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-11-07",
-      "asOf": "2026-11-07",
+      "lastSeen": "2026-11-08",
+      "asOf": "2026-11-08",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -3852,8 +3854,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "completed",
-      "lastSeen": "2026-11-07",
-      "asOf": "2026-11-07",
+      "lastSeen": "2026-11-08",
+      "asOf": "2026-11-08",
       "stale": false,
       "teams": [
         {
@@ -4889,8 +4891,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "completed",
-      "lastSeen": "2026-11-07",
-      "asOf": "2026-11-07",
+      "lastSeen": "2026-11-08",
+      "asOf": "2026-11-08",
       "stale": false,
       "teams": [
         {

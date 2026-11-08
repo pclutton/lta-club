@@ -2,61 +2,61 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-07T22:31:58.806Z",
+  "generatedAt": "2026-11-08T13:03:44.686Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 7,
       "teams": 26,
-      "refreshed": 6,
-      "failed": 0
+      "matches": 552,
+      "players": 25,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-11-07"
+        "asOf": "2026-11-08"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-11-07"
+        "asOf": "2026-11-08"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-11-07"
+        "asOf": "2026-11-08"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-11-07"
+        "asOf": "2026-11-08"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-11-07"
+        "asOf": "2026-11-08"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-11-07"
+        "asOf": "2026-11-08"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-11-07"
+        "asOf": "2026-11-08"
       }
     ]
   },
@@ -65,8 +65,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-07",
-      "asOf": "2026-11-07",
+      "lastSeen": "2026-11-08",
+      "asOf": "2026-11-08",
       "stale": false,
       "teams": [
         {
@@ -821,8 +821,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-11-07",
-      "asOf": "2026-11-07",
+      "lastSeen": "2026-11-08",
+      "asOf": "2026-11-08",
       "stale": false,
       "teams": [
         {
@@ -980,24 +980,26 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/676686EB-7D35-4816-9BE5-DDEC7913DA16/draw/1",
           "position": 1,
           "of": 5,
-          "played": 1,
-          "won": 1,
+          "played": 2,
+          "won": 2,
           "lost": 0,
-          "points": 2,
+          "points": 4,
           "form": [
+            "W",
             "W"
           ],
           "standings": [
             {
               "rank": 1,
               "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "played": 1,
-              "won": 1,
+              "played": 2,
+              "won": 2,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "34-2",
-              "points": 2,
+              "rubbers": "64-8",
+              "points": 4,
               "form": [
+                "W",
                 "W"
               ]
             },
@@ -1026,13 +1028,15 @@ window.__RESULTS__ = {
             {
               "rank": 4,
               "name": "Coolhurst LTC 1",
-              "played": 0,
+              "played": 1,
               "won": 0,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
+              "lost": 1,
+              "rubbers": "6-30",
               "points": 0,
-              "form": []
+              "form": [
+                "L"
+              ]
             },
             {
               "rank": 5,
@@ -1073,8 +1077,8 @@ window.__RESULTS__ = {
             {
               "home": "Coolhurst LTC 1",
               "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "hs": null,
-              "as": null,
+              "hs": 6,
+              "as": 30,
               "date": "Sat 07/11/2026"
             },
             {
@@ -1125,15 +1129,21 @@ window.__RESULTS__ = {
           "players": [
             {
               "name": "AJ O'Reilly",
-              "won": 5,
+              "won": 10,
               "lost": 0,
               "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/240"
             },
             {
               "name": "Joseph Pizzanelli",
-              "won": 5,
-              "lost": 0,
+              "won": 9,
+              "lost": 1,
               "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/239"
+            },
+            {
+              "name": "Amelia Klimbacher",
+              "won": 8,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/241"
             },
             {
               "name": "Marc-Emmanuel Zoonekynd",
@@ -1142,10 +1152,10 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/238"
             },
             {
-              "name": "Amelia Klimbacher",
+              "name": "Sophia Cecchin",
               "won": 4,
               "lost": 1,
-              "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/241"
+              "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/639"
             }
           ]
         }
@@ -1155,8 +1165,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-07",
-      "asOf": "2026-11-07",
+      "lastSeen": "2026-11-08",
+      "asOf": "2026-11-08",
       "stale": false,
       "teams": [
         {
@@ -1901,8 +1911,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-11-07",
-      "asOf": "2026-11-07",
+      "lastSeen": "2026-11-08",
+      "asOf": "2026-11-08",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -1956,8 +1966,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "completed",
-      "lastSeen": "2026-11-07",
-      "asOf": "2026-11-07",
+      "lastSeen": "2026-11-08",
+      "asOf": "2026-11-08",
       "stale": false,
       "teams": [
         {
@@ -4671,8 +4681,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "completed",
-      "lastSeen": "2026-11-07",
-      "asOf": "2026-11-07",
+      "lastSeen": "2026-11-08",
+      "asOf": "2026-11-08",
       "stale": false,
       "teams": [
         {
@@ -8754,8 +8764,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "completed",
-      "lastSeen": "2026-11-07",
-      "asOf": "2026-11-07",
+      "lastSeen": "2026-11-08",
+      "asOf": "2026-11-08",
       "stale": false,
       "teams": [
         {
@@ -9203,16 +9213,23 @@ window.__RESULTS__ = {
         {
           "name": "AJ O'Reilly",
           "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/240",
-          "won": 5,
+          "won": 10,
           "lost": 0,
-          "played": 5
+          "played": 10
         },
         {
           "name": "Joseph Pizzanelli",
           "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/239",
-          "won": 5,
-          "lost": 0,
-          "played": 5
+          "won": 9,
+          "lost": 1,
+          "played": 10
+        },
+        {
+          "name": "Amelia Klimbacher",
+          "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/241",
+          "won": 8,
+          "lost": 2,
+          "played": 10
         },
         {
           "name": "Marc-Emmanuel Zoonekynd",
@@ -9222,8 +9239,8 @@ window.__RESULTS__ = {
           "played": 5
         },
         {
-          "name": "Amelia Klimbacher",
-          "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/241",
+          "name": "Sophia Cecchin",
+          "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/639",
           "won": 4,
           "lost": 1,
           "played": 5
@@ -10546,16 +10563,23 @@ window.__RESULTS__ = {
     {
       "name": "AJ O'Reilly",
       "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/240",
-      "won": 5,
+      "won": 10,
       "lost": 0,
-      "played": 5
+      "played": 10
     },
     {
       "name": "Joseph Pizzanelli",
       "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/239",
-      "won": 5,
-      "lost": 0,
-      "played": 5
+      "won": 9,
+      "lost": 1,
+      "played": 10
+    },
+    {
+      "name": "Amelia Klimbacher",
+      "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/241",
+      "won": 8,
+      "lost": 2,
+      "played": 10
     },
     {
       "name": "Marc-Emmanuel Zoonekynd",
@@ -10565,8 +10589,8 @@ window.__RESULTS__ = {
       "played": 5
     },
     {
-      "name": "Amelia Klimbacher",
-      "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/241",
+      "name": "Sophia Cecchin",
+      "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/639",
       "won": 4,
       "lost": 1,
       "played": 5
