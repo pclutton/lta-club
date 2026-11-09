@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-09T15:49:20.997Z",
+  "generatedAt": "2026-11-09T22:04:59.699Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "matches": 554,
-      "players": 45,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
@@ -461,12 +461,12 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
-              "name": "David Lloyd Club Finchley 1",
+              "name": "The Queens Club Limited 1",
               "played": 1,
               "won": 1,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "6-6",
+              "rubbers": "12-0",
               "points": 2,
               "form": [
                 "W"
@@ -488,14 +488,17 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
-              "name": "The Queens Club Limited 1",
-              "played": 0,
-              "won": 0,
+              "name": "David Lloyd Club Finchley 1",
+              "played": 2,
+              "won": 1,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
+              "lost": 1,
+              "rubbers": "6-18",
+              "points": 2,
+              "form": [
+                "W",
+                "L"
+              ]
             },
             {
               "rank": 5,
@@ -550,8 +553,8 @@ window.__RESULTS__ = {
             {
               "home": "David Lloyd Club Finchley 1",
               "away": "The Queens Club Limited 1",
-              "hs": null,
-              "as": null,
+              "hs": 0,
+              "as": 12,
               "date": "Sun 08/11/2026"
             },
             {
