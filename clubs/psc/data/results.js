@@ -2,55 +2,55 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-09T22:04:59.699Z",
+  "generatedAt": "2026-11-10T14:42:58.821Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 554,
+      "players": 45,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-11-09"
+        "asOf": "2026-11-10"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-11-09"
+        "asOf": "2026-11-10"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-11-09"
+        "asOf": "2026-11-10"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-11-09"
+        "asOf": "2026-11-10"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-11-09"
+        "asOf": "2026-11-10"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-11-09"
+        "asOf": "2026-11-10"
       }
     ]
   },
@@ -59,8 +59,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-09",
-      "asOf": "2026-11-09",
+      "lastSeen": "2026-11-10",
+      "asOf": "2026-11-10",
       "stale": false,
       "teams": [
         {
@@ -426,8 +426,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-11-09",
-      "asOf": "2026-11-09",
+      "lastSeen": "2026-11-10",
+      "asOf": "2026-11-10",
       "stale": false,
       "teams": [
         {
@@ -1247,8 +1247,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-09",
-      "asOf": "2026-11-09",
+      "lastSeen": "2026-11-10",
+      "asOf": "2026-11-10",
       "stale": false,
       "teams": [
         {
@@ -3540,6 +3540,22 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
+              "name": "Totteridge Tennis Club 2",
+              "played": 4,
+              "won": 2,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "30-34",
+              "points": 30,
+              "form": [
+                "L",
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Oakleigh Park Lawn Tennis & Squash Club 1",
               "played": 4,
               "won": 1,
@@ -3554,7 +3570,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
+              "rank": 6,
               "name": "David Lloyd Club Finchley 1",
               "played": 2,
               "won": 1,
@@ -3567,30 +3583,16 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 6,
-              "name": "Totteridge Tennis Club 2",
-              "played": 3,
-              "won": 1,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "18-30",
-              "points": 18,
-              "form": [
-                "L",
-                "L",
-                "W"
-              ]
-            },
-            {
               "rank": 7,
               "name": "Oakleigh Park Lawn Tennis & Squash Club 2",
-              "played": 3,
+              "played": 4,
               "won": 0,
               "drawn": 1,
-              "lost": 2,
-              "rubbers": "12-36",
-              "points": 12,
+              "lost": 3,
+              "rubbers": "16-48",
+              "points": 16,
               "form": [
+                "L",
                 "L",
                 "L"
               ]
@@ -3698,8 +3700,8 @@ window.__RESULTS__ = {
             {
               "home": "Totteridge Tennis Club 2",
               "away": "Oakleigh Park Lawn Tennis & Squash Club 2",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 4,
               "date": "Mon 09/11/2026"
             },
             {
@@ -3861,8 +3863,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-11-09",
-      "asOf": "2026-11-09",
+      "lastSeen": "2026-11-10",
+      "asOf": "2026-11-10",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -3911,8 +3913,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "completed",
-      "lastSeen": "2026-11-09",
-      "asOf": "2026-11-09",
+      "lastSeen": "2026-11-10",
+      "asOf": "2026-11-10",
       "stale": false,
       "teams": [
         {
@@ -4948,8 +4950,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "completed",
-      "lastSeen": "2026-11-09",
-      "asOf": "2026-11-09",
+      "lastSeen": "2026-11-10",
+      "asOf": "2026-11-10",
       "stale": false,
       "teams": [
         {
