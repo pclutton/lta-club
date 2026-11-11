@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-11T01:06:27.843Z",
+  "generatedAt": "2026-11-11T13:54:37.686Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 7,
       "teams": 26,
-      "refreshed": 6,
-      "failed": 0
+      "matches": 552,
+      "players": 27,
+      "stale": 0
     },
     "competitions": [
       {
@@ -38,25 +38,25 @@ window.__RESULTS__ = {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-11-10"
+        "asOf": "2026-11-11"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-11-10"
+        "asOf": "2026-11-11"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-11-10"
+        "asOf": "2026-11-11"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-11-10"
+        "asOf": "2026-11-11"
       }
     ]
   },
@@ -74,18 +74,33 @@ window.__RESULTS__ = {
           "division": "South East North",
           "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/F06AA797-DB87-4AAE-8882-A5C720EE2874/draw/7",
-          "position": 2,
+          "position": 1,
           "of": 8,
-          "played": 1,
-          "won": 1,
+          "played": 2,
+          "won": 2,
           "lost": 0,
-          "points": 5,
+          "points": 9,
           "form": [
+            "W",
             "W"
           ],
           "standings": [
             {
               "rank": 1,
+              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "played": 2,
+              "won": 2,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "7-1",
+              "points": 9,
+              "form": [
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "The Queens Club Limited 1",
               "played": 1,
               "won": 1,
@@ -98,42 +113,20 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 2,
-              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "rank": 3,
+              "name": "Harpenden LTC 1",
               "played": 1,
-              "won": 1,
+              "won": 0,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "4-0",
-              "points": 5,
+              "lost": 1,
+              "rubbers": "1-3",
+              "points": 1,
               "form": [
-                "W"
+                "L"
               ]
             },
             {
-              "rank": 3,
-              "name": "Stoke Poges LTC 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
               "rank": 4,
-              "name": "Harpenden LTC 1",
-              "played": 0,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
-            },
-            {
-              "rank": 5,
               "name": "Berkhamsted Lawn Tennis & Squash Rackets Club 1",
               "played": 0,
               "won": 0,
@@ -144,7 +137,7 @@ window.__RESULTS__ = {
               "form": []
             },
             {
-              "rank": 6,
+              "rank": 5,
               "name": "Halton Tennis Centre 1",
               "played": 0,
               "won": 0,
@@ -155,8 +148,19 @@ window.__RESULTS__ = {
               "form": []
             },
             {
+              "rank": 6,
+              "name": "Stoke Poges LTC 1",
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "0-0",
+              "points": 0,
+              "form": []
+            },
+            {
               "rank": 7,
-              "name": "Campden Hill Lawn Tennis Club 1",
+              "name": "Windsor Lawn Tennis Club 1",
               "played": 1,
               "won": 0,
               "drawn": 0,
@@ -169,7 +173,7 @@ window.__RESULTS__ = {
             },
             {
               "rank": 8,
-              "name": "Windsor Lawn Tennis Club 1",
+              "name": "Campden Hill Lawn Tennis Club 1",
               "played": 1,
               "won": 0,
               "drawn": 0,
@@ -213,8 +217,8 @@ window.__RESULTS__ = {
             {
               "home": "Harpenden LTC 1",
               "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "hs": null,
-              "as": null,
+              "hs": 1,
+              "as": 3,
               "date": "Sun 08/11/2026"
             },
             {
@@ -384,13 +388,13 @@ window.__RESULTS__ = {
           "players": [
             {
               "name": "Benjamin Clark",
-              "won": 2,
+              "won": 4,
               "lost": 0,
               "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/389"
             },
             {
               "name": "Jacob Coenraad de klerk",
-              "won": 2,
+              "won": 4,
               "lost": 0,
               "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/390"
             },
@@ -405,6 +409,18 @@ window.__RESULTS__ = {
               "won": 2,
               "lost": 0,
               "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/397"
+            },
+            {
+              "name": "Mark Keothavong",
+              "won": 1,
+              "lost": 1,
+              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/402"
+            },
+            {
+              "name": "Neel Khimasia",
+              "won": 1,
+              "lost": 1,
+              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/947"
             },
             {
               "name": "Ben Jones",
@@ -423,12 +439,6 @@ window.__RESULTS__ = {
               "won": 0,
               "lost": 0,
               "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/392"
-            },
-            {
-              "name": "Mark Keothavong",
-              "won": 0,
-              "lost": 0,
-              "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/402"
             },
             {
               "name": "Matthew Kirby",
@@ -1914,8 +1924,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-11-10",
-      "asOf": "2026-11-10",
+      "lastSeen": "2026-11-11",
+      "asOf": "2026-11-11",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -1969,8 +1979,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "completed",
-      "lastSeen": "2026-11-10",
-      "asOf": "2026-11-10",
+      "lastSeen": "2026-11-11",
+      "asOf": "2026-11-11",
       "stale": false,
       "teams": [
         {
@@ -4684,8 +4694,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "completed",
-      "lastSeen": "2026-11-10",
-      "asOf": "2026-11-10",
+      "lastSeen": "2026-11-11",
+      "asOf": "2026-11-11",
       "stale": false,
       "teams": [
         {
@@ -8767,8 +8777,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "completed",
-      "lastSeen": "2026-11-10",
-      "asOf": "2026-11-10",
+      "lastSeen": "2026-11-11",
+      "asOf": "2026-11-11",
       "stale": false,
       "teams": [
         {
@@ -9242,6 +9252,20 @@ window.__RESULTS__ = {
           "played": 5
         },
         {
+          "name": "Benjamin Clark",
+          "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/389",
+          "won": 4,
+          "lost": 0,
+          "played": 4
+        },
+        {
+          "name": "Jacob Coenraad de klerk",
+          "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/390",
+          "won": 4,
+          "lost": 0,
+          "played": 4
+        },
+        {
           "name": "Sophia Cecchin",
           "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/639",
           "won": 4,
@@ -9249,22 +9273,8 @@ window.__RESULTS__ = {
           "played": 5
         },
         {
-          "name": "Benjamin Clark",
-          "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/389",
-          "won": 2,
-          "lost": 0,
-          "played": 2
-        },
-        {
           "name": "Georgie Walker",
           "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/792",
-          "won": 2,
-          "lost": 0,
-          "played": 2
-        },
-        {
-          "name": "Jacob Coenraad de klerk",
-          "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/390",
           "won": 2,
           "lost": 0,
           "played": 2
@@ -9328,6 +9338,20 @@ window.__RESULTS__ = {
         {
           "name": "Elena Ciampichetti",
           "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2249",
+          "won": 1,
+          "lost": 1,
+          "played": 2
+        },
+        {
+          "name": "Mark Keothavong",
+          "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/402",
+          "won": 1,
+          "lost": 1,
+          "played": 2
+        },
+        {
+          "name": "Neel Khimasia",
+          "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/947",
           "won": 1,
           "lost": 1,
           "played": 2
@@ -10592,6 +10616,20 @@ window.__RESULTS__ = {
       "played": 5
     },
     {
+      "name": "Benjamin Clark",
+      "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/389",
+      "won": 4,
+      "lost": 0,
+      "played": 4
+    },
+    {
+      "name": "Jacob Coenraad de klerk",
+      "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/390",
+      "won": 4,
+      "lost": 0,
+      "played": 4
+    },
+    {
       "name": "Sophia Cecchin",
       "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/639",
       "won": 4,
@@ -10599,22 +10637,8 @@ window.__RESULTS__ = {
       "played": 5
     },
     {
-      "name": "Benjamin Clark",
-      "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/389",
-      "won": 2,
-      "lost": 0,
-      "played": 2
-    },
-    {
       "name": "Georgie Walker",
       "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/792",
-      "won": 2,
-      "lost": 0,
-      "played": 2
-    },
-    {
-      "name": "Jacob Coenraad de klerk",
-      "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/390",
       "won": 2,
       "lost": 0,
       "played": 2
@@ -10678,6 +10702,20 @@ window.__RESULTS__ = {
     {
       "name": "Elena Ciampichetti",
       "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2249",
+      "won": 1,
+      "lost": 1,
+      "played": 2
+    },
+    {
+      "name": "Mark Keothavong",
+      "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/402",
+      "won": 1,
+      "lost": 1,
+      "played": 2
+    },
+    {
+      "name": "Neel Khimasia",
+      "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/947",
       "won": 1,
       "lost": 1,
       "played": 2
