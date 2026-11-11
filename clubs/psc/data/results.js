@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-10T19:29:05.731Z",
+  "generatedAt": "2026-11-11T01:06:50.819Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -20,19 +20,19 @@ window.__RESULTS__ = {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-11-10"
+        "asOf": "2026-11-11"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-11-10"
+        "asOf": "2026-11-11"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-11-10"
+        "asOf": "2026-11-11"
       },
       {
         "id": "knockouts",
@@ -59,8 +59,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-10",
-      "asOf": "2026-11-10",
+      "lastSeen": "2026-11-11",
+      "asOf": "2026-11-11",
       "stale": false,
       "teams": [
         {
@@ -426,8 +426,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-11-10",
-      "asOf": "2026-11-10",
+      "lastSeen": "2026-11-11",
+      "asOf": "2026-11-11",
       "stale": false,
       "teams": [
         {
@@ -1247,8 +1247,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-10",
-      "asOf": "2026-11-10",
+      "lastSeen": "2026-11-11",
+      "asOf": "2026-11-11",
       "stale": false,
       "teams": [
         {
