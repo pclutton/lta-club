@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-12T02:10:03.764Z",
+  "generatedAt": "2026-11-12T14:59:47.240Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 554,
+      "players": 45,
+      "stale": 0
     },
     "competitions": [
       {
@@ -38,19 +38,19 @@ window.__RESULTS__ = {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-11-11"
+        "asOf": "2026-11-12"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-11-11"
+        "asOf": "2026-11-12"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-11-11"
+        "asOf": "2026-11-12"
       }
     ]
   },
@@ -930,13 +930,6 @@ window.__RESULTS__ = {
               "date": "Sun 15/11/2026"
             },
             {
-              "home": "West Middlesex Lawn Tennis Club Ltd 1",
-              "away": "David Lloyd Club Finchley 1",
-              "hs": null,
-              "as": null,
-              "date": "Sun 06/12/2026"
-            },
-            {
               "home": "Paddington Sports Club 1",
               "away": "Barnet Lawn Tennis Club 1",
               "hs": null,
@@ -998,6 +991,13 @@ window.__RESULTS__ = {
               "hs": null,
               "as": null,
               "date": "Sun 07/02/2027"
+            },
+            {
+              "home": "West Middlesex Lawn Tennis Club Ltd 1",
+              "away": "David Lloyd Club Finchley 1",
+              "hs": null,
+              "as": null,
+              "date": "Sun 07/03/2027"
             }
           ],
           "results": [],
@@ -3863,8 +3863,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-11-11",
-      "asOf": "2026-11-11",
+      "lastSeen": "2026-11-12",
+      "asOf": "2026-11-12",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -3913,8 +3913,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "completed",
-      "lastSeen": "2026-11-11",
-      "asOf": "2026-11-11",
+      "lastSeen": "2026-11-12",
+      "asOf": "2026-11-12",
       "stale": false,
       "teams": [
         {
@@ -4950,8 +4950,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "completed",
-      "lastSeen": "2026-11-11",
-      "asOf": "2026-11-11",
+      "lastSeen": "2026-11-12",
+      "asOf": "2026-11-12",
       "stale": false,
       "teams": [
         {
