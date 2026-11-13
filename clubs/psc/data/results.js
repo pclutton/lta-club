@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-12T19:41:58.920Z",
+  "generatedAt": "2026-11-13T01:43:45.424Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -20,19 +20,19 @@ window.__RESULTS__ = {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-11-12"
+        "asOf": "2026-11-13"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-11-12"
+        "asOf": "2026-11-13"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-11-12"
+        "asOf": "2026-11-13"
       },
       {
         "id": "knockouts",
@@ -59,8 +59,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-12",
-      "asOf": "2026-11-12",
+      "lastSeen": "2026-11-13",
+      "asOf": "2026-11-13",
       "stale": false,
       "teams": [
         {
@@ -426,8 +426,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-11-12",
-      "asOf": "2026-11-12",
+      "lastSeen": "2026-11-13",
+      "asOf": "2026-11-13",
       "stale": false,
       "teams": [
         {
@@ -1247,8 +1247,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-12",
-      "asOf": "2026-11-12",
+      "lastSeen": "2026-11-13",
+      "asOf": "2026-11-13",
       "stale": false,
       "teams": [
         {
@@ -1634,6 +1634,20 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "South Hampstead Tennis Club 1",
+              "played": 3,
+              "won": 2,
+              "drawn": 1,
+              "lost": 0,
+              "rubbers": "38-10",
+              "points": 38,
+              "form": [
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "Mercury LTC 1",
               "played": 3,
               "won": 2,
@@ -1645,19 +1659,6 @@ window.__RESULTS__ = {
                 "W",
                 "W",
                 "L"
-              ]
-            },
-            {
-              "rank": 3,
-              "name": "South Hampstead Tennis Club 1",
-              "played": 2,
-              "won": 1,
-              "drawn": 1,
-              "lost": 0,
-              "rubbers": "22-10",
-              "points": 22,
-              "form": [
-                "W"
               ]
             },
             {
@@ -1690,13 +1691,14 @@ window.__RESULTS__ = {
             {
               "rank": 6,
               "name": "Paddington Sports Club 3",
-              "played": 2,
+              "played": 3,
               "won": 0,
               "drawn": 0,
-              "lost": 2,
-              "rubbers": "9-23",
+              "lost": 3,
+              "rubbers": "9-39",
               "points": 9,
               "form": [
+                "L",
                 "L",
                 "L"
               ]
@@ -1797,8 +1799,8 @@ window.__RESULTS__ = {
             {
               "home": "South Hampstead Tennis Club 1",
               "away": "Paddington Sports Club 3",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 0,
               "date": "Thu 12/11/2026"
             },
             {
@@ -1976,11 +1978,12 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/14",
           "position": 6,
           "of": 8,
-          "played": 2,
+          "played": 3,
           "won": 0,
-          "lost": 2,
+          "lost": 3,
           "points": 9,
           "form": [
+            "L",
             "L",
             "L"
           ],
@@ -2002,6 +2005,20 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
+              "name": "South Hampstead Tennis Club 1",
+              "played": 3,
+              "won": 2,
+              "drawn": 1,
+              "lost": 0,
+              "rubbers": "38-10",
+              "points": 38,
+              "form": [
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 3,
               "name": "Mercury LTC 1",
               "played": 3,
               "won": 2,
@@ -2013,19 +2030,6 @@ window.__RESULTS__ = {
                 "W",
                 "W",
                 "L"
-              ]
-            },
-            {
-              "rank": 3,
-              "name": "South Hampstead Tennis Club 1",
-              "played": 2,
-              "won": 1,
-              "drawn": 1,
-              "lost": 0,
-              "rubbers": "22-10",
-              "points": 22,
-              "form": [
-                "W"
               ]
             },
             {
@@ -2058,13 +2062,14 @@ window.__RESULTS__ = {
             {
               "rank": 6,
               "name": "Paddington Sports Club 3",
-              "played": 2,
+              "played": 3,
               "won": 0,
               "drawn": 0,
-              "lost": 2,
-              "rubbers": "9-23",
+              "lost": 3,
+              "rubbers": "9-39",
               "points": 9,
               "form": [
+                "L",
                 "L",
                 "L"
               ]
@@ -2165,8 +2170,8 @@ window.__RESULTS__ = {
             {
               "home": "South Hampstead Tennis Club 1",
               "away": "Paddington Sports Club 3",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 0,
               "date": "Thu 12/11/2026"
             },
             {
