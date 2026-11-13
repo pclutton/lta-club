@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-13T14:24:31.822Z",
+  "generatedAt": "2026-11-13T19:23:57.866Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "matches": 554,
-      "players": 47,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
@@ -1256,7 +1256,7 @@ window.__RESULTS__ = {
           "division": "Division 1 North East",
           "pscName": "Paddington Sports Club 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/3",
-          "position": 7,
+          "position": 8,
           "of": 8,
           "played": 1,
           "won": 0,
@@ -1283,13 +1283,14 @@ window.__RESULTS__ = {
             {
               "rank": 2,
               "name": "Elmwood Lawn Tennis Club 1",
-              "played": 2,
-              "won": 1,
+              "played": 3,
+              "won": 2,
               "drawn": 1,
               "lost": 0,
-              "rubbers": "20-12",
-              "points": 20,
+              "rubbers": "32-16",
+              "points": 32,
               "form": [
+                "W",
                 "W"
               ]
             },
@@ -1349,6 +1350,21 @@ window.__RESULTS__ = {
             },
             {
               "rank": 7,
+              "name": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "played": 3,
+              "won": 0,
+              "drawn": 0,
+              "lost": 3,
+              "rubbers": "10-38",
+              "points": 10,
+              "form": [
+                "L",
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 8,
               "name": "Paddington Sports Club 1",
               "played": 1,
               "won": 0,
@@ -1357,20 +1373,6 @@ window.__RESULTS__ = {
               "rubbers": "6-10",
               "points": 6,
               "form": [
-                "L"
-              ]
-            },
-            {
-              "rank": 8,
-              "name": "Oakleigh Park Lawn Tennis & Squash Club 1",
-              "played": 2,
-              "won": 0,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "6-26",
-              "points": 6,
-              "form": [
-                "L",
                 "L"
               ]
             }
@@ -1442,8 +1444,8 @@ window.__RESULTS__ = {
             {
               "home": "Elmwood Lawn Tennis Club 1",
               "away": "Oakleigh Park Lawn Tennis & Squash Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 4,
               "date": "Wed 11/11/2026"
             },
             {
