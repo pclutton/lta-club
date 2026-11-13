@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-13T01:43:45.424Z",
+  "generatedAt": "2026-11-13T14:24:31.822Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 554,
+      "players": 47,
+      "stale": 0
     },
     "competitions": [
       {
@@ -38,19 +38,19 @@ window.__RESULTS__ = {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-11-12"
+        "asOf": "2026-11-13"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-11-12"
+        "asOf": "2026-11-13"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-11-12"
+        "asOf": "2026-11-13"
       }
     ]
   },
@@ -2313,7 +2313,7 @@ window.__RESULTS__ = {
             {
               "name": "Jacky Yu",
               "won": 1,
-              "lost": 3,
+              "lost": 5,
               "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1316"
             },
             {
@@ -2329,10 +2329,22 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1954"
             },
             {
+              "name": "Alexander Smith",
+              "won": 0,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2902"
+            },
+            {
               "name": "Farruh Shermatov",
               "won": 0,
               "lost": 2,
               "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1315"
+            },
+            {
+              "name": "Leszek Nowaczyk",
+              "won": 0,
+              "lost": 2,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2901"
             },
             {
               "name": "Patrick Ryan",
@@ -2343,7 +2355,7 @@ window.__RESULTS__ = {
             {
               "name": "Stephen Hobson",
               "won": 0,
-              "lost": 2,
+              "lost": 4,
               "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1318"
             }
           ]
@@ -3668,15 +3680,15 @@ window.__RESULTS__ = {
               "date": "Tue 13/10/2026"
             },
             {
-              "home": "Finchley Lawn Tennis Club 1",
-              "away": "Paddington Sports Club 1",
+              "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "away": "Totteridge Tennis Club 2",
               "hs": 6,
               "as": 10,
               "date": "Tue 20/10/2026"
             },
             {
-              "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
-              "away": "Totteridge Tennis Club 2",
+              "home": "Finchley Lawn Tennis Club 1",
+              "away": "Paddington Sports Club 1",
               "hs": 6,
               "as": 10,
               "date": "Tue 20/10/2026"
@@ -3710,13 +3722,6 @@ window.__RESULTS__ = {
               "date": "Mon 09/11/2026"
             },
             {
-              "home": "Paddington Sports Club 1",
-              "away": "Totteridge Tennis Club 1",
-              "hs": null,
-              "as": null,
-              "date": "Tue 10/11/2026"
-            },
-            {
               "home": "David Lloyd Club Finchley 1",
               "away": "Finchley Lawn Tennis Club 1",
               "hs": null,
@@ -3729,6 +3734,13 @@ window.__RESULTS__ = {
               "hs": null,
               "as": null,
               "date": "Mon 23/11/2026"
+            },
+            {
+              "home": "Paddington Sports Club 1",
+              "away": "Totteridge Tennis Club 1",
+              "hs": null,
+              "as": null,
+              "date": "Thu 26/11/2026"
             },
             {
               "home": "Finchley Lawn Tennis Club 1",
@@ -3868,8 +3880,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-11-12",
-      "asOf": "2026-11-12",
+      "lastSeen": "2026-11-13",
+      "asOf": "2026-11-13",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -3918,8 +3930,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "completed",
-      "lastSeen": "2026-11-12",
-      "asOf": "2026-11-12",
+      "lastSeen": "2026-11-13",
+      "asOf": "2026-11-13",
       "stale": false,
       "teams": [
         {
@@ -4955,8 +4967,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "completed",
-      "lastSeen": "2026-11-12",
-      "asOf": "2026-11-12",
+      "lastSeen": "2026-11-13",
+      "asOf": "2026-11-13",
       "stale": false,
       "teams": [
         {
@@ -8812,12 +8824,19 @@ window.__RESULTS__ = {
           "name": "Jacky Yu",
           "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1316",
           "won": 1,
-          "lost": 3,
-          "played": 4
+          "lost": 5,
+          "played": 6
         },
         {
           "name": "Aakash Vanchi Nath",
           "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2098",
+          "won": 0,
+          "lost": 2,
+          "played": 2
+        },
+        {
+          "name": "Alexander Smith",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2902",
           "won": 0,
           "lost": 2,
           "played": 2
@@ -8839,6 +8858,13 @@ window.__RESULTS__ = {
         {
           "name": "George Schwarzkopf",
           "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/651",
+          "won": 0,
+          "lost": 2,
+          "played": 2
+        },
+        {
+          "name": "Leszek Nowaczyk",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2901",
           "won": 0,
           "lost": 2,
           "played": 2
@@ -8886,13 +8912,6 @@ window.__RESULTS__ = {
           "played": 2
         },
         {
-          "name": "Stephen Hobson",
-          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1318",
-          "won": 0,
-          "lost": 2,
-          "played": 2
-        },
-        {
           "name": "Supriya Dadlani",
           "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1907",
           "won": 0,
@@ -8930,6 +8949,13 @@ window.__RESULTS__ = {
         {
           "name": "Shpresa Duro",
           "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/930",
+          "won": 0,
+          "lost": 4,
+          "played": 4
+        },
+        {
+          "name": "Stephen Hobson",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1318",
           "won": 0,
           "lost": 4,
           "played": 4
@@ -10043,12 +10069,19 @@ window.__RESULTS__ = {
       "name": "Jacky Yu",
       "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1316",
       "won": 1,
-      "lost": 3,
-      "played": 4
+      "lost": 5,
+      "played": 6
     },
     {
       "name": "Aakash Vanchi Nath",
       "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2098",
+      "won": 0,
+      "lost": 2,
+      "played": 2
+    },
+    {
+      "name": "Alexander Smith",
+      "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2902",
       "won": 0,
       "lost": 2,
       "played": 2
@@ -10070,6 +10103,13 @@ window.__RESULTS__ = {
     {
       "name": "George Schwarzkopf",
       "url": "https://competitions.lta.org.uk/league/676686eb-7d35-4816-9be5-ddec7913da16/player/651",
+      "won": 0,
+      "lost": 2,
+      "played": 2
+    },
+    {
+      "name": "Leszek Nowaczyk",
+      "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2901",
       "won": 0,
       "lost": 2,
       "played": 2
@@ -10117,13 +10157,6 @@ window.__RESULTS__ = {
       "played": 2
     },
     {
-      "name": "Stephen Hobson",
-      "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1318",
-      "won": 0,
-      "lost": 2,
-      "played": 2
-    },
-    {
       "name": "Supriya Dadlani",
       "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1907",
       "won": 0,
@@ -10161,6 +10194,13 @@ window.__RESULTS__ = {
     {
       "name": "Shpresa Duro",
       "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/930",
+      "won": 0,
+      "lost": 4,
+      "played": 4
+    },
+    {
+      "name": "Stephen Hobson",
+      "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1318",
       "won": 0,
       "lost": 4,
       "played": 4
