@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-14T13:20:37.440Z",
+  "generatedAt": "2026-11-14T17:47:43.167Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "matches": 554,
-      "players": 47,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
@@ -1296,6 +1296,20 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Finchley Lawn Tennis Club 1",
+              "played": 3,
+              "won": 1,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "24-24",
+              "points": 24,
+              "form": [
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "West Heath Lawn Tennis Club Limited 1",
               "played": 2,
               "won": 2,
@@ -1309,7 +1323,21 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
+              "name": "Brondesbury Sports Club 1",
+              "played": 3,
+              "won": 0,
+              "drawn": 1,
+              "lost": 2,
+              "rubbers": "19-29",
+              "points": 19,
+              "form": [
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 6,
               "name": "David Lloyd Club Finchley 1",
               "played": 2,
               "won": 1,
@@ -1319,32 +1347,6 @@ window.__RESULTS__ = {
               "points": 18,
               "form": [
                 "W",
-                "L"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "Brondesbury Sports Club 1",
-              "played": 2,
-              "won": 0,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "15-17",
-              "points": 15,
-              "form": [
-                "L"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "Finchley Lawn Tennis Club 1",
-              "played": 2,
-              "won": 0,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "12-20",
-              "points": 12,
-              "form": [
                 "L"
               ]
             },
@@ -1451,8 +1453,8 @@ window.__RESULTS__ = {
             {
               "home": "Finchley Lawn Tennis Club 1",
               "away": "Brondesbury Sports Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 4,
               "date": "Fri 13/11/2026"
             },
             {
