@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-15T13:49:05.305Z",
+  "generatedAt": "2026-11-15T18:38:54.547Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "matches": 554,
-      "players": 47,
-      "stale": 0
+      "refreshed": 12,
+      "failed": 0
     },
     "competitions": [
       {
@@ -435,18 +435,33 @@ window.__RESULTS__ = {
           "division": "Div 1",
           "pscName": "Paddington Sports Club 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/676686EB-7D35-4816-9BE5-DDEC7913DA16/draw/16",
-          "position": 5,
+          "position": 6,
           "of": 6,
-          "played": 1,
+          "played": 2,
           "won": 0,
-          "lost": 1,
+          "lost": 2,
           "points": 0,
           "form": [
+            "L",
             "L"
           ],
           "standings": [
             {
               "rank": 1,
+              "name": "The Queens Club Limited 1",
+              "played": 2,
+              "won": 2,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "24-0",
+              "points": 4,
+              "form": [
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Brentham Lawn Tennis Club 1",
               "played": 2,
               "won": 2,
@@ -456,19 +471,6 @@ window.__RESULTS__ = {
               "points": 4,
               "form": [
                 "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 2,
-              "name": "The Queens Club Limited 1",
-              "played": 1,
-              "won": 1,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "12-0",
-              "points": 2,
-              "form": [
                 "W"
               ]
             },
@@ -502,25 +504,26 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
-              "name": "Paddington Sports Club 1",
-              "played": 1,
-              "won": 0,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "0-12",
-              "points": 0,
-              "form": [
-                "L"
-              ]
-            },
-            {
-              "rank": 6,
               "name": "Uxbridge LTC 1",
               "played": 2,
               "won": 0,
               "drawn": 0,
               "lost": 2,
               "rubbers": "10-14",
+              "points": 0,
+              "form": [
+                "L",
+                "L"
+              ]
+            },
+            {
+              "rank": 6,
+              "name": "Paddington Sports Club 1",
+              "played": 2,
+              "won": 0,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "0-24",
               "points": 0,
               "form": [
                 "L",
@@ -567,8 +570,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 1",
               "away": "The Queens Club Limited 1",
-              "hs": null,
-              "as": null,
+              "hs": 0,
+              "as": 12,
               "date": "Sun 15/11/2026"
             },
             {
