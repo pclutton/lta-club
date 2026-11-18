@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-18T02:47:43.035Z",
+  "generatedAt": "2026-11-18T15:29:52.054Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 554,
+      "players": 52,
+      "stale": 0
     },
     "competitions": [
       {
@@ -38,19 +38,19 @@ window.__RESULTS__ = {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-11-17"
+        "asOf": "2026-11-18"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-11-17"
+        "asOf": "2026-11-18"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-11-17"
+        "asOf": "2026-11-18"
       }
     ]
   },
@@ -2456,6 +2456,20 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Wayfarers LTC 1",
+              "played": 3,
+              "won": 1,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "26-22",
+              "points": 26,
+              "form": [
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Harrow Lawn Tennis Club 1",
               "played": 3,
               "won": 1,
@@ -2469,7 +2483,21 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
+              "name": "Lowlands Club 1",
+              "played": 3,
+              "won": 1,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "22-26",
+              "points": 22,
+              "form": [
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 6,
               "name": "Harrow Lawn Tennis Club 2",
               "played": 3,
               "won": 1,
@@ -2480,34 +2508,6 @@ window.__RESULTS__ = {
               "form": [
                 "W",
                 "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "Wayfarers LTC 1",
-              "played": 2,
-              "won": 1,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "18-14",
-              "points": 18,
-              "form": [
-                "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "Lowlands Club 1",
-              "played": 2,
-              "won": 1,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "14-18",
-              "points": 14,
-              "form": [
-                "W",
                 "L"
               ]
             },
@@ -2623,8 +2623,8 @@ window.__RESULTS__ = {
             {
               "home": "Wayfarers LTC 1",
               "away": "Lowlands Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 8,
               "date": "Tue 17/11/2026"
             },
             {
@@ -2744,6 +2744,24 @@ window.__RESULTS__ = {
           "fixtures": [],
           "players": [
             {
+              "name": "Constance Pelet",
+              "won": 3,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2434"
+            },
+            {
+              "name": "Marta Chojnowska",
+              "won": 3,
+              "lost": 0,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2435"
+            },
+            {
+              "name": "Annika Chai",
+              "won": 3,
+              "lost": 1,
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/716"
+            },
+            {
               "name": "Anna Vershebeniuk",
               "won": 2,
               "lost": 0,
@@ -2768,22 +2786,10 @@ window.__RESULTS__ = {
               "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/1952"
             },
             {
-              "name": "Constance Pelet",
-              "won": 1,
+              "name": "Zara Danesh",
+              "won": 2,
               "lost": 0,
-              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2434"
-            },
-            {
-              "name": "Marta Chojnowska",
-              "won": 1,
-              "lost": 0,
-              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2435"
-            },
-            {
-              "name": "Annika Chai",
-              "won": 1,
-              "lost": 1,
-              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/716"
+              "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/722"
             },
             {
               "name": "Emma Wardle",
@@ -2841,6 +2847,20 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Wayfarers LTC 1",
+              "played": 3,
+              "won": 1,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "26-22",
+              "points": 26,
+              "form": [
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Harrow Lawn Tennis Club 1",
               "played": 3,
               "won": 1,
@@ -2854,7 +2874,21 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
+              "name": "Lowlands Club 1",
+              "played": 3,
+              "won": 1,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "22-26",
+              "points": 22,
+              "form": [
+                "W",
+                "L"
+              ]
+            },
+            {
+              "rank": 6,
               "name": "Harrow Lawn Tennis Club 2",
               "played": 3,
               "won": 1,
@@ -2865,34 +2899,6 @@ window.__RESULTS__ = {
               "form": [
                 "W",
                 "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "Wayfarers LTC 1",
-              "played": 2,
-              "won": 1,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "18-14",
-              "points": 18,
-              "form": [
-                "L",
-                "W"
-              ]
-            },
-            {
-              "rank": 6,
-              "name": "Lowlands Club 1",
-              "played": 2,
-              "won": 1,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "14-18",
-              "points": 14,
-              "form": [
-                "W",
                 "L"
               ]
             },
@@ -3008,8 +3014,8 @@ window.__RESULTS__ = {
             {
               "home": "Wayfarers LTC 1",
               "away": "Lowlands Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 8,
               "date": "Tue 17/11/2026"
             },
             {
@@ -3935,8 +3941,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-11-17",
-      "asOf": "2026-11-17",
+      "lastSeen": "2026-11-18",
+      "asOf": "2026-11-18",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -3985,8 +3991,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "completed",
-      "lastSeen": "2026-11-17",
-      "asOf": "2026-11-17",
+      "lastSeen": "2026-11-18",
+      "asOf": "2026-11-18",
       "stale": false,
       "teams": [
         {
@@ -5022,8 +5028,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "completed",
-      "lastSeen": "2026-11-17",
-      "asOf": "2026-11-17",
+      "lastSeen": "2026-11-18",
+      "asOf": "2026-11-18",
       "stale": false,
       "teams": [
         {
@@ -8701,6 +8707,34 @@ window.__RESULTS__ = {
           "played": 8
         },
         {
+          "name": "Zara Danesh",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/722",
+          "won": 4,
+          "lost": 6,
+          "played": 10
+        },
+        {
+          "name": "Constance Pelet",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2434",
+          "won": 3,
+          "lost": 0,
+          "played": 3
+        },
+        {
+          "name": "Marta Chojnowska",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2435",
+          "won": 3,
+          "lost": 2,
+          "played": 5
+        },
+        {
+          "name": "Annika Chai",
+          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/716",
+          "won": 3,
+          "lost": 3,
+          "played": 6
+        },
+        {
           "name": "Anna Vershebeniuk",
           "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2433",
           "won": 2,
@@ -8792,20 +8826,6 @@ window.__RESULTS__ = {
           "played": 6
         },
         {
-          "name": "Zara Danesh",
-          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/722",
-          "won": 2,
-          "lost": 6,
-          "played": 8
-        },
-        {
-          "name": "Constance Pelet",
-          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2434",
-          "won": 1,
-          "lost": 0,
-          "played": 1
-        },
-        {
           "name": "Emma Wardle",
           "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/719",
           "won": 1,
@@ -8846,20 +8866,6 @@ window.__RESULTS__ = {
           "won": 1,
           "lost": 1,
           "played": 2
-        },
-        {
-          "name": "Marta Chojnowska",
-          "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2435",
-          "won": 1,
-          "lost": 2,
-          "played": 3
-        },
-        {
-          "name": "Annika Chai",
-          "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/931",
-          "won": 1,
-          "lost": 3,
-          "played": 4
         },
         {
           "name": "Farruh Shermatov",
@@ -9981,6 +9987,34 @@ window.__RESULTS__ = {
       "played": 8
     },
     {
+      "name": "Zara Danesh",
+      "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/722",
+      "won": 4,
+      "lost": 6,
+      "played": 10
+    },
+    {
+      "name": "Constance Pelet",
+      "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2434",
+      "won": 3,
+      "lost": 0,
+      "played": 3
+    },
+    {
+      "name": "Marta Chojnowska",
+      "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2435",
+      "won": 3,
+      "lost": 2,
+      "played": 5
+    },
+    {
+      "name": "Annika Chai",
+      "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/716",
+      "won": 3,
+      "lost": 3,
+      "played": 6
+    },
+    {
       "name": "Anna Vershebeniuk",
       "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2433",
       "won": 2,
@@ -10072,20 +10106,6 @@ window.__RESULTS__ = {
       "played": 6
     },
     {
-      "name": "Zara Danesh",
-      "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/722",
-      "won": 2,
-      "lost": 6,
-      "played": 8
-    },
-    {
-      "name": "Constance Pelet",
-      "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2434",
-      "won": 1,
-      "lost": 0,
-      "played": 1
-    },
-    {
       "name": "Emma Wardle",
       "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/719",
       "won": 1,
@@ -10126,20 +10146,6 @@ window.__RESULTS__ = {
       "won": 1,
       "lost": 1,
       "played": 2
-    },
-    {
-      "name": "Marta Chojnowska",
-      "url": "https://competitions.lta.org.uk/league/b86e129e-9a10-4e98-9e83-71d5e607e375/player/2435",
-      "won": 1,
-      "lost": 2,
-      "played": 3
-    },
-    {
-      "name": "Annika Chai",
-      "url": "https://competitions.lta.org.uk/league/f06aa797-db87-4aae-8882-a5c720ee2874/player/931",
-      "won": 1,
-      "lost": 3,
-      "played": 4
     },
     {
       "name": "Farruh Shermatov",
