@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-17T20:38:36.474Z",
+  "generatedAt": "2026-11-18T02:47:43.035Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -20,19 +20,19 @@ window.__RESULTS__ = {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-11-17"
+        "asOf": "2026-11-18"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-11-17"
+        "asOf": "2026-11-18"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-11-17"
+        "asOf": "2026-11-18"
       },
       {
         "id": "knockouts",
@@ -59,8 +59,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-17",
-      "asOf": "2026-11-17",
+      "lastSeen": "2026-11-18",
+      "asOf": "2026-11-18",
       "stale": false,
       "teams": [
         {
@@ -426,8 +426,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-11-17",
-      "asOf": "2026-11-17",
+      "lastSeen": "2026-11-18",
+      "asOf": "2026-11-18",
       "stale": false,
       "teams": [
         {
@@ -846,18 +846,20 @@ window.__RESULTS__ = {
             },
             {
               "rank": 2,
-              "name": "Teddington Lawn Tennis Club 1",
-              "played": 0,
-              "won": 0,
+              "name": "The Parsons Green Club 1",
+              "played": 1,
+              "won": 1,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
+              "rubbers": "12-0",
+              "points": 2,
+              "form": [
+                "W"
+              ]
             },
             {
               "rank": 3,
-              "name": "Barnet Lawn Tennis Club 1",
+              "name": "West Middlesex Lawn Tennis Club Ltd 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -868,7 +870,7 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
-              "name": "The Parsons Green Club 1",
+              "name": "Teddington Lawn Tennis Club 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -879,14 +881,16 @@ window.__RESULTS__ = {
             },
             {
               "rank": 5,
-              "name": "West Middlesex Lawn Tennis Club Ltd 1",
-              "played": 0,
+              "name": "Barnet Lawn Tennis Club 1",
+              "played": 1,
               "won": 0,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
+              "lost": 1,
+              "rubbers": "0-12",
               "points": 0,
-              "form": []
+              "form": [
+                "L"
+              ]
             },
             {
               "rank": 6,
@@ -920,8 +924,8 @@ window.__RESULTS__ = {
             {
               "home": "Barnet Lawn Tennis Club 1",
               "away": "The Parsons Green Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 0,
+              "as": 12,
               "date": "Sat 14/11/2026"
             },
             {
@@ -1287,8 +1291,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-17",
-      "asOf": "2026-11-17",
+      "lastSeen": "2026-11-18",
+      "asOf": "2026-11-18",
       "stale": false,
       "teams": [
         {
@@ -2409,19 +2413,35 @@ window.__RESULTS__ = {
           "division": "Division 1 North West",
           "pscName": "Paddington Sports Club 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/8",
-          "position": 2,
+          "position": 1,
           "of": 8,
-          "played": 2,
-          "won": 2,
+          "played": 3,
+          "won": 3,
           "lost": 0,
-          "points": 29,
+          "points": 45,
           "form": [
+            "W",
             "W",
             "W"
           ],
           "standings": [
             {
               "rank": 1,
+              "name": "Paddington Sports Club 1",
+              "played": 3,
+              "won": 3,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "45-3",
+              "points": 45,
+              "form": [
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Pinner Lawn Tennis Club 1",
               "played": 3,
               "won": 2,
@@ -2429,20 +2449,6 @@ window.__RESULTS__ = {
               "lost": 0,
               "rubbers": "34-14",
               "points": 34,
-              "form": [
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 2,
-              "name": "Paddington Sports Club 1",
-              "played": 2,
-              "won": 2,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "29-3",
-              "points": 29,
               "form": [
                 "W",
                 "W"
@@ -2508,15 +2514,16 @@ window.__RESULTS__ = {
             {
               "rank": 7,
               "name": "Eastcote Lawn Tennis Club 1",
-              "played": 2,
+              "played": 3,
               "won": 1,
               "drawn": 0,
-              "lost": 1,
-              "rubbers": "13-19",
+              "lost": 2,
+              "rubbers": "13-35",
               "points": 13,
               "form": [
                 "L",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -2609,8 +2616,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 1",
               "away": "Eastcote Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 0,
               "date": "Tue 17/11/2026"
             },
             {
@@ -2805,6 +2812,21 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Paddington Sports Club 1",
+              "played": 3,
+              "won": 3,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "45-3",
+              "points": 45,
+              "form": [
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Pinner Lawn Tennis Club 1",
               "played": 3,
               "won": 2,
@@ -2812,20 +2834,6 @@ window.__RESULTS__ = {
               "lost": 0,
               "rubbers": "34-14",
               "points": 34,
-              "form": [
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 2,
-              "name": "Paddington Sports Club 1",
-              "played": 2,
-              "won": 2,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "29-3",
-              "points": 29,
               "form": [
                 "W",
                 "W"
@@ -2891,15 +2899,16 @@ window.__RESULTS__ = {
             {
               "rank": 7,
               "name": "Eastcote Lawn Tennis Club 1",
-              "played": 2,
+              "played": 3,
               "won": 1,
               "drawn": 0,
-              "lost": 1,
-              "rubbers": "13-19",
+              "lost": 2,
+              "rubbers": "13-35",
               "points": 13,
               "form": [
                 "L",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -2992,8 +3001,8 @@ window.__RESULTS__ = {
             {
               "home": "Paddington Sports Club 1",
               "away": "Eastcote Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 0,
               "date": "Tue 17/11/2026"
             },
             {
