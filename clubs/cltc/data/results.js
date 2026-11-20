@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-19T20:12:39.113Z",
+  "generatedAt": "2026-11-20T02:06:17.780Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -20,19 +20,19 @@ window.__RESULTS__ = {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-11-19"
+        "asOf": "2026-11-20"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-11-19"
+        "asOf": "2026-11-20"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-11-19"
+        "asOf": "2026-11-20"
       },
       {
         "id": "knockouts",
@@ -65,8 +65,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-19",
-      "asOf": "2026-11-19",
+      "lastSeen": "2026-11-20",
+      "asOf": "2026-11-20",
       "stale": false,
       "teams": [
         {
@@ -846,8 +846,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-11-19",
-      "asOf": "2026-11-19",
+      "lastSeen": "2026-11-20",
+      "asOf": "2026-11-20",
       "stale": false,
       "teams": [
         {
@@ -1190,8 +1190,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-19",
-      "asOf": "2026-11-19",
+      "lastSeen": "2026-11-20",
+      "asOf": "2026-11-20",
       "stale": false,
       "teams": [
         {
@@ -1569,12 +1569,12 @@ window.__RESULTS__ = {
           "division": "Division 1 North East",
           "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/7",
-          "position": 5,
+          "position": 4,
           "of": 8,
-          "played": 2,
+          "played": 3,
           "won": 1,
           "lost": 1,
-          "points": 14,
+          "points": 22,
           "form": [
             "L",
             "W"
@@ -1627,6 +1627,20 @@ window.__RESULTS__ = {
             },
             {
               "rank": 4,
+              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
+              "played": 3,
+              "won": 1,
+              "drawn": 1,
+              "lost": 1,
+              "rubbers": "22-26",
+              "points": 22,
+              "form": [
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 5,
               "name": "Oakleigh Park Lawn Tennis & Squash Club 1",
               "played": 2,
               "won": 1,
@@ -1640,21 +1654,20 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
-              "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "played": 2,
-              "won": 1,
-              "drawn": 0,
+              "rank": 6,
+              "name": "South Hampstead Tennis Club 1",
+              "played": 3,
+              "won": 0,
+              "drawn": 2,
               "lost": 1,
-              "rubbers": "14-18",
-              "points": 14,
+              "rubbers": "16-32",
+              "points": 16,
               "form": [
-                "L",
-                "W"
+                "L"
               ]
             },
             {
-              "rank": 6,
+              "rank": 7,
               "name": "West Heath Lawn Tennis Club Limited 1",
               "played": 2,
               "won": 0,
@@ -1667,7 +1680,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 7,
+              "rank": 8,
               "name": "David Lloyd Club Finchley 1",
               "played": 3,
               "won": 0,
@@ -1678,19 +1691,6 @@ window.__RESULTS__ = {
               "form": [
                 "L",
                 "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 8,
-              "name": "South Hampstead Tennis Club 1",
-              "played": 2,
-              "won": 0,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "8-24",
-              "points": 8,
-              "form": [
                 "L"
               ]
             }
@@ -1769,8 +1769,8 @@ window.__RESULTS__ = {
             {
               "home": "South Hampstead Tennis Club 1",
               "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "hs": null,
-              "as": null,
+              "hs": 8,
+              "as": 8,
               "date": "Thu 19/11/2026"
             },
             {

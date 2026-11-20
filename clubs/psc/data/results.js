@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-19T20:13:05.250Z",
+  "generatedAt": "2026-11-20T02:06:43.524Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -20,19 +20,19 @@ window.__RESULTS__ = {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-11-19"
+        "asOf": "2026-11-20"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-11-19"
+        "asOf": "2026-11-20"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-11-19"
+        "asOf": "2026-11-20"
       },
       {
         "id": "knockouts",
@@ -59,8 +59,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-19",
-      "asOf": "2026-11-19",
+      "lastSeen": "2026-11-20",
+      "asOf": "2026-11-20",
       "stale": false,
       "teams": [
         {
@@ -426,8 +426,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-11-19",
-      "asOf": "2026-11-19",
+      "lastSeen": "2026-11-20",
+      "asOf": "2026-11-20",
       "stale": false,
       "teams": [
         {
@@ -1291,8 +1291,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-19",
-      "asOf": "2026-11-19",
+      "lastSeen": "2026-11-20",
+      "asOf": "2026-11-20",
       "stale": false,
       "teams": [
         {
@@ -3650,18 +3650,34 @@ window.__RESULTS__ = {
             {
               "rank": 6,
               "name": "David Lloyd Club Finchley 1",
-              "played": 2,
+              "played": 3,
               "won": 1,
               "drawn": 1,
-              "lost": 0,
-              "rubbers": "18-14",
-              "points": 18,
+              "lost": 1,
+              "rubbers": "24-24",
+              "points": 24,
               "form": [
-                "W"
+                "W",
+                "L"
               ]
             },
             {
               "rank": 7,
+              "name": "Finchley Lawn Tennis Club 1",
+              "played": 3,
+              "won": 1,
+              "drawn": 0,
+              "lost": 2,
+              "rubbers": "16-32",
+              "points": 16,
+              "form": [
+                "L",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 8,
               "name": "Oakleigh Park Lawn Tennis & Squash Club 2",
               "played": 4,
               "won": 0,
@@ -3671,20 +3687,6 @@ window.__RESULTS__ = {
               "points": 16,
               "form": [
                 "L",
-                "L",
-                "L"
-              ]
-            },
-            {
-              "rank": 8,
-              "name": "Finchley Lawn Tennis Club 1",
-              "played": 2,
-              "won": 0,
-              "drawn": 0,
-              "lost": 2,
-              "rubbers": "6-26",
-              "points": 6,
-              "form": [
                 "L",
                 "L"
               ]
@@ -3785,8 +3787,8 @@ window.__RESULTS__ = {
             {
               "home": "David Lloyd Club Finchley 1",
               "away": "Finchley Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 6,
+              "as": 10,
               "date": "Thu 19/11/2026"
             },
             {
