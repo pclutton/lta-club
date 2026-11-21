@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-21T02:03:12.782Z",
+  "generatedAt": "2026-11-21T14:32:38.995Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 6,
       "teams": 24,
-      "refreshed": 12,
-      "failed": 0
+      "matches": 554,
+      "players": 52,
+      "stale": 0
     },
     "competitions": [
       {
@@ -38,19 +38,19 @@ window.__RESULTS__ = {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-11-20"
+        "asOf": "2026-11-21"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-11-20"
+        "asOf": "2026-11-21"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-11-20"
+        "asOf": "2026-11-21"
       }
     ]
   },
@@ -3202,6 +3202,21 @@ window.__RESULTS__ = {
           "standings": [
             {
               "rank": 1,
+              "name": "Park Sports - Lammas Park 1",
+              "played": 3,
+              "won": 3,
+              "drawn": 0,
+              "lost": 0,
+              "rubbers": "40-8",
+              "points": 40,
+              "form": [
+                "W",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 2,
               "name": "Twickenham Lawn Tennis Club 1",
               "played": 3,
               "won": 3,
@@ -3211,20 +3226,6 @@ window.__RESULTS__ = {
               "points": 36,
               "form": [
                 "W",
-                "W",
-                "W"
-              ]
-            },
-            {
-              "rank": 2,
-              "name": "Park Sports - Lammas Park 1",
-              "played": 2,
-              "won": 2,
-              "drawn": 0,
-              "lost": 0,
-              "rubbers": "24-8",
-              "points": 24,
-              "form": [
                 "W",
                 "W"
               ]
@@ -3303,13 +3304,14 @@ window.__RESULTS__ = {
             {
               "rank": 8,
               "name": "David Lloyd Club Hampton 1",
-              "played": 2,
+              "played": 3,
               "won": 0,
               "drawn": 0,
-              "lost": 2,
-              "rubbers": "6-26",
+              "lost": 3,
+              "rubbers": "6-42",
               "points": 6,
               "form": [
+                "L",
                 "L",
                 "L"
               ]
@@ -3396,8 +3398,8 @@ window.__RESULTS__ = {
             {
               "home": "Park Sports - Lammas Park 1",
               "away": "David Lloyd Club Hampton 1",
-              "hs": null,
-              "as": null,
+              "hs": 16,
+              "as": 0,
               "date": "Fri 20/11/2026"
             },
             {
@@ -3943,8 +3945,8 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-11-20",
-      "asOf": "2026-11-20",
+      "lastSeen": "2026-11-21",
+      "asOf": "2026-11-21",
       "stale": false,
       "teams": [],
       "knockouts": [
@@ -3993,8 +3995,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "completed",
-      "lastSeen": "2026-11-20",
-      "asOf": "2026-11-20",
+      "lastSeen": "2026-11-21",
+      "asOf": "2026-11-21",
       "stale": false,
       "teams": [
         {
@@ -5030,8 +5032,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "completed",
-      "lastSeen": "2026-11-20",
-      "asOf": "2026-11-20",
+      "lastSeen": "2026-11-21",
+      "asOf": "2026-11-21",
       "stale": false,
       "teams": [
         {
