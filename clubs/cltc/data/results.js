@@ -2,18 +2,18 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-21T14:29:40.929Z",
+  "generatedAt": "2026-11-21T18:52:18.075Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
+    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 7,
       "teams": 26,
-      "matches": 552,
-      "players": 30,
-      "stale": 0
+      "refreshed": 6,
+      "failed": 0
     },
     "competitions": [
       {
@@ -1201,11 +1201,12 @@ window.__RESULTS__ = {
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/14",
           "position": 7,
           "of": 8,
-          "played": 2,
+          "played": 3,
           "won": 0,
-          "lost": 2,
-          "points": 6,
+          "lost": 3,
+          "points": 8,
           "form": [
+            "L",
             "L",
             "L"
           ],
@@ -1241,6 +1242,21 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Temple Fortune Club 1",
+              "played": 3,
+              "won": 2,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "32-16",
+              "points": 32,
+              "form": [
+                "L",
+                "W",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Mercury LTC 1",
               "played": 3,
               "won": 2,
@@ -1255,7 +1271,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
               "name": "Paddington Sports Club 2",
               "played": 2,
               "won": 1,
@@ -1264,20 +1280,6 @@ window.__RESULTS__ = {
               "rubbers": "19-13",
               "points": 19,
               "form": [
-                "W"
-              ]
-            },
-            {
-              "rank": 5,
-              "name": "Temple Fortune Club 1",
-              "played": 2,
-              "won": 1,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "18-14",
-              "points": 18,
-              "form": [
-                "L",
                 "W"
               ]
             },
@@ -1299,13 +1301,14 @@ window.__RESULTS__ = {
             {
               "rank": 7,
               "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
-              "played": 2,
+              "played": 3,
               "won": 0,
               "drawn": 0,
-              "lost": 2,
-              "rubbers": "6-26",
-              "points": 6,
+              "lost": 3,
+              "rubbers": "8-40",
+              "points": 8,
               "form": [
+                "L",
                 "L",
                 "L"
               ]
@@ -1399,8 +1402,8 @@ window.__RESULTS__ = {
             {
               "home": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "away": "Temple Fortune Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 2,
+              "as": 14,
               "date": "Thu 19/11/2026"
             },
             {
