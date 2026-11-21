@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-21T18:52:18.075Z",
+  "generatedAt": "2026-11-21T23:43:47.901Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -527,25 +527,29 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
-              "name": "Windsor Lawn Tennis Club 1",
-              "played": 0,
-              "won": 0,
+              "name": "Harpenden LTC 1",
+              "played": 1,
+              "won": 1,
               "drawn": 0,
               "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
+              "rubbers": "3-1",
+              "points": 4,
+              "form": [
+                "W"
+              ]
             },
             {
               "rank": 4,
               "name": "Hazelwood Lawn Tennis & Squash Club 1",
-              "played": 0,
+              "played": 1,
               "won": 0,
               "drawn": 0,
-              "lost": 0,
-              "rubbers": "0-0",
-              "points": 0,
-              "form": []
+              "lost": 1,
+              "rubbers": "1-3",
+              "points": 1,
+              "form": [
+                "L"
+              ]
             },
             {
               "rank": 5,
@@ -560,7 +564,7 @@ window.__RESULTS__ = {
             },
             {
               "rank": 6,
-              "name": "St Albans Lawn Tennis Club 1",
+              "name": "Windsor Lawn Tennis Club 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -571,7 +575,7 @@ window.__RESULTS__ = {
             },
             {
               "rank": 7,
-              "name": "Harpenden LTC 1",
+              "name": "St Albans Lawn Tennis Club 1",
               "played": 0,
               "won": 0,
               "drawn": 0,
@@ -634,8 +638,8 @@ window.__RESULTS__ = {
             {
               "home": "Harpenden LTC 1",
               "away": "Hazelwood Lawn Tennis & Squash Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 3,
+              "as": 1,
               "date": "Sat 21/11/2026"
             },
             {
