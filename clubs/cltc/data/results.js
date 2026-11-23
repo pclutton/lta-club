@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-22T19:14:01.751Z",
+  "generatedAt": "2026-11-23T01:27:47.430Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -20,19 +20,19 @@ window.__RESULTS__ = {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-11-22"
+        "asOf": "2026-11-23"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-11-22"
+        "asOf": "2026-11-23"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-11-22"
+        "asOf": "2026-11-23"
       },
       {
         "id": "knockouts",
@@ -65,8 +65,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-22",
-      "asOf": "2026-11-22",
+      "lastSeen": "2026-11-23",
+      "asOf": "2026-11-23",
       "stale": false,
       "teams": [
         {
@@ -850,8 +850,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-11-22",
-      "asOf": "2026-11-22",
+      "lastSeen": "2026-11-23",
+      "asOf": "2026-11-23",
       "stale": false,
       "teams": [
         {
@@ -1194,8 +1194,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-22",
-      "asOf": "2026-11-22",
+      "lastSeen": "2026-11-23",
+      "asOf": "2026-11-23",
       "stale": false,
       "teams": [
         {

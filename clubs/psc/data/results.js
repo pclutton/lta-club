@@ -2,7 +2,7 @@ window.__RESULTS__ = {
   "clubName": "Paddington Sports Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-22T19:14:25.897Z",
+  "generatedAt": "2026-11-23T01:28:11.148Z",
   "sample": false,
   "health": {
     "ok": true,
@@ -20,19 +20,19 @@ window.__RESULTS__ = {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-11-22"
+        "asOf": "2026-11-23"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-11-22"
+        "asOf": "2026-11-23"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-11-22"
+        "asOf": "2026-11-23"
       },
       {
         "id": "knockouts",
@@ -59,8 +59,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-22",
-      "asOf": "2026-11-22",
+      "lastSeen": "2026-11-23",
+      "asOf": "2026-11-23",
       "stale": false,
       "teams": [
         {
@@ -430,8 +430,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-11-22",
-      "asOf": "2026-11-22",
+      "lastSeen": "2026-11-23",
+      "asOf": "2026-11-23",
       "stale": false,
       "teams": [
         {
@@ -1098,30 +1098,32 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
-              "name": "Highgate Cricket and Lawn Tennis Club 1",
-              "played": 2,
-              "won": 1,
+              "name": "Finsbury Park 1",
+              "played": 3,
+              "won": 2,
               "drawn": 0,
               "lost": 1,
-              "rubbers": "14-10",
-              "points": 2,
+              "rubbers": "24-12",
+              "points": 4,
               "form": [
                 "L",
+                "W",
                 "W"
               ]
             },
             {
               "rank": 4,
-              "name": "Finsbury Park 1",
-              "played": 2,
+              "name": "Highgate Cricket and Lawn Tennis Club 1",
+              "played": 3,
               "won": 1,
               "drawn": 0,
-              "lost": 1,
-              "rubbers": "12-12",
+              "lost": 2,
+              "rubbers": "14-22",
               "points": 2,
               "form": [
                 "L",
-                "W"
+                "W",
+                "L"
               ]
             },
             {
@@ -1199,15 +1201,15 @@ window.__RESULTS__ = {
             {
               "home": "Finsbury Park 1",
               "away": "Highgate Cricket and Lawn Tennis Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 12,
+              "as": 0,
               "date": "Sun 22/11/2026"
             },
             {
               "home": "West Middlesex Lawn Tennis Club Ltd 1",
               "away": "The Hurlingham Club 1",
-              "hs": null,
-              "as": null,
+              "hs": 10,
+              "as": 0,
               "date": "Sun 22/11/2026"
             },
             {
@@ -1295,8 +1297,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-22",
-      "asOf": "2026-11-22",
+      "lastSeen": "2026-11-23",
+      "asOf": "2026-11-23",
       "stale": false,
       "teams": [
         {
