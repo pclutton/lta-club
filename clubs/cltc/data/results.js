@@ -2,61 +2,61 @@ window.__RESULTS__ = {
   "clubName": "Cumberland Lawn Tennis Club",
   "season": "2026",
   "sourceUrl": "https://competitions.lta.org.uk/association/group/8D228B20-1C00-44D4-B592-3E7216CBDDBF",
-  "generatedAt": "2026-11-24T22:05:28.482Z",
+  "generatedAt": "2026-11-25T17:01:36.558Z",
   "sample": false,
   "health": {
     "ok": true,
     "degraded": false,
-    "mode": "results",
     "warnings": [],
     "totals": {
       "comps": 7,
       "teams": 26,
-      "refreshed": 6,
-      "failed": 0
+      "matches": 552,
+      "players": 33,
+      "stale": 0
     },
     "competitions": [
       {
         "id": "f06aa797",
         "name": "National Premier League 2026-27",
         "stale": false,
-        "asOf": "2026-11-24"
+        "asOf": "2026-11-25"
       },
       {
         "id": "676686eb",
         "name": "Middlesex Youth & National League - Winter 2026",
         "stale": false,
-        "asOf": "2026-11-24"
+        "asOf": "2026-11-25"
       },
       {
         "id": "b86e129e",
         "name": "Middlesex Floodlit League 2026-27",
         "stale": false,
-        "asOf": "2026-11-24"
+        "asOf": "2026-11-25"
       },
       {
         "id": "knockouts",
         "name": "Knockout Competitions",
         "stale": false,
-        "asOf": "2026-11-24"
+        "asOf": "2026-11-25"
       },
       {
         "id": "61ce80d5",
         "name": "Middlesex Youth & National League - Summer 2026",
         "stale": false,
-        "asOf": "2026-11-24"
+        "asOf": "2026-11-25"
       },
       {
         "id": "90416c0a",
         "name": "Middlesex Summer League 2026",
         "stale": false,
-        "asOf": "2026-11-24"
+        "asOf": "2026-11-25"
       },
       {
         "id": "3057a6b7",
         "name": "Seniors League 2026",
         "stale": false,
-        "asOf": "2026-11-24"
+        "asOf": "2026-11-25"
       }
     ]
   },
@@ -65,8 +65,8 @@ window.__RESULTS__ = {
       "id": "f06aa797",
       "name": "National Premier League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-24",
-      "asOf": "2026-11-24",
+      "lastSeen": "2026-11-25",
+      "asOf": "2026-11-25",
       "stale": false,
       "teams": [
         {
@@ -857,8 +857,8 @@ window.__RESULTS__ = {
       "id": "676686eb",
       "name": "Middlesex Youth & National League - Winter 2026",
       "status": "current",
-      "lastSeen": "2026-11-24",
-      "asOf": "2026-11-24",
+      "lastSeen": "2026-11-25",
+      "asOf": "2026-11-25",
       "stale": false,
       "teams": [
         {
@@ -1201,8 +1201,8 @@ window.__RESULTS__ = {
       "id": "b86e129e",
       "name": "Middlesex Floodlit League 2026-27",
       "status": "current",
-      "lastSeen": "2026-11-24",
-      "asOf": "2026-11-24",
+      "lastSeen": "2026-11-25",
+      "asOf": "2026-11-25",
       "stale": false,
       "teams": [
         {
@@ -1603,7 +1603,7 @@ window.__RESULTS__ = {
           "division": "Division 1 North East",
           "pscName": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
           "leagueUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/7",
-          "position": 4,
+          "position": 5,
           "of": 8,
           "played": 3,
           "won": 1,
@@ -1646,6 +1646,21 @@ window.__RESULTS__ = {
             },
             {
               "rank": 3,
+              "name": "Oakleigh Park Lawn Tennis & Squash Club 1",
+              "played": 3,
+              "won": 2,
+              "drawn": 0,
+              "lost": 1,
+              "rubbers": "30-18",
+              "points": 30,
+              "form": [
+                "W",
+                "L",
+                "W"
+              ]
+            },
+            {
+              "rank": 4,
               "name": "Brondesbury Sports Club 1",
               "played": 3,
               "won": 1,
@@ -1660,7 +1675,7 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 4,
+              "rank": 5,
               "name": "Cumberland Lawn Tennis Club & Hampstead Cricket 1",
               "played": 3,
               "won": 1,
@@ -1674,21 +1689,21 @@ window.__RESULTS__ = {
               ]
             },
             {
-              "rank": 5,
-              "name": "Oakleigh Park Lawn Tennis & Squash Club 1",
-              "played": 2,
-              "won": 1,
-              "drawn": 0,
-              "lost": 1,
-              "rubbers": "20-12",
-              "points": 20,
+              "rank": 6,
+              "name": "West Heath Lawn Tennis Club Limited 1",
+              "played": 3,
+              "won": 0,
+              "drawn": 1,
+              "lost": 2,
+              "rubbers": "16-32",
+              "points": 16,
               "form": [
-                "W",
+                "L",
                 "L"
               ]
             },
             {
-              "rank": 6,
+              "rank": 7,
               "name": "South Hampstead Tennis Club 1",
               "played": 3,
               "won": 0,
@@ -1696,19 +1711,6 @@ window.__RESULTS__ = {
               "lost": 1,
               "rubbers": "16-32",
               "points": 16,
-              "form": [
-                "L"
-              ]
-            },
-            {
-              "rank": 7,
-              "name": "West Heath Lawn Tennis Club Limited 1",
-              "played": 2,
-              "won": 0,
-              "drawn": 1,
-              "lost": 1,
-              "rubbers": "10-22",
-              "points": 10,
               "form": [
                 "L"
               ]
@@ -1810,8 +1812,8 @@ window.__RESULTS__ = {
             {
               "home": "Oakleigh Park Lawn Tennis & Squash Club 1",
               "away": "West Heath Lawn Tennis Club Limited 1",
-              "hs": null,
-              "as": null,
+              "hs": 10,
+              "as": 6,
               "date": "Thu 19/11/2026"
             },
             {
@@ -1992,20 +1994,22 @@ window.__RESULTS__ = {
       "id": "knockouts",
       "name": "Knockout Competitions",
       "status": "current",
-      "lastSeen": "2026-11-24",
-      "asOf": "2026-11-24",
+      "lastSeen": "2026-11-25",
+      "asOf": "2026-11-25",
       "stale": false,
       "teams": [],
       "knockouts": [
         {
           "name": "Middlesex Winter Cup 2026-27 — Womens Doubles Division 1",
           "link": "https://competitions.lta.org.uk/league/7609542A-AB09-463F-A5B9-8FD2F5975993/draw/5",
-          "last": null,
-          "next": {
+          "last": {
             "opponent": "Muswell Hill Methodist LTC 1",
-            "home": true,
+            "scoreFor": 9,
+            "scoreAgainst": 0,
+            "won": true,
             "date": "Sun 08/11/2026"
           },
+          "next": null,
           "live": true
         },
         {
@@ -2047,8 +2051,8 @@ window.__RESULTS__ = {
       "id": "61ce80d5",
       "name": "Middlesex Youth & National League - Summer 2026",
       "status": "completed",
-      "lastSeen": "2026-11-24",
-      "asOf": "2026-11-24",
+      "lastSeen": "2026-11-25",
+      "asOf": "2026-11-25",
       "stale": false,
       "teams": [
         {
@@ -4762,8 +4766,8 @@ window.__RESULTS__ = {
       "id": "90416c0a",
       "name": "Middlesex Summer League 2026",
       "status": "completed",
-      "lastSeen": "2026-11-24",
-      "asOf": "2026-11-24",
+      "lastSeen": "2026-11-25",
+      "asOf": "2026-11-25",
       "stale": false,
       "teams": [
         {
@@ -8845,8 +8849,8 @@ window.__RESULTS__ = {
       "id": "3057a6b7",
       "name": "Seniors League 2026",
       "status": "completed",
-      "lastSeen": "2026-11-24",
-      "asOf": "2026-11-24",
+      "lastSeen": "2026-11-25",
+      "asOf": "2026-11-25",
       "stale": false,
       "teams": [
         {
